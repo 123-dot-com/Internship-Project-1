@@ -1,0 +1,723 @@
+Unnamed: 0,Car Title,Car Model,Car Transmission,Car km,Car Owner,Car Fuel type,Car Registration,Car price per month,Car Price,Car Location,location
+0,2018 Datsun Go,T,Manual,"70,200 km",1st Owner,Petrol,TS-33,"8,485/month","4,34,000","Kompally, Hyderabad",Hyderabad
+1,2016 Hyundai Creta,SX PLUS 1.6 PETROL,Manual,"88,060 km",1st Owner,Petrol,TS-08,"15,303/month","8,04,000","Bachupally, Hyderabad",Hyderabad
+2,2016 Volkswagen Polo,COMFORTLINE 1.2L,Manual,"72,947 km",1st Owner,Petrol,TS-07,"9,384/month","4,80,000","Kompally, Hyderabad",Hyderabad
+3,2018 Honda Amaze,1.5L I-DTEC V CVT,Automatic,"97,208 km",1st Owner,Diesel,TS-08,"14,663/month","7,50,000","Kompally, Hyderabad",Hyderabad
+4,2018 Honda Amaze,1.2L I-VTEC V,Manual,"96,863 km",1st Owner,Petrol,TS-10,"12,062/month","6,17,000","Bachupally, Hyderabad",Hyderabad
+5,2012 Hyundai i10,MAGNA 1.2,Manual,"40,724 km",3rd Owner,Petrol,AP-28,"6,315/month","3,23,000","Kompally, Hyderabad",Hyderabad
+6,2016 Datsun Go Plus,T,Manual,"1,15,977 km",1st Owner,Petrol,TS-10,"5,279/month","2,70,000","Attapur, Hyderabad",Hyderabad
+7,2016 Renault Kwid,RXL,Manual,"1,01,471 km",2nd Owner,Petrol,TS-08,"5,063/month","2,59,000","Kompally, Hyderabad",Hyderabad
+8,2011 Hyundai i10,SPORTZ 1.2 AT,Automatic,"75,552 km",2nd Owner,Petrol,AP-11,"6,686/month","3,42,000","Kompally, Hyderabad",Hyderabad
+9,2018 Honda Amaze,1.5L I-DTEC S OPT,Manual,"31,980 km",1st Owner,Diesel,TS-09,"11,808/month","6,04,000","Bachupally, Hyderabad",Hyderabad
+10,2013 Hyundai i10,SPORTZ 1.2 AT,Automatic,"24,547 km",1st Owner,Petrol,AP-10,"7,527/month","3,85,000","Kompally, Hyderabad",Hyderabad
+11,2015 Maruti Swift Dzire,VXI,Manual,"67,037 km",1st Owner,Petrol,TS-15,"9,599/month","4,91,000","Bachupally, Hyderabad",Hyderabad
+12,2015 Honda Jazz,1.2L I-VTEC SV,Manual,"85,589 km",2nd Owner,Petrol,TS-13,"8,426/month","4,31,000","Bachupally, Hyderabad",Hyderabad
+13,2018 Maruti IGNIS,SIGMA 1.2,Manual,"1,03,763 km",1st Owner,Petrol,TS-15,"7,449/month","3,81,000","Kompally, Hyderabad",Hyderabad
+14,2021 Maruti Swift,VXI,Manual,"12,045 km",2nd Owner,Petrol,TS-29,"14,135/month","7,23,000","Kompally, Hyderabad",Hyderabad
+15,2020 Maruti Dzire,VXI,Manual,"88,118 km",1st Owner,Petrol,TS-10,"13,646/month","6,98,000","Kompally, Hyderabad",Hyderabad
+16,2019 MG HECTOR,SHARP 2.0 DIESEL,Manual,"56,923 km",1st Owner,Diesel,TS-07,"30,112/month","15,82,000","Kompally, Hyderabad",Hyderabad
+17,2018 Hyundai Grand i10,ASTA 1.2 KAPPA VTVT,Manual,"65,331 km",1st Owner,Petrol,TS-28,"10,264/month","5,25,000","Kompally, Hyderabad",Hyderabad
+18,2017 Maruti Ciaz,DELTA 1.4 AT PETROL,Automatic,"48,247 km",1st Owner,Petrol,TS-09,"13,978/month","7,15,000","Attapur, Hyderabad",Hyderabad
+19,2020 Hyundai VENUE,S 1.2,Manual,"12,586 km",1st Owner,Petrol,TS-08,"15,464/month","7,91,000","Kompally, Hyderabad",Hyderabad
+20,2018 Maruti Alto K10,VXI,Manual,"44,478 km",1st Owner,Petrol,TS-13,"6,960/month","3,56,000","Attapur, Hyderabad",Hyderabad
+21,2018 Honda WR-V,1.2L I-VTEC VX MT,Manual,"67,230 km",1st Owner,Petrol,TS-09,"13,509/month","6,91,000","Kompally, Hyderabad",Hyderabad
+22,2020 Mahindra Thar,LX D AT 4WD HT,Automatic,"62,741 km",1st Owner,Diesel,TS-02,"29,674/month","15,59,000","Kompally, Hyderabad",Hyderabad
+23,2019 Maruti Swift,VXI,Manual,"54,187 km",1st Owner,Petrol,TS-07,"11,496/month","5,88,000","Attapur, Hyderabad",Hyderabad
+24,2013 Honda City,1.5L I-VTEC V MT,Manual,"83,446 km",1st Owner,Petrol,AP-30,"10,596/month","5,42,000","Kompally, Hyderabad",Hyderabad
+25,2017 Maruti Ciaz,ZETA DIESEL 1.3,Manual,"1,02,515 km",1st Owner,Diesel,TS-09,"15,503/month","7,93,000","Kompally, Hyderabad",Hyderabad
+26,2015 Honda City,1.5L I-VTEC V MT,Manual,"69,791 km",1st Owner,Petrol,TS-09,"12,121/month","6,20,000","Attapur, Hyderabad",Hyderabad
+27,2018 Hyundai New Elantra,2.0 SX(O) AT PETROL,Automatic,"44,123 km",1st Owner,Petrol,TS-09,"23,850/month","12,53,000","Kompally, Hyderabad",Hyderabad
+28,2020 Hyundai GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT,Manual,"34,948 km",2nd Owner,Petrol,TS-08,"12,219/month","6,25,000","Kompally, Hyderabad",Hyderabad
+29,2015 Hyundai Eon,D-LITE+,Manual,"25,121 km",1st Owner,Petrol,TS-11,"5,494/month","2,81,000","Kompally, Hyderabad",Hyderabad
+30,2019 Renault Duster,RXS CVT,Automatic,"5,933 km",1st Owner,Petrol,TS-11,"15,893/month","8,35,000","Kompally, Hyderabad",Hyderabad
+31,2017 Renault Kwid,RXT 1.0,Manual,"29,011 km",1st Owner,Petrol,TS-10,"6,764/month","3,46,000","Kompally, Hyderabad",Hyderabad
+32,2021 MG HECTOR,SMART HYBRID 1.5 PETROL,Manual,"2,672 km",1st Owner,Petrol,TS-09,"30,093/month","15,81,000","Kompally, Hyderabad",Hyderabad
+33,2018 Honda WR-V,1.2 i-VTEC VX MT,Manual,"27,581 km",2nd Owner,Petrol,TS-36,"13,040/month","6,67,000","Bachupally, Hyderabad",Hyderabad
+34,2018 Volkswagen Polo,COMFORTLINE 1.0L MPI,Manual,"1,01,739 km",1st Owner,Petrol,TS-07,"9,912/month","5,07,000","Bachupally, Hyderabad",Hyderabad
+35,2016 Ford Ecosport,TITANIUM 1.5L DIESEL,Manual,"1,00,601 km",2nd Owner,Diesel,TS-12,"10,342/month","5,29,000","Attapur, Hyderabad",Hyderabad
+36,2016 Maruti Swift Dzire,VXI,Manual,"87,113 km",1st Owner,Petrol,TS-08,"10,225/month","5,23,000","Attapur, Hyderabad",Hyderabad
+37,2017 Hyundai Creta,1.6 SX PLUS PETROL,Manual,"46,813 km",1st Owner,Petrol,TS-09,"17,797/month","9,35,000","Attapur, Hyderabad",Hyderabad
+38,2012 Hyundai i10,ERA 1.1 LPG,Manual,"51,068 km",1st Owner,LPG,AP-11,"5,924/month","3,03,000","Kompally, Hyderabad",Hyderabad
+39,2014 Mahindra XUV500,W8 FWD,Manual,"96,302 km",1st Owner,Diesel,AP-28,"15,093/month","7,72,000","Kompally, Hyderabad",Hyderabad
+40,2021 Renault Kwid,RXE,Manual,"14,996 km",1st Owner,Petrol,TS-09,"7,801/month","3,99,000","Kompally, Hyderabad",Hyderabad
+41,2020 MG HECTOR,SHARP 1.5 DCT PETROL,Automatic,"54,951 km",1st Owner,Petrol,TS-09,"29,255/month","15,37,000","Bachupally, Hyderabad",Hyderabad
+42,2021 Toyota URBAN CRUISER,MID GRADE AT,Automatic,"34,750 km",1st Owner,Petrol,TS-12,"17,797/month","9,35,000","Kompally, Hyderabad",Hyderabad
+43,2020 Toyota YARIS,J CVT,Automatic,"20,004 km",1st Owner,Petrol,TS-07,"16,350/month","8,59,000","Kompally, Hyderabad",Hyderabad
+44,2019 Datsun Redi Go,A,Manual,"32,329 km",2nd Owner,Petrol,TS-08,"5,767/month","2,95,000","Bachupally, Hyderabad",Hyderabad
+45,2018 Volkswagen Ameo,TRENDLINE 1.0L,Manual,"61,953 km",2nd Owner,Petrol,TS-08,"10,401/month","5,32,000","Kompally, Hyderabad",Hyderabad
+46,2014 Maruti Swift Dzire,VXI,Manual,"61,819 km",1st Owner,Petrol,TS-08,"9,443/month","4,83,000","Bachupally, Hyderabad",Hyderabad
+47,2020 KIA SELTOS,HTX 1.5 PETROL,Manual,"42,372 km",1st Owner,Petrol,TS-08,"24,478/month","12,86,000","Kompally, Hyderabad",Hyderabad
+48,2017 Maruti Wagon R 1.0,VXI,Manual,"64,464 km",1st Owner,Petrol,TS-09,"7,957/month","4,07,000","Kompally, Hyderabad",Hyderabad
+49,2017 Ford Ecosport,TITANIUM 1.5L DIESEL,Manual,"88,695 km",1st Owner,Diesel,TS-09,"13,626/month","6,97,000","Kompally, Hyderabad",Hyderabad
+50,2013 Honda City,1.5L I-VTEC V MT,Manual,"89,205 km",2nd Owner,Petrol,AP-28,"10,303/month","5,27,000","Kompally, Hyderabad",Hyderabad
+51,2019 Maruti Baleno,DELTA PETROL 1.2,Manual,"63,840 km",2nd Owner,Petrol,TS-07,"12,825/month","6,56,000","Kompally, Hyderabad",Hyderabad
+52,2017 Hyundai Verna,1.6 SX (O) CRDI MT,Manual,"1,10,600 km",1st Owner,Diesel,TS-09,"16,274/month","8,55,000","Kompally, Hyderabad",Hyderabad
+53,2020 Renault TRIBER,RXT AMT,Automatic,"21,687 km",2nd Owner,Petrol,TS-10,"13,881/month","7,10,000","Bachupally, Hyderabad",Hyderabad
+54,2021 Nissan MAGNITE,XL TURBO,Manual,"30,580 km",1st Owner,Petrol,TS-15,"15,093/month","7,72,000","Kompally, Hyderabad",Hyderabad
+55,2018 Hyundai Verna,1.6 VTVT SX,Manual,"65,850 km",1st Owner,Petrol,TS-11,"16,350/month","8,59,000","Bachupally, Hyderabad",Hyderabad
+56,2011 Hyundai i10,SPORTZ 1.2 AT,Automatic,"61,609 km",2nd Owner,Petrol,AP-28,"6,530/month","3,34,000","Bachupally, Hyderabad",Hyderabad
+57,2016 Hyundai Eon,SPORTZ,Manual,"68,336 km",2nd Owner,Petrol,TS-07,"5,865/month","3,00,000","Kompally, Hyderabad",Hyderabad
+58,2012 Honda Brio,S MT,Manual,"95,178 km",2nd Owner,Petrol,AP-11,"5,435/month","2,78,000","Bachupally, Hyderabad",Hyderabad
+59,2016 Honda City,1.5L I-VTEC SV CVT,Automatic,"73,472 km",2nd Owner,Petrol,TS-09,"13,392/month","6,85,000","Attapur, Hyderabad",Hyderabad
+60,2015 Honda Amaze,1.5L I-DTEC S,Manual,"1,18,180 km",3rd Owner,Diesel,TS-07,"8,289/month","4,24,000","Attapur, Hyderabad",Hyderabad
+61,2018 Jeep Compass,LIMITED PLUS PETROL AT,Automatic,"42,064 km",1st Owner,Petrol,TS-07,"30,626/month","16,09,000","Kompally, Hyderabad",Hyderabad
+62,2021 Mahindra XUV 3OO,W8 1.2 PETROL,Manual,"48,096 km",1st Owner,Petrol,TS-10,"18,463/month","9,70,000","Attapur, Hyderabad",Hyderabad
+63,2018 Volkswagen Polo,COMFORTLINE 1.0 PETROL,Manual,"56,919 km",1st Owner,Petrol,TS-04,"12,043/month","6,16,000","Kompally, Hyderabad",Hyderabad
+64,2013 Honda Brio,V MT,Manual,"60,993 km",1st Owner,Petrol,AP-09,"6,882/month","3,52,000","Bachupally, Hyderabad",Hyderabad
+65,2018 Tata Tiago,XZ PETROL,Manual,"8,280 km",1st Owner,Petrol,TS-08,"10,440/month","5,34,000","Kompally, Hyderabad",Hyderabad
+66,2018 Hyundai Elite i20,ASTA 1.2 (O),Manual,"39,478 km",1st Owner,Petrol,TS-13,"13,626/month","6,97,000","Kompally, Hyderabad",Hyderabad
+67,2018 Hyundai Verna,1.4 EX PETROL,Manual,"95,933 km",1st Owner,Petrol,TS-04,"15,425/month","7,89,000","Bachupally, Hyderabad",Hyderabad
+68,2021 Nissan MAGNITE,XV PREMIUM DUAL TONE,Manual,"23,316 km",1st Owner,Petrol,TS-30,"15,475/month","8,13,000","Bachupally, Hyderabad",Hyderabad
+69,2018 Mahindra XUV500,W7,Manual,"90,388 km",1st Owner,Diesel,TS-08,"19,624/month","10,31,000","Kompally, Hyderabad",Hyderabad
+70,2015 Maruti Wagon R 1.0,VXI,Manual,"71,003 km",2nd Owner,Petrol,TS-15,"6,745/month","3,45,000","Kompally, Hyderabad",Hyderabad
+71,2016 Hyundai Creta,SX (O) 1.6 DIESEL,Manual,"1,19,781 km",1st Owner,Diesel,TS-13,"17,911/month","9,41,000","Kompally, Hyderabad",Hyderabad
+72,2021 Renault Kiger,RXZ MT,Manual,"37,121 km",1st Owner,Petrol,TS-08,"14,643/month","7,49,000","Kompally, Hyderabad",Hyderabad
+73,2017 Datsun Go,T,Manual,"85,298 km",1st Owner,Petrol,TS-08,"6,178/month","3,16,000","Kompally, Hyderabad",Hyderabad
+74,2015 Honda Amaze,1.2L I-VTEC S,Manual,"76,438 km",2nd Owner,Petrol,TS-16,"8,446/month","4,32,000","Kompally, Hyderabad",Hyderabad
+75,2020 Tata Tiago,XZ PLUS PETROL,Manual,"31,781 km",1st Owner,Petrol,TS-08,"11,183/month","5,72,000","Kompally, Hyderabad",Hyderabad
+76,2016 Maruti Baleno,SIGMA PETROL 1.2,Manual,"47,741 km",2nd Owner,Petrol,TS-12,"10,459/month","5,35,000","Kompally, Hyderabad",Hyderabad
+77,2020 Maruti Celerio,VXI (O) CNG,Manual,"49,984 km",1st Owner,CNG,TS-08,"11,378/month","5,82,000","Kompally, Hyderabad",Hyderabad
+78,2018 Hyundai Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,"42,399 km",2nd Owner,Petrol,TS-11,"9,189/month","4,70,000","Kompally, Hyderabad",Hyderabad
+79,2014 Maruti Ritz,ZXI,Manual,"75,773 km",2nd Owner,Petrol,TS-13,"7,273/month","3,72,000","Kompally, Hyderabad",Hyderabad
+80,2016 Maruti Ciaz,VXI+,Manual,"75,694 km",2nd Owner,Petrol,TS-09,"10,870/month","5,56,000","Attapur, Hyderabad",Hyderabad
+81,2014 Hyundai Elite i20,SPORTZ 1.4 CRDI,Manual,"47,303 km",1st Owner,Diesel,TS-09,"11,320/month","5,79,000","Kompally, Hyderabad",Hyderabad
+82,2012 Maruti Swift,VXI,Manual,"49,438 km",3rd Owner,Petrol,AP-11,"8,016/month","4,10,000","Attapur, Hyderabad",Hyderabad
+83,2017 Renault Kwid,RXT 1.0,Manual,"39,992 km",2nd Owner,Petrol,TS-08,"6,667/month","3,41,000","Kompally, Hyderabad",Hyderabad
+84,2015 Hyundai Eon,ERA +,Manual,"58,321 km",3rd Owner,Petrol,TS-10,"5,122/month","2,62,000","Kompally, Hyderabad",Hyderabad
+85,2019 Toyota Glanza,V CVT,Automatic,"39,014 km",1st Owner,Petrol,TS-08,"15,112/month","7,73,000","Kompally, Hyderabad",Hyderabad
+86,2018 Maruti Dzire,ZDI PLUS AMT,Automatic,"75,389 km",1st Owner,Diesel,TS-08,"15,303/month","8,04,000","Bachupally, Hyderabad",Hyderabad
+87,2020 Hyundai Elite i20,SPORTZ PLUS 1.2,Manual,"51,216 km",1st Owner,Petrol,TS-07,"14,936/month","7,64,000","Kompally, Hyderabad",Hyderabad
+88,2018 Renault Kwid,RXT 1.0,Manual,"84,020 km",1st Owner,Petrol,TS-07,"6,764/month","3,46,000","Bachupally, Hyderabad",Hyderabad
+89,2011 Maruti Wagon R 1.0,VXI,Manual,"1,06,094 km",1st Owner,Petrol,AP-07,"5,103/month","2,61,000","Attapur, Hyderabad",Hyderabad
+90,2016 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"32,907 km",1st Owner,Petrol,TS-07,"9,580/month","4,90,000","Attapur, Hyderabad",Hyderabad
+91,2011 Hyundai i10,MAGNA 1.2,Manual,"75,979 km",2nd Owner,Petrol,AP-07,"4,985/month","2,55,000","Attapur, Hyderabad",Hyderabad
+92,2018 Nissan Micra,XL (O) CVT,Automatic,"36,874 km",1st Owner,Petrol,TS-13,"11,202/month","5,73,000","Kompally, Hyderabad",Hyderabad
+93,2016 Honda Brio,S MT,Manual,"54,515 km",2nd Owner,Petrol,TS-10,"7,527/month","3,85,000","Attapur, Hyderabad",Hyderabad
+94,2018 Honda Amaze,1.2L I-VTEC S,Manual,"81,854 km",1st Owner,Petrol,TS-07,"12,258/month","6,27,000","Attapur, Hyderabad",Hyderabad
+95,2014 Honda Amaze,1.2L I-VTEC S,Manual,"52,597 km",2nd Owner,Petrol,TS-09,"8,074/month","4,13,000","Kompally, Hyderabad",Hyderabad
+96,2019 Volkswagen Ameo,COMFORTLINE 1.0L,Manual,"46,451 km",1st Owner,Petrol,TS-09,"11,320/month","5,79,000","Kompally, Hyderabad",Hyderabad
+97,2018 Maruti Ciaz,ALPHA  AT 1.5 SHVS PETROL,Automatic,"48,468 km",2nd Owner,Petrol,TS-12,"14,487/month","7,41,000","Kompally, Hyderabad",Hyderabad
+98,2013 Maruti Swift,VXI,Manual,"1,21,617 km",2nd Owner,Petrol,AP-09,"7,410/month","3,79,000","Kompally, Hyderabad",Hyderabad
+99,2011 Maruti Wagon R 1.0,VXI,Manual,"58,273 km",3rd Owner,Petrol,AP-29,"5,063/month","2,59,000","Bachupally, Hyderabad",Hyderabad
+100,2014 Hyundai i10,SPORTZ 1.1,Manual,"87,711 km",1st Owner,Petrol,TS-09,"6,569/month","3,36,000","Attapur, Hyderabad",Hyderabad
+101,2018 Jeep Compass,LIMITED 2.0 DIESEL,Manual,"1,22,168 km",2nd Owner,Diesel,TS-13,"26,362/month","13,85,000","Kompally, Hyderabad",Hyderabad
+102,2019 Volkswagen TIGUAN,COMFORTLINE TDI AT,Automatic,"52,993 km",1st Owner,Diesel,TS-10,"35,365/month","18,58,000","Bachupally, Hyderabad",Hyderabad
+103,2017 Skoda Rapid,AMBITION 1.5 TDI,Manual,"86,031 km",1st Owner,Diesel,TS-08,"14,193/month","7,26,000","Attapur, Hyderabad",Hyderabad
+104,2014 Renault Duster,85 PS RXL PLUS DIESEL,Manual,"1,01,430 km",1st Owner,Diesel,TS-07,"10,088/month","5,16,000","Attapur, Hyderabad",Hyderabad
+105,2016 Hyundai Elite i20,ASTA 1.2,Manual,"40,841 km",1st Owner,Petrol,TS-10,"12,629/month","6,46,000","Kompally, Hyderabad",Hyderabad
+106,2014 Maruti Wagon R 1.0,VXI,Manual,"45,852 km",2nd Owner,Petrol,TS-12,"6,393/month","3,27,000","Bachupally, Hyderabad",Hyderabad
+107,2018 Honda City,1.5L I-DTEC V,Manual,"75,410 km",1st Owner,Diesel,TS-32,"16,236/month","8,53,000","Kompally, Hyderabad",Hyderabad
+108,2021 Ford New Figo,TITANIUM 1.2 PETROL AT,Automatic,"16,579 km",1st Owner,Petrol,TS-09,"15,464/month","7,91,000","Attapur, Hyderabad",Hyderabad
+109,2022 Renault TRIBER,RXT AMT,Automatic,"29,302 km",1st Owner,Petrol,TS-07,"15,054/month","7,70,000","Kompally, Hyderabad",Hyderabad
+110,2020 Skoda Rapid,STYLE TSI,Manual,"53,802 km",2nd Owner,Petrol,TS-08,"18,977/month","9,97,000","Kompally, Hyderabad",Hyderabad
+111,2017 Datsun Redi Go,T (O),Manual,"65,094 km",2nd Owner,Petrol,TS-08,"5,552/month","2,84,000","Bachupally, Hyderabad",Hyderabad
+112,2021 Hyundai NEW I20 N LINE,N6 1.0 TURBO GDI IMT,Manual,"45,479 km",1st Owner,Petrol,TS-07,"17,892/month","9,40,000","Kompally, Hyderabad",Hyderabad
+113,2021 Mahindra MARAZZO,M2 8 STR,Manual,"19,661 km",1st Owner,Diesel,TS-08,"24,268/month","12,75,000","Kompally, Hyderabad",Hyderabad
+114,2013 Honda City,1.5L I-VTEC S MT,Manual,"1,05,746 km",3rd Owner,Petrol,AP-29,"8,387/month","4,29,000","Attapur, Hyderabad",Hyderabad
+115,2016 Honda City,1.5L I-VTEC SV,Manual,"53,326 km",2nd Owner,Petrol,TS-03,"12,395/month","6,34,000","Bachupally, Hyderabad",Hyderabad
+116,2020 Nissan MAGNITE,XV DUAL TONE,Manual,"30,094 km",1st Owner,Petrol,TS-08,"14,624/month","7,48,000","Kompally, Hyderabad",Hyderabad
+117,2013 Maruti Swift Dzire,VXI,Manual,"41,312 km",1st Owner,Petrol,AP-10,"8,661/month","4,43,000","Attapur, Hyderabad",Hyderabad
+118,2021 Tata ALTROZ,XT I-TURBO PETROL,Manual,"12,280 km",1st Owner,Petrol,TS-08,"14,545/month","7,44,000","Kompally, Hyderabad",Hyderabad
+119,2018 Renault Kwid,CLIMBER 1.0 AT,Automatic,"42,964 km",1st Owner,Petrol,TS-30,"8,798/month","4,50,000","Kompally, Hyderabad",Hyderabad
+120,2020 Maruti S Cross,ALPHA 1.5 SMART HYBRID,Manual,"26,852 km",1st Owner,Petrol,TS-07,"19,034/month","10,00,000","Kompally, Hyderabad",Hyderabad
+121,2020 Maruti S Cross,ALPHA 1.5 SMART HYBRID,Manual,"40,687 km",1st Owner,Petrol,TS-02,"18,596/month","9,77,000","Kompally, Hyderabad",Hyderabad
+122,2014 Honda City,1.5L I-VTEC SV CVT,Automatic,"62,015 km",2nd Owner,Petrol,AP-13,"11,124/month","5,69,000","Kompally, Hyderabad",Hyderabad
+123,2017 Maruti Alto K10,VXI,Manual,"86,555 km",1st Owner,Petrol,TS-15,"5,924/month","3,03,000","Kompally, Hyderabad",Hyderabad
+124,2021 Volkswagen Polo,HIGHLINE PLUS 1.0L TSI AT,Automatic,"55,053 km",1st Owner,Petrol,TS-08,"17,968/month","9,44,000","Kompally, Hyderabad",Hyderabad
+125,2016 Maruti Swift Dzire,VXI,Manual,"1,21,831 km",1st Owner,Petrol,TS-05,"10,616/month","5,43,000","Kompally, Hyderabad",Hyderabad
+126,2015 Hyundai Elite i20,SPORTZ 1.2,Manual,"1,01,887 km",2nd Owner,Petrol,TS-15,"10,088/month","5,16,000","Kompally, Hyderabad",Hyderabad
+127,2017 Maruti Alto 800,LXI,Manual,"21,247 km",1st Owner,Petrol,TS-15,"5,709/month","2,92,000","Kompally, Hyderabad",Hyderabad
+128,2021 Tata Harrier,XZ +,Manual,"70,076 km",1st Owner,Diesel,TS-08,"33,976/month","17,85,000","Kompally, Hyderabad",Hyderabad
+129,2019 Hyundai Elite i20,ASTA (O) CVT,Automatic,"26,416 km",2nd Owner,Petrol,TS-07,"15,341/month","8,06,000","Attapur, Hyderabad",Hyderabad
+130,2016 Skoda Rapid,STYLE 1.5 TDI,Manual,"1,00,615 km",1st Owner,Diesel,TS-07,"14,956/month","7,65,000","Attapur, Hyderabad",Hyderabad
+131,2019 Toyota Glanza,V,Manual,"35,540 km",2nd Owner,Petrol,TS-11,"14,291/month","7,31,000","Kompally, Hyderabad",Hyderabad
+132,2021 Tata Tiago,XT (O) PETROL,Manual,"43,668 km",1st Owner,Petrol,TS-07,"11,085/month","5,67,000","Kompally, Hyderabad",Hyderabad
+133,2022 Skoda SLAVIA,STYLE 1.0L TSI MT,Manual,"43,840 km",1st Owner,Petrol,TS-07,"27,257/month","14,32,000","Bachupally, Hyderabad",Hyderabad
+134,2013 Hyundai i20,MAGNA 1.2,Manual,"54,222 km",2nd Owner,Petrol,AP-28,"8,172/month","4,18,000","Kompally, Hyderabad",Hyderabad
+135,2020 KIA SELTOS,GTX PLUS DCT 1.4 PETROL,Automatic,"63,008 km",1st Owner,Petrol,TS-09,"31,787/month","16,70,000","Kompally, Hyderabad",Hyderabad
+136,2018 Hyundai Eon,SPORTZ,Manual,"81,319 km",1st Owner,Petrol,TS-07,"6,549/month","3,35,000","Attapur, Hyderabad",Hyderabad
+137,2021 Skoda Rapid,STYLE AT TSI,Automatic,"28,306 km",1st Owner,Petrol,TS-08,"22,156/month","11,64,000","Kompally, Hyderabad",Hyderabad
+138,2015 Hyundai i10,SPORTZ 1.1,Manual,"93,593 km",1st Owner,Petrol,TS-07,"7,214/month","3,69,000","Kompally, Hyderabad",Hyderabad
+139,2017 Maruti Baleno,ALPHA PETROL 1.2,Manual,"55,973 km",1st Owner,Petrol,TS-07,"12,923/month","6,61,000","Kompally, Hyderabad",Hyderabad
+140,2019 Datsun Go Plus,T,Manual,"62,674 km",3rd Owner,Petrol,TS-07,"8,504/month","4,35,000","Bachupally, Hyderabad",Hyderabad
+141,2018 Ford FREESTYLE,TITANIUM 1.5 DIESEL,Manual,"1,12,941 km",1st Owner,Diesel,TS-07,"10,479/month","5,36,000","Bachupally, Hyderabad",Hyderabad
+142,2020 Maruti Swift,VXI,Manual,"49,158 km",1st Owner,Petrol,TS-13,"12,688/month","6,49,000","Attapur, Hyderabad",Hyderabad
+143,2016 Maruti Celerio,ZXI AMT,Automatic,"18,732 km",1st Owner,Petrol,TS-11,"9,931/month","5,08,000","Bachupally, Hyderabad",Hyderabad
+144,2012 Maruti Swift Dzire,ZXI,Manual,"44,784 km",3rd Owner,Petrol,AP-09,"8,583/month","4,39,000","Attapur, Hyderabad",Hyderabad
+145,2021 Hyundai GRAND I10 NIOS,SPORTZ AMT 1.2 KAPPA VTVT,Automatic,"35,060 km",1st Owner,Petrol,TS-08,"14,369/month","7,35,000","Attapur, Hyderabad",Hyderabad
+146,2019 Maruti Baleno,ZETA PETROL 1.2,Manual,"49,124 km",2nd Owner,Petrol,TS-07,"13,548/month","6,93,000","Bachupally, Hyderabad",Hyderabad
+147,2018 Hyundai i20 Active,1.2 SX DUAL TONE,Manual,"71,817 km",1st Owner,Petrol,TS-08,"13,842/month","7,08,000","Attapur, Hyderabad",Hyderabad
+148,2018 Skoda Rapid,STYLE 1.6 MPI,Manual,"68,756 km",1st Owner,Petrol,TS-08,"15,341/month","8,06,000","Bachupally, Hyderabad",Hyderabad
+149,2018 Hyundai Creta,SX PLUS 1.6 PETROL,Manual,"96,620 km",1st Owner,Petrol,TS-08,"18,863/month","9,91,000","Bachupally, Hyderabad",Hyderabad
+150,2022 Renault Kwid,RXT 1.0,Manual,"11,689 km",1st Owner,Petrol,TS-04,"10,772/month","5,51,000","Bachupally, Hyderabad",Hyderabad
+151,2018 Toyota YARIS,J CVT,Automatic,"92,585 km",1st Owner,Petrol,TS-07,"15,034/month","7,69,000","Kompally, Hyderabad",Hyderabad
+152,2019 Hyundai Verna,1.6 CRDI SX + AT,Automatic,"67,370 km",2nd Owner,Diesel,TS-13,"20,062/month","10,54,000","Kompally, Hyderabad",Hyderabad
+153,2022 Nissan MAGNITE,XV TURBO CVT,Automatic,"12,094 km",1st Owner,Petrol,TS-15,"18,101/month","9,51,000","Bachupally, Hyderabad",Hyderabad
+154,2020 Maruti Baleno,ZETA 1.2 K12,Manual,"39,752 km",2nd Owner,Petrol,TS-08,"14,135/month","7,23,000","Bachupally, Hyderabad",Hyderabad
+155,2012 Hyundai i10,MAGNA 1.2,Manual,"57,785 km",1st Owner,Petrol,AP-10,"6,080/month","3,11,000","Attapur, Hyderabad",Hyderabad
+156,2016 Volkswagen Ameo,HIGHLINE1.2L,Manual,"97,921 km",1st Owner,Petrol,TS-08,"10,342/month","5,29,000","Bachupally, Hyderabad",Hyderabad
+157,2018 Hyundai New Elantra,1.6 SX (O) AT DIESEL,Automatic,"81,405 km",1st Owner,Diesel,TS-07,"24,002/month","12,61,000","Kompally, Hyderabad",Hyderabad
+158,2020 Hyundai VENUE,SX 1.0 TURBO,Manual,"50,646 km",1st Owner,Petrol,TS-08,"17,321/month","9,10,000","Bachupally, Hyderabad",Hyderabad
+159,2018 Tata Tiago,XZ PETROL,Manual,"93,407 km",2nd Owner,Petrol,TS-23,"9,267/month","4,74,000","Kompally, Hyderabad",Hyderabad
+160,2021 Hyundai ALCAZAR,1.5 SIGNATURE MT 6STR,Manual,"30,111 km",1st Owner,Diesel,TS-07,"34,604/month","18,18,000","Kompally, Hyderabad",Hyderabad
+161,2017 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"44,390 km",1st Owner,Petrol,TS-07,"10,186/month","5,21,000","Kompally, Hyderabad",Hyderabad
+162,2019 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"55,812 km",1st Owner,Petrol,TS-07,"10,107/month","5,17,000","Kompally, Hyderabad",Hyderabad
+163,2017 Datsun Redi Go,S,Manual,"32,419 km",1st Owner,Petrol,TS-09,"5,885/month","3,01,000","Kompally, Hyderabad",Hyderabad
+164,2017 Maruti Vitara Brezza,ZDI PLUS,Manual,"1,21,129 km",2nd Owner,Diesel,TS-07,"15,246/month","8,01,000","Kompally, Hyderabad",Hyderabad
+165,2015 Maruti Swift Dzire,VDI,Manual,"89,997 km",2nd Owner,Diesel,TS-07,"12,297/month","6,29,000","Kompally, Hyderabad",Hyderabad
+166,2018 Hyundai Elite i20,ASTA 1.2 (O),Manual,"91,609 km",2nd Owner,Petrol,TS-07,"13,881/month","7,10,000","Attapur, Hyderabad",Hyderabad
+167,2013 Hyundai i10,SPORTZ 1.2,Manual,"1,11,198 km",1st Owner,Petrol,AP-36,"6,393/month","3,27,000","Kompally, Hyderabad",Hyderabad
+168,2021 Hyundai NEW I20,SPORTZ 1.5 MT,Manual,"97,621 km",1st Owner,Diesel,TS-01,"15,760/month","8,28,000","Bachupally, Hyderabad",Hyderabad
+169,2017 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"39,595 km",1st Owner,Petrol,TS-07,"10,107/month","5,17,000","Kompally, Hyderabad",Hyderabad
+170,2019 Tata Tiago,XZ PLUS DUAL TONE DIESEL,Manual,"51,729 km",2nd Owner,Diesel,TS-10,"11,251/month","5,75,500","Kompally, Hyderabad",Hyderabad
+171,2018 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"40,235 km",2nd Owner,Petrol,TS-07,"9,931/month","5,08,000","Kompally, Hyderabad",Hyderabad
+172,2018 Toyota YARIS,G CVT,Automatic,"68,950 km",2nd Owner,Petrol,TS-07,"14,330/month","7,33,000","Kompally, Hyderabad",Hyderabad
+173,2019 Maruti Baleno,ALPHA CVT PETROL 1.2,Automatic,"31,283 km",1st Owner,Petrol,TS-10,"14,995/month","7,67,000","Kompally, Hyderabad",Hyderabad
+174,2013 Hyundai i20,MAGNA 1.2,Manual,"35,740 km",2nd Owner,Petrol,AP-12,"8,446/month","4,32,000","Attapur, Hyderabad",Hyderabad
+175,2018 Hyundai Elite i20,SPORTZ 1.2,Manual,"55,943 km",1st Owner,Petrol,TS-07,"13,235/month","6,77,000","Kompally, Hyderabad",Hyderabad
+176,2017 Maruti Baleno,ZETA PETROL 1.2,Manual,"57,192 km",2nd Owner,Petrol,TS-09,"12,180/month","6,23,000","Kompally, Hyderabad",Hyderabad
+177,2018 Tata Tiago,XZ PETROL,Manual,"57,380 km",3rd Owner,Petrol,TS-08,"9,795/month","5,01,000","Bachupally, Hyderabad",Hyderabad
+178,2017 Maruti Baleno,DELTA PETROL 1.2,Manual,"71,974 km",1st Owner,Petrol,TS-08,"11,026/month","5,64,000","Kompally, Hyderabad",Hyderabad
+179,2013 Hyundai i10,SPORTZ 1.2,Manual,"94,975 km",2nd Owner,Petrol,AP-28,"5,976/month","3,05,700","Attapur, Hyderabad",Hyderabad
+180,2017 Hyundai Creta,SX PLUS AT 1.6 PETROL,Automatic,"44,545 km",2nd Owner,Petrol,TS-09,"19,262/month","10,12,000","Kompally, Hyderabad",Hyderabad
+181,2017 Hyundai Grand i10,MAGNA AT 1.2 KAPPA VTVT,Automatic,"56,558 km",1st Owner,Petrol,TS-15,"10,362/month","5,30,000","Bachupally, Hyderabad",Hyderabad
+182,2019 Hyundai GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT,Manual,"25,467 km",1st Owner,Petrol,TS-08,"12,160/month","6,22,000","Kompally, Hyderabad",Hyderabad
+183,2019 Honda City,ZX CVT,Automatic,"96,940 km",1st Owner,Petrol,AP-39,"17,664/month","9,28,000","Bachupally, Hyderabad",Hyderabad
+184,2019 Hyundai GRAND I10 NIOS,SPORTZ AMT 1.2 KAPPA VTVT,Automatic,"30,203 km",1st Owner,Petrol,TS-08,"12,649/month","6,47,000","Kompally, Hyderabad",Hyderabad
+185,2015 Honda Brio,VX MT,Manual,"82,956 km",2nd Owner,Petrol,TS-15,"6,979/month","3,57,000","Kompally, Hyderabad",Hyderabad
+186,2016 Maruti Alto 800,LXI,Manual,"91,603 km",2nd Owner,Petrol,TS-08,"5,415/month","2,77,000","Kompally, Hyderabad",Hyderabad
+187,2019 Maruti New Wagon-R,VXI 1.2,Manual,"79,510 km",1st Owner,Petrol,TS-07,"10,107/month","5,17,000","Kompally, Hyderabad",Hyderabad
+188,2021 Tata Tiago,XT PETROL,Manual,"16,115 km",1st Owner,Petrol,TS-29,"11,828/month","6,05,000","Bachupally, Hyderabad",Hyderabad
+189,2014 Hyundai Elite i20,ASTA 1.2,Manual,"63,457 km",2nd Owner,Petrol,TS-09,"10,889/month","5,57,000","Attapur, Hyderabad",Hyderabad
+190,2022 Renault Kwid,CLIMBER MT 1.0,Manual,"6,580 km",1st Owner,Petrol,TS-07,"11,007/month","5,63,000","Attapur, Hyderabad",Hyderabad
+191,2016 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"39,206 km",2nd Owner,Petrol,TS-07,"9,501/month","4,86,000","Bachupally, Hyderabad",Hyderabad
+192,2019 Hyundai Creta,SX 1.6 PETROL,Manual,"63,334 km",3rd Owner,Petrol,TS-04,"19,605/month","10,30,000","Kompally, Hyderabad",Hyderabad
+193,2013 Maruti Swift,VXI,Manual,"79,202 km",1st Owner,Petrol,AP-13,"8,035/month","4,11,000","Bachupally, Hyderabad",Hyderabad
+194,2019 Maruti Celerio,ZXI,Manual,"35,564 km",2nd Owner,Petrol,TS-07,"9,443/month","4,83,000","Bachupally, Hyderabad",Hyderabad
+195,2013 Hyundai Eon,MAGNA +,Manual,"91,568 km",1st Owner,Petrol,AP-13,"4,790/month","2,45,000","Attapur, Hyderabad",Hyderabad
+196,2015 Hyundai Elite i20,SPORTZ 1.2,Manual,"94,121 km",2nd Owner,Petrol,TS-08,"10,538/month","5,39,000","Attapur, Hyderabad",Hyderabad
+197,2021 Hyundai NEW I20,ASTA (O) 1.2 MT,Manual,"29,492 km",1st Owner,Petrol,TS-09,"18,273/month","9,60,000","Attapur, Hyderabad",Hyderabad
+198,2016 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"28,467 km",2nd Owner,Petrol,TS-07,"9,619/month","4,92,000","Kompally, Hyderabad",Hyderabad
+199,2013 Maruti Swift Dzire,VXI,Manual,"67,473 km",1st Owner,Petrol,AP-09,"8,837/month","4,52,000","Kompally, Hyderabad",Hyderabad
+200,2012 Honda Brio,V MT,Manual,"90,184 km",1st Owner,Petrol,AP-28,"6,217/month","3,18,000","Kompally, Hyderabad",Hyderabad
+201,2016 Maruti Wagon R Stingray,VXI,Manual,"87,908 km",1st Owner,Petrol,TS-13,"7,840/month","4,01,000","Attapur, Hyderabad",Hyderabad
+202,2018 Maruti Baleno,ALPHA PETROL 1.2,Manual,"52,716 km",2nd Owner,Petrol,TS-08,"12,473/month","6,38,000","Kompally, Hyderabad",Hyderabad
+203,2017 Hyundai Elite i20,SPORTZ 1.2,Manual,"55,563 km",2nd Owner,Petrol,TS-08,"12,121/month","6,20,000","Kompally, Hyderabad",Hyderabad
+204,2018 Mahindra TUV300,T10,Manual,"1,10,243 km",2nd Owner,Diesel,TS-08,"15,246/month","8,01,000","Bachupally, Hyderabad",Hyderabad
+205,2012 Hyundai i10,SPORTZ 1.2,Manual,"73,665 km",1st Owner,Petrol,AP-10,"5,885/month","3,01,000","Kompally, Hyderabad",Hyderabad
+206,2018 Honda Jazz,1.2L I-VTEC V CVT,Automatic,"61,710 km",1st Owner,Petrol,TS-07,"12,590/month","6,44,000","Kompally, Hyderabad",Hyderabad
+207,2013 Hyundai i10,MAGNA 1.2,Manual,"82,113 km",1st Owner,Petrol,AP-09,"6,471/month","3,31,000","Attapur, Hyderabad",Hyderabad
+208,2018 Hyundai Grand i10,SPORTZ (O) AT 1.2 KAPPA VTVT,Automatic,"8,345 km",1st Owner,Petrol,TS-07,"12,669/month","6,48,000","Kompally, Hyderabad",Hyderabad
+209,2021 Honda WR-V,1.2L I-VTEC SV MT,Manual,"70,226 km",1st Owner,Petrol,TS-07,"15,912/month","8,36,000","Attapur, Hyderabad",Hyderabad
+210,2016 Hyundai Elite i20,SPORTZ 1.2,Manual,"61,060 km",2nd Owner,Petrol,TS-08,"11,554/month","5,91,000","Attapur, Hyderabad",Hyderabad
+211,2010 Hyundai i10,SPORTZ 1.2,Manual,"83,462 km",2nd Owner,Petrol,AP-09,"5,298/month","2,71,000","Kompally, Hyderabad",Hyderabad
+212,2022 Maruti Celerio,VXI CNG,Manual,"1,457 km",1st Owner,CNG,TS-03,"13,939/month","7,13,000","Kompally, Hyderabad",Hyderabad
+213,2021 Tata ALTROZ,XZ PETROL,Manual,"26,893 km",1st Owner,Petrol,TS-08,"15,015/month","7,68,000","Bachupally, Hyderabad",Hyderabad
+214,2018 Tata Tiago,XZA PETROL,Automatic,"97,982 km",1st Owner,Petrol,TS-08,"10,088/month","5,16,000","Attapur, Hyderabad",Hyderabad
+215,2012 Honda Brio,S MT,Manual,"69,408 km",3rd Owner,Petrol,AP-09,"6,491/month","3,32,000","Kompally, Hyderabad",Hyderabad
+216,2020 Hyundai Verna,SX (O) 1.5 CRDI,Manual,"87,893 km",1st Owner,Diesel,TS-15,"25,144/month","13,21,000","Attapur, Hyderabad",Hyderabad
+217,2014 Hyundai Eon,D-LITE+,Manual,"64,538 km",2nd Owner,Petrol,AP-29,"5,063/month","2,59,000","Attapur, Hyderabad",Hyderabad
+218,2011 Hyundai i10,MAGNA 1.2,Manual,"66,899 km",1st Owner,Petrol,AP-28,"5,513/month","2,82,000","Kompally, Hyderabad",Hyderabad
+219,2019 Renault Kwid,1.0 RXT Opt,Manual,"37,465 km",1st Owner,Petrol,TS-28,"8,192/month","4,19,000","Attapur, Hyderabad",Hyderabad
+220,2021 Datsun Redi Go,T(O),Manual,"24,021 km",1st Owner,Petrol,TS-11,"9,267/month","4,74,000","Kompally, Hyderabad",Hyderabad
+221,2016 Hyundai Elite i20,SPORTZ 1.2,Manual,"89,224 km",2nd Owner,Petrol,TS-03,"10,968/month","5,61,000","Bachupally, Hyderabad",Hyderabad
+222,2019 Tata NEXON,XZA PLUS DIESEL DUAL TONE,Automatic,"46,034 km",1st Owner,Diesel,TS-07,"19,072/month","10,02,000","Bachupally, Hyderabad",Hyderabad
+223,2010 Maruti Wagon R 1.0,VXI,Manual,"67,046 km",2nd Owner,Petrol,AP-35,"5,318/month","2,72,000","Attapur, Hyderabad",Hyderabad
+224,2020 Honda Amaze,1.2L I-VTEC VX CVT,Automatic,"50,385 km",1st Owner,Petrol,TS-07,"15,112/month","7,73,000","Attapur, Hyderabad",Hyderabad
+225,2017 Hyundai Creta,1.6 CRDI SX PLUS AUTO,Automatic,"99,215 km",1st Owner,Diesel,TS-02,"21,299/month","11,19,000","Kompally, Hyderabad",Hyderabad
+226,2018 Ford Ecosport,TITANIUM 1.5L PETROL,Manual,"20,858 km",1st Owner,Petrol,TS-08,"15,779/month","8,29,000","Bachupally, Hyderabad",Hyderabad
+227,2020 Volkswagen Vento,HIGHLINE PLUS 1.0L TSI,Manual,"45,949 km",1st Owner,Petrol,TS-08,"20,271/month","10,65,000","Attapur, Hyderabad",Hyderabad
+228,2020 Toyota Glanza,G ISG,Manual,"80,643 km",1st Owner,Petrol,TS-07,"14,115/month","7,22,000","Attapur, Hyderabad",Hyderabad
+229,2014 Honda Brio,S MT,Manual,"64,736 km",1st Owner,Petrol,TS-10,"7,234/month","3,70,000","Kompally, Hyderabad",Hyderabad
+230,2014 Maruti Swift,VXI,Manual,"73,889 km",1st Owner,Petrol,TS-07,"9,013/month","4,61,000","Kompally, Hyderabad",Hyderabad
+231,2017 Hyundai Elite i20,ASTA 1.2 DUAL TONE,Manual,"72,793 km",2nd Owner,Petrol,TS-08,"12,043/month","6,16,000","Kompally, Hyderabad",Hyderabad
+232,2016 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"34,488 km",1st Owner,Petrol,TS-13,"9,423/month","4,82,000","Bachupally, Hyderabad",Hyderabad
+233,2013 Hyundai i10,SPORTZ 1.2,Manual,"70,282 km",2nd Owner,Petrol,AP-29,"6,119/month","3,13,000","Kompally, Hyderabad",Hyderabad
+234,2017 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"26,678 km",2nd Owner,Petrol,TS-13,"10,068/month","5,15,000","Kompally, Hyderabad",Hyderabad
+235,2021 Maruti Ciaz,ZETA 1.5 SHVS MT PETROL,Manual,"9,849 km",1st Owner,Petrol,TS-08,"16,883/month","8,87,000","Kompally, Hyderabad",Hyderabad
+236,2014 Maruti Celerio,ZXI,Manual,"1,07,913 km",2nd Owner,Petrol,AP-28,"6,588/month","3,37,000","Bachupally, Hyderabad",Hyderabad
+237,2017 Maruti Baleno,ZETA PETROL 1.2,Manual,"78,031 km",1st Owner,Petrol,TS-08,"12,864/month","6,58,000","Kompally, Hyderabad",Hyderabad
+238,2017 Hyundai Elite i20,SPORTZ 1.2,Manual,"56,416 km",1st Owner,Petrol,TS-07,"12,356/month","6,32,000","Kompally, Hyderabad",Hyderabad
+239,2013 Honda City,1.5L I-VTEC V MT,Manual,"30,599 km",1st Owner,Petrol,TS-07,"10,772/month","5,51,000","Bachupally, Hyderabad",Hyderabad
+240,2018 Maruti Baleno,ALPHA CVT PETROL 1.2,Automatic,"73,224 km",2nd Owner,Petrol,TS-09,"14,389/month","7,36,000","Attapur, Hyderabad",Hyderabad
+241,2018 Hyundai Grand i10,SPORTZ AT 1.2 KAPPA VTVT,Automatic,"52,704 km",2nd Owner,Petrol,TS-07,"11,456/month","5,86,000","Attapur, Hyderabad",Hyderabad
+242,2014 Maruti Ritz,ZXI,Manual,"94,611 km",2nd Owner,Petrol,TS-07,"7,468/month","3,82,000","Attapur, Hyderabad",Hyderabad
+243,2016 Maruti Celerio,VXI,Manual,"97,726 km",1st Owner,Petrol,TS-08,"7,410/month","3,79,000","Bachupally, Hyderabad",Hyderabad
+244,2014 Maruti Celerio,VXI AMT,Automatic,"71,969 km",3rd Owner,Petrol,TS-07,"8,152/month","4,17,000","Kompally, Hyderabad",Hyderabad
+245,2016 Hyundai Elite i20,SPORTZ 1.2,Manual,"56,346 km",2nd Owner,Petrol,TS-11,"11,496/month","5,88,000","Attapur, Hyderabad",Hyderabad
+246,2013 Hyundai i10,MAGNA 1.1,Manual,"57,078 km",2nd Owner,Petrol,AP-13,"6,803/month","3,48,000","Kompally, Hyderabad",Hyderabad
+247,2017 Maruti Alto 800,LXI,Manual,"52,052 km",2nd Owner,Petrol,TS-15,"5,552/month","2,84,000","Kompally, Hyderabad",Hyderabad
+248,2018 Maruti Swift,VXI,Manual,"80,955 km",1st Owner,Petrol,TS-07,"12,102/month","6,19,000","Attapur, Hyderabad",Hyderabad
+249,2019 Renault Captur,PLATINE DUAL TONE,Manual,"47,627 km",1st Owner,Diesel,TS-07,"18,958/month","9,96,000","Bachupally, Hyderabad",Hyderabad
+250,2015 Maruti Ciaz,ZXI+,Manual,"1,13,815 km",1st Owner,Petrol,TS-10,"11,261/month","5,76,000","Kompally, Hyderabad",Hyderabad
+251,2018 Maruti Swift,ZXI AMT,Automatic,"45,911 km",1st Owner,Petrol,TS-09,"13,548/month","6,93,000","Kompally, Hyderabad",Hyderabad
+252,2019 Hyundai Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,"24,337 km",2nd Owner,Petrol,TS-08,"10,166/month","5,20,000","Bachupally, Hyderabad",Hyderabad
+253,2017 Maruti Alto 800,LXI O,Manual,"1,17,467 km",1st Owner,Petrol,TS-08,"6,158/month","3,15,000","Kompally, Hyderabad",Hyderabad
+254,2018 Maruti Dzire,VXI AMT,Automatic,"39,461 km",1st Owner,Petrol,TS-07,"14,076/month","7,20,000","Kompally, Hyderabad",Hyderabad
+255,2020 Hyundai GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT,Manual,"40,051 km",2nd Owner,Petrol,TS-07,"12,493/month","6,39,000","Bachupally, Hyderabad",Hyderabad
+256,2019 Renault Duster,RXZ DIESEL 110,Manual,"44,416 km",1st Owner,Diesel,TS-06,"19,320/month","10,15,000","Kompally, Hyderabad",Hyderabad
+257,2023 Maruti BREZZA,ZXI SMART HYBRID DUAL TONE,Manual,"1,457 km",1st Owner,Petrol,TS-08,"24,687/month","12,97,000","Kompally, Hyderabad",Hyderabad
+258,2018 Renault Kwid,RXT 1.0 EASY-R  AT,Automatic,"97,709 km",1st Owner,Petrol,TS-08,"7,937/month","4,06,000","Kompally, Hyderabad",Hyderabad
+259,2020 Maruti S Cross,ALPHA AT1.5,Automatic,"27,653 km",1st Owner,Petrol,TS-09,"19,262/month","10,12,000","Bachupally, Hyderabad",Hyderabad
+260,2012 Maruti Alto K10,VXI,Manual,"46,939 km",1st Owner,Petrol,AP-28,"4,516/month","2,31,000","Kompally, Hyderabad",Hyderabad
+261,2021 Ford Ecosport,TITANUIM + SE 1.5L PETROL,Manual,"14,393 km",1st Owner,Petrol,TS-09,"18,806/month","9,88,000","Kompally, Hyderabad",Hyderabad
+262,2021 Renault Kwid,RXL 1.0,Manual,"29,828 km",1st Owner,Petrol,TS-07,"8,250/month","4,22,000","Bachupally, Hyderabad",Hyderabad
+263,2020 Maruti Alto,LXI,Manual,"71,071 km",1st Owner,Petrol,TS-15,"6,549/month","3,35,000","Kompally, Hyderabad",Hyderabad
+264,2020 Ford Ecosport,TITANIUM 1.5L DIESEL,Manual,"47,654 km",2nd Owner,Diesel,TS-09,"17,264/month","9,07,000","Kompally, Hyderabad",Hyderabad
+265,2015 Hyundai Grand i10,ASTA 1.1 CRDI,Manual,"1,16,516 km",1st Owner,Diesel,TS-09,"8,328/month","4,26,000","Kompally, Hyderabad",Hyderabad
+266,2017 Maruti Alto 800,VXI,Manual,"79,024 km",2nd Owner,Petrol,TS-12,"6,315/month","3,23,000","Kompally, Hyderabad",Hyderabad
+267,2014 Honda City,1.5L I-VTEC V MT,Manual,"1,09,832 km",2nd Owner,Petrol,TS-07,"9,580/month","4,90,000","Kompally, Hyderabad",Hyderabad
+268,2020 Hyundai VENUE,SX 1.0 (O) TURBO,Manual,"32,185 km",1st Owner,Petrol,TS-07,"19,015/month","9,99,000","Attapur, Hyderabad",Hyderabad
+269,2019 Renault Kwid,RXT 1.0 EASY-R AT OPTION,Automatic,"51,237 km",2nd Owner,Petrol,TS-15,"8,348/month","4,27,000","Kompally, Hyderabad",Hyderabad
+270,2018 Maruti IGNIS,DELTA 1.2,Manual,"39,817 km",2nd Owner,Petrol,TS-10,"9,814/month","5,02,000","Kompally, Hyderabad",Hyderabad
+271,2018 Maruti IGNIS,DELTA 1.2,Manual,"20,034 km",1st Owner,Petrol,TS-09,"10,323/month","5,28,000","Kompally, Hyderabad",Hyderabad
+272,2018 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"39,125 km",2nd Owner,Petrol,TS-07,"10,616/month","5,43,000","Attapur, Hyderabad",Hyderabad
+273,2021 Hyundai NEW SANTRO,ASTA MT,Manual,"15,171 km",1st Owner,Petrol,TS-08,"11,046/month","5,65,000","Attapur, Hyderabad",Hyderabad
+274,2019 Maruti Alto,VXI,Manual,"16,903 km",2nd Owner,Petrol,TS-13,"6,647/month","3,40,000","Bachupally, Hyderabad",Hyderabad
+275,2016 Maruti Ciaz,ZXI AT,Automatic,"43,901 km",1st Owner,Petrol,TS-10,"13,040/month","6,67,000","Attapur, Hyderabad",Hyderabad
+276,2019 Maruti IGNIS,DELTA 1.2,Manual,"51,278 km",2nd Owner,Petrol,TS-09,"10,088/month","5,16,000","Attapur, Hyderabad",Hyderabad
+277,2017 Honda City,1.5L I-VTEC ZX CVT,Automatic,"99,130 km",1st Owner,Petrol,TS-11,"15,347/month","7,85,000","Kompally, Hyderabad",Hyderabad
+278,2019 Maruti Celerio X,ZXI,Manual,"44,363 km",1st Owner,Petrol,TS-09,"10,342/month","5,29,000","Kompally, Hyderabad",Hyderabad
+279,2014 Maruti Alto 800,LXI,Manual,"70,145 km",1st Owner,Petrol,TS-07,"5,181/month","2,65,000","Attapur, Hyderabad",Hyderabad
+280,2017 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"82,163 km",1st Owner,Petrol,TS-08,"10,303/month","5,27,000","Kompally, Hyderabad",Hyderabad
+281,2017 Maruti Alto 800,VXI,Manual,"78,969 km",1st Owner,Petrol,TS-15,"6,061/month","3,10,000","Kompally, Hyderabad",Hyderabad
+282,2021 Tata ALTROZ,XZ 1.5 RTQ,Manual,"61,626 km",1st Owner,Diesel,TS-17,"16,122/month","8,47,000","Bachupally, Hyderabad",Hyderabad
+283,2019 Hyundai VENUE,SX PLUS 1.0 TURBO DCT,Automatic,"72,563 km",1st Owner,Petrol,TS-10,"18,672/month","9,81,000","Bachupally, Hyderabad",Hyderabad
+284,2020 Maruti IGNIS,ZETA 1.2 AMT,Automatic,"14,956 km",1st Owner,Petrol,TS-07,"13,529/month","6,92,000","Attapur, Hyderabad",Hyderabad
+285,2017 Honda Brio,S MT,Manual,"22,180 km",1st Owner,Petrol,TS-10,"8,798/month","4,50,000","Bachupally, Hyderabad",Hyderabad
+286,2019 Maruti Baleno,ZETA PETROL 1.2,Manual,"82,243 km",1st Owner,Petrol,TS-08,"13,666/month","6,99,000","Kompally, Hyderabad",Hyderabad
+287,2014 Honda Brio,S MT,Manual,"47,784 km",2nd Owner,Petrol,TS-07,"8,074/month","4,13,000","Attapur, Hyderabad",Hyderabad
+288,2014 Maruti Swift,VXI,Manual,"95,255 km",2nd Owner,Petrol,TS-08,"8,367/month","4,28,000","Kompally, Hyderabad",Hyderabad
+289,2019 Renault Kwid,RXT 1.0 (O),Manual,"37,634 km",1st Owner,Petrol,TS-08,"7,918/month","4,05,000","Bachupally, Hyderabad",Hyderabad
+290,2013 Honda Brio,V MT,Manual,"39,452 km",1st Owner,Petrol,AP-29,"7,214/month","3,69,000","Bachupally, Hyderabad",Hyderabad
+291,2013 Maruti Wagon R 1.0,VXI,Manual,"89,791 km",1st Owner,Petrol,AP-10,"6,256/month","3,20,000","Kompally, Hyderabad",Hyderabad
+292,2017 Maruti Alto 800,LXI O,Manual,"68,359 km",1st Owner,Petrol,TS-07,"5,982/month","3,06,000","Attapur, Hyderabad",Hyderabad
+293,2021 Honda City,V CVT,Automatic,"64,402 km",1st Owner,Petrol,TS-09,"21,528/month","11,31,000","Attapur, Hyderabad",Hyderabad
+294,2010 Hyundai Santro Xing,GLS,Manual,"62,572 km",2nd Owner,Petrol,AP-09,"4,125/month","2,11,000","Attapur, Hyderabad",Hyderabad
+295,2021 Hyundai NEW I20,Asta 1.0 GDI Turbo IMT,Manual,"19,168 km",1st Owner,Petrol,TS-08,"18,406/month","9,67,000","Kompally, Hyderabad",Hyderabad
+296,2016 Maruti Alto 800,LXI O,Manual,"48,141 km",1st Owner,Petrol,TS-08,"5,963/month","3,05,000","Attapur, Hyderabad",Hyderabad
+297,2018 Maruti Dzire,VXI AMT,Automatic,"44,348 km",1st Owner,Petrol,TS-08,"13,959/month","7,14,000","Kompally, Hyderabad",Hyderabad
+298,2021 Hyundai GRAND I10 NIOS,MAGNA 1.2 KAPPA VTVT,Manual,"33,798 km",1st Owner,Petrol,TS-35,"12,199/month","6,24,000","Attapur, Hyderabad",Hyderabad
+299,2019 Maruti Swift,VXI AMT,Automatic,"31,286 km",1st Owner,Petrol,TS-09,"13,451/month","6,88,000","Kompally, Hyderabad",Hyderabad
+300,2021 Renault TRIBER,RXZ AMT DUAL TONE,Automatic,"35,023 km",1st Owner,Petrol,TS-11,"15,582/month","7,97,000","Attapur, Hyderabad",Hyderabad
+301,2016 Hyundai Creta,SX PLUS AT 1.6 PETROL,Automatic,"93,104 km",1st Owner,Petrol,TS-07,"18,482/month","9,71,000","Kompally, Hyderabad",Hyderabad
+302,2017 Hyundai Verna,1.6 VTVT SX,Manual,"30,811 km",1st Owner,Petrol,TS-09,"15,341/month","8,06,000","Kompally, Hyderabad",Hyderabad
+303,2021 Maruti Alto,VXI,Manual,"23,748 km",1st Owner,Petrol,TS-15,"8,016/month","4,10,000","Attapur, Hyderabad",Hyderabad
+304,2016 Hyundai Elite i20,ASTA 1.2,Manual,"90,374 km",1st Owner,Petrol,TS-08,"11,378/month","5,82,000","Kompally, Hyderabad",Hyderabad
+305,2021 Hyundai NEW SANTRO,ASTA MT,Manual,"20,837 km",2nd Owner,Petrol,TS-04,"10,987/month","5,62,000","Bachupally, Hyderabad",Hyderabad
+306,2017 Ford Ecosport,TITANIUM + 1.5L PETROL AT,Automatic,"51,258 km",1st Owner,Petrol,TS-08,"15,308/month","7,83,000","Bachupally, Hyderabad",Hyderabad
+307,2013 Maruti Wagon R 1.0,VXI,Manual,"91,405 km",1st Owner,Petrol,AP-28,"6,080/month","3,11,000","Kompally, Hyderabad",Hyderabad
+308,2013 Honda City,1.5L I-VTEC E MT,Manual,"94,287 km",2nd Owner,Petrol,AP-29,"8,837/month","4,52,000","Kompally, Hyderabad",Hyderabad
+309,2012 Hyundai i10,MAGNA 1.2,Manual,"49,043 km",2nd Owner,Petrol,AP-11,"6,393/month","3,27,000","Kompally, Hyderabad",Hyderabad
+310,2021 Tata NEXON,XZ PLUS PETROL,Manual,"33,090 km",1st Owner,Petrol,TS-04,"19,148/month","10,06,000","Attapur, Hyderabad",Hyderabad
+311,2015 Maruti Alto 800,VXI,Manual,"49,692 km",2nd Owner,Petrol,TS-05,"5,239/month","2,68,000","Bachupally, Hyderabad",Hyderabad
+312,2015 Hyundai Grand i10,ASTA 1.2 KAPPA VTVT,Manual,"95,963 km",2nd Owner,Petrol,TS-07,"8,348/month","4,27,000","Bachupally, Hyderabad",Hyderabad
+313,2022 Volkswagen Vento,HIGHLINE 1.0L TSI,Manual,"15,788 km",1st Owner,Petrol,TS-07,"18,768/month","9,86,000","Bachupally, Hyderabad",Hyderabad
+314,2020 Tata ALTROZ,XZ PETROL,Manual,"41,382 km",2nd Owner,Petrol,TS-08,"14,389/month","7,36,000","Attapur, Hyderabad",Hyderabad
+315,2015 Honda City,1.5L I-VTEC V MT,Manual,"1,01,176 km",3rd Owner,Petrol,TS-09,"11,085/month","5,67,000","Kompally, Hyderabad",Hyderabad
+316,2020 Maruti Alto,LXI,Manual,"44,790 km",1st Owner,Petrol,TS-09,"7,112/month","3,63,800","Kompally, Hyderabad",Hyderabad
+317,2016 Honda Jazz,1.2L I-VTEC V AT,Automatic,"54,083 km",2nd Owner,Petrol,TS-08,"12,082/month","6,18,000","Kompally, Hyderabad",Hyderabad
+318,2012 Hyundai i10,ERA 1.1,Manual,"74,754 km",2nd Owner,Petrol,AP-13,"5,982/month","3,06,000","Kompally, Hyderabad",Hyderabad
+319,2014 Maruti Alto 800,LXI,Manual,"31,933 km",2nd Owner,Petrol,AP-28,"5,063/month","2,59,000","Kompally, Hyderabad",Hyderabad
+320,2018 Maruti Celerio,ZXI,Manual,"59,028 km",1st Owner,Petrol,TS-17,"8,895/month","4,55,000","Kompally, Hyderabad",Hyderabad
+321,2014 Maruti Swift,VXI,Manual,"87,966 km",3rd Owner,Petrol,AP-28,"9,052/month","4,63,000","Attapur, Hyderabad",Hyderabad
+322,2017 Maruti Dzire,ZXI AMT,Automatic,"59,411 km",1st Owner,Petrol,TS-08,"13,529/month","6,92,000","Bachupally, Hyderabad",Hyderabad
+323,2016 Maruti Wagon R 1.0,VXI,Manual,"89,029 km",2nd Owner,Petrol,TS-08,"7,155/month","3,66,000","Kompally, Hyderabad",Hyderabad
+324,2016 Maruti Celerio,VXI AMT,Automatic,"61,337 km",1st Owner,Petrol,TS-08,"8,113/month","4,15,000","Kompally, Hyderabad",Hyderabad
+325,2018 Maruti Ciaz,ZETA AT 1.5  SHVS PETROL,Automatic,"33,914 km",1st Owner,Petrol,TS-08,"15,798/month","8,30,000","Attapur, Hyderabad",Hyderabad
+326,2017 Maruti IGNIS,DELTA 1.2 AMT,Automatic,"97,667 km",1st Owner,Petrol,TS-15,"9,228/month","4,72,000","Kompally, Hyderabad",Hyderabad
+327,2021 Ford Figo Aspire,TITANIUM 1.2 PETROL,Manual,"29,246 km",1st Owner,Petrol,TS-09,"14,233/month","7,28,000","Kompally, Hyderabad",Hyderabad
+328,2021 Tata TIGOR,XZ PLUS PETROL,Manual,"70,380 km",1st Owner,Petrol,TS-08,"13,959/month","7,14,000","Kompally, Hyderabad",Hyderabad
+329,2017 Maruti Ciaz,DELTA 1.4 AT PETROL,Automatic,"70,424 km",2nd Owner,Petrol,TS-07,"13,118/month","6,71,000","Bachupally, Hyderabad",Hyderabad
+330,2017 Maruti Dzire,ZDI AMT,Automatic,"53,873 km",1st Owner,Diesel,TS-07,"14,526/month","7,43,000","Kompally, Hyderabad",Hyderabad
+331,2022 Maruti Ciaz,DELTA 1.5 SHVS MT PETROL,Manual,"15,992 km",1st Owner,Petrol,TS-08,"16,997/month","8,93,000","Kompally, Hyderabad",Hyderabad
+332,2017 Honda Amaze,1.2L I-VTEC VX,Manual,"56,242 km",1st Owner,Petrol,TS-08,"11,535/month","5,90,000","Kompally, Hyderabad",Hyderabad
+333,2018 Hyundai Grand i10,ASTA U2 1.2 CRDI,Manual,"98,455 km",1st Owner,Diesel,TS-09,"11,300/month","5,78,000","Kompally, Hyderabad",Hyderabad
+334,2020 Renault Duster,RXE 1.3 TURBO PETROL MT,Manual,"30,241 km",1st Owner,Petrol,TS-09,"17,854/month","9,38,000","Kompally, Hyderabad",Hyderabad
+335,2021 Tata ALTROZ,XT I-TURBO PETROL,Manual,"31,750 km",2nd Owner,Petrol,TS-09,"14,584/month","7,46,000","Kompally, Hyderabad",Hyderabad
+336,2016 Volkswagen Jetta,COMFORTLINE 1.4 TSI MT,Manual,"16,726 km",1st Owner,Petrol,TS-09,"23,069/month","12,12,000","Kompally, Hyderabad",Hyderabad
+337,2018 Hyundai Elite i20,SPORTZ 1.2,Manual,"44,646 km",1st Owner,Petrol,TS-07,"13,509/month","6,91,000","Kompally, Hyderabad",Hyderabad
+338,2019 Toyota Glanza,V,Manual,"90,148 km",1st Owner,Petrol,TS-07,"13,978/month","7,15,000","Kompally, Hyderabad",Hyderabad
+339,2016 Maruti Celerio,VXI AMT,Automatic,"80,315 km",2nd Owner,Petrol,TS-15,"8,485/month","4,34,000","Kompally, Hyderabad",Hyderabad
+340,2022 Renault Kwid,CLIMBER AMT 1.0,Automatic,"9,183 km",1st Owner,Petrol,TS-09,"12,102/month","6,19,000","Attapur, Hyderabad",Hyderabad
+341,2018 Hyundai Creta,SX PLUS 1.6 PETROL,Manual,"81,644 km",1st Owner,Petrol,TS-09,"19,015/month","9,99,000","Attapur, Hyderabad",Hyderabad
+342,2015 Maruti Swift,ZXI,Manual,"1,19,106 km",2nd Owner,Petrol,TS-08,"9,212/month","4,71,200","Kompally, Hyderabad",Hyderabad
+343,2016 Maruti Swift,VXI,Manual,"1,08,560 km",1st Owner,Petrol,TS-07,"9,619/month","4,92,000","Kompally, Hyderabad",Hyderabad
+344,2017 Datsun Redi Go,S,Manual,"28,545 km",1st Owner,Petrol,TS-07,"6,041/month","3,09,000","Kompally, Hyderabad",Hyderabad
+345,2021 Tata NEXON,XM DIESEL,Manual,"32,483 km",1st Owner,Diesel,TS-12,"17,664/month","9,28,000","Bachupally, Hyderabad",Hyderabad
+346,2020 Renault Kwid,RXT 1.0 (O),Manual,"60,894 km",1st Owner,Petrol,TS-08,"8,270/month","4,23,000","Kompally, Hyderabad",Hyderabad
+347,2018 Maruti Celerio,ZXI AMT (O),Automatic,"38,607 km",2nd Owner,Petrol,TS-36,"10,244/month","5,24,000","Kompally, Hyderabad",Hyderabad
+348,2017 Maruti Swift,VXI,Manual,"52,858 km",1st Owner,Petrol,TS-09,"11,046/month","5,65,000","Kompally, Hyderabad",Hyderabad
+349,2017 Honda City,1.5L I-VTEC VX,Manual,"75,199 km",2nd Owner,Petrol,TS-08,"15,112/month","7,73,000","Attapur, Hyderabad",Hyderabad
+350,2019 Tata NEXON,XZ PLUS PETROL DUAL TONE,Manual,"48,951 km",2nd Owner,Petrol,TS-09,"15,532/month","8,16,000","Attapur, Hyderabad",Hyderabad
+351,2017 Maruti Baleno,DELTA PETROL 1.2,Manual,"56,587 km",2nd Owner,Petrol,TS-09,"11,144/month","5,70,000","Attapur, Hyderabad",Hyderabad
+352,2020 Tata Tiago,XZA+ DUAL TONE 1.2RTN,Automatic,"68,413 km",2nd Owner,Petrol,TS-03,"13,177/month","6,74,000","Bachupally, Hyderabad",Hyderabad
+353,2018 Hyundai Verna,1.6 SX (O) CRDI MT,Manual,"83,383 km",2nd Owner,Diesel,TS-07,"18,939/month","9,95,000","Attapur, Hyderabad",Hyderabad
+354,2013 Maruti Swift,VXI,Manual,"50,824 km",1st Owner,Petrol,AP-28,"8,895/month","4,55,000","Attapur, Hyderabad",Hyderabad
+355,2015 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"1,14,071 km",2nd Owner,Petrol,TS-08,"7,918/month","4,05,000","Bachupally, Hyderabad",Hyderabad
+356,2017 Hyundai Creta,SX PLUS 1.6 PETROL,Manual,"64,951 km",2nd Owner,Petrol,TS-07,"19,186/month","10,08,000","Kompally, Hyderabad",Hyderabad
+357,2019 Tata Tiago,XZ PLUS PETROL,Manual,"69,049 km",1st Owner,Petrol,TS-07,"10,929/month","5,59,000","Kompally, Hyderabad",Hyderabad
+358,2020 Hyundai NEW SANTRO,SPORTZ AMT,Automatic,"26,563 km",1st Owner,Petrol,TS-07,"11,222/month","5,74,000","Kompally, Hyderabad",Hyderabad
+359,2016 Hyundai Verna,1.6 VTVT SX AT,Automatic,"71,144 km",1st Owner,Petrol,TS-07,"14,408/month","7,37,000","Kompally, Hyderabad",Hyderabad
+360,2018 Tata Tiago,XZA PETROL,Automatic,"86,346 km",1st Owner,Petrol,TS-09,"10,068/month","5,15,000","Attapur, Hyderabad",Hyderabad
+361,2014 Maruti Alto K10,VXI,Manual,"53,179 km",2nd Owner,Petrol,TS-07,"5,513/month","2,82,000","Bachupally, Hyderabad",Hyderabad
+362,2017 Maruti Baleno,DELTA PETROL 1.2,Manual,"83,688 km",1st Owner,Petrol,TS-08,"11,574/month","5,92,000","Attapur, Hyderabad",Hyderabad
+363,2018 Maruti Swift,ZXI AMT,Automatic,"34,840 km",1st Owner,Petrol,TS-07,"13,216/month","6,76,000","Bachupally, Hyderabad",Hyderabad
+364,2017 Maruti Baleno,ALPHA PETROL 1.2,Manual,"96,822 km",1st Owner,Petrol,TS-04,"12,238/month","6,26,000","Bachupally, Hyderabad",Hyderabad
+365,2019 Maruti Alto,VXI,Manual,"32,607 km",1st Owner,Petrol,TS-07,"6,921/month","3,54,000","Kompally, Hyderabad",Hyderabad
+366,2017 Hyundai Grand i10,SPORTZ (O) AT 1.2 KAPPA VTVT,Automatic,"40,570 km",1st Owner,Petrol,TS-09,"11,417/month","5,84,000","Bachupally, Hyderabad",Hyderabad
+367,2019 Maruti S PRESSO,VXI PLUS AMT,Automatic,"77,415 km",1st Owner,Petrol,TS-07,"9,169/month","4,69,000","Kompally, Hyderabad",Hyderabad
+368,2016 Hyundai Elite i20,SPORTZ 1.2,Manual,"60,350 km",1st Owner,Petrol,TS-07,"11,711/month","5,99,000","Bachupally, Hyderabad",Hyderabad
+369,2017 Ford Ecosport,TREND 1.5L PETROL,Manual,"66,159 km",1st Owner,Petrol,TS-02,"13,509/month","6,91,000","Attapur, Hyderabad",Hyderabad
+370,2017 Hyundai Elite i20,SPORTZ 1.2,Manual,"49,229 km",1st Owner,Petrol,TS-07,"12,102/month","6,19,000","Kompally, Hyderabad",Hyderabad
+371,2021 Skoda Rapid,STYLE TSI,Manual,"15,504 km",1st Owner,Petrol,TS-09,"19,186/month","10,08,000","Attapur, Hyderabad",Hyderabad
+372,2012 Honda City,1.5L I-VTEC E MT,Manual,"88,471 km",3rd Owner,Petrol,AP-10,"8,309/month","4,25,000","Bachupally, Hyderabad",Hyderabad
+373,2013 Maruti Wagon R 1.0,VXI,Manual,"64,628 km",1st Owner,Petrol,AP-09,"7,019/month","3,59,000","Attapur, Hyderabad",Hyderabad
+374,2019 Maruti Celerio,ZXI AMT,Automatic,"30,318 km",1st Owner,Petrol,TS-09,"10,870/month","5,56,000","Attapur, Hyderabad",Hyderabad
+375,2019 Datsun Go,T(O),Manual,"64,447 km",1st Owner,Petrol,TS-22,"8,602/month","4,40,000","Kompally, Hyderabad",Hyderabad
+376,2019 Maruti Baleno,DELTA PETROL 1.2,Manual,"71,305 km",1st Owner,Petrol,TS-07,"12,688/month","6,49,000","Kompally, Hyderabad",Hyderabad
+377,2017 Maruti Wagon R 1.0,VXI,Manual,"83,596 km",1st Owner,Petrol,TS-07,"7,937/month","4,06,000","Attapur, Hyderabad",Hyderabad
+378,2017 Maruti IGNIS,ZETA 1.3 AMT DUAL TONE,Automatic,"98,700 km",2nd Owner,Diesel,TS-07,"10,968/month","5,61,000","Attapur, Hyderabad",Hyderabad
+379,2016 Maruti Celerio,VXI AMT,Automatic,"27,222 km",2nd Owner,Petrol,TS-08,"8,328/month","4,26,000","Kompally, Hyderabad",Hyderabad
+380,2019 Maruti Alto,VXI,Manual,"76,685 km",1st Owner,Petrol,TS-32,"7,038/month","3,60,000","Kompally, Hyderabad",Hyderabad
+381,2019 Maruti Baleno,ZETA PETROL 1.2,Manual,"35,545 km",1st Owner,Petrol,TS-10,"14,663/month","7,50,000","Kompally, Hyderabad",Hyderabad
+382,2016 Maruti Wagon R 1.0,VXI,Manual,"54,635 km",1st Owner,Petrol,TS-09,"8,016/month","4,10,000","Kompally, Hyderabad",Hyderabad
+383,2018 Maruti Dzire,ZDI PLUS AMT,Automatic,"88,900 km",1st Owner,Diesel,TS-10,"15,341/month","8,06,000","Attapur, Hyderabad",Hyderabad
+384,2018 Tata NEXON,XZA PLUS PETROL,Automatic,"84,821 km",1st Owner,Petrol,TS-36,"15,322/month","8,05,000","Kompally, Hyderabad",Hyderabad
+385,2018 Tata Tiago,XZA PETROL,Automatic,"88,923 km",1st Owner,Petrol,TS-08,"9,931/month","5,08,000","Kompally, Hyderabad",Hyderabad
+386,2020 Tata Tiago,XZA PETROL,Automatic,"66,731 km",1st Owner,Petrol,TS-16,"12,004/month","6,14,000","Attapur, Hyderabad",Hyderabad
+387,2019 Datsun Redi Go,S,Manual,"58,547 km",2nd Owner,Petrol,TS-07,"6,803/month","3,48,000","Attapur, Hyderabad",Hyderabad
+388,2020 Hyundai NEW SANTRO,SPORTZ AMT,Automatic,"32,069 km",1st Owner,Petrol,TS-08,"11,144/month","5,70,000","Bachupally, Hyderabad",Hyderabad
+389,2013 Maruti Alto K10,VXI,Manual,"62,437 km",2nd Owner,Petrol,AP-28,"4,457/month","2,28,000","Kompally, Hyderabad",Hyderabad
+390,2016 Maruti Baleno,ZETA PETROL 1.2,Manual,"78,911 km",2nd Owner,Petrol,TS-07,"11,535/month","5,90,000","Kompally, Hyderabad",Hyderabad
+391,2014 Maruti Alto K10,VXI,Manual,"70,435 km",2nd Owner,Petrol,TS-09,"5,376/month","2,75,000","Kompally, Hyderabad",Hyderabad
+392,2019 Maruti Celerio X,ZXI,Manual,"73,227 km",2nd Owner,Petrol,TS-08,"9,189/month","4,70,000","Kompally, Hyderabad",Hyderabad
+393,2021 Tata Safari,XZA PLUS 6S,Automatic,"96,462 km",1st Owner,Diesel,TS-08,"36,831/month","19,35,000","Attapur, Hyderabad",Hyderabad
+394,2013 Maruti Wagon R 1.0,VXI,Manual,"59,730 km",2nd Owner,Petrol,AP-29,"6,158/month","3,15,000","Bachupally, Hyderabad",Hyderabad
+395,2020 Maruti Baleno,ALPHA CVT PETROL 1.2,Automatic,"48,580 km",1st Owner,Petrol,TS-08,"16,141/month","8,48,000","Bachupally, Hyderabad",Hyderabad
+396,2013 Maruti Wagon R 1.0,VXI,Manual,"92,195 km",1st Owner,Petrol,AP-07,"6,080/month","3,11,000","Kompally, Hyderabad",Hyderabad
+397,2019 Maruti Baleno,DELTA PETROL 1.2,Manual,"71,110 km",1st Owner,Petrol,TS-09,"12,903/month","6,60,000","Attapur, Hyderabad",Hyderabad
+398,2017 Maruti Alto 800,VXI,Manual,"54,791 km",1st Owner,Petrol,TS-07,"6,217/month","3,18,000","Attapur, Hyderabad",Hyderabad
+399,2014 Honda City,1.5L I-VTEC V MT,Manual,"1,24,781 km",1st Owner,Petrol,AP-28,"10,342/month","5,29,000","Kompally, Hyderabad",Hyderabad
+400,2021 Maruti Ciaz,ALPHA 1.5 SHVS PETROL,Manual,"31,638 km",1st Owner,Petrol,TS-07,"17,036/month","8,95,000","Bachupally, Hyderabad",Hyderabad
+401,2017 Maruti Celerio,ZXI AMT,Automatic,"65,547 km",1st Owner,Petrol,TS-15,"9,013/month","4,61,000","Kompally, Hyderabad",Hyderabad
+402,2016 Hyundai Grand i10,ASTA (O) AT 1.2 KAPPA VTVT,Automatic,"1,04,436 km",2nd Owner,Petrol,TS-13,"9,795/month","5,01,000","Kompally, Hyderabad",Hyderabad
+403,2018 Maruti Dzire,VXI AMT,Automatic,"54,737 km",1st Owner,Petrol,TS-09,"13,411/month","6,86,000","Bachupally, Hyderabad",Hyderabad
+404,2013 Maruti Alto K10,VXI,Manual,"48,471 km",2nd Owner,Petrol,AP-28,"4,692/month","2,40,000","Kompally, Hyderabad",Hyderabad
+405,2018 Maruti IGNIS,DELTA 1.2,Manual,"96,540 km",1st Owner,Petrol,TS-13,"8,837/month","4,52,000","Bachupally, Hyderabad",Hyderabad
+406,2018 Hyundai Grand i10,ASTA 1.2 KAPPA VTVT,Manual,"56,129 km",1st Owner,Petrol,TS-13,"10,733/month","5,49,000","Bachupally, Hyderabad",Hyderabad
+407,2018 Tata NEXON,XZA + 1.2 PETROL A/T,Automatic,"35,226 km",2nd Owner,Petrol,TS-08,"15,760/month","8,28,000","Kompally, Hyderabad",Hyderabad
+408,2014 Honda Brio,S MT,Manual,"50,670 km",2nd Owner,Petrol,TS-12,"7,605/month","3,89,000","Kompally, Hyderabad",Hyderabad
+409,2021 Renault Kwid,RXT 1.0 (O),Manual,"26,494 km",1st Owner,Petrol,TS-15,"9,638/month","4,93,000","Kompally, Hyderabad",Hyderabad
+410,2013 Hyundai i10,MAGNA 1.2,Manual,"72,473 km",1st Owner,Petrol,AP-36,"6,139/month","3,14,000","Kompally, Hyderabad",Hyderabad
+411,2021 Tata Tiago,XT PETROL,Manual,"20,282 km",1st Owner,Petrol,TS-13,"11,984/month","6,13,000","Bachupally, Hyderabad",Hyderabad
+412,2016 Honda City,1.5L I-VTEC SV,Manual,"87,335 km",1st Owner,Petrol,TS-08,"12,258/month","6,27,000","Bachupally, Hyderabad",Hyderabad
+413,2017 Ford Ecosport,TITANIUM 1.5L DIESEL,Manual,"1,16,988 km",1st Owner,Diesel,TS-08,"13,353/month","6,83,000","Bachupally, Hyderabad",Hyderabad
+414,2015 Maruti Wagon R 1.0,VXI,Manual,"89,218 km",1st Owner,Petrol,TS-11,"6,921/month","3,54,000","Attapur, Hyderabad",Hyderabad
+415,2017 Hyundai Grand i10,SPORTZ (O) AT 1.2 KAPPA VTVT,Automatic,"53,740 km",1st Owner,Petrol,TS-10,"11,437/month","5,85,000","Attapur, Hyderabad",Hyderabad
+416,2016 Maruti Baleno,ALPHA PETROL 1.2,Manual,"1,05,224 km",2nd Owner,Petrol,TS-07,"11,613/month","5,94,000","Bachupally, Hyderabad",Hyderabad
+417,2018 Maruti IGNIS,DELTA 1.2,Manual,"54,907 km",2nd Owner,Petrol,TS-09,"9,365/month","4,79,000","Bachupally, Hyderabad",Hyderabad
+418,2021 Tata Tiago,XT PETROL,Manual,"21,314 km",1st Owner,Petrol,TS-08,"11,926/month","6,10,000","Bachupally, Hyderabad",Hyderabad
+419,2011 Hyundai i10,MAGNA 1.2,Manual,"72,590 km",1st Owner,Petrol,AP-29,"5,455/month","2,79,000","Kompally, Hyderabad",Hyderabad
+420,2019 Maruti Alto,LXI,Manual,"56,443 km",2nd Owner,Petrol,TS-08,"7,077/month","3,62,000","Attapur, Hyderabad",Hyderabad
+421,2019 Ford Ecosport,TITANIUM 1.5L PETROL,Manual,"81,462 km",1st Owner,Petrol,TS-13,"15,874/month","8,34,000","Kompally, Hyderabad",Hyderabad
+422,2012 Maruti Wagon R 1.0,LXI,Manual,"42,217 km",2nd Owner,Petrol,TS-08,"6,354/month","3,25,000","Kompally, Hyderabad",Hyderabad
+423,2013 Maruti Wagon R 1.0,VXI,Manual,"62,438 km",1st Owner,Petrol,AP-28,"6,315/month","3,23,000","Bachupally, Hyderabad",Hyderabad
+424,2018 Maruti IGNIS,ALPHA 1.2 AMT DUAL TONE,Automatic,"79,151 km",1st Owner,Petrol,TS-07,"11,535/month","5,90,000","Attapur, Hyderabad",Hyderabad
+425,2015 Honda City,1.5L I-VTEC V MT,Manual,"85,871 km",2nd Owner,Petrol,TS-07,"11,320/month","5,79,000","Kompally, Hyderabad",Hyderabad
+426,2020 Maruti Alto,VXI PLUS,Manual,"44,355 km",1st Owner,Petrol,TS-09,"7,996/month","4,09,000","Bachupally, Hyderabad",Hyderabad
+427,2015 Maruti Alto 800,LXI,Manual,"73,944 km",1st Owner,Petrol,TS-07,"5,200/month","2,66,000","Kompally, Hyderabad",Hyderabad
+428,2018 Volkswagen Ameo,HIGHLINE1.5L,Manual,"90,944 km",1st Owner,Diesel,TS-10,"13,196/month","6,75,000","Kompally, Hyderabad",Hyderabad
+429,2018 Maruti Baleno,ALPHA PETROL 1.2,Manual,"68,101 km",1st Owner,Petrol,TS-07,"12,727/month","6,51,000","Bachupally, Hyderabad",Hyderabad
+430,2017 Maruti Dzire,ZDI AMT,Automatic,"64,700 km",1st Owner,Diesel,TS-07,"15,093/month","7,72,000","Kompally, Hyderabad",Hyderabad
+431,2016 Maruti Swift,VXI,Manual,"63,313 km",1st Owner,Petrol,TS-15,"10,166/month","5,20,000","Bachupally, Hyderabad",Hyderabad
+432,2019 Hyundai NEW SANTRO,SPORTZ AMT,Automatic,"79,467 km",1st Owner,Petrol,TS-13,"10,401/month","5,32,000","Kompally, Hyderabad",Hyderabad
+433,2018 Ford Ecosport,TITANIUM 1.5L PETROL,Manual,"58,559 km",1st Owner,Petrol,TS-07,"15,288/month","7,82,000","Kompally, Hyderabad",Hyderabad
+434,2017 Maruti Swift,VXI O,Manual,"66,501 km",1st Owner,Petrol,TS-07,"11,046/month","5,65,000","Bachupally, Hyderabad",Hyderabad
+435,2015 Hyundai Grand i10,ASTA 1.2 KAPPA VTVT,Manual,"60,817 km",2nd Owner,Petrol,TS-08,"8,817/month","4,51,000","Attapur, Hyderabad",Hyderabad
+436,2016 Maruti Celerio,ZXI AMT,Automatic,"70,895 km",2nd Owner,Petrol,TS-07,"8,915/month","4,56,000","Attapur, Hyderabad",Hyderabad
+437,2021 Honda WR-V,1.5L I-DTEC VX MT,Manual,"78,163 km",1st Owner,Diesel,TS-06,"20,252/month","10,64,000","Attapur, Hyderabad",Hyderabad
+438,2017 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"22,025 km",2nd Owner,Petrol,TS-07,"10,244/month","5,24,000","Attapur, Hyderabad",Hyderabad
+439,2017 Maruti Alto 800,VXI,Manual,"36,200 km",1st Owner,Petrol,TS-07,"6,608/month","3,38,000","Attapur, Hyderabad",Hyderabad
+440,2018 Maruti Celerio,ZXI AMT (O),Automatic,"1,17,924 km",1st Owner,Petrol,TS-03,"9,208/month","4,71,000","Kompally, Hyderabad",Hyderabad
+441,2017 Maruti Baleno,ALPHA PETROL 1.2,Manual,"89,581 km",1st Owner,Petrol,TS-05,"11,867/month","6,07,000","Kompally, Hyderabad",Hyderabad
+442,2018 Volkswagen Vento,HIGHLINE 1.5 AT,Automatic,"1,07,492 km",1st Owner,Diesel,TS-15,"17,302/month","9,09,000","Kompally, Hyderabad",Hyderabad
+443,2013 Maruti Wagon R 1.0,VXI,Manual,"91,821 km",2nd Owner,Petrol,AP-29,"6,080/month","3,11,000","Attapur, Hyderabad",Hyderabad
+444,2019 Maruti S PRESSO,VXI (O),Manual,"76,003 km",1st Owner,Petrol,TS-35,"8,172/month","4,18,000","Kompally, Hyderabad",Hyderabad
+445,2014 Maruti Wagon R 1.0,VXI,Manual,"25,138 km",1st Owner,Petrol,AP-11,"7,312/month","3,74,000","Kompally, Hyderabad",Hyderabad
+446,2018 Ford Ecosport,TITANIUM 1.5L DIESEL,Manual,"90,114 km",1st Owner,Diesel,TS-07,"15,093/month","7,72,000","Kompally, Hyderabad",Hyderabad
+447,2020 Hyundai NEW SANTRO,SPORTZ AMT,Automatic,"35,505 km",1st Owner,Petrol,TS-07,"11,046/month","5,65,000","Kompally, Hyderabad",Hyderabad
+448,2021 Tata TIGOR,XMA PETROL,Automatic,"23,916 km",2nd Owner,Petrol,TS-07,"13,802/month","7,06,000","Kompally, Hyderabad",Hyderabad
+449,2015 Maruti Wagon R 1.0,VXI,Manual,"66,445 km",2nd Owner,Petrol,TS-13,"7,116/month","3,64,000","Kompally, Hyderabad",Hyderabad
+450,2013 Maruti Alto K10,VXI,Manual,"92,370 km",1st Owner,Petrol,AP-10,"4,614/month","2,36,000","Kompally, Hyderabad",Hyderabad
+451,2015 Maruti Wagon R 1.0,VXI,Manual,"67,993 km",2nd Owner,Petrol,TS-05,"7,312/month","3,74,000","Attapur, Hyderabad",Hyderabad
+452,2013 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"67,372 km",1st Owner,Petrol,AP-13,"8,367/month","4,28,000","Bachupally, Hyderabad",Hyderabad
+453,2019 Hyundai NEW SANTRO,SPORTZ AMT,Automatic,"39,881 km",1st Owner,Petrol,TS-09,"10,596/month","5,42,000","Kompally, Hyderabad",Hyderabad
+454,2018 Hyundai NEW SANTRO,SPORTZ MT,Manual,"20,266 km",1st Owner,Petrol,TS-08,"10,694/month","5,47,000","Kompally, Hyderabad",Hyderabad
+455,2018 Maruti Swift,VXI AMT,Automatic,"49,009 km",1st Owner,Petrol,TS-07,"12,512/month","6,40,000","Bachupally, Hyderabad",Hyderabad
+456,2016 Maruti Swift,ZXI,Manual,"58,671 km",1st Owner,Petrol,TS-08,"11,769/month","6,02,000","Attapur, Hyderabad",Hyderabad
+457,2017 Maruti Baleno,ZETA PETROL 1.2,Manual,"74,538 km",2nd Owner,Petrol,TS-08,"12,551/month","6,42,000","Kompally, Hyderabad",Hyderabad
+458,2019 Hyundai GRAND I10 NIOS,SPORTZ AMT 1.2 KAPPA VTVT,Automatic,"76,947 km",1st Owner,Petrol,TS-10,"13,822/month","7,07,000","Kompally, Hyderabad",Hyderabad
+459,2022 Nissan MAGNITE,XV PREMIUM TURBO,Manual,"13,918 km",1st Owner,Petrol,TS-07,"17,302/month","9,09,000","Kompally, Hyderabad",Hyderabad
+460,2016 Hyundai Elite i20,ASTA 1.2,Manual,"73,202 km",1st Owner,Petrol,TS-11,"12,199/month","6,24,000","Bachupally, Hyderabad",Hyderabad
+461,2021 Maruti Alto,VXI PLUS,Manual,"22,264 km",1st Owner,Petrol,TS-08,"8,465/month","4,33,000","Kompally, Hyderabad",Hyderabad
+462,2018 Honda Jazz,1.5L I-DTEC V,Manual,"1,02,256 km",2nd Owner,Diesel,TS-07,"12,062/month","6,17,000","Bachupally, Hyderabad",Hyderabad
+463,2021 Datsun Redi Go,1.0 T(O),Manual,"18,569 km",1st Owner,Petrol,TS-08,"8,954/month","4,58,000","Kompally, Hyderabad",Hyderabad
+464,2021 Tata Tiago,XZA PLUS DUAL TONE PETROL,Automatic,"15,606 km",2nd Owner,Petrol,TS-07,"15,249/month","7,80,000","Kompally, Hyderabad",Hyderabad
+465,2019 Hyundai NEW SANTRO,ASTA MT,Manual,"57,435 km",1st Owner,Petrol,TS-07,"9,892/month","5,06,000","Attapur, Hyderabad",Hyderabad
+466,2016 Hyundai Elite i20,ASTA 1.2,Manual,"71,779 km",1st Owner,Petrol,TS-10,"12,884/month","6,59,000","Kompally, Hyderabad",Hyderabad
+467,2018 Maruti Baleno,ALPHA CVT PETROL 1.2,Automatic,"89,242 km",1st Owner,Petrol,TS-08,"13,646/month","6,98,000","Bachupally, Hyderabad",Hyderabad
+468,2019 Maruti Alto,LXI,Manual,"53,976 km",1st Owner,Petrol,TS-10,"6,471/month","3,31,000","Kompally, Hyderabad",Hyderabad
+469,2021 Ford Ecosport,TITANIUM 1.5 SPORTS(SUNROOF) PETROL,Manual,"57,250 km",1st Owner,Petrol,TS-09,"18,139/month","9,53,000","Attapur, Hyderabad",Hyderabad
+470,2012 Honda Brio,S MT,Manual,"40,503 km",1st Owner,Petrol,AP-09,"6,725/month","3,44,000","Kompally, Hyderabad",Hyderabad
+471,2019 Hyundai Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,"38,471 km",2nd Owner,Petrol,TS-31,"10,714/month","5,48,000","Bachupally, Hyderabad",Hyderabad
+472,2013 Maruti Swift,VXI,Manual,"41,378 km",2nd Owner,Petrol,AP-09,"8,778/month","4,49,000","Kompally, Hyderabad",Hyderabad
+473,2016 Maruti Wagon R 1.0,VXI OPT,Manual,"66,754 km",1st Owner,Petrol,TS-08,"8,172/month","4,18,000","Attapur, Hyderabad",Hyderabad
+474,2017 Hyundai Elite i20,SPORTZ 1.2,Manual,"66,561 km",1st Owner,Petrol,TS-08,"12,356/month","6,32,000","Bachupally, Hyderabad",Hyderabad
+475,2020 Maruti IGNIS,ZETA 1.2 AMT,Automatic,"23,325 km",1st Owner,Petrol,TS-08,"13,705/month","7,01,000","Bachupally, Hyderabad",Hyderabad
+476,2020 Hyundai NEW SANTRO,SPORTZ AMT,Automatic,"40,817 km",2nd Owner,Petrol,TS-08,"10,772/month","5,51,000","Kompally, Hyderabad",Hyderabad
+477,2016 Maruti Vitara Brezza,ZDI,Manual,"71,220 km",2nd Owner,Diesel,TS-13,"15,303/month","8,04,000","Kompally, Hyderabad",Hyderabad
+478,2018 Maruti Baleno,ALPHA CVT PETROL 1.2,Automatic,"65,044 km",2nd Owner,Petrol,TS-09,"13,920/month","7,12,000","Kompally, Hyderabad",Hyderabad
+479,2022 Maruti Ciaz,DELTA 1.5 SHVS MT PETROL,Manual,"16,727 km",2nd Owner,Petrol,TS-04,"17,264/month","9,07,000","Kompally, Hyderabad",Hyderabad
+480,2013 Maruti Wagon R 1.0,VXI,Manual,"54,959 km",1st Owner,Petrol,AP-11,"6,373/month","3,26,000","Bachupally, Hyderabad",Hyderabad
+481,2021 Datsun Redi Go,T(O) 1.0,Manual,"28,292 km",1st Owner,Petrol,TS-05,"9,247/month","4,73,000","Kompally, Hyderabad",Hyderabad
+482,2020 Datsun Redi Go,T (O),Manual,"19,205 km",2nd Owner,Petrol,TS-10,"7,996/month","4,09,000","Kompally, Hyderabad",Hyderabad
+483,2015 Maruti Wagon R 1.0,VXI,Manual,"72,393 km",2nd Owner,Petrol,TS-10,"6,764/month","3,46,000","Kompally, Hyderabad",Hyderabad
+484,2021 Datsun Redi Go,T(O) 1.0,Manual,"33,730 km",1st Owner,Petrol,TS-32,"9,110/month","4,66,000","Bachupally, Hyderabad",Hyderabad
+485,2016 Maruti Swift,VXI,Manual,"64,685 km",2nd Owner,Petrol,TS-07,"9,756/month","4,99,000","Kompally, Hyderabad",Hyderabad
+486,2013 Maruti Wagon R 1.0,LXI,Manual,"61,132 km",1st Owner,Petrol,AP-29,"6,139/month","3,14,000","Kompally, Hyderabad",Hyderabad
+487,2016 Hyundai Elite i20,ASTA 1.2,Manual,"41,085 km",1st Owner,Petrol,TS-13,"13,001/month","6,65,000","Kompally, Hyderabad",Hyderabad
+488,2022 Maruti Ciaz,DELTA 1.5 SHVS MT PETROL,Manual,"17,513 km",1st Owner,Petrol,TS-07,"17,416/month","9,15,000","Kompally, Hyderabad",Hyderabad
+489,2022 Maruti BREZZA,ZXI SMART HYBRID ,Manual,"19,466 km",1st Owner,Petrol,TS-05,"23,755/month","12,48,000","Kompally, Hyderabad",Hyderabad
+490,2014 Maruti Wagon R Stingray,VXI,Manual,"56,367 km",2nd Owner,Petrol,TS-07,"8,094/month","4,14,000","Kompally, Hyderabad",Hyderabad
+491,2021 Hyundai GRAND I10 NIOS,ASTA 1.2 KAPPA VTVT,Manual,"38,939 km",2nd Owner,Petrol,TS-08,"14,682/month","7,51,000","Kompally, Hyderabad",Hyderabad
+492,2018 Maruti Baleno,ZETA PETROL 1.2,Manual,"59,126 km",1st Owner,Petrol,TS-08,"13,626/month","6,97,000","Kompally, Hyderabad",Hyderabad
+493,2012 Maruti Wagon R 1.0,VXI,Manual,"47,763 km",1st Owner,Petrol,AP-29,"6,158/month","3,15,000","Kompally, Hyderabad",Hyderabad
+494,2016 Hyundai Elite i20,ASTA 1.2,Manual,"54,708 km",1st Owner,Petrol,TS-08,"12,669/month","6,48,000","Kompally, Hyderabad",Hyderabad
+495,2017 Maruti Alto 800,VXI,Manual,"83,771 km",2nd Owner,Petrol,TS-07,"6,178/month","3,16,000","Kompally, Hyderabad",Hyderabad
+496,2016 Maruti Alto 800,LXI O,Manual,"27,136 km",1st Owner,Petrol,TS-07,"6,530/month","3,34,000","Bachupally, Hyderabad",Hyderabad
+497,2019 Ford Ecosport,TITANIUM + 1.5L DIESEL,Manual,"1,08,632 km",1st Owner,Diesel,TS-08,"16,883/month","8,87,000","Kompally, Hyderabad",Hyderabad
+498,2018 Hyundai NEW SANTRO,SPORTZ AMT,Automatic,"84,759 km",2nd Owner,Petrol,TS-09,"10,401/month","5,32,000","Kompally, Hyderabad",Hyderabad
+499,2019 Hyundai NEW SANTRO,SPORTZ AMT,Automatic,"62,936 km",1st Owner,Petrol,TS-08,"10,440/month","5,34,000","Bachupally, Hyderabad",Hyderabad
+500,2017 Maruti Baleno,ZETA PETROL 1.2,Manual,"1,01,863 km",3rd Owner,Petrol,TS-08,"11,711/month","5,99,000","Kompally, Hyderabad",Hyderabad
+501,2019 Maruti S PRESSO,VXI (O),Manual,"99,003 km",1st Owner,Petrol,TS-07,"7,996/month","4,09,000","Bachupally, Hyderabad",Hyderabad
+502,2018 Maruti IGNIS,ALPHA 1.2 DUAL TONE,Manual,"97,644 km",1st Owner,Petrol,TS-08,"11,280/month","5,77,000","Kompally, Hyderabad",Hyderabad
+503,2019 Hyundai NEW SANTRO,SPORTZ AMT,Automatic,"38,264 km",1st Owner,Petrol,TS-07,"10,362/month","5,30,000","Bachupally, Hyderabad",Hyderabad
+504,2019 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"87,189 km",1st Owner,Petrol,TS-11,"10,283/month","5,26,000","Kompally, Hyderabad",Hyderabad
+505,2019 Hyundai NEW SANTRO,SPORTZ MT,Manual,"24,197 km",1st Owner,Petrol,TS-10,"10,362/month","5,30,000","Kompally, Hyderabad",Hyderabad
+506,2021 Honda Jazz,1.2L I-VTEC ZX,Manual,"42,674 km",1st Owner,Petrol,TS-15,"16,103/month","8,46,000","Attapur, Hyderabad",Hyderabad
+507,2019 Hyundai NEW SANTRO,SPORTZ AMT,Automatic,"63,002 km",1st Owner,Petrol,TS-09,"10,264/month","5,25,000","Kompally, Hyderabad",Hyderabad
+508,2022 Maruti S PRESSO,VXI+,Manual,"9,939 km",2nd Owner,Petrol,TS-27,"10,498/month","5,37,000","Kompally, Hyderabad",Hyderabad
+509,2016 Honda Jazz,1.5L I-DTEC V,Manual,"1,16,979 km",2nd Owner,Diesel,TS-13,"11,124/month","5,69,000","Attapur, Hyderabad",Hyderabad
+510,2019 Hyundai NEW SANTRO,ASTA MT,Manual,"24,978 km",2nd Owner,Petrol,TS-15,"10,205/month","5,22,000","Attapur, Hyderabad",Hyderabad
+511,2012 Maruti Wagon R 1.0,LXI,Manual,"65,761 km",2nd Owner,Petrol,AP-09,"6,197/month","3,17,000","Bachupally, Hyderabad",Hyderabad
+512,2012 Maruti Wagon R 1.0,VXI,Manual,"29,994 km",2nd Owner,Petrol,AP-09,"6,686/month","3,42,000","Bachupally, Hyderabad",Hyderabad
+513,2021 Nissan MAGNITE,XE,Manual,"18,745 km",1st Owner,Petrol,TS-08,"11,671/month","5,97,000","Attapur, Hyderabad",Hyderabad
+514,2018 Volkswagen Polo,COMFORTLINE 1.0L MPI,Manual,"32,406 km",2nd Owner,Petrol,TS-10,"11,202/month","5,73,000","Kompally, Hyderabad",Hyderabad
+515,2016 Datsun Go Plus,T,Manual,"1,14,535 km",1st Owner,Petrol,TS-09,"5,103/month","2,61,000","Kompally, Hyderabad",Hyderabad
+516,2013 Volkswagen Vento,COMFORTLINE DIESEL 1.6,Manual,"1,10,807 km",2nd Owner,Diesel,AP-10,"7,488/month","3,83,000","Bachupally, Hyderabad",Hyderabad
+517,2020 Maruti Dzire,VXI,Manual,"63,899 km",1st Owner,Petrol,TS-30,"13,548/month","6,93,000","Kompally, Hyderabad",Hyderabad
+518,2011 Maruti Swift Dzire,VXI,Manual,"45,783 km",1st Owner,Petrol,AP-10,"5,943/month","3,04,000","Bachupally, Hyderabad",Hyderabad
+519,2016 Renault Kwid,RXT 0.8 (O),Manual,"42,203 km",2nd Owner,Petrol,TS-09,"5,826/month","2,98,000","Kompally, Hyderabad",Hyderabad
+520,2010 Honda City,1.5L I-VTEC S MT,Manual,"79,980 km",1st Owner,Petrol,AP-09,"5,943/month","3,04,000","Kompally, Hyderabad",Hyderabad
+521,2017 Maruti Dzire,ZXI,Manual,"54,855 km",1st Owner,Petrol,TS-11,"11,808/month","6,04,000","Bachupally, Hyderabad",Hyderabad
+522,2020 Maruti New Wagon-R,LXI CNG 1.0,Manual,"64,584 km",1st Owner,CNG,TS-07,"11,144/month","5,70,000","Bachupally, Hyderabad",Hyderabad
+523,2017 Renault Kwid,RXT 1.0,Manual,"65,192 km",1st Owner,Petrol,TS-08,"5,904/month","3,02,000","Bachupally, Hyderabad",Hyderabad
+524,2015 Hyundai Verna,FLUIDIC 4S 1.6 VTVT S(O),Manual,"1,05,210 km",1st Owner,Petrol,TS-07,"11,026/month","5,64,000","Bachupally, Hyderabad",Hyderabad
+525,2012 Renault Duster,85 PS RXL DIESEL,Manual,"67,879 km",1st Owner,Diesel,TS-09,"7,781/month","3,98,000","Bachupally, Hyderabad",Hyderabad
+526,2011 Hyundai i20,MAGNA (O) 1.4 CRDI,Manual,"89,927 km",2nd Owner,Diesel,AP-10,"5,455/month","2,79,000","Bachupally, Hyderabad",Hyderabad
+527,2016 Volkswagen Polo,HIGHLINE1.2L,Manual,"80,912 km",2nd Owner,Petrol,TS-09,"9,638/month","4,93,000","Attapur, Hyderabad",Hyderabad
+528,2011 Nissan Micra,XV PREMIUM DIESEL,Manual,"85,819 km",2nd Owner,Diesel,AP-28,"4,438/month","2,27,000","Bachupally, Hyderabad",Hyderabad
+529,2017 Maruti Dzire,ZXI PLUS,Manual,"90,013 km",2nd Owner,Petrol,TS-07,"11,437/month","5,85,000","Kompally, Hyderabad",Hyderabad
+530,2012 Maruti Swift Dzire,VDI,Manual,"99,334 km",1st Owner,Diesel,AP-13,"7,957/month","4,07,000","Kompally, Hyderabad",Hyderabad
+531,2013 Hyundai i20,ASTA 1.2,Manual,"74,743 km",2nd Owner,Petrol,AP-28,"7,761/month","3,97,000","Kompally, Hyderabad",Hyderabad
+532,2010 Hyundai Santro Xing,GL,Manual,"81,753 km",1st Owner,Petrol,AP-13,"3,441/month","1,76,000","Attapur, Hyderabad",Hyderabad
+533,2020 Maruti Vitara Brezza,ZXI PLUS,Manual,"49,498 km",1st Owner,Petrol,TS-08,"16,198/month","8,51,000","Attapur, Hyderabad",Hyderabad
+534,2021 Maruti Swift,LXI,Manual,"1,18,937 km",1st Owner,Petrol,TS-15,"11,535/month","5,90,000","Kompally, Hyderabad",Hyderabad
+535,2019 Honda Amaze,1.2L I-VTEC S,Manual,"37,566 km",2nd Owner,Petrol,TS-13,"12,160/month","6,22,000","Kompally, Hyderabad",Hyderabad
+536,2019 Maruti Dzire,VXI AMT,Automatic,"20,199 km",2nd Owner,Petrol,TS-13,"12,903/month","6,60,000","Kompally, Hyderabad",Hyderabad
+537,2010 Maruti Alto,LXI,Manual,"55,024 km",1st Owner,Petrol,AP-09,"3,480/month","1,78,000","Kompally, Hyderabad",Hyderabad
+538,2018 Maruti Dzire,ZXI,Manual,"33,444 km",1st Owner,Petrol,TS-10,"12,903/month","6,60,000","Kompally, Hyderabad",Hyderabad
+539,2013 Maruti Swift Dzire,VDI,Manual,"99,860 km",1st Owner,Diesel,AP-13,"8,328/month","4,26,000","Kompally, Hyderabad",Hyderabad
+540,2021 Hyundai VENUE,SX 1.0 TURBO,Manual,"44,700 km",1st Owner,Petrol,TS-30,"17,607/month","9,25,000","Kompally, Hyderabad",Hyderabad
+541,2018 Hyundai Creta,E PLUS 1.6 PETROL,Manual,"63,888 km",1st Owner,Petrol,TS-08,"16,065/month","8,44,000","Kompally, Hyderabad",Hyderabad
+542,2022 Maruti Baleno,ZETA PETROL 1.2,Manual,"31,735 km",1st Owner,Petrol,TS-08,"15,249/month","7,80,000","Kompally, Hyderabad",Hyderabad
+543,2018 Maruti Vitara Brezza,LDI,Manual,"70,167 km",2nd Owner,Diesel,TS-13,"13,451/month","6,88,000","Bachupally, Hyderabad",Hyderabad
+544,2013 Maruti Swift,VDI,Manual,"85,507 km",2nd Owner,Diesel,AP-09,"8,094/month","4,14,000","Kompally, Hyderabad",Hyderabad
+545,2018 Mahindra Scorpio,S5,Manual,"84,249 km",1st Owner,Diesel,TS-07,"19,434/month","10,21,000","Kompally, Hyderabad",Hyderabad
+546,2017 Maruti Dzire,ZDI PLUS,Manual,"71,821 km",1st Owner,Diesel,TS-08,"14,917/month","7,63,000","Kompally, Hyderabad",Hyderabad
+547,2017 Hyundai Eon,MAGNA +,Manual,"43,698 km",1st Owner,Petrol,TS-08,"5,357/month","2,74,000","Attapur, Hyderabad",Hyderabad
+548,2015 Maruti Alto K10,VXI,Manual,"1,10,874 km",1st Owner,Petrol,TS-07,"4,575/month","2,34,000","Kompally, Hyderabad",Hyderabad
+549,2010 Maruti Swift,VXI,Manual,"44,287 km",1st Owner,Petrol,AP-10,"6,061/month","3,10,000","Attapur, Hyderabad",Hyderabad
+550,2017 Hyundai Elite i20,MAGNA 1.4 AT,Automatic,"32,289 km",2nd Owner,Petrol,TS-10,"13,177/month","6,74,000","Kompally, Hyderabad",Hyderabad
+551,2018 Datsun Redi Go,T(O) 1.0 AMT,Automatic,"16,178 km",1st Owner,Petrol,TS-10,"6,295/month","3,22,000","Attapur, Hyderabad",Hyderabad
+552,2015 Honda City,1.5L I-DTEC S,Manual,"90,330 km",2nd Owner,Diesel,TS-09,"9,247/month","4,73,000","Attapur, Hyderabad",Hyderabad
+553,2015 Datsun Go,T (O),Manual,"67,698 km",2nd Owner,Petrol,TS-09,"4,907/month","2,51,000","Kompally, Hyderabad",Hyderabad
+554,2018 Hyundai Xcent,SX 1.2 CRDI OPT,Manual,"46,923 km",2nd Owner,Diesel,TS-13,"13,196/month","6,75,000","Attapur, Hyderabad",Hyderabad
+555,2017 Maruti Wagon R 1.0,VXI AMT,Automatic,"52,791 km",1st Owner,Petrol,TS-09,"7,722/month","3,95,000","Kompally, Hyderabad",Hyderabad
+556,2012 Maruti Alto K10,LXI,Manual,"77,013 km",2nd Owner,Petrol,AP-28,"3,812/month","1,95,000","Bachupally, Hyderabad",Hyderabad
+557,2019 Mahindra XUV 3OO,W8 1.5 DIESEL,Manual,"90,349 km",1st Owner,Diesel,TS-09,"16,617/month","8,73,000","Kompally, Hyderabad",Hyderabad
+558,2020 Maruti Swift,VXI,Manual,"69,199 km",1st Owner,Petrol,TS-09,"11,965/month","6,12,000","Kompally, Hyderabad",Hyderabad
+559,2015 Maruti Swift,VXI,Manual,"59,990 km",1st Owner,Petrol,TS-09,"9,032/month","4,62,000","Bachupally, Hyderabad",Hyderabad
+560,2017 Volkswagen Polo,HIGHLINE1.2L,Manual,"54,327 km",1st Owner,Petrol,TS-07,"12,551/month","6,42,000","Bachupally, Hyderabad",Hyderabad
+561,2016 Maruti Swift Dzire,VXI,Manual,"94,426 km",1st Owner,Petrol,TS-08,"10,186/month","5,21,000","Bachupally, Hyderabad",Hyderabad
+562,2019 KIA SELTOS,HTX IVT 1.5 PETROL,Automatic,"78,396 km",1st Owner,Petrol,TS-15,"23,640/month","12,42,000","Kompally, Hyderabad",Hyderabad
+563,2016 Maruti Swift Dzire,ZDI AMT,Automatic,"85,948 km",1st Owner,Diesel,TS-08,"12,629/month","6,46,000","Attapur, Hyderabad",Hyderabad
+564,2017 Honda City,V MT PETROL,Manual,"62,475 km",1st Owner,Petrol,TS-07,"13,568/month","6,94,000","Attapur, Hyderabad",Hyderabad
+565,2013 Maruti Swift,ZDI,Manual,"69,492 km",2nd Owner,Diesel,AP-28,"8,934/month","4,57,000","Kompally, Hyderabad",Hyderabad
+566,2022 Maruti Celerio,ZXI,Manual,"18,977 km",1st Owner,Petrol,TS-11,"10,850/month","5,55,000","Bachupally, Hyderabad",Hyderabad
+567,2019 Maruti Baleno,ZETA PETROL 1.2,Manual,"42,783 km",2nd Owner,Petrol,TS-10,"13,568/month","6,94,000","Kompally, Hyderabad",Hyderabad
+568,2010 Hyundai i10,MAGNA 1.2,Manual,"65,303 km",1st Owner,Petrol,AP-09,"4,888/month","2,50,000","Kompally, Hyderabad",Hyderabad
+569,2017 Maruti Vitara Brezza,VDI (O),Manual,"89,681 km",1st Owner,Diesel,TS-07,"14,702/month","7,52,000","Bachupally, Hyderabad",Hyderabad
+570,2019 Renault Kwid,RXT,Manual,"44,363 km",2nd Owner,Petrol,TS-11,"7,507/month","3,84,000","Kompally, Hyderabad",Hyderabad
+571,2016 Maruti Swift Dzire,VDI ABS,Manual,"95,745 km",3rd Owner,Diesel,TS-12,"10,929/month","5,59,000","Attapur, Hyderabad",Hyderabad
+572,2012 Maruti Alto,LXI,Manual,"53,338 km",2nd Owner,Petrol,AP-10,"3,890/month","1,99,000","Kompally, Hyderabad",Hyderabad
+573,2018 Honda Amaze,1.2L I-VTEC S CVT,Automatic,"31,289 km",2nd Owner,Petrol,TS-08,"13,392/month","6,85,000","Bachupally, Hyderabad",Hyderabad
+574,2016 Maruti Alto 800,LXI,Manual,"19,070 km",1st Owner,Petrol,TS-13,"5,142/month","2,63,000","Kompally, Hyderabad",Hyderabad
+575,2016 Maruti Alto 800,LXI,Manual,"60,610 km",2nd Owner,Petrol,TS-07,"4,751/month","2,43,000","Kompally, Hyderabad",Hyderabad
+576,2018 Mahindra Thar,CRDE 4X4 AC,Manual,"90,305 km",2nd Owner,Diesel,TS-29,"14,682/month","7,51,000","Kompally, Hyderabad",Hyderabad
+577,2010 Maruti Ritz,VXI GENUS,Manual,"63,764 km",1st Owner,Petrol,AP-09,"5,846/month","2,99,000","Bachupally, Hyderabad",Hyderabad
+578,2021 Tata NEXON,XMA SUNROOF PETROL,Automatic,"54,783 km",1st Owner,Petrol,TS-09,"17,074/month","8,97,000","Kompally, Hyderabad",Hyderabad
+579,2019 Maruti Dzire,ZDI AMT,Automatic,"97,112 km",1st Owner,Diesel,TS-03,"15,230/month","7,79,000","Bachupally, Hyderabad",Hyderabad
+580,2013 Maruti Alto 800,LXI,Manual,"64,268 km",2nd Owner,Petrol,AP-01,"4,027/month","2,06,000","Bachupally, Hyderabad",Hyderabad
+581,2017 Hyundai Xcent,SX 1.2 (O),Manual,"36,140 km",1st Owner,Petrol,TS-13,"11,046/month","5,65,000","Kompally, Hyderabad",Hyderabad
+582,2016 Maruti Swift Dzire,VXI,Manual,"42,861 km",2nd Owner,Petrol,TS-07,"11,026/month","5,64,000","Kompally, Hyderabad",Hyderabad
+583,2018 Tata Tiago,XT PETROL,Manual,"44,315 km",1st Owner,Petrol,TS-08,"8,798/month","4,50,000","Kompally, Hyderabad",Hyderabad
+584,2011 Hyundai i10,MAGNA 1.2,Manual,"95,916 km",2nd Owner,Petrol,AP-28,"4,809/month","2,46,000","Bachupally, Hyderabad",Hyderabad
+585,2010 Hyundai Santro Xing,GLS,Manual,"90,382 km",2nd Owner,Petrol,AP-23,"3,890/month","1,99,000","Kompally, Hyderabad",Hyderabad
+586,2016 Datsun Go,T,Manual,"67,429 km",1st Owner,Petrol,TS-10,"5,709/month","2,92,000","Bachupally, Hyderabad",Hyderabad
+587,2019 Hyundai GRAND I10 NIOS,SPORTZ U2 AMT 1.2 CRDI,Automatic,"34,348 km",1st Owner,Diesel,TS-13,"14,076/month","7,20,000","Kompally, Hyderabad",Hyderabad
+588,2019 Maruti Swift,VXI,Manual,"42,662 km",1st Owner,Petrol,TS-13,"12,278/month","6,28,000","Bachupally, Hyderabad",Hyderabad
+589,2019 Maruti Baleno,DELTA PETROL 1.2,Manual,"1,05,614 km",1st Owner,Petrol,TS-07,"12,336/month","6,31,000","Attapur, Hyderabad",Hyderabad
+590,2014 Maruti Swift Dzire,VDI,Manual,"73,626 km",1st Owner,Diesel,TS-09,"9,619/month","4,92,000","Kompally, Hyderabad",Hyderabad
+591,2021 Tata Safari,XT PLUS,Manual,"30,198 km",1st Owner,Diesel,TS-15,"33,424/month","17,56,000","Kompally, Hyderabad",Hyderabad
+592,2018 Mahindra XUV500,W10 1.99,Manual,"1,24,586 km",1st Owner,Diesel,TS-13,"23,583/month","12,39,000","Attapur, Hyderabad",Hyderabad
+593,2018 Maruti Alto 800,VXI,Manual,"63,178 km",1st Owner,Petrol,TS-08,"5,533/month","2,83,000","Kompally, Hyderabad",Hyderabad
+594,2017 Datsun Go,T,Manual,"72,762 km",1st Owner,Petrol,TS-09,"5,650/month","2,89,000","Bachupally, Hyderabad",Hyderabad
+595,2019 Volkswagen Polo,COMFORTLINE 1.0L TSI,Manual,"90,101 km",2nd Owner,Petrol,TS-03,"10,225/month","5,23,000","Kompally, Hyderabad",Hyderabad
+596,2022 Maruti Swift,VXI,Manual,"41,843 km",1st Owner,Petrol,TS-10,"14,076/month","7,20,000","Kompally, Hyderabad",Hyderabad
+597,2014 Honda City,1.5L I-DTEC VX,Manual,"79,189 km",2nd Owner,Diesel,TS-09,"10,694/month","5,47,000","Kompally, Hyderabad",Hyderabad
+598,2018 Renault Kwid,1.0 MARVEL CAPTAIN AMERICA EDITION AMT,Automatic,"74,390 km",2nd Owner,Petrol,TS-07,"7,879/month","4,03,000","Attapur, Hyderabad",Hyderabad
+599,2013 Hyundai Eon,ERA +,Manual,"89,559 km",1st Owner,Petrol,AP-28,"4,516/month","2,31,000","Attapur, Hyderabad",Hyderabad
+600,2019 Hyundai VENUE,SX PLUS 1.0 TURBO DCT,Automatic,"20,778 km",1st Owner,Petrol,TS-13,"19,529/month","10,26,000","Kompally, Hyderabad",Hyderabad
+601,2012 Nissan Micra,XV PETROL,Manual,"95,802 km",1st Owner,Petrol,AP-09,"4,966/month","2,54,000","Attapur, Hyderabad",Hyderabad
+602,2021 Renault TRIBER,RXT AMT,Automatic,"18,023 km",1st Owner,Petrol,TS-08,"13,431/month","6,87,000","Kompally, Hyderabad",Hyderabad
+603,2017 Hyundai Verna,1.6 VTVT SX,Manual,"45,993 km",1st Owner,Petrol,TS-08,"12,903/month","6,60,000","Attapur, Hyderabad",Hyderabad
+604,2015 Maruti Swift,VDI ABS,Manual,"58,241 km",1st Owner,Diesel,TS-07,"11,261/month","5,76,000","Bachupally, Hyderabad",Hyderabad
+605,2013 Maruti Swift,VXI,Manual,"36,577 km",3rd Owner,Petrol,AP-29,"7,879/month","4,03,000","Kompally, Hyderabad",Hyderabad
+606,2012 Maruti Swift,VXI,Manual,"53,072 km",1st Owner,Petrol,AP-28,"7,664/month","3,92,000","Kompally, Hyderabad",Hyderabad
+607,2014 Maruti Swift,VXI,Manual,"94,540 km",1st Owner,Petrol,TS-07,"7,996/month","4,09,000","Kompally, Hyderabad",Hyderabad
+608,2017 Maruti Swift,ZXI,Manual,"71,050 km",1st Owner,Petrol,TS-10,"10,401/month","5,32,000","Bachupally, Hyderabad",Hyderabad
+609,2015 Maruti Alto K10,VXI AMT,Automatic,"51,281 km",2nd Owner,Petrol,TS-09,"5,924/month","3,03,000","Kompally, Hyderabad",Hyderabad
+610,2016 Maruti Swift Dzire,VXI (O),Manual,"90,133 km",2nd Owner,Petrol,TS-07,"10,518/month","5,38,000","Kompally, Hyderabad",Hyderabad
+611,2013 Hyundai Eon,ERA +,Manual,"71,364 km",1st Owner,Petrol,AP-13,"4,633/month","2,37,000","Attapur, Hyderabad",Hyderabad
+612,2012 Maruti Alto,LXI,Manual,"64,934 km",2nd Owner,Petrol,AP-11,"3,890/month","1,99,000","Kompally, Hyderabad",Hyderabad
+613,2021 Hyundai ALCAZAR,1.5 SIGNATURE (O) AT 6STR,Automatic,"29,261 km",1st Owner,Diesel,TS-11,"37,402/month","19,65,000","Bachupally, Hyderabad",Hyderabad
+614,2018 Maruti Alto K10,VXI,Manual,"54,611 km",1st Owner,Petrol,TS-15,"7,234/month","3,70,000","Attapur, Hyderabad",Hyderabad
+615,2018 Datsun Redi Go,S 1.0 AMT,Automatic,"34,657 km",1st Owner,Petrol,TS-09,"6,334/month","3,24,000","Attapur, Hyderabad",Hyderabad
+616,2010 Hyundai Santro Xing,GLS,Manual,"95,627 km",3rd Owner,Petrol,AP-09,"4,008/month","2,05,000","Kompally, Hyderabad",Hyderabad
+617,2011 Hyundai i10,MAGNA 1.2,Manual,"96,502 km",1st Owner,Petrol,AP-10,"5,415/month","2,77,000","Bachupally, Hyderabad",Hyderabad
+618,2017 Volkswagen Ameo,HIGHLINE1.5L,Manual,"34,661 km",1st Owner,Diesel,TS-09,"12,062/month","6,17,000","Attapur, Hyderabad",Hyderabad
+619,2022 Tata NEXON,XZ PLUS DIESEL DARK EDITION,Manual,"55,420 km",1st Owner,Diesel,TS-08,"22,022/month","11,57,000","Bachupally, Hyderabad",Hyderabad
+620,2021 Honda Amaze,1.2L I-VTEC S,Manual,"16,811 km",1st Owner,Petrol,TS-07,"13,939/month","7,13,000","Attapur, Hyderabad",Hyderabad
+621,2012 Hyundai i20,ASTA 1.2,Manual,"91,703 km",1st Owner,Petrol,AP-28,"8,993/month","4,60,000","Kompally, Hyderabad",Hyderabad
+622,2018 Renault Kwid,RXT 1.0 (O),Manual,"96,475 km",1st Owner,Petrol,TS-29,"7,292/month","3,73,000","Attapur, Hyderabad",Hyderabad
+623,2014 Honda City,SV MT PETROL,Manual,"66,059 km",1st Owner,Petrol,TS-12,"10,205/month","5,22,000","Bachupally, Hyderabad",Hyderabad
+624,2011 Maruti Wagon R 1.0,LXI,Manual,"1,15,218 km",1st Owner,Petrol,AP-09,"4,946/month","2,53,000","Kompally, Hyderabad",Hyderabad
+625,2019 Honda Amaze,1.2L I-VTEC VX,Manual,"54,042 km",1st Owner,Petrol,TS-07,"13,587/month","6,95,000","Kompally, Hyderabad",Hyderabad
+626,2016 Maruti Vitara Brezza,ZDI,Manual,"1,05,562 km",1st Owner,Diesel,TS-07,"15,425/month","7,89,000","Kompally, Hyderabad",Hyderabad
+627,2018 Maruti Celerio X,Zxi,Manual,"54,156 km",1st Owner,Petrol,TS-07,"8,367/month","4,28,000","Attapur, Hyderabad",Hyderabad
+628,2019 Hyundai NEW SANTRO,MAGNA AMT,Automatic,"37,446 km",1st Owner,Petrol,TS-07,"9,501/month","4,86,000","Attapur, Hyderabad",Hyderabad
+629,2022 Maruti BREZZA,VXI AT SMART HYBRID,Automatic,"15,524 km",1st Owner,Petrol,TS-07,"21,604/month","11,35,000","Attapur, Hyderabad",Hyderabad
+630,2011 Hyundai i10,MAGNA 1.2,Manual,"62,061 km",3rd Owner,Petrol,AP-10,"4,927/month","2,52,000","Attapur, Hyderabad",Hyderabad
+631,2017 Maruti Wagon R 1.0,VXI,Manual,"59,084 km",2nd Owner,Petrol,TS-13,"8,133/month","4,16,000","Bachupally, Hyderabad",Hyderabad
+632,2019 Maruti New Wagon-R,VXI 1.2,Manual,"29,734 km",1st Owner,Petrol,TS-09,"10,498/month","5,37,000","Attapur, Hyderabad",Hyderabad
+633,2017 Hyundai Creta,SX PLUS 1.6 DIESEL DUAL TONE,Manual,"1,14,152 km",1st Owner,Diesel,TS-08,"19,339/month","10,16,000","Kompally, Hyderabad",Hyderabad
+634,2021 Tata NEXON,XM SUNROOF PETROL,Manual,"44,641 km",1st Owner,Petrol,TS-35,"16,712/month","8,78,000","Kompally, Hyderabad",Hyderabad
+635,2019 Maruti Vitara Brezza,VDI,Manual,"1,09,271 km",1st Owner,Diesel,TS-08,"15,523/month","7,94,000","Kompally, Hyderabad",Hyderabad
+636,2018 Tata Tiago,XT PETROL,Manual,"38,851 km",1st Owner,Petrol,TS-07,"9,404/month","4,81,000","Attapur, Hyderabad",Hyderabad
+637,2013 Maruti Alto 800,LXI,Manual,"56,133 km",2nd Owner,Petrol,AP-09,"4,262/month","2,18,000","Kompally, Hyderabad",Hyderabad
+638,2016 Datsun Go,T,Manual,"1,14,369 km",1st Owner,Petrol,TS-07,"5,279/month","2,70,000","Attapur, Hyderabad",Hyderabad
+639,2018 Hyundai Elite i20,ASTA 1.4 CRDI (O),Manual,"75,231 km",1st Owner,Diesel,TS-07,"15,015/month","7,68,000","Kompally, Hyderabad",Hyderabad
+640,2017 Maruti Dzire,VDI AMT,Automatic,"1,09,700 km",1st Owner,Diesel,TS-06,"13,392/month","6,85,000","Attapur, Hyderabad",Hyderabad
+641,2017 Maruti Swift,VDI ABS,Manual,"1,05,133 km",1st Owner,Diesel,TS-07,"11,144/month","5,70,000","Kompally, Hyderabad",Hyderabad
+642,2019 Volkswagen Ameo,COMFORTLINE 1.0L,Manual,"47,495 km",1st Owner,Petrol,TS-07,"11,574/month","5,92,000","Kompally, Hyderabad",Hyderabad
+643,2019 Ford Ecosport,TITANIUM 1.5L DIESEL,Manual,"50,295 km",1st Owner,Diesel,TS-07,"15,418/month","8,10,000","Bachupally, Hyderabad",Hyderabad
+644,2016 Maruti Baleno,ALPHA PETROL 1.2,Manual,"87,983 km",2nd Owner,Petrol,TS-13,"10,987/month","5,62,000","Kompally, Hyderabad",Hyderabad
+645,2016 Maruti Wagon R 1.0,VXI,Manual,"46,563 km",2nd Owner,Petrol,TS-11,"7,312/month","3,74,000","Kompally, Hyderabad",Hyderabad
+646,2022 Mahindra BOLERO NEO,N 10 (O),Manual,"63,752 km",1st Owner,Diesel,TS-09,"22,689/month","11,92,000","Kompally, Hyderabad",Hyderabad
+647,2017 Maruti Swift,VDI (O),Manual,"58,006 km",1st Owner,Diesel,TS-09,"11,887/month","6,08,000","Bachupally, Hyderabad",Hyderabad
+648,2018 Tata NEXON,XZA PLUS DIESEL DUAL TONE,Automatic,"1,06,467 km",1st Owner,Diesel,TS-07,"15,601/month","7,98,000","Kompally, Hyderabad",Hyderabad
+649,2015 Maruti Swift Dzire,ZXI,Manual,"52,315 km",1st Owner,Petrol,TS-09,"11,750/month","6,01,000","Attapur, Hyderabad",Hyderabad
+650,2020 Ford FREESTYLE,TITANIUM 1.5 DIESEL,Manual,"38,278 km",2nd Owner,Diesel,TS-17,"13,959/month","7,14,000","Attapur, Hyderabad",Hyderabad
+651,2016 Hyundai Verna,1.6 CRDI SX,Manual,"65,942 km",2nd Owner,Diesel,TS-09,"13,939/month","7,13,000","Kompally, Hyderabad",Hyderabad
+652,2017 Maruti Vitara Brezza,ZDI,Manual,"64,285 km",1st Owner,Diesel,TS-08,"15,684/month","8,24,000","Attapur, Hyderabad",Hyderabad
+653,2016 Hyundai Eon,ERA +,Manual,"75,961 km",2nd Owner,Petrol,TS-09,"5,181/month","2,65,000","Kompally, Hyderabad",Hyderabad
+654,2019 Maruti Swift,ZXI PLUS,Manual,"64,001 km",2nd Owner,Petrol,TS-07,"13,157/month","6,73,000","Kompally, Hyderabad",Hyderabad
+655,2021 Maruti Vitara Brezza,ZXI PLUS AT SHVS,Automatic,"40,205 km",1st Owner,Petrol,TS-08,"19,757/month","10,38,000","Kompally, Hyderabad",Hyderabad
+656,2018 Mahindra TUV300,T10,Manual,"62,707 km",2nd Owner,Diesel,TS-08,"15,608/month","8,20,000","Kompally, Hyderabad",Hyderabad
+657,2017 Maruti Alto 800,LXI,Manual,"76,580 km",1st Owner,Petrol,TS-07,"5,611/month","2,87,000","Attapur, Hyderabad",Hyderabad
+658,2019 Maruti Dzire,ZXI AMT,Automatic,"54,123 km",1st Owner,Petrol,TS-08,"14,526/month","7,43,000","Bachupally, Hyderabad",Hyderabad
+659,2017 Maruti Wagon R 1.0,VXI AMT,Automatic,"83,980 km",1st Owner,Petrol,TS-08,"8,231/month","4,21,000","Kompally, Hyderabad",Hyderabad
+660,2019 Hyundai NEW SANTRO,SPORTZ MT,Manual,"19,216 km",1st Owner,Petrol,TS-13,"9,677/month","4,95,000","Kompally, Hyderabad",Hyderabad
+661,2018 Renault Kwid,RXT 1.0 AMT (O),Automatic,"48,556 km",1st Owner,Petrol,TS-08,"7,859/month","4,02,000","Bachupally, Hyderabad",Hyderabad
+662,2018 Hyundai Verna,1.6 CRDI SX + AT,Automatic,"76,654 km",1st Owner,Diesel,TS-07,"18,863/month","9,91,000","Kompally, Hyderabad",Hyderabad
+663,2015 Maruti Celerio,ZXI,Manual,"73,069 km",1st Owner,Petrol,TS-09,"7,351/month","3,76,000","Bachupally, Hyderabad",Hyderabad
+664,2022 Tata NEXON,XM PETROL,Manual,"29,196 km",1st Owner,Petrol,TS-04,"17,873/month","9,39,000","Kompally, Hyderabad",Hyderabad
+665,2018 Hyundai Creta,SX AT 1.6 DIESEL,Automatic,"1,05,405 km",1st Owner,Diesel,TS-07,"22,683/month","11,91,700","Bachupally, Hyderabad",Hyderabad
+666,2018 Maruti Dzire,VXI AMT,Automatic,"36,290 km",1st Owner,Petrol,TS-09,"13,411/month","6,86,000","Kompally, Hyderabad",Hyderabad
+667,2017 Maruti Dzire,VDI AMT,Automatic,"49,260 km",1st Owner,Diesel,TS-08,"14,487/month","7,41,000","Kompally, Hyderabad",Hyderabad
+668,2013 Hyundai i10,SPORTZ 1.2 AT,Automatic,"58,466 km",1st Owner,Petrol,AP-10,"7,449/month","3,81,000","Kompally, Hyderabad",Hyderabad
+669,2020 Maruti Baleno,ALPHA PETROL 1.2,Manual,"46,825 km",1st Owner,Petrol,TS-15,"15,265/month","8,02,000","Bachupally, Hyderabad",Hyderabad
+670,2012 Hyundai i10,MAGNA 1.2,Manual,"47,004 km",1st Owner,Petrol,AP-09,"5,846/month","2,99,000","Kompally, Hyderabad",Hyderabad
+671,2021 Maruti Swift,VXI,Manual,"21,219 km",1st Owner,Petrol,TS-08,"14,174/month","7,25,000","Kompally, Hyderabad",Hyderabad
+672,2018 Maruti Vitara Brezza,ZDI PLUS AMT,Automatic,"50,643 km",2nd Owner,Diesel,TS-09,"18,387/month","9,66,000","Kompally, Hyderabad",Hyderabad
+673,2013 Hyundai i20,MAGNA 1.2,Manual,"50,260 km",1st Owner,Petrol,AP-13,"8,524/month","4,36,000","Bachupally, Hyderabad",Hyderabad
+674,2020 Renault Kwid,RXT 0.8,Manual,"22,660 km",1st Owner,Petrol,TS-08,"8,817/month","4,51,000","Attapur, Hyderabad",Hyderabad
+675,2021 Hyundai VENUE,SX (O) 1.5 CRDI,Manual,"58,177 km",1st Owner,Diesel,TS-08,"21,547/month","11,32,000","Bachupally, Hyderabad",Hyderabad
+676,2016 Maruti Swift,VXI,Manual,"62,648 km",1st Owner,Petrol,TS-07,"9,795/month","5,01,000","Kompally, Hyderabad",Hyderabad
+677,2023 Maruti BREZZA,ZXI SMART HYBRID ,Manual,"6,604 km",1st Owner,Petrol,TS-08,"24,268/month","12,75,000","Kompally, Hyderabad",Hyderabad
+678,2016 Maruti Wagon R 1.0,VXI,Manual,"30,978 km",1st Owner,Petrol,TS-09,"7,664/month","3,92,000","Bachupally, Hyderabad",Hyderabad
+679,2016 Maruti Swift,VXI,Manual,"47,462 km",1st Owner,Petrol,TS-07,"9,892/month","5,06,000","Kompally, Hyderabad",Hyderabad
+680,2021 Datsun Go Plus,T,Manual,"48,957 km",1st Owner,Petrol,TS-25,"11,085/month","5,67,000","Kompally, Hyderabad",Hyderabad
+681,2017 Maruti Swift,VDI (O),Manual,"96,391 km",1st Owner,Diesel,TS-07,"11,515/month","5,89,000","Kompally, Hyderabad",Hyderabad
+682,2014 Maruti Alto K10,VXI,Manual,"38,313 km",1st Owner,Petrol,TS-09,"5,670/month","2,90,000","Bachupally, Hyderabad",Hyderabad
+683,2017 Ford Ecosport,TITANIUM 1.5L DIESEL,Manual,"89,576 km",3rd Owner,Diesel,TS-07,"13,216/month","6,76,000","Attapur, Hyderabad",Hyderabad
+684,2012 Maruti Wagon R 1.0,VXI,Manual,"1,13,543 km",2nd Owner,Petrol,AP-09,"5,709/month","2,92,000","Kompally, Hyderabad",Hyderabad
+685,2018 Maruti Swift,ZDI AMT,Automatic,"99,103 km",2nd Owner,Diesel,TS-11,"13,646/month","6,98,000","Kompally, Hyderabad",Hyderabad
+686,2019 Hyundai NEW SANTRO,MAGNA,Manual,"42,285 km",1st Owner,Petrol,TS-07,"8,837/month","4,52,000","Bachupally, Hyderabad",Hyderabad
+687,2014 Maruti Swift,VXI,Manual,"52,507 km",1st Owner,Petrol,TS-10,"9,110/month","4,66,000","Kompally, Hyderabad",Hyderabad
+688,2014 Honda City,1.5L I-DTEC V,Manual,"90,102 km",1st Owner,Diesel,AP-09,"10,596/month","5,42,000","Bachupally, Hyderabad",Hyderabad
+689,2014 Maruti Swift Dzire,VXI,Manual,"37,821 km",1st Owner,Petrol,TS-03,"9,619/month","4,92,000","Attapur, Hyderabad",Hyderabad
+690,2013 Hyundai Grand i10,SPORTZ 1.1 CRDI,Manual,"84,969 km",2nd Owner,Diesel,AP-28,"7,957/month","4,07,000","Kompally, Hyderabad",Hyderabad
+691,2013 Maruti Swift,VXI,Manual,"72,150 km",2nd Owner,Petrol,AP-11,"8,387/month","4,29,000","Attapur, Hyderabad",Hyderabad
+692,2020 Datsun Redi Go,T(O) 1.0 AMT,Automatic,"5,368 km",1st Owner,Petrol,TS-10,"9,501/month","4,86,000","Kompally, Hyderabad",Hyderabad
+693,2015 Maruti Wagon R 1.0,VXI AMT,Automatic,"64,186 km",2nd Owner,Petrol,TS-07,"7,546/month","3,86,000","Attapur, Hyderabad",Hyderabad
+694,2013 Maruti Alto K10,VXI,Manual,"44,245 km",1st Owner,Petrol,AP-24,"4,848/month","2,48,000","Attapur, Hyderabad",Hyderabad
+695,2017 Maruti Dzire,ZXI PLUS AMT,Automatic,"62,535 km",1st Owner,Petrol,TS-09,"13,040/month","6,67,000","Kompally, Hyderabad",Hyderabad
+696,2021 Tata ALTROZ,XT PETROL,Manual,"14,741 km",1st Owner,Petrol,TS-11,"14,506/month","7,42,000","Kompally, Hyderabad",Hyderabad
+697,2022 Maruti S PRESSO,VXI+,Manual,"14,213 km",1st Owner,Petrol,TS-34,"10,694/month","5,47,000","Kompally, Hyderabad",Hyderabad
+698,2018 Hyundai Grand i10,SPORTZ U2 1.2 CRDI,Manual,"88,479 km",1st Owner,Diesel,TS-07,"10,401/month","5,32,000","Kompally, Hyderabad",Hyderabad
+699,2017 Maruti IGNIS,ZETA 1.3 AMT DUAL TONE,Automatic,"81,135 km",2nd Owner,Diesel,TS-09,"11,515/month","5,89,000","Attapur, Hyderabad",Hyderabad
+700,2021 Nissan MAGNITE,XV PREMIUM,Manual,"41,192 km",1st Owner,Petrol,TS-15,"15,551/month","8,17,000","Kompally, Hyderabad",Hyderabad
+701,2012 Maruti Swift,VXI,Manual,"26,749 km",1st Owner,Petrol,AP-29,"7,937/month","4,06,000","Bachupally, Hyderabad",Hyderabad
+702,2021 Maruti Vitara Brezza,LXI,Manual,"45,332 km",1st Owner,Petrol,TS-09,"15,171/month","7,76,000","Bachupally, Hyderabad",Hyderabad
+703,2018 Honda WR-V,1.5L I-DTEC VX MT,Manual,"96,615 km",1st Owner,Diesel,TS-21,"15,562/month","7,96,000","Kompally, Hyderabad",Hyderabad
+704,2013 Maruti Swift,VDI,Manual,"89,197 km",2nd Owner,Diesel,AP-13,"8,407/month","4,30,000","Bachupally, Hyderabad",Hyderabad
+705,2017 Maruti Celerio,ZXI AMT (O),Automatic,"70,666 km",2nd Owner,Petrol,TS-07,"9,716/month","4,97,000","Kompally, Hyderabad",Hyderabad
+706,2016 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"43,566 km",2nd Owner,Petrol,TS-08,"9,834/month","5,03,000","Kompally, Hyderabad",Hyderabad
+707,2018 Datsun Go,T,Manual,"67,527 km",1st Owner,Petrol,TS-08,"6,764/month","3,46,000","Kompally, Hyderabad",Hyderabad
+708,2017 Maruti Alto 800,LXI,Manual,"42,934 km",1st Owner,Petrol,TS-07,"6,021/month","3,08,000","Bachupally, Hyderabad",Hyderabad
+709,2019 Renault Duster,110 PS RXS 4X2 AMT DIESEL,Automatic,"66,721 km",1st Owner,Diesel,TS-07,"17,854/month","9,38,000","Attapur, Hyderabad",Hyderabad
+710,2017 Volkswagen Polo,COMFORTLINE 1.2L,Manual,"1,03,046 km",3rd Owner,Petrol,TS-08,"10,831/month","5,54,000","Kompally, Hyderabad",Hyderabad
+711,2013 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"77,945 km",2nd Owner,Petrol,AP-12,"8,133/month","4,16,000","Attapur, Hyderabad",Hyderabad
+712,2013 Hyundai Grand i10,ASTA 1.1 CRDI,Manual,"54,303 km",1st Owner,Diesel,AP-10,"7,507/month","3,84,000","Kompally, Hyderabad",Hyderabad
+713,2016 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"54,631 km",1st Owner,Petrol,TS-15,"9,834/month","5,03,000","Kompally, Hyderabad",Hyderabad
+714,2021 MG HECTOR,SMART 1.5 PETROL CVT,Automatic,"16,934 km",1st Owner,Petrol,TS-07,"31,197/month","16,39,000","Kompally, Hyderabad",Hyderabad
+715,2012 Hyundai i20,SPORTZ 1.2,Manual,"73,450 km",2nd Owner,Petrol,TS-08,"6,588/month","3,37,000","Kompally, Hyderabad",Hyderabad
+716,2019 Maruti Baleno,ALPHA CVT PETROL 1.2,Automatic,"52,924 km",1st Owner,Petrol,TS-08,"15,093/month","7,72,000","Attapur, Hyderabad",Hyderabad
+717,2013 Maruti Swift Dzire,VDI,Manual,"84,167 km",1st Owner,Diesel,AP-27,"9,756/month","4,99,000","Bachupally, Hyderabad",Hyderabad
+718,2015 Honda City,1.5L I-VTEC SV,Manual,"50,933 km",1st Owner,Petrol,TS-07,"11,711/month","5,99,000","Kompally, Hyderabad",Hyderabad
+719,2014 Maruti Alto 800,LXI,Manual,"46,863 km",2nd Owner,Petrol,TS-07,"5,357/month","2,74,000","Bachupally, Hyderabad",Hyderabad
+720,2012 Hyundai i10,MAGNA 1.2,Manual,"1,03,211 km",2nd Owner,Petrol,TS-15,"5,865/month","3,00,000","Bachupally, Hyderabad",Hyderabad
+721,2013 Hyundai i20,MAGNA (O) 1.2,Manual,"89,318 km",3rd Owner,Petrol,AP-10,"8,113/month","4,15,000","Kompally, Hyderabad",Hyderabad

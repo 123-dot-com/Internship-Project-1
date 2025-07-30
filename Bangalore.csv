@@ -1,0 +1,1365 @@
+Unnamed: 0,Car Title,Car Model,Car Transmission,Car km,Car Owner,Car Fuel type,Car Registration,Car price per month,Car Price,Car Location,location
+0,2017 Maruti Alto K10,VXI OPT,Manual,"20,229 km",2nd Owner,Petrol,KA-04,"6,823/month","3,49,000","Bellahalli, Bengaluru",Bangalore
+1,2015 Maruti Wagon R 1.0,VXI,Manual,"70,067 km",2nd Owner,Petrol,KA-13,"7,194/month","3,68,000","Bellahalli, Bengaluru",Bangalore
+2,2014 Maruti Alto K10,VXI P,Manual,"60,867 km",1st Owner,Petrol,KA-05,"6,139/month","3,14,000","Bellahalli, Bengaluru",Bangalore
+3,2015 Maruti Baleno,ALPHA DIESEL 1.3,Manual,"84,473 km",3rd Owner,Diesel,KA-20,"10,538/month","5,39,000","Bellahalli, Bengaluru",Bangalore
+4,2021 Mahindra Scorpio,S5,Manual,"29,793 km",1st Owner,Diesel,KA-03,"27,181/month","14,28,000","Bellahalli, Bengaluru",Bangalore
+5,2015 Hyundai Creta,SX PLUS 1.6 PETROL,Manual,"51,166 km",2nd Owner,Petrol,KA-05,"15,246/month","8,01,000","Bellahalli, Bengaluru",Bangalore
+6,2020 Mahindra XUV 3OO,W4 1.2 PETROL,Manual,"13,631 km",1st Owner,Petrol,KA-18,"15,190/month","7,77,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+7,2015 Mahindra XUV500,W6,Manual,"54,990 km",1st Owner,Diesel,KA-03,"18,520/month","9,73,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+8,2019 Mahindra XUV500,W7,Manual,"1,47,557 km",1st Owner,Diesel,KA-09,"21,699/month","11,40,000","Bellahalli, Bengaluru",Bangalore
+9,2010 Hyundai i10,SPORTZ 1.2,Manual,"43,529 km",2nd Owner,Petrol,KA-51,"5,279/month","2,70,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+10,2016 Mahindra XUV500,W10 AT,Automatic,"82,825 km",2nd Owner,Diesel,KA-03,"20,614/month","10,83,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+11,2020 Hyundai AURA,S 1.2,Manual,"21,742 km",1st Owner,Petrol,KA-05,"13,978/month","7,15,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+12,2022 Hyundai NEW I20 N LINE,N8 1.0 TURBO GDI IMT,Manual,"19,902 km",2nd Owner,Petrol,KA-01,"22,403/month","11,77,000","Horamavu Agara Road, Bengaluru",Bangalore
+13,2020 Tata NEXON,XZA PLUS PETROL DUAL TONE,Automatic,"19,549 km",1st Owner,Petrol,KA-53,"21,071/month","11,07,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+14,2019 Volkswagen Polo,TRENDLINE 1.0L,Manual,"43,266 km",2nd Owner,Petrol,KA-03,"11,105/month","5,68,000","Sonnappanahalli
+",Bangalore
+15,2010 Maruti A Star,LXI,Manual,"57,664 km",1st Owner,Petrol,KA-02,"4,360/month","2,23,000","Bellahalli, Bengaluru",Bangalore
+16,2012 Hyundai i10,SPORTZ 1.2 AT,Automatic,"38,408 km",2nd Owner,Petrol,KA-53,"7,566/month","3,87,000","GT World Mall, Bengaluru",Bangalore
+17,2016 Maruti Swift,VXI,Manual,"63,411 km",1st Owner,Petrol,KA-41,"11,417/month","5,84,000","Bellahalli, Bengaluru",Bangalore
+18,2021 Hyundai Verna,SX (O) 1.5 VTVT IVT,Automatic,"8,775 km",2nd Owner,Petrol,KA-04,"27,276/month","14,33,000","Bellahalli, Bengaluru",Bangalore
+19,2016 Renault Kwid,RXT 0.8,Manual,"53,145 km",2nd Owner,Petrol,KA-02,"5,963/month","3,05,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+20,2018 Hyundai Verna,1.6 VTVT SX (O) AT,Automatic,"39,968 km",2nd Owner,Petrol,KA-05,"18,977/month","9,97,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+21,2022 Maruti Swift,VXI,Manual,"16,522 km",1st Owner,Petrol,KA-52,"15,132/month","7,74,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+22,2016 Maruti Vitara Brezza,VDI (O),Manual,"64,337 km",3rd Owner,Diesel,KA-50,"12,786/month","6,54,000","Bellahalli, Bengaluru",Bangalore
+23,2020 Tata Tiago,XZ PLUS PETROL,Manual,"13,789 km",1st Owner,Petrol,KA-13,"13,411/month","6,86,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+24,2018 Hyundai Verna,1.4 E PETROL,Manual,"11,375 km",1st Owner,Petrol,KA-04,"15,341/month","8,06,000","Bellahalli, Bengaluru",Bangalore
+25,2012 Maruti Alto 800,LXI,Manual,"73,938 km",1st Owner,Petrol,KA-04,"4,321/month","2,21,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+26,2017 Maruti Dzire,VXI,Manual,"39,070 km",1st Owner,Petrol,KA-03,"13,020/month","6,66,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+27,2017 Maruti Ciaz,ZXI AT,Automatic,"53,226 km",1st Owner,Petrol,KA-53,"13,275/month","6,79,000","Sonnappanahalli
+",Bangalore
+28,2018 Maruti Swift,ZXI PLUS AMT,Automatic,"8,506 km",2nd Owner,Petrol,KA-09,"12,942/month","6,62,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+29,2010 Nissan Micra,XL PETROL,Manual,"34,282 km",1st Owner,Petrol,KA-01,"4,477/month","2,29,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+30,2022 Maruti Swift,VXI,Manual,"8,857 km",2nd Owner,Petrol,KA-19,"14,057/month","7,19,000","GT World Mall, Bengaluru",Bangalore
+31,2017 Maruti Ertiga,VXI,Manual,"62,538 km",1st Owner,Petrol,KA-03,"15,341/month","8,06,000","GT World Mall, Bengaluru",Bangalore
+32,2017 Ford Ecosport,TITANIUM 1.5L PETROL AT,Automatic,"41,134 km",1st Owner,Petrol,KA-03,"14,213/month","7,27,000","Sonnappanahalli
+",Bangalore
+33,2020 Hyundai GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT,Manual,"9,414 km",1st Owner,Petrol,KA-01,"13,099/month","6,70,000","GT World Mall, Bengaluru",Bangalore
+34,2019 Datsun Go Plus,T(O),Manual,"24,895 km",1st Owner,Petrol,KA-05,"9,697/month","4,96,000","Bellahalli, Bengaluru",Bangalore
+35,2016 Maruti Alto K10,VXI,Manual,"65,484 km",3rd Owner,Petrol,KA-50,"6,217/month","3,18,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+36,2018 Maruti Celerio,ZXI D,Manual,"41,594 km",1st Owner,Petrol,KA-05,"9,795/month","5,01,000","Bellahalli, Bengaluru",Bangalore
+37,2019 Hyundai Xcent,SX 1.2,Manual,"25,887 km",1st Owner,Petrol,KA-63,"13,451/month","6,88,000","Sonnappanahalli
+",Bangalore
+38,2020 Renault TRIBER,RXL MT,Manual,"32,937 km",2nd Owner,Petrol,KA-19,"11,476/month","5,87,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+39,2012 Honda Brio,V MT,Manual,"97,335 km",2nd Owner,Petrol,KA-22,"5,709/month","2,92,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+40,2017 Hyundai Grand i10,ASTA 1.2 KAPPA VTVT,Manual,"70,381 km",1st Owner,Petrol,KA-50,"11,046/month","5,65,000","Sonnappanahalli
+",Bangalore
+41,2016 Hyundai Elite i20,SPORTZ 1.2,Manual,"1,04,885 km",1st Owner,Petrol,KA-05,"11,046/month","5,65,000","Horamavu Agara Road, Bengaluru",Bangalore
+42,2015 Maruti Celerio,VXI AMT (O),Automatic,"1,12,268 km",3rd Owner,Petrol,KA-41,"6,784/month","3,47,000","Sonnappanahalli
+",Bangalore
+43,2013 Hyundai i20,SPORTZ 1.2,Manual,"91,716 km",3rd Owner,Petrol,KA-53,"7,155/month","3,66,000","Bellahalli, Bengaluru",Bangalore
+44,2018 Maruti Dzire,VXI AMT,Automatic,"54,137 km",1st Owner,Petrol,KA-05,"12,082/month","6,18,000","Bellahalli, Bengaluru",Bangalore
+45,2016 Hyundai Elite i20,ASTA 1.2,Manual,"73,969 km",1st Owner,Petrol,KA-53,"13,411/month","6,86,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+46,2016 Honda Jazz,1.2L I-VTEC SV,Manual,"56,814 km",1st Owner,Petrol,KA-03,"10,518/month","5,38,000","Horamavu Agara Road, Bengaluru",Bangalore
+47,2015 Maruti Alto 800,LXI,Manual,"52,425 km",1st Owner,Petrol,KA-41,"6,158/month","3,15,000","Sonnappanahalli
+",Bangalore
+48,2016 Mahindra TUV300,T8,Manual,"84,575 km",1st Owner,Diesel,KA-05,"14,252/month","7,29,000","Bellahalli, Bengaluru",Bangalore
+49,2017 Honda Brio,VX AT,Automatic,"42,509 km",2nd Owner,Petrol,KA-05,"10,244/month","5,24,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+50,2018 Hyundai Elite i20,ASTA 1.4 CRDI,Manual,"72,131 km",1st Owner,Diesel,KA-04,"13,783/month","7,05,000","Horamavu Agara Road, Bengaluru",Bangalore
+51,2020 Renault TRIBER,RXZ AMT,Automatic,"7,922 km",1st Owner,Petrol,KA-03,"14,487/month","7,41,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+52,2015 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"4,032 km",2nd Owner,Petrol,KA-01,"10,068/month","5,15,000","GT World Mall, Bengaluru",Bangalore
+53,2013 Maruti Swift,VDI,Manual,"1,13,498 km",1st Owner,Diesel,KA-19,"8,192/month","4,19,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+54,2017 Maruti Baleno,ZETA PETROL 1.2,Manual,"60,624 km",2nd Owner,Petrol,KA-06,"13,196/month","6,75,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+55,2019 Tata NEXON,XZ+ 1.5,Manual,"67,271 km",1st Owner,Diesel,KA-05,"15,722/month","8,26,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+56,2014 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"40,546 km",1st Owner,Petrol,KA-53,"8,719/month","4,46,000","Bellahalli, Bengaluru",Bangalore
+57,2021 KIA SELTOS,HTX 1.5 PETROL,Manual,"7,265 km",1st Owner,Petrol,KA-04,"27,257/month","14,32,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+58,2019 Maruti Ciaz,ALPHA DIESEL 1.5,Manual,"1,22,864 km",2nd Owner,Diesel,KA-02,"14,917/month","7,63,000","Bellahalli, Bengaluru",Bangalore
+59,2016 Maruti Swift,ZXI,Manual,"43,946 km",1st Owner,Petrol,KA-51,"13,177/month","6,74,000","GT World Mall, Bengaluru",Bangalore
+60,2022 Mahindra Scorpio,S7,Manual,"35,182 km",1st Owner,Diesel,KA-34,"30,949/month","16,26,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+61,2019 Maruti Ciaz,ALPHA  AT 1.5 SHVS PETROL,Automatic,"17,674 km",1st Owner,Petrol,KA-50,"18,920/month","9,94,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+62,2011 Hyundai i20,MAGNA (O) 1.2,Manual,"1,48,625 km",2nd Owner,Petrol,KA-51,"5,943/month","3,04,000","Bellahalli, Bengaluru",Bangalore
+63,2019 Tata Harrier,XZ 2.0L Kryotec,Manual,"28,315 km",1st Owner,Diesel,KA-05,"31,007/month","16,29,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+64,2014 Maruti Celerio,VXI AMT,Automatic,"99,227 km",1st Owner,Petrol,KA-50,"7,175/month","3,67,000","Bellahalli, Bengaluru",Bangalore
+65,2021 Toyota Glanza,V,Manual,"13,898 km",1st Owner,Petrol,KA-51,"15,551/month","8,17,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+66,2019 Mahindra XUV 3OO,W6 1.5 DIESEL,Manual,"29,953 km",1st Owner,Diesel,KA-03,"15,951/month","8,38,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+67,2018 Hyundai Elite i20,ASTA 1.2 (O),Manual,"65,015 km",1st Owner,Petrol,KA-40,"13,842/month","7,08,000","Bellahalli, Bengaluru",Bangalore
+68,2019 Hyundai Elite i20,SPORTZ PLUS 1.2,Manual,"65,944 km",2nd Owner,Petrol,KA-20,"12,219/month","6,25,000","Bellahalli, Bengaluru",Bangalore
+69,2015 Renault Duster,RXE PETROL,Manual,"67,363 km",2nd Owner,Petrol,KA-51,"10,205/month","5,22,000","Horamavu Agara Road, Bengaluru",Bangalore
+70,2021 Maruti Celerio,ZXI AMT,Automatic,"12,364 km",1st Owner,Petrol,KA-04,"11,965/month","6,12,000","Bellahalli, Bengaluru",Bangalore
+71,2015 Honda City,1.5L I-VTEC VX CVT,Automatic,"90,333 km",2nd Owner,Petrol,KA-03,"14,252/month","7,29,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+72,2014 Maruti Ertiga,VXI,Manual,"53,766 km",2nd Owner,Petrol,KA-05,"13,118/month","6,71,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+73,2021 Tata Harrier,XT 2.0L KRYOTEC,Manual,"17,841 km",1st Owner,Diesel,KA-51,"31,121/month","16,35,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+74,2017 Honda City,1.5L I-VTEC ZX CVT,Automatic,"62,708 km",1st Owner,Petrol,KA-01,"20,081/month","10,55,000","Bellahalli, Bengaluru",Bangalore
+75,2020 Renault TRIBER,RXZ AMT,Automatic,"42,063 km",1st Owner,Petrol,KA-05,"13,685/month","7,00,000","Sonnappanahalli
+",Bangalore
+76,2015 Maruti Wagon R 1.0,VXI,Manual,"48,394 km",1st Owner,Petrol,KA-55,"7,449/month","3,81,000","Bellahalli, Bengaluru",Bangalore
+77,2019 KIA SELTOS,GTK 1.4 PETROL,Manual,"36,307 km",1st Owner,Petrol,KA-41,"23,012/month","12,09,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+78,2015 Hyundai Elite i20,SPORTZ 1.2 (O),Manual,"26,502 km",2nd Owner,Petrol,KA-03,"10,889/month","5,57,000","Bellahalli, Bengaluru",Bangalore
+79,2020 Mahindra XUV 3OO,W8 1.2 PETROL,Manual,"45,751 km",3rd Owner,Petrol,KA-27,"15,798/month","8,30,000","GT World Mall, Bengaluru",Bangalore
+80,2016 Hyundai i10,MAGNA 1.1,Manual,"29,960 km",1st Owner,Petrol,KA-03,"7,664/month","3,92,000","Bellahalli, Bengaluru",Bangalore
+81,2014 Hyundai i20,ASTA 1.4 CRDI,Manual,"41,425 km",1st Owner,Diesel,KA-03,"10,889/month","5,57,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+82,2018 Honda Amaze,1.2L I-VTEC V,Manual,"51,569 km",2nd Owner,Petrol,KA-03,"11,613/month","5,94,000","Horamavu Agara Road, Bengaluru",Bangalore
+83,2013 Maruti Swift,VXI,Manual,"92,529 km",1st Owner,Petrol,KA-19,"8,426/month","4,31,000","Bellahalli, Bengaluru",Bangalore
+84,2020 Maruti Dzire,VXI,Manual,"30,466 km",1st Owner,Petrol,KA-04,"13,783/month","7,05,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+85,2019 Tata NEXON,XZA PLUS DIESEL,Automatic,"39,154 km",2nd Owner,Diesel,KA-22,"18,920/month","9,94,000","Bellahalli, Bengaluru",Bangalore
+86,2016 Hyundai Verna,FLUIDIC 4S 1.6 VTVT S,Manual,"42,094 km",2nd Owner,Petrol,KA-04,"12,551/month","6,42,000","Bellahalli, Bengaluru",Bangalore
+87,2022 Hyundai NEW I20 N LINE,N8 1.0 TURBO GDI IMT,Manual,"17,418 km",2nd Owner,Petrol,KA-01,"21,585/month","11,34,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+88,2016 Datsun Redi Go,A,Manual,"60,297 km",2nd Owner,Petrol,KA-09,"5,063/month","2,59,000","Horamavu Agara Road, Bengaluru",Bangalore
+89,2017 Maruti Dzire,VDI AMT,Automatic,"83,991 km",1st Owner,Diesel,KA-01,"12,864/month","6,58,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+90,2011 Hyundai i10,SPORTZ 1.2,Manual,"41,802 km",1st Owner,Petrol,KA-53,"6,393/month","3,27,000","Bellahalli, Bengaluru",Bangalore
+91,2011 Maruti Swift,VXI,Manual,"60,020 km",1st Owner,Petrol,KA-05,"7,664/month","3,92,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+92,2021 Hyundai GRAND I10 NIOS,MAGNA 1.2 KAPPA VTVT,Manual,"7,266 km",1st Owner,Petrol,KA-16,"12,493/month","6,39,000","Bellahalli, Bengaluru",Bangalore
+93,2014 Maruti Swift Dzire,VXI,Manual,"26,627 km",1st Owner,Petrol,KA-41,"9,892/month","5,06,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+94,2013 Hyundai Verna,FLUIDIC 1.6 VTVT EX,Manual,"62,799 km",3rd Owner,Petrol,KA-04,"8,641/month","4,42,000","Bellahalli, Bengaluru",Bangalore
+95,2014 Hyundai Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,"68,810 km",2nd Owner,Petrol,KA-02,"7,664/month","3,92,000","Bellahalli, Bengaluru",Bangalore
+96,2015 Hyundai Elite i20,MAGNA 1.2,Manual,"71,332 km",1st Owner,Petrol,KA-04,"10,127/month","5,18,000","Sonnappanahalli
+",Bangalore
+97,2019 Honda Civic,1.8L I-VTEC VX CVT,Automatic,"63,710 km",1st Owner,Petrol,KA-52,"29,960/month","15,74,000","Bellahalli, Bengaluru",Bangalore
+98,2023 Maruti JIMNY,ALPHA ALL GRIP PRO AT,Automatic,"2,013 km",1st Owner,Petrol,KA-03,"33,043/month","17,36,000","Sonnappanahalli
+",Bangalore
+99,2017 Volkswagen Ameo,HIGHLINE DSG 1.5 DIESEL ,Automatic,"78,752 km",2nd Owner,Diesel,KA-41,"11,026/month","5,64,000","Bellahalli, Bengaluru",Bangalore
+100,2021 Toyota Glanza,G,Manual,"13,877 km",1st Owner,Petrol,KA-03,"15,386/month","7,87,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+101,2010 Maruti Ritz,LXI,Manual,"81,225 km",2nd Owner,Petrol,KA-04,"5,435/month","2,78,000","Bellahalli, Bengaluru",Bangalore
+102,2023 Hyundai VENUE,SX 1.2 PETROL,Manual,"7,839 km",1st Owner,Petrol,KA-01,"21,280/month","11,18,000","Sonnappanahalli
+",Bangalore
+103,2017 Hyundai Creta,E PLUS 1.6 PETROL,Manual,"20,134 km",1st Owner,Petrol,KA-04,"18,159/month","9,54,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+104,2016 Hyundai Grand i10,ASTA (O) AT 1.2 KAPPA VTVT,Automatic,"54,659 km",2nd Owner,Petrol,KA-03,"9,365/month","4,79,000","GT World Mall, Bengaluru",Bangalore
+105,2016 Hyundai Verna,FLUIDIC 4S 1.6 VTVT SX,Manual,"93,059 km",2nd Owner,Petrol,KA-03,"12,825/month","6,56,000","Sonnappanahalli
+",Bangalore
+106,2020 Skoda Rapid,ACTIVE 1.0 TSI,Manual,"29,184 km",1st Owner,Petrol,KA-04,"15,621/month","7,99,000","Sonnappanahalli
+",Bangalore
+107,2016 Hyundai i20 Active,1.2 S,Manual,"68,672 km",2nd Owner,Petrol,KA-53,"11,280/month","5,77,000","Bellahalli, Bengaluru",Bangalore
+108,2017 Hyundai Verna,1.6 CRDI SX,Manual,"1,14,521 km",1st Owner,Diesel,KA-13,"14,917/month","7,63,000","Bellahalli, Bengaluru",Bangalore
+109,2018 Hyundai Verna,1.6 EX CRDI,Manual,"76,073 km",1st Owner,Diesel,KA-53,"15,513/month","8,15,000","Bellahalli, Bengaluru",Bangalore
+110,2013 Maruti Ertiga,ZDI,Manual,"80,267 km",1st Owner,Diesel,KA-04,"14,663/month","7,50,000","Bellahalli, Bengaluru",Bangalore
+111,2017 Honda WR-V,1.2L I-VTEC VX MT,Manual,"1,10,630 km",1st Owner,Petrol,KA-02,"14,174/month","7,25,000","GT World Mall, Bengaluru",Bangalore
+112,2018 Renault Kwid,CLIMBER 1.0,Manual,"37,418 km",2nd Owner,Petrol,KA-53,"7,429/month","3,80,000","Sonnappanahalli
+",Bangalore
+113,2015 Maruti Ciaz,ZXI,Manual,"86,851 km",2nd Owner,Petrol,KA-03,"11,183/month","5,72,000","Bellahalli, Bengaluru",Bangalore
+114,2021 Hyundai NEW I20,ASTA (O) 1.0 TURBO GDI DCT,Automatic,"14,951 km",1st Owner,Petrol,KA-05,"20,690/month","10,87,000","Bellahalli, Bengaluru",Bangalore
+115,2017 Hyundai Creta,E PLUS 1.6 PETROL,Manual,"36,540 km",1st Owner,Petrol,KA-12,"16,940/month","8,90,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+116,2016 Mahindra Kuv100,K8 6 STR,Manual,"72,057 km",1st Owner,Petrol,KA-12,"8,172/month","4,18,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+117,2013 Hyundai i20,MAGNA (O) 1.2,Manual,"77,289 km",1st Owner,Petrol,KA-05,"7,585/month","3,88,000","Horamavu Agara Road, Bengaluru",Bangalore
+118,2016 Hyundai Grand i10,ASTA 1.2 KAPPA VTVT,Manual,"26,923 km",1st Owner,Petrol,KA-03,"9,873/month","5,05,000","Horamavu Agara Road, Bengaluru",Bangalore
+119,2016 Hyundai i10,SPORTZ 1.1,Manual,"31,355 km",3rd Owner,Petrol,KA-53,"7,429/month","3,80,000","Bellahalli, Bengaluru",Bangalore
+120,2010 Hyundai i10,ERA 1.1,Manual,"43,679 km",1st Owner,Petrol,KA-51,"5,435/month","2,78,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+121,2021 Renault Kiger,RXZ 1.0 MT,Manual,"12,233 km",1st Owner,Petrol,KA-04,"15,151/month","7,75,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+122,2011 Hyundai i10,SPORTZ 1.2,Manual,"96,116 km",2nd Owner,Petrol,KA-04,"5,709/month","2,92,000","Bellahalli, Bengaluru",Bangalore
+123,2015 Hyundai Elite i20,ASTA 1.2,Manual,"1,02,118 km",2nd Owner,Petrol,KA-02,"9,892/month","5,06,000","Bellahalli, Bengaluru",Bangalore
+124,2016 Hyundai Verna,FLUIDIC 4S 1.6 VTVT SX,Manual,"64,099 km",2nd Owner,Petrol,KA-51,"13,587/month","6,95,000","Horamavu Agara Road, Bengaluru",Bangalore
+125,2013 Hyundai i20,ASTA 1.2,Manual,"21,644 km",2nd Owner,Petrol,KA-05,"9,032/month","4,62,000","Bellahalli, Bengaluru",Bangalore
+126,2017 Hyundai Elite i20,SPORTZ 1.2,Manual,"97,212 km",3rd Owner,Petrol,KA-19,"10,733/month","5,49,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+127,2016 Hyundai Eon,MAGNA +,Manual,"30,906 km",3rd Owner,Petrol,KA-53,"6,061/month","3,10,000","Bellahalli, Bengaluru",Bangalore
+128,2013 Hyundai i10,ERA 1.1,Manual,"46,280 km",2nd Owner,Petrol,KA-02,"5,846/month","2,99,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+129,2016 Honda Brio,S MT,Manual,"29,457 km",2nd Owner,Petrol,KA-53,"8,465/month","4,33,000","Bellahalli, Bengaluru",Bangalore
+130,2018 Volkswagen Ameo,HIGHLINE1.2L PLUS 16 ALLOY,Manual,"35,791 km",1st Owner,Petrol,KA-04,"12,278/month","6,28,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+131,2016 Honda Jazz,1.2L I-VTEC V AT,Automatic,"44,154 km",2nd Owner,Petrol,KA-03,"10,714/month","5,48,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+132,2022 KIA CARENS,LUXURY PLUS 1.4 PETROL 6 STR,Manual,"21,173 km",1st Owner,Petrol,KA-19,"30,569/month","16,06,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+133,2016 Hyundai Elite i20,MAGNA 1.2,Manual,"75,268 km",1st Owner,Petrol,KA-20,"10,596/month","5,42,000","Bellahalli, Bengaluru",Bangalore
+134,2019 Hyundai New Elantra,2.0 SX AT PETROL,Automatic,"24,185 km",1st Owner,Petrol,KA-53,"28,684/month","15,07,000","Bellahalli, Bengaluru",Bangalore
+135,2015 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"33,499 km",3rd Owner,Petrol,KA-04,"8,035/month","4,11,000","GT World Mall, Bengaluru",Bangalore
+136,2017 Nissan Micra,XV CVT,Automatic,"46,468 km",3rd Owner,Petrol,KA-01,"8,778/month","4,49,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+137,2020 Hyundai Creta,SX 1.5 PETROL,Manual,"52,422 km",1st Owner,Petrol,KA-41,"26,667/month","14,01,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+138,2012 Hyundai i10,SPORTZ 1.2 AT,Automatic,"31,474 km",1st Owner,Petrol,KA-50,"7,468/month","3,82,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+139,2021 Hyundai NEW I20,MAGNA 1.2 MT,Manual,"17,929 km",1st Owner,Petrol,KA-05,"13,900/month","7,11,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+140,2022 Skoda SLAVIA,AMBITION 1.0L TSI MT,Manual,"7,281 km",1st Owner,Petrol,KA-05,"25,848/month","13,58,000","Horamavu Agara Road, Bengaluru",Bangalore
+141,2014 Maruti Swift,VXI,Manual,"88,051 km",1st Owner,Petrol,KA-02,"10,068/month","5,15,000","Bellahalli, Bengaluru",Bangalore
+142,2012 Maruti Alto 800,LXI,Manual,"48,775 km",2nd Owner,Petrol,KA-05,"4,790/month","2,45,000","GT World Mall, Bengaluru",Bangalore
+143,2020 Maruti Baleno,DELTA PETROL 1.2,Manual,"22,438 km",1st Owner,Petrol,KA-04,"14,330/month","7,33,000","Horamavu Agara Road, Bengaluru",Bangalore
+144,2018 Ford FREESTYLE,TITANIUM PLUS 1.2 PETROL,Manual,"52,626 km",1st Owner,Petrol,KA-03,"10,850/month","5,55,000","Bellahalli, Bengaluru",Bangalore
+145,2020 Toyota YARIS,J CVT,Automatic,"8,828 km",1st Owner,Petrol,KA-51,"16,883/month","8,87,000","Bellahalli, Bengaluru",Bangalore
+146,2018 Hyundai Elite i20,MAGNA EXECUTIVE CVT,Automatic,"29,246 km",1st Owner,Petrol,KA-53,"13,802/month","7,06,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+147,2018 Honda City,1.5L I-VTEC V MT,Manual,"25,742 km",2nd Owner,Petrol,KA-01,"15,562/month","7,96,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+148,2017 Hyundai i20 Active,1.2 SX,Manual,"32,345 km",2nd Owner,Petrol,KA-53,"13,001/month","6,65,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+149,2012 Hyundai i10,SPORTZ 1.2,Manual,"73,583 km",2nd Owner,Petrol,KA-51,"6,100/month","3,12,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+150,2013 Hyundai i20,MAGNA (O) 1.2,Manual,"66,085 km",1st Owner,Petrol,KA-01,"7,781/month","3,98,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+151,2019 KIA SELTOS,GTX PLUS DCT 1.4 PETROL,Automatic,"24,270 km",2nd Owner,Petrol,KA-01,"27,371/month","14,38,000","Horamavu Agara Road, Bengaluru",Bangalore
+152,2018 Mahindra XUV500,W10 AT,Automatic,"97,053 km",1st Owner,Diesel,KA-03,"27,866/month","14,64,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+153,2020 Renault Duster,RXZ,Manual,"11,201 km",1st Owner,Petrol,KA-03,"19,491/month","10,24,000","Sonnappanahalli
+",Bangalore
+154,2020 Tata ALTROZ,XZ DIESEL,Manual,"58,107 km",1st Owner,Diesel,KA-25,"15,366/month","7,86,000","Bellahalli, Bengaluru",Bangalore
+155,2013 Maruti Alto K10,VXI,Manual,"82,482 km",3rd Owner,Petrol,KA-41,"4,516/month","2,31,000","Bellahalli, Bengaluru",Bangalore
+156,2014 Maruti Swift Dzire,VXI,Manual,"24,526 km",2nd Owner,Petrol,KA-53,"9,912/month","5,07,000","Bellahalli, Bengaluru",Bangalore
+157,2016 Volkswagen Ameo,COMFORTLINE 1.2L,Manual,"31,293 km",1st Owner,Petrol,KA-02,"10,303/month","5,27,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+158,2012 Maruti Alto,LXI,Manual,"1,00,100 km",1st Owner,Petrol,KA-05,"4,516/month","2,31,000","Horamavu Agara Road, Bengaluru",Bangalore
+159,2018 Maruti Swift,VXI AMT,Automatic,"46,009 km",1st Owner,Petrol,KA-05,"12,180/month","6,23,000","Bellahalli, Bengaluru",Bangalore
+160,2015 Maruti Swift Dzire,VDI,Manual,"51,745 km",2nd Owner,Diesel,KA-05,"10,616/month","5,43,000","Sonnappanahalli
+",Bangalore
+161,2016 Maruti Ciaz,ZXI,Manual,"55,437 km",2nd Owner,Petrol,KA-03,"12,766/month","6,53,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+162,2020 Hyundai VENUE,SX 1.0 TURBO,Manual,"46,640 km",2nd Owner,Petrol,KA-05,"17,702/month","9,30,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+163,2018 Ford FREESTYLE,TREND 1.5 DIESEL,Manual,"87,777 km",2nd Owner,Diesel,KA-03,"11,007/month","5,63,000","Bellahalli, Bengaluru",Bangalore
+164,2016 Hyundai Elite i20,ASTA 1.2,Manual,"90,213 km",2nd Owner,Petrol,KA-05,"11,280/month","5,77,000","Horamavu Agara Road, Bengaluru",Bangalore
+165,2017 Tata TIGOR,XZ (O) PETROL,Manual,"18,160 km",1st Owner,Petrol,KA-53,"10,674/month","5,46,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+166,2017 Renault Kwid,RXT 0.8,Manual,"56,637 km",1st Owner,Petrol,KA-08,"6,764/month","3,46,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+167,2016 Hyundai Eon,MAGNA + AIRBAG,Manual,"8,187 km",2nd Owner,Petrol,KA-41,"6,882/month","3,52,000","Bellahalli, Bengaluru",Bangalore
+168,2020 Renault Duster,RXZ 1.5 PETROL MT,Manual,"20,600 km",2nd Owner,Petrol,KA-03,"18,330/month","9,63,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+169,2020 Maruti Dzire,ZXI,Manual,"48,492 km",1st Owner,Petrol,KA-09,"14,780/month","7,56,000","GT World Mall, Bengaluru",Bangalore
+170,2018 Ford FREESTYLE,TITANIUM 1.2 PETROL,Manual,"59,112 km",1st Owner,Petrol,KA-03,"12,023/month","6,15,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+171,2020 Hyundai VENUE,SX (O) 1.5 CRDI,Manual,"65,976 km",2nd Owner,Diesel,KA-17,"19,738/month","10,37,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+172,2016 Maruti Swift,VXI O,Manual,"41,107 km",1st Owner,Petrol,KA-07,"10,518/month","5,38,000","Horamavu Agara Road, Bengaluru",Bangalore
+173,2017 Honda WR-V,1.2L I-VTEC S MT,Manual,"34,636 km",1st Owner,Petrol,KA-01,"13,568/month","6,94,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+174,2017 Maruti Wagon R 1.0,VXI,Manual,"15,993 km",1st Owner,Petrol,KA-04,"8,661/month","4,43,000","Sonnappanahalli
+",Bangalore
+175,2016 Maruti Baleno,DELTA CVT PETROL 1.2,Automatic,"63,328 km",1st Owner,Petrol,KA-01,"11,202/month","5,73,000","Bellahalli, Bengaluru",Bangalore
+176,2016 Maruti Alto 800,LXI,Manual,"44,110 km",2nd Owner,Petrol,KA-04,"5,826/month","2,98,000","Bellahalli, Bengaluru",Bangalore
+177,2013 Honda City,1.5L I-VTEC V MT,Manual,"49,873 km",1st Owner,Petrol,KA-05,"10,616/month","5,43,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+178,2013 Maruti Ertiga,VDI,Manual,"88,808 km",2nd Owner,Diesel,KA-01,"11,984/month","6,13,000","Sonnappanahalli
+",Bangalore
+179,2016 Hyundai Elite i20,ASTA 1.2 (O),Manual,"84,407 km",2nd Owner,Petrol,KA-05,"11,926/month","6,10,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+180,2017 Skoda Rapid,AMBITION 1.6 MPI MT,Manual,"36,024 km",1st Owner,Petrol,KA-03,"13,939/month","7,13,000","Bellahalli, Bengaluru",Bangalore
+181,2016 Honda Amaze,1.2L I-VTEC VX,Manual,"46,099 km",1st Owner,Petrol,KA-04,"10,498/month","5,37,000","Bellahalli, Bengaluru",Bangalore
+182,2016 Volkswagen Ameo,TRENDLINE 1.2L,Manual,"94,548 km",2nd Owner,Petrol,KA-03,"8,270/month","4,23,000","Bellahalli, Bengaluru",Bangalore
+183,2014 Hyundai Eon,MAGNA +,Manual,"29,940 km",1st Owner,Petrol,KA-03,"6,021/month","3,08,000","Sonnappanahalli
+",Bangalore
+184,2017 Volkswagen Ameo,HIGHLINE1.2L,Manual,"59,897 km",1st Owner,Petrol,KA-05,"10,870/month","5,56,000","Sonnappanahalli
+",Bangalore
+185,2018 Tata TIGOR,XZ PLUS PETROL,Manual,"39,682 km",2nd Owner,Petrol,KA-04,"11,691/month","5,98,000","GT World Mall, Bengaluru",Bangalore
+186,2019 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"27,227 km",2nd Owner,Petrol,KA-04,"10,694/month","5,47,000","Bellahalli, Bengaluru",Bangalore
+187,2021 Nissan MAGNITE,XV TURBO,Manual,"13,948 km",1st Owner,Petrol,KA-09,"15,551/month","8,17,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+188,2014 Maruti Swift,VXI,Manual,"45,246 km",1st Owner,Petrol,KA-03,"9,443/month","4,83,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+189,2016 Hyundai i10,MAGNA 1.1,Manual,"42,444 km",1st Owner,Petrol,KA-51,"7,644/month","3,91,000","Bellahalli, Bengaluru",Bangalore
+190,2020 Hyundai GRAND I10 NIOS,MAGNA 1.2 KAPPA VTVT,Manual,"29,618 km",1st Owner,Petrol,KA-05,"12,082/month","6,18,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+191,2022 Nissan MAGNITE,XV PREMIUM,Manual,"18,809 km",2nd Owner,Petrol,KA-03,"16,065/month","8,44,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+192,2016 Hyundai i10,MAGNA 1.1,Manual,"35,851 km",1st Owner,Petrol,KA-42,"7,742/month","3,96,000","Bellahalli, Bengaluru",Bangalore
+193,2018 Maruti Ciaz,ALPHA 1.5 SHVS PETROL,Manual,"34,761 km",1st Owner,Petrol,KA-53,"15,210/month","7,78,000","GT World Mall, Bengaluru",Bangalore
+194,2018 Maruti IGNIS,SIGMA 1.2,Manual,"35,050 km",1st Owner,Petrol,KA-19,"9,677/month","4,95,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+195,2014 Maruti Celerio,VXI,Manual,"54,848 km",1st Owner,Petrol,KA-05,"7,722/month","3,95,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+196,2019 Hyundai NEW SANTRO,MAGNA,Manual,"29,390 km",1st Owner,Petrol,KA-03,"9,247/month","4,73,000","Bellahalli, Bengaluru",Bangalore
+197,2018 Honda City,V MT PETROL,Manual,"49,423 km",1st Owner,Petrol,KA-02,"15,621/month","7,99,000","Bellahalli, Bengaluru",Bangalore
+198,2014 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"38,783 km",1st Owner,Petrol,KA-03,"8,661/month","4,43,000","Bellahalli, Bengaluru",Bangalore
+199,2018 Maruti Alto K10,VXI,Manual,"89,919 km",1st Owner,Petrol,KA-04,"6,002/month","3,07,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+200,2018 Tata Tiago,XZ PETROL,Manual,"38,272 km",2nd Owner,Petrol,KA-51,"9,736/month","4,98,000","Bellahalli, Bengaluru",Bangalore
+201,2015 Maruti Swift,VXI,Manual,"59,296 km",1st Owner,Petrol,MP-04,"9,580/month","4,90,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+202,2016 Honda Jazz,1.2L I-VTEC V,Manual,"47,077 km",1st Owner,Petrol,KA-51,"10,929/month","5,59,000","Bellahalli, Bengaluru",Bangalore
+203,2020 KIA SONET,HTX PLUS 1.5,Manual,"65,561 km",1st Owner,Diesel,KA-04,"21,071/month","11,07,000","GT World Mall, Bengaluru",Bangalore
+204,2012 Renault Pulse,RXL DIESEL,Manual,"96,796 km",1st Owner,Diesel,KA-05,"6,217/month","3,18,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+205,2017 Hyundai Elite i20,ASTA 1.2,Manual,"29,591 km",1st Owner,Petrol,KA-41,"13,411/month","6,86,000","GT World Mall, Bengaluru",Bangalore
+206,2020 Renault Duster,RXZ 1.3 TURBO PETROL MT,Manual,"49,139 km",1st Owner,Petrol,KA-59,"17,416/month","9,15,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+207,2016 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"88,200 km",2nd Owner,Petrol,KA-03,"8,035/month","4,11,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+208,2014 Maruti Swift,VXI,Manual,"71,336 km",1st Owner,Petrol,KA-05,"8,485/month","4,34,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+209,2017 Hyundai Elite i20,ASTA 1.2,Manual,"26,195 km",1st Owner,Petrol,KA-04,"13,099/month","6,70,000","Horamavu Agara Road, Bengaluru",Bangalore
+210,2016 Hyundai Verna,FLUIDIC 4S 1.6 VTVT S,Manual,"62,598 km",1st Owner,Petrol,KA-04,"13,802/month","7,06,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+211,2016 Volkswagen Vento,HIGHLINE PETROL AT,Automatic,"80,842 km",1st Owner,Petrol,KA-04,"15,437/month","8,11,000","Bellahalli, Bengaluru",Bangalore
+212,2021 Renault Kwid,NEOTECH RXL 1.0 AMT,Automatic,"14,365 km",2nd Owner,Petrol,KA-59,"9,951/month","5,09,000","GT World Mall, Bengaluru",Bangalore
+213,2018 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT DUAL TONE,Manual,"24,678 km",1st Owner,Petrol,KA-03,"11,202/month","5,73,000","Bellahalli, Bengaluru",Bangalore
+214,2019 Maruti Celerio,VXI,Manual,"9,067 km",2nd Owner,Petrol,KA-25,"9,443/month","4,83,000","Bellahalli, Bengaluru",Bangalore
+215,2017 Honda Brio,VX AT,Automatic,"39,220 km",1st Owner,Petrol,KA-03,"10,498/month","5,37,000","GT World Mall, Bengaluru",Bangalore
+216,2021 Hyundai NEW I20,ASTA 1.0 GDI TURBO DCT,Automatic,"40,429 km",2nd Owner,Petrol,KA-16,"18,653/month","9,80,000","Bellahalli, Bengaluru",Bangalore
+217,2020 Hyundai GRAND I10 NIOS,ASTA AMT 1.2 KAPPA VTVT,Automatic,"22,234 km",2nd Owner,Petrol,KA-36,"14,076/month","7,20,000","Bellahalli, Bengaluru",Bangalore
+218,2018 Ford FREESTYLE,TITANIUM 1.2 PETROL,Manual,"62,700 km",2nd Owner,Petrol,KA-51,"10,420/month","5,33,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+219,2021 Datsun Redi Go,A,Manual,"11,700 km",1st Owner,Petrol,KA-63,"7,820/month","4,00,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+220,2019 Hyundai Elite i20,ASTA (O) CVT,Automatic,"30,407 km",1st Owner,Petrol,KA-05,"15,425/month","7,89,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+221,2020 KIA SELTOS,HTK PLUS 1.5 DIESEL,Manual,"11,840 km",2nd Owner,Diesel,KA-51,"25,867/month","13,59,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+222,2018 Ford FREESTYLE,TITANIUM 1.2 PETROL,Manual,"38,995 km",3rd Owner,Petrol,KA-01,"11,144/month","5,70,000","Bellahalli, Bengaluru",Bangalore
+223,2014 Hyundai i10,ERA 1.1,Manual,"48,978 km",1st Owner,Petrol,KA-42,"6,745/month","3,45,000","Bellahalli, Bengaluru",Bangalore
+224,2015 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"60,197 km",2nd Owner,Petrol,KA-51,"8,172/month","4,18,000","Bellahalli, Bengaluru",Bangalore
+225,2017 Renault Kwid,RXL 1.0,Manual,"24,810 km",2nd Owner,Petrol,KA-05,"6,999/month","3,58,000","Horamavu Agara Road, Bengaluru",Bangalore
+226,2015 Maruti Swift,VXI,Manual,"63,231 km",2nd Owner,Petrol,KA-01,"9,521/month","4,87,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+227,2015 Hyundai Grand i10,ASTA AT 1.2 KAPPA VTVT,Automatic,"81,868 km",2nd Owner,Petrol,KA-05,"8,700/month","4,45,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+228,2020 Hyundai GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT,Manual,"28,593 km",1st Owner,Petrol,KA-19,"12,669/month","6,48,000","Bellahalli, Bengaluru",Bangalore
+229,2018 Maruti Celerio X,ZXI AMT,Automatic,"42,174 km",1st Owner,Petrol,KA-51,"10,088/month","5,16,000","Bellahalli, Bengaluru",Bangalore
+230,2016 Honda Jazz,1.2L I-VTEC V,Manual,"77,501 km",3rd Owner,Petrol,KA-02,"10,538/month","5,39,000","Bellahalli, Bengaluru",Bangalore
+231,2014 Hyundai Eon,SPORTZ,Manual,"46,345 km",2nd Owner,Petrol,KA-41,"5,748/month","2,94,000","Bellahalli, Bengaluru",Bangalore
+232,2021 Renault Kwid,RXL 1.0,Manual,"15,512 km",2nd Owner,Petrol,KA-51,"8,798/month","4,50,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+233,2018 Hyundai Elite i20,ASTA 1.2,Manual,"36,043 km",2nd Owner,Petrol,KA-53,"13,548/month","6,93,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+234,2019 Maruti Baleno,ZETA PETROL 1.2,Manual,"34,526 km",1st Owner,Petrol,KA-06,"14,936/month","7,64,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+235,2014 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"96,297 km",1st Owner,Petrol,KA-02,"8,094/month","4,14,000","Horamavu Agara Road, Bengaluru",Bangalore
+236,2017 Hyundai Elite i20,ASTA 1.2,Manual,"51,181 km",1st Owner,Petrol,KA-51,"12,493/month","6,39,000","GT World Mall, Bengaluru",Bangalore
+237,2018 Toyota YARIS,J MT,Manual,"24,612 km",1st Owner,Petrol,KA-04,"13,724/month","7,02,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+238,2015 Maruti Celerio,VXI,Manual,"1,22,048 km",2nd Owner,Petrol,KA-50,"7,781/month","3,98,000","GT World Mall, Bengaluru",Bangalore
+239,2014 Hyundai i20,ASTA 1.2,Manual,"66,491 km",2nd Owner,Petrol,KA-03,"9,423/month","4,82,000","Horamavu Agara Road, Bengaluru",Bangalore
+240,2020 KIA SONET,GTX PLUS 1.0 IMT,Manual,"49,053 km",1st Owner,Petrol,KA-19,"20,328/month","10,68,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+241,2022 Volkswagen TAIGUN,TOPLINE 1.0 TSI MT,Manual,"5,356 km",1st Owner,Petrol,KA-03,"29,979/month","15,75,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+242,2017 Honda City,1.5L I-VTEC V MT,Manual,"54,531 km",1st Owner,Petrol,KA-36,"13,529/month","6,92,000","Horamavu Agara Road, Bengaluru",Bangalore
+243,2016 Honda Amaze,1.2L I-VTEC VX,Manual,"19,356 km",2nd Owner,Petrol,KA-03,"10,440/month","5,34,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+244,2016 Renault Duster,RXS 85 PS,Manual,"73,494 km",2nd Owner,Diesel,KA-05,"14,369/month","7,35,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+245,2013 Hyundai Verna,FLUIDIC 1.6 CRDI SX,Manual,"81,959 km",1st Owner,Diesel,KA-01,"10,538/month","5,39,000","Horamavu Agara Road, Bengaluru",Bangalore
+246,2017 Hyundai Elite i20,ASTA 1.2 (O),Manual,"93,975 km",1st Owner,Petrol,KA-03,"12,493/month","6,39,000","Bellahalli, Bengaluru",Bangalore
+247,2015 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"60,691 km",2nd Owner,Petrol,KA-26,"8,465/month","4,33,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+248,2018 Volkswagen Vento,COMFORTLINE 1.6,Manual,"28,050 km",2nd Owner,Petrol,KA-03,"14,565/month","7,45,000","Bellahalli, Bengaluru",Bangalore
+249,2019 Honda Amaze,1.2L I-VTEC VX,Manual,"29,942 km",2nd Owner,Petrol,KA-51,"14,213/month","7,27,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+250,2019 Hyundai GRAND I10 NIOS,SPORTZ AMT 1.2 KAPPA VTVT,Automatic,"23,415 km",1st Owner,Petrol,KA-51,"13,998/month","7,16,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+251,2017 Hyundai Eon,ERA +,Manual,"79,683 km",1st Owner,Petrol,KA-19,"6,021/month","3,08,000","Bellahalli, Bengaluru",Bangalore
+252,2022 Nissan MAGNITE,XV TURBO,Manual,"11,295 km",1st Owner,Petrol,KA-01,"16,921/month","8,89,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+253,2016 Maruti Baleno,DELTA PETROL 1.2,Manual,"50,173 km",1st Owner,Petrol,KA-03,"11,554/month","5,91,000","Bellahalli, Bengaluru",Bangalore
+254,2018 Hyundai Verna,1.6 VTVT SX,Manual,"41,576 km",1st Owner,Petrol,KA-01,"16,388/month","8,61,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+255,2019 Honda WR-V,1.2L I-VTEC VX MT,Manual,"36,876 km",1st Owner,Petrol,KA-53,"15,227/month","8,00,000","Bellahalli, Bengaluru",Bangalore
+256,2012 Maruti A Star,VXI (ABS) AT,Automatic,"86,380 km",2nd Owner,Petrol,KA-03,"5,846/month","2,99,000","Bellahalli, Bengaluru",Bangalore
+257,2013 Maruti Wagon R 1.0,VXI,Manual,"45,198 km",1st Owner,Petrol,KA-04,"6,999/month","3,58,000","Bellahalli, Bengaluru",Bangalore
+258,2015 Maruti Wagon R 1.0,VXI,Manual,"69,581 km",2nd Owner,Petrol,KA-03,"7,116/month","3,64,000","Horamavu Agara Road, Bengaluru",Bangalore
+259,2012 Hyundai i20,SPORTZ 1.2,Manual,"40,296 km",1st Owner,Petrol,KA-05,"8,934/month","4,57,000","Bellahalli, Bengaluru",Bangalore
+260,2019 KIA SELTOS,GTX + AT PETROL,Automatic,"38,093 km",1st Owner,Petrol,KA-51,"29,884/month","15,70,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+261,2018 Tata TIGOR,XM PETROL,Manual,"55,652 km",1st Owner,Petrol,KA-25,"9,716/month","4,97,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+262,2014 Maruti Ciaz,ZXI,Manual,"30,967 km",1st Owner,Petrol,KA-03,"12,453/month","6,37,000","Bellahalli, Bengaluru",Bangalore
+263,2021 Hyundai NEW SANTRO,SPORTZ EXECUTIVE MT CNG,Manual,"41,054 km",1st Owner,CNG,KA-51,"11,065/month","5,66,000","Bellahalli, Bengaluru",Bangalore
+264,2017 Hyundai Verna,1.6 VTVT SX,Manual,"33,237 km",2nd Owner,Petrol,KA-05,"15,779/month","8,29,000","Bellahalli, Bengaluru",Bangalore
+265,2015 Hyundai Xcent,SX AT 1.2 (O),Automatic,"77,721 km",1st Owner,Petrol,KA-51,"9,619/month","4,92,000","Bellahalli, Bengaluru",Bangalore
+266,2019 Maruti Alto,VXI,Manual,"3,315 km",2nd Owner,Petrol,KA-51,"7,527/month","3,85,000","Bellahalli, Bengaluru",Bangalore
+267,2018 Honda Amaze,1.2L I-VTEC V CVT,Automatic,"8,732 km",1st Owner,Petrol,KA-55,"15,308/month","7,83,000","GT World Mall, Bengaluru",Bangalore
+268,2015 Hyundai i10,SPORTZ 1.1,Manual,"80,427 km",2nd Owner,Petrol,KA-05,"6,803/month","3,48,000","Horamavu Agara Road, Bengaluru",Bangalore
+269,2012 Honda Brio,S MT,Manual,"57,361 km",1st Owner,Petrol,KA-05,"6,725/month","3,44,000","GT World Mall, Bengaluru",Bangalore
+270,2015 Honda Brio,VX MT,Manual,"76,911 km",2nd Owner,Petrol,KA-02,"7,194/month","3,68,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+271,2018 Maruti Swift,VXI AMT,Automatic,"26,007 km",1st Owner,Petrol,KA-68,"13,138/month","6,72,000","Bellahalli, Bengaluru",Bangalore
+272,2020 Maruti Baleno,DELTA PETROL 1.2,Manual,"27,459 km",1st Owner,Petrol,KA-05,"14,057/month","7,19,000","Bellahalli, Bengaluru",Bangalore
+273,2021 Tata NEXON,XMA PETROL,Automatic,"14,244 km",2nd Owner,Petrol,KA-05,"17,245/month","9,06,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+274,2020 Maruti IGNIS,ZETA 1.2,Manual,"46,001 km",2nd Owner,Petrol,KA-51,"10,753/month","5,50,000","Bellahalli, Bengaluru",Bangalore
+275,2017 Hyundai Grand i10,SPORTZ (O) 1.2 KAPPA VTVT,Manual,"35,886 km",1st Owner,Petrol,KA-51,"10,577/month","5,41,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+276,2016 Honda BR-V,1.5L I-VTEC V CVT,Automatic,"79,061 km",2nd Owner,Petrol,KA-03,"15,621/month","7,99,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+277,2018 Ford Ecosport,TITANIUM 1.5L PETROL,Manual,"35,443 km",2nd Owner,Petrol,TN-39,"14,057/month","7,19,000","Bellahalli, Bengaluru",Bangalore
+278,2017 Renault Kwid,RXT 0.8,Manual,"16,808 km",1st Owner,Petrol,KA-51,"7,546/month","3,86,000","GT World Mall, Bengaluru",Bangalore
+279,2020 Renault Kwid,CLIMBER 1.0 (O),Manual,"43,285 km",3rd Owner,Petrol,KA-16,"8,641/month","4,42,000","Horamavu Agara Road, Bengaluru",Bangalore
+280,2018 Honda WR-V,1.2L I-VTEC S MT,Manual,"49,538 km",1st Owner,Petrol,KA-19,"13,822/month","7,07,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+281,2016 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"69,819 km",1st Owner,Petrol,KA-51,"9,052/month","4,63,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+282,2017 Maruti Baleno,DELTA CVT PETROL 1.2,Automatic,"38,218 km",2nd Owner,Petrol,KA-35,"11,887/month","6,08,000","Bellahalli, Bengaluru",Bangalore
+283,2021 Tata NEXON,XZA PLUS (O) PETROL,Automatic,"7,662 km",1st Owner,Petrol,KA-53,"22,936/month","12,05,000","Horamavu Agara Road, Bengaluru",Bangalore
+284,2014 Renault Pulse,RX L DIESEL,Manual,"83,271 km",1st Owner,Diesel,KA-51,"6,667/month","3,41,000","Bellahalli, Bengaluru",Bangalore
+285,2015 Volkswagen Vento,HIGHLINE TDI AT,Automatic,"74,997 km",1st Owner,Diesel,KA-04,"13,861/month","7,09,000","Horamavu Agara Road, Bengaluru",Bangalore
+286,2012 Maruti Swift,VDI,Manual,"55,544 km",2nd Owner,Diesel,KA-01,"8,876/month","4,54,000","Bellahalli, Bengaluru",Bangalore
+287,2013 Maruti Swift,VXI,Manual,"81,712 km",1st Owner,Petrol,KA-04,"8,934/month","4,57,000","GT World Mall, Bengaluru",Bangalore
+288,2014 Hyundai Eon,ERA +,Manual,"34,474 km",1st Owner,Petrol,KA-02,"5,728/month","2,93,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+289,2022 KIA CARENS,LUXURY PLUS 1.4 PETROL 7 STR,Manual,"16,047 km",1st Owner,Petrol,KA-05,"32,948/month","17,31,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+290,2014 Maruti Celerio,VXI,Manual,"30,876 km",1st Owner,Petrol,KA-03,"8,133/month","4,16,000","Bellahalli, Bengaluru",Bangalore
+291,2016 Honda Jazz,1.2L I-VTEC V,Manual,"85,860 km",3rd Owner,Petrol,KA-25,"9,736/month","4,98,000","Bellahalli, Bengaluru",Bangalore
+292,2016 Maruti Baleno,DELTA CVT PETROL 1.2,Automatic,"83,075 km",2nd Owner,Petrol,KA-06,"11,222/month","5,74,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+293,2020 Maruti S PRESSO,VXI+,Manual,"21,226 km",1st Owner,Petrol,KA-63,"8,817/month","4,51,000","Bellahalli, Bengaluru",Bangalore
+294,2014 Hyundai i20,SPORTZ 1.2,Manual,"39,078 km",1st Owner,Petrol,KA-53,"10,068/month","5,15,000","Bellahalli, Bengaluru",Bangalore
+295,2018 Hyundai Elite i20,ASTA 1.4 CRDI DUAL TONE,Manual,"36,283 km",1st Owner,Diesel,KA-04,"15,627/month","8,21,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+296,2015 Maruti Wagon R 1.0,VXI,Manual,"81,207 km",3rd Owner,Petrol,KA-41,"6,745/month","3,45,000","Bellahalli, Bengaluru",Bangalore
+297,2021 Hyundai NEW I20,SPORTZ 1.5 MT,Manual,"77,648 km",1st Owner,Diesel,KA-06,"15,951/month","8,38,000","Bellahalli, Bengaluru",Bangalore
+298,2019 Maruti New Wagon-R,VXI 1.0,Manual,"28,454 km",2nd Owner,Petrol,KA-65,"9,951/month","5,09,000","Bellahalli, Bengaluru",Bangalore
+299,2016 Hyundai Creta,SX PLUS 1.6 PETROL,Manual,"1,02,816 km",1st Owner,Petrol,KA-53,"17,435/month","9,16,000","Bellahalli, Bengaluru",Bangalore
+300,2015 Renault Kwid,RXT 0.8,Manual,"90,079 km",1st Owner,Petrol,KA-51,"6,100/month","3,12,000","Sonnappanahalli
+",Bangalore
+301,2018 Hyundai Elite i20,ASTA 1.2  CVT,Automatic,"70,601 km",1st Owner,Petrol,KA-41,"13,314/month","6,81,000","GT World Mall, Bengaluru",Bangalore
+302,2019 Maruti Baleno,DELTA PETROL 1.2,Manual,"20,870 km",1st Owner,Petrol,KA-02,"13,177/month","6,74,000","Bellahalli, Bengaluru",Bangalore
+303,2017 Hyundai Grand i10,ASTA 1.2 KAPPA VTVT,Manual,"41,803 km",2nd Owner,Petrol,KA-02,"10,010/month","5,12,000","Bellahalli, Bengaluru",Bangalore
+304,2011 Maruti Ritz,VXI,Manual,"87,652 km",1st Owner,Petrol,KA-03,"6,021/month","3,08,000","GT World Mall, Bengaluru",Bangalore
+305,2015 Maruti Swift,ZDI,Manual,"67,791 km",2nd Owner,Diesel,KA-05,"12,590/month","6,44,000","Bellahalli, Bengaluru",Bangalore
+306,2018 Mahindra TUV300,T10,Manual,"54,603 km",1st Owner,Diesel,KA-03,"15,513/month","8,15,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+307,2016 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"25,960 km",1st Owner,Petrol,KA-05,"9,892/month","5,06,000","Horamavu Agara Road, Bengaluru",Bangalore
+308,2014 Hyundai i20,SPORTZ 1.2,Manual,"47,092 km",2nd Owner,Petrol,KA-03,"9,619/month","4,92,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+309,2016 Maruti Baleno,DELTA PETROL 1.2,Manual,"75,140 km",1st Owner,Petrol,KA-03,"11,926/month","6,10,000","Bellahalli, Bengaluru",Bangalore
+310,2016 Hyundai Elite i20,ASTA 1.2,Manual,"53,789 km",1st Owner,Petrol,KA-53,"12,903/month","6,60,000","GT World Mall, Bengaluru",Bangalore
+311,2017 Honda City,1.5L I-VTEC V MT,Manual,"56,253 km",3rd Owner,Petrol,KA-03,"13,138/month","6,72,000","Bellahalli, Bengaluru",Bangalore
+312,2018 Maruti Celerio X,ZXI,Manual,"63,618 km",1st Owner,Petrol,KA-05,"9,404/month","4,81,000","GT World Mall, Bengaluru",Bangalore
+313,2018 Honda Amaze,1.2L I-VTEC V CVT,Automatic,"30,197 km",1st Owner,Petrol,KA-04,"14,272/month","7,30,000","Bellahalli, Bengaluru",Bangalore
+314,2016 Hyundai Grand i10,ASTA (O) AT 1.2 KAPPA VTVT,Automatic,"51,086 km",1st Owner,Petrol,KA-05,"9,912/month","5,07,000","Horamavu Agara Road, Bengaluru",Bangalore
+315,2017 Renault Kwid,RXT 1.0,Manual,"10,254 km",1st Owner,Petrol,KA-03,"7,546/month","3,86,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+316,2016 Maruti Baleno,ALPHA PETROL 1.2,Manual,"1,00,894 km",1st Owner,Petrol,KA-05,"11,574/month","5,92,000","Horamavu Agara Road, Bengaluru",Bangalore
+317,2021 Volkswagen Vento,HIGHLINE PLUS 1.0L TSI AT,Automatic,"35,407 km",1st Owner,Petrol,KA-01,"23,907/month","12,56,000","Bellahalli, Bengaluru",Bangalore
+318,2017 Honda City,1.5L I-VTEC VX,Manual,"53,295 km",2nd Owner,Petrol,KA-30,"13,939/month","7,13,000","Horamavu Agara Road, Bengaluru",Bangalore
+319,2015 Hyundai Elite i20,ASTA 1.4 CRDI,Manual,"83,731 km",2nd Owner,Diesel,KA-51,"11,867/month","6,07,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+320,2016 Hyundai Elite i20,ASTA 1.2 (O),Manual,"91,660 km",1st Owner,Petrol,KA-01,"12,219/month","6,25,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+321,2018 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"15,147 km",1st Owner,Petrol,KA-01,"11,789/month","6,03,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+322,2020 Maruti New Wagon-R,ZXI 1.2 AMT,Automatic,"33,793 km",2nd Owner,Petrol,KA-53,"11,965/month","6,12,000","Bellahalli, Bengaluru",Bangalore
+323,2017 Hyundai Creta,E PLUS 1.6 PETROL,Manual,"71,570 km",2nd Owner,Petrol,KA-41,"16,940/month","8,90,000","Sonnappanahalli
+",Bangalore
+324,2018 Hyundai NEW SANTRO,SPORTZ AMT,Automatic,"38,985 km",1st Owner,Petrol,KA-50,"10,577/month","5,41,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+325,2018 Ford Ecosport,TREND+ 1.5L DIESEL,Manual,"36,261 km",3rd Owner,Diesel,KA-03,"14,389/month","7,36,000","GT World Mall, Bengaluru",Bangalore
+326,2020 Tata NEXON,XM DIESEL,Manual,"27,750 km",1st Owner,Diesel,KA-03,"17,435/month","9,16,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+327,2016 Honda City,1.5L I-VTEC VX CVT,Automatic,"1,10,941 km",2nd Owner,Petrol,KA-03,"13,568/month","6,94,000","GT World Mall, Bengaluru",Bangalore
+328,2019 Toyota Glanza,V CVT,Automatic,"29,335 km",2nd Owner,Petrol,KA-02,"15,366/month","7,86,000","Bellahalli, Bengaluru",Bangalore
+329,2018 Hyundai Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,"34,780 km",2nd Owner,Petrol,KA-04,"10,010/month","5,12,000","Bellahalli, Bengaluru",Bangalore
+330,2015 Hyundai Elite i20,ASTA 1.2,Manual,"59,470 km",1st Owner,Petrol,KA-05,"11,691/month","5,98,000","Bellahalli, Bengaluru",Bangalore
+331,2018 Maruti Swift,VXI,Manual,"36,789 km",1st Owner,Petrol,KA-51,"12,708/month","6,50,000","Bellahalli, Bengaluru",Bangalore
+332,2017 Hyundai Grand i10,SPORTZ (O) 1.2 KAPPA VTVT,Manual,"33,623 km",2nd Owner,Petrol,KA-04,"10,303/month","5,27,000","Bellahalli, Bengaluru",Bangalore
+333,2015 Honda City,1.5L I-VTEC SV CVT,Automatic,"94,947 km",1st Owner,Petrol,KA-03,"11,476/month","5,87,000","GT World Mall, Bengaluru",Bangalore
+334,2016 Honda Jazz,1.2L I-VTEC V,Manual,"68,576 km",1st Owner,Petrol,KA-02,"11,789/month","6,03,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+335,2017 Hyundai Verna,1.6 CRDI SX,Manual,"60,988 km",1st Owner,Diesel,KA-41,"16,807/month","8,83,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+336,2016 Hyundai Verna,1.6 VTVT SX AT,Automatic,"34,108 km",1st Owner,Petrol,KA-04,"14,154/month","7,24,000","GT World Mall, Bengaluru",Bangalore
+337,2011 Maruti Alto K10,VXI,Manual,"37,681 km",3rd Owner,Petrol,KA-19,"4,379/month","2,24,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+338,2016 Hyundai Grand i10,ASTA (O) 1.2 KAPPA VTVT,Manual,"53,814 km",1st Owner,Petrol,KA-02,"9,756/month","4,99,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+339,2015 Maruti Alto 800,LXI,Manual,"62,554 km",1st Owner,Petrol,KA-50,"5,415/month","2,77,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+340,2016 Maruti Swift Dzire,VXI (O) AT,Automatic,"31,458 km",2nd Owner,Petrol,KA-03,"11,183/month","5,72,000","Horamavu Agara Road, Bengaluru",Bangalore
+341,2012 Honda Brio,S MT,Manual,"29,320 km",1st Owner,Petrol,KA-03,"7,253/month","3,71,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+342,2017 Maruti Dzire,VXI,Manual,"43,525 km",1st Owner,Petrol,KA-05,"12,043/month","6,16,000","Horamavu Agara Road, Bengaluru",Bangalore
+343,2022 Maruti Dzire,VXI,Manual,"6,324 km",1st Owner,Petrol,KA-51,"15,562/month","7,96,000","Bellahalli, Bengaluru",Bangalore
+344,2017 Ford Ecosport,TREND 1.5L PETROL,Manual,"53,917 km",1st Owner,Petrol,KA-51,"12,727/month","6,51,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+345,2017 Honda City,1.5L I-VTEC ZX CVT,Automatic,"72,016 km",1st Owner,Petrol,KA-01,"17,854/month","9,38,000","Bellahalli, Bengaluru",Bangalore
+346,2015 Hyundai Eon,ERA +,Manual,"1,09,923 km",1st Owner,Petrol,KA-09,"5,239/month","2,68,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+347,2016 Maruti Ciaz,ZXI,Manual,"72,136 km",2nd Owner,Petrol,KA-03,"13,470/month","6,89,000","Bellahalli, Bengaluru",Bangalore
+348,2015 Maruti Swift Dzire,ZXI,Manual,"17,811 km",1st Owner,Petrol,KA-53,"13,001/month","6,65,000","Sonnappanahalli
+",Bangalore
+349,2014 Honda Amaze,1.5L I-DTEC S,Manual,"80,519 km",3rd Owner,Diesel,KA-50,"7,507/month","3,84,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+350,2017 Maruti Alto K10,VXI,Manual,"27,720 km",2nd Owner,Petrol,KA-19,"6,667/month","3,41,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+351,2012 Maruti Wagon R 1.0,VXI,Manual,"75,761 km",2nd Owner,Petrol,KA-51,"5,689/month","2,91,000","Bellahalli, Bengaluru",Bangalore
+352,2012 Hyundai i20,ERA 1.4 CRDI,Manual,"40,562 km",1st Owner,Diesel,KA-51,"8,700/month","4,45,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+353,2020 Tata ALTROZ,XZ PETROL,Manual,"40,742 km",1st Owner,Petrol,KA-02,"14,565/month","7,45,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+354,2019 Honda Jazz,1.2L I-VTEC VX CVT,Automatic,"32,790 km",2nd Owner,Petrol,KA-05,"15,190/month","7,77,000","Bellahalli, Bengaluru",Bangalore
+355,2019 Honda Amaze,1.5L I-DTEC VX CVT,Automatic,"22,980 km",1st Owner,Diesel,KA-05,"17,226/month","9,05,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+356,2022 Maruti New Wagon-R,ZXI 1.2,Manual,"29,074 km",1st Owner,Petrol,KA-11,"12,395/month","6,34,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+357,2014 Hyundai i20,SPORTZ 1.2,Manual,"55,836 km",1st Owner,Petrol,KA-01,"9,521/month","4,87,000","Horamavu Agara Road, Bengaluru",Bangalore
+358,2018 Skoda Rapid,AMBITION 1.6 MPI AT,Automatic,"45,047 km",1st Owner,Petrol,KA-51,"15,646/month","8,22,000","Bellahalli, Bengaluru",Bangalore
+359,2011 Maruti Alto K10,VXI,Manual,"25,928 km",1st Owner,Petrol,KA-05,"4,848/month","2,48,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+360,2015 Honda Jazz,1.2L I-VTEC V AT,Automatic,"55,412 km",1st Owner,Petrol,KA-09,"11,007/month","5,63,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+361,2017 Renault Duster,RXL PETROL,Manual,"38,520 km",1st Owner,Petrol,KA-41,"15,034/month","7,69,000","Bellahalli, Bengaluru",Bangalore
+362,2019 Tata NEXON,XZA PLUS PETROL,Automatic,"77,243 km",1st Owner,Petrol,KA-51,"17,016/month","8,94,000","GT World Mall, Bengaluru",Bangalore
+363,2016 Hyundai Grand i10,ASTA 1.2 KAPPA VTVT,Manual,"46,894 km",3rd Owner,Petrol,KA-01,"8,954/month","4,58,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+364,2019 Maruti Celerio,VXI AMT,Automatic,"20,017 km",1st Owner,Petrol,KA-51,"10,147/month","5,19,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+365,2015 Hyundai Grand i10,ASTA (O) 1.2 KAPPA VTVT,Manual,"49,479 km",3rd Owner,Petrol,KA-51,"8,367/month","4,28,000","Bellahalli, Bengaluru",Bangalore
+366,2018 Hyundai Verna,1.6 CRDI SX,Manual,"49,792 km",2nd Owner,Diesel,KA-53,"18,672/month","9,81,000","Horamavu Agara Road, Bengaluru",Bangalore
+367,2021 Renault Kwid,CLIMBER 1.0 (O),Manual,"6,200 km",1st Owner,Petrol,KA-19,"11,202/month","5,73,000","Horamavu Agara Road, Bengaluru",Bangalore
+368,2021 Hyundai NEW I20,ASTA (O) 1.0 TURBO GDI DCT,Automatic,"29,202 km",1st Owner,Petrol,KA-05,"20,462/month","10,75,000","Bellahalli, Bengaluru",Bangalore
+369,2010 Honda Jazz,1.2 BASE I VTEC,Manual,"90,448 km",2nd Owner,Petrol,KA-51,"6,354/month","3,25,000","Bellahalli, Bengaluru",Bangalore
+370,2014 Hyundai Xcent,SX AT 1.2 (O),Automatic,"1,02,196 km",1st Owner,Petrol,KA-01,"8,211/month","4,20,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+371,2015 Maruti Swift,VXI,Manual,"85,038 km",1st Owner,Petrol,KA-04,"10,205/month","5,22,000","Bellahalli, Bengaluru",Bangalore
+372,2022 Toyota Glanza,V,Manual,"12,786 km",1st Owner,Petrol,KA-03,"17,892/month","9,40,000","Bellahalli, Bengaluru",Bangalore
+373,2021 Maruti Swift,VXI,Manual,"48,628 km",1st Owner,Petrol,KA-05,"13,529/month","6,92,000","Sonnappanahalli
+",Bangalore
+374,2020 Maruti Alto,LXI OPT CNG,Manual,"75,591 km",1st Owner,CNG,KA-17,"8,231/month","4,21,000","Bellahalli, Bengaluru",Bangalore
+375,2022 Volkswagen VIRTUS,TOPLINE TSI 1.0 AT,Automatic,"11,880 km",1st Owner,Petrol,KA-09,"31,311/month","16,45,000","Bellahalli, Bengaluru",Bangalore
+376,2020 Maruti New Wagon-R,ZXI 1.2 AMT,Automatic,"3,725 km",1st Owner,Petrol,KA-05,"12,708/month","6,50,000","Horamavu Agara Road, Bengaluru",Bangalore
+377,2015 Maruti Swift,VDI ABS,Manual,"88,509 km",2nd Owner,Diesel,KA-25,"10,792/month","5,52,000","Bellahalli, Bengaluru",Bangalore
+378,2011 Maruti Ritz,VXI,Manual,"84,623 km",1st Owner,Petrol,KA-04,"6,197/month","3,17,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+379,2022 KIA SELTOS,HTX 1.5 PETROL,Manual,"10,845 km",1st Owner,Petrol,KA-05,"27,752/month","14,58,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+380,2020 Tata ALTROZ,XZ PETROL,Manual,"45,295 km",1st Owner,Petrol,KA-51,"15,054/month","7,70,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+381,2021 Skoda Rapid,AMBITION AT TSI,Automatic,"29,517 km",1st Owner,Petrol,KA-51,"19,948/month","10,48,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+382,2016 Hyundai Grand i10,ASTA (O) AT 1.2 KAPPA VTVT,Automatic,"49,641 km",1st Owner,Petrol,KA-53,"10,792/month","5,52,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+383,2016 Maruti Celerio,ZXI,Manual,"15,437 km",2nd Owner,Petrol,KA-05,"9,071/month","4,64,000","Bellahalli, Bengaluru",Bangalore
+384,2015 Honda Brio,S MT,Manual,"22,262 km",2nd Owner,Petrol,KA-03,"7,957/month","4,07,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+385,2019 Maruti Baleno,ALPHA CVT PETROL 1.2,Automatic,"81,881 km",1st Owner,Petrol,KA-13,"13,470/month","6,89,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+386,2018 Honda Amaze,1.2L I-VTEC V CVT,Automatic,"77,428 km",1st Owner,Petrol,KA-01,"13,431/month","6,87,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+387,2018 Hyundai Grand i10,SPORTZ AT 1.2 KAPPA VTVT,Automatic,"17,026 km",2nd Owner,Petrol,KA-05,"12,160/month","6,22,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+388,2017 Hyundai Elite i20,ASTA 1.2 (O),Manual,"36,139 km",3rd Owner,Petrol,KA-41,"13,235/month","6,77,000","Horamavu Agara Road, Bengaluru",Bangalore
+389,2016 Volkswagen Vento,HIGHLINE PETROL AT,Automatic,"48,079 km",2nd Owner,Petrol,KA-01,"14,584/month","7,46,000","Bellahalli, Bengaluru",Bangalore
+390,2017 Hyundai Grand i10,SPORTZ (O) AT 1.2 KAPPA VTVT,Automatic,"17,574 km",1st Owner,Petrol,KA-02,"12,062/month","6,17,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+391,2019 Renault Kwid,CLIMBER 1.0 (O),Manual,"55,609 km",1st Owner,Petrol,KA-13,"8,856/month","4,53,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+392,2017 Maruti Swift,VXI O,Manual,"47,038 km",1st Owner,Petrol,KA-41,"11,730/month","6,00,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+393,2012 Honda City,1.5L I-VTEC S MT,Manual,"60,570 km",3rd Owner,Petrol,KA-03,"8,074/month","4,13,000","Sonnappanahalli
+",Bangalore
+394,2015 Maruti Alto K10,VXI P,Manual,"30,751 km",1st Owner,Petrol,KA-03,"6,178/month","3,16,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+395,2018 Ford Ecosport,TITANIUM 1.5L DIESEL,Manual,"1,14,427 km",2nd Owner,Diesel,KA-09,"16,217/month","8,52,000","Bellahalli, Bengaluru",Bangalore
+396,2018 Mahindra KUV 100 NXT,K8 P 6 STR,Manual,"32,207 km",1st Owner,Petrol,KA-05,"11,378/month","5,82,000","GT World Mall, Bengaluru",Bangalore
+397,2013 Maruti Wagon R 1.0,VXI,Manual,"44,807 km",1st Owner,Petrol,KA-03,"6,940/month","3,55,000","Bellahalli, Bengaluru",Bangalore
+398,2018 Maruti IGNIS,ALPHA 1.2 DUAL TONE,Manual,"5,458 km",1st Owner,Petrol,KA-03,"11,847/month","6,06,000","Bellahalli, Bengaluru",Bangalore
+399,2020 Maruti Swift,VXI AMT,Automatic,"64,086 km",1st Owner,Petrol,KA-04,"13,783/month","7,05,000","Horamavu Agara Road, Bengaluru",Bangalore
+400,2017 Hyundai Elite i20,ASTA 1.4 CRDI (O),Manual,"1,25,227 km",2nd Owner,Diesel,KA-03,"13,372/month","6,84,000","Bellahalli, Bengaluru",Bangalore
+401,2015 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"46,988 km",1st Owner,Petrol,KA-03,"9,052/month","4,63,000","GT World Mall, Bengaluru",Bangalore
+402,2017 Maruti Alto 800,VXI O,Manual,"41,690 km",2nd Owner,Petrol,KA-53,"6,139/month","3,14,000","Horamavu Agara Road, Bengaluru",Bangalore
+403,2021 Maruti New Wagon-R,VXI (O) 1.0,Manual,"11,679 km",1st Owner,Petrol,KA-03,"11,671/month","5,97,000","Sonnappanahalli
+",Bangalore
+404,2021 Hyundai NEW I20,ASTA 1.0 GDI TURBO DCT,Automatic,"19,053 km",1st Owner,Petrol,KA-53,"19,605/month","10,30,000","Sonnappanahalli
+",Bangalore
+405,2017 Honda WR-V,1.2L I-VTEC VX MT,Manual,"59,930 km",2nd Owner,Petrol,KA-01,"14,076/month","7,20,000","Bellahalli, Bengaluru",Bangalore
+406,2013 Maruti Swift,LXI,Manual,"44,437 km",1st Owner,Petrol,KA-01,"8,504/month","4,35,000","Bellahalli, Bengaluru",Bangalore
+407,2017 Hyundai Elite i20,ASTA 1.2,Manual,"44,843 km",1st Owner,Petrol,KA-05,"13,060/month","6,68,000","Bellahalli, Bengaluru",Bangalore
+408,2016 Hyundai Elite i20,ASTA 1.2,Manual,"59,734 km",2nd Owner,Petrol,KA-05,"12,219/month","6,25,000","Bellahalli, Bengaluru",Bangalore
+409,2019 Renault Duster,110 PS RXS 4X2 AMT DIESEL,Automatic,"32,307 km",1st Owner,Diesel,KA-50,"18,615/month","9,78,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+410,2016 Honda Jazz,1.2L I-VTEC V,Manual,"63,797 km",1st Owner,Petrol,KA-41,"12,023/month","6,15,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+411,2022 MG HECTOR,SMART 1.5 PETROL CVT,Automatic,"5,030 km",1st Owner,Petrol,KA-01,"35,575/month","18,69,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+412,2016 Renault Kwid,RXT 0.8 (O),Manual,"38,702 km",1st Owner,Petrol,KA-51,"6,960/month","3,56,000","Sonnappanahalli
+",Bangalore
+413,2017 Honda Jazz,1.2L I-VTEC V AT,Automatic,"28,117 km",2nd Owner,Petrol,KA-02,"13,490/month","6,90,000","Bellahalli, Bengaluru",Bangalore
+414,2017 Hyundai Grand i10,ASTA 1.2 KAPPA VTVT,Manual,"86,046 km",1st Owner,Petrol,KA-21,"10,166/month","5,20,000","Horamavu Agara Road, Bengaluru",Bangalore
+415,2016 Hyundai Grand i10,ASTA AT 1.2 KAPPA VTVT,Automatic,"41,682 km",1st Owner,Petrol,KA-01,"10,381/month","5,31,000","Bellahalli, Bengaluru",Bangalore
+416,2015 Renault Kwid,RXT 0.8,Manual,"84,990 km",1st Owner,Petrol,KA-05,"6,080/month","3,11,000","Bellahalli, Bengaluru",Bangalore
+417,2011 Maruti Alto K10,VXI,Manual,"58,552 km",1st Owner,Petrol,KA-05,"4,614/month","2,36,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+418,2015 Renault Duster,85 PS RXL PLUS DIESEL,Manual,"68,845 km",2nd Owner,Diesel,KA-53,"13,216/month","6,76,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+419,2016 Hyundai Elite i20,ASTA 1.2 (O),Manual,"72,362 km",1st Owner,Petrol,KA-03,"12,903/month","6,60,000","Bellahalli, Bengaluru",Bangalore
+420,2022 Maruti Ciaz,ZETA 1.5 SHVS MT PETROL,Manual,"13,301 km",1st Owner,Petrol,KA-19,"18,996/month","9,98,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+421,2018 Honda City,1.5L I-VTEC V MT,Manual,"26,922 km",1st Owner,Petrol,KA-01,"15,570/month","8,18,000","Bellahalli, Bengaluru",Bangalore
+422,2021 Renault Kiger,RXZ TURBO CVT,Automatic,"7,598 km",1st Owner,Petrol,KA-03,"18,482/month","9,71,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+423,2021 Hyundai Verna,SX 1.5 CRDI,Manual,"28,834 km",2nd Owner,Diesel,KA-03,"23,279/month","12,23,000","Horamavu Agara Road, Bengaluru",Bangalore
+424,2016 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"29,453 km",2nd Owner,Petrol,KA-01,"9,697/month","4,96,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+425,2020 Maruti Celerio,ZXI,Manual,"27,528 km",1st Owner,Petrol,KA-11,"10,225/month","5,23,000","Bellahalli, Bengaluru",Bangalore
+426,2020 Hyundai Creta,SX (O) 1.4 TURBO DCT,Automatic,"30,113 km",1st Owner,Petrol,KA-41,"31,920/month","16,77,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+427,2013 Honda Brio,S MT,Manual,"78,871 km",2nd Owner,Petrol,KA-41,"6,764/month","3,46,000","Bellahalli, Bengaluru",Bangalore
+428,2013 Hyundai i10,SPORTZ 1.2 AT,Automatic,"78,272 km",2nd Owner,Petrol,KA-53,"6,540/month","3,34,500","Hosur Road, Singasandra, Bengaluru",Bangalore
+429,2017 Maruti Ciaz,ZXI+,Manual,"72,996 km",2nd Owner,Petrol,KA-05,"14,115/month","7,22,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+430,2014 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"60,008 km",2nd Owner,Petrol,KA-04,"7,722/month","3,95,000","Bellahalli, Bengaluru",Bangalore
+431,2010 Hyundai i10,MAGNA 1.2,Manual,"62,726 km",1st Owner,Petrol,KA-03,"5,396/month","2,76,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+432,2013 Maruti Swift,LXI,Manual,"57,779 km",1st Owner,Petrol,KA-41,"8,387/month","4,29,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+433,2017 Maruti Swift,ZXI,Manual,"52,382 km",1st Owner,Petrol,KA-25,"12,825/month","6,56,000","Horamavu Agara Road, Bengaluru",Bangalore
+434,2022 Maruti Celerio,VXI,Manual,"46,679 km",1st Owner,Petrol,KA-02,"11,144/month","5,70,000","GT World Mall, Bengaluru",Bangalore
+435,2017 Skoda Rapid,AMBITION 1.6 MPI MT,Manual,"1,24,707 km",2nd Owner,Petrol,KA-01,"12,551/month","6,42,000","Bellahalli, Bengaluru",Bangalore
+436,2015 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"32,168 km",1st Owner,Petrol,KA-03,"9,228/month","4,72,000","Bellahalli, Bengaluru",Bangalore
+437,2018 Maruti Celerio X,ZXI (O),Manual,"61,576 km",2nd Owner,Petrol,KA-51,"9,149/month","4,68,000","Bellahalli, Bengaluru",Bangalore
+438,2016 Maruti Swift Dzire,ZDI AMT,Automatic,"31,093 km",1st Owner,Diesel,KA-05,"13,509/month","6,91,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+439,2017 Maruti Swift,ZXI,Manual,"40,811 km",2nd Owner,Petrol,KA-03,"12,062/month","6,17,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+440,2017 Maruti Baleno,ALPHA CVT PETROL 1.2,Automatic,"33,324 km",1st Owner,Petrol,KA-04,"13,842/month","7,08,000","Bellahalli, Bengaluru",Bangalore
+441,2017 Maruti Dzire,ZXI PLUS,Manual,"18,097 km",1st Owner,Petrol,KA-04,"14,526/month","7,43,000","Bellahalli, Bengaluru",Bangalore
+442,2018 Maruti Celerio,VXI AMT,Automatic,"19,557 km",2nd Owner,Petrol,KA-03,"9,775/month","5,00,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+443,2018 Hyundai Elite i20,ASTA 1.2 DUAL TONE,Manual,"55,152 km",1st Owner,Petrol,KA-53,"13,881/month","7,10,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+444,2016 Maruti S Cross,ZETA 1.3,Manual,"76,836 km",2nd Owner,Diesel,KA-05,"15,073/month","7,71,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+445,2017 Maruti Celerio,ZXI AMT (O),Automatic,"86,678 km",3rd Owner,Petrol,KA-01,"8,192/month","4,19,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+446,2011 Hyundai i10,SPORTZ 1.2 AT,Automatic,"79,363 km",2nd Owner,Petrol,KA-05,"6,119/month","3,13,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+447,2011 Hyundai i10,SPORTZ 1.2,Manual,"89,678 km",1st Owner,Petrol,KA-55,"5,650/month","2,89,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+448,2019 Hyundai Creta,SX AT 1.6 PETROL,Automatic,"42,892 km",2nd Owner,Petrol,KA-04,"21,470/month","11,28,000","Bellahalli, Bengaluru",Bangalore
+449,2016 Maruti Swift Dzire,VXI,Manual,"85,863 km",2nd Owner,Petrol,KA-51,"11,105/month","5,68,000","GT World Mall, Bengaluru",Bangalore
+450,2016 Hyundai Grand i10,ASTA (O) AT 1.2 KAPPA VTVT,Automatic,"88,119 km",2nd Owner,Petrol,KA-05,"10,029/month","5,13,000","Sonnappanahalli
+",Bangalore
+451,2014 Maruti Celerio,VXI AMT,Automatic,"88,213 km",2nd Owner,Petrol,KA-50,"7,410/month","3,79,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+452,2017 Volkswagen Ameo,HIGHLINE PLUS 1.5L AT 16 ALLOY,Automatic,"87,012 km",2nd Owner,Diesel,KA-25,"11,652/month","5,96,000","Bellahalli, Bengaluru",Bangalore
+453,2016 Hyundai Elite i20,ASTA 1.2 (O),Manual,"57,459 km",1st Owner,Petrol,KA-53,"11,965/month","6,12,000","Bellahalli, Bengaluru",Bangalore
+454,2015 Maruti Swift,VXI,Manual,"45,513 km",1st Owner,Petrol,KA-51,"10,401/month","5,32,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+455,2017 Maruti Swift,VXI O,Manual,"48,201 km",1st Owner,Petrol,KA-03,"11,476/month","5,87,000","Horamavu Agara Road, Bengaluru",Bangalore
+456,2018 Renault Kwid,RXT 1.0 EASY-R  AT,Automatic,"74,022 km",2nd Owner,Petrol,KA-53,"7,644/month","3,91,000","GT World Mall, Bengaluru",Bangalore
+457,2018 Maruti Celerio,ZXI,Manual,"51,877 km",3rd Owner,Petrol,KA-02,"9,306/month","4,76,000","Horamavu Agara Road, Bengaluru",Bangalore
+458,2016 Maruti Ciaz,ZXI,Manual,"89,801 km",1st Owner,Petrol,KA-05,"13,705/month","7,01,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+459,2013 Hyundai i20,ASTA 1.4 CRDI,Manual,"1,24,514 km",1st Owner,Diesel,KA-51,"9,103/month","4,65,600","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+460,2013 Honda Amaze,1.5L I-DTEC VX,Manual,"97,658 km",1st Owner,Diesel,KA-01,"8,133/month","4,16,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+461,2022 Tata ALTROZ,XZA PLUS,Automatic,"14,257 km",1st Owner,Petrol,KA-01,"17,873/month","9,39,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+462,2015 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"31,614 km",1st Owner,Petrol,KA-03,"9,091/month","4,65,000","GT World Mall, Bengaluru",Bangalore
+463,2016 Maruti Ciaz,ZDI SHVS,Manual,"79,824 km",1st Owner,Diesel,KA-01,"13,626/month","6,97,000","Bellahalli, Bengaluru",Bangalore
+464,2021 Hyundai Verna,SX (O) 1.5 VTVT IVT,Automatic,"43,353 km",1st Owner,Petrol,KA-05,"25,506/month","13,40,000","Horamavu Agara Road, Bengaluru",Bangalore
+465,2018 Hyundai Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,"17,190 km",1st Owner,Petrol,KA-03,"11,202/month","5,73,000","Bellahalli, Bengaluru",Bangalore
+466,2016 Ford Ecosport,TITANIUM 1.5L DIESEL,Manual,"29,302 km",1st Owner,Diesel,KA-01,"14,897/month","7,62,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+467,2012 Maruti Swift,VXI,Manual,"60,606 km",2nd Owner,Petrol,KA-41,"8,661/month","4,43,000","Bellahalli, Bengaluru",Bangalore
+468,2018 Honda City,1.5L I-VTEC VX,Manual,"35,288 km",2nd Owner,Petrol,KA-53,"16,807/month","8,83,000","Horamavu Agara Road, Bengaluru",Bangalore
+469,2020 Renault Kwid,RXT 1.0 AMT (O),Automatic,"8,733 km",1st Owner,Petrol,KA-01,"11,163/month","5,71,000","Bellahalli, Bengaluru",Bangalore
+470,2016 Hyundai Creta,SX PLUS 1.6 PETROL,Manual,"51,580 km",2nd Owner,Petrol,KA-53,"17,816/month","9,36,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+471,2011 Maruti Alto K10,VXI,Manual,"68,730 km",2nd Owner,Petrol,KA-53,"4,497/month","2,30,000","Bellahalli, Bengaluru",Bangalore
+472,2020 Hyundai Verna,SX (O)1.0 TURBO DCT,Automatic,"47,456 km",1st Owner,Petrol,KA-01,"25,239/month","13,26,000","Bellahalli, Bengaluru",Bangalore
+473,2015 Hyundai Elite i20,ASTA 1.4 CRDI (O),Manual,"1,28,975 km",1st Owner,Diesel,KA-51,"11,359/month","5,81,000","Bellahalli, Bengaluru",Bangalore
+474,2020 Ford Ecosport,TITANIUM + 1.5L PETROL AT,Automatic,"31,724 km",1st Owner,Petrol,KA-04,"18,406/month","9,67,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+475,2022 Toyota URBAN CRUISER,PREMIUM GRADE AT,Automatic,"40,860 km",1st Owner,Petrol,KA-63,"22,327/month","11,73,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+476,2018 Maruti Dzire,VXI AMT,Automatic,"45,215 km",2nd Owner,Petrol,KA-04,"11,769/month","6,02,000","Bellahalli, Bengaluru",Bangalore
+477,2019 Renault Kwid,RXT 1.0 (O),Manual,"21,997 km",1st Owner,Petrol,KA-03,"8,876/month","4,54,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+478,2018 Honda Jazz,1.2L I-VTEC VX CVT,Automatic,"71,165 km",2nd Owner,Petrol,KA-04,"12,199/month","6,24,000","Horamavu Agara Road, Bengaluru",Bangalore
+479,2020 Renault Kwid,RXT 1.0 AMT (O),Automatic,"24,521 km",1st Owner,Petrol,KA-08,"10,420/month","5,33,000","Horamavu Agara Road, Bengaluru",Bangalore
+480,2019 Maruti IGNIS,ALPHA 1.2 AMT,Automatic,"11,483 km",2nd Owner,Petrol,KA-05,"12,844/month","6,57,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+481,2016 Maruti Ciaz,ZDI+ SHVS,Manual,"1,10,103 km",1st Owner,Diesel,KA-05,"12,317/month","6,30,000","Bellahalli, Bengaluru",Bangalore
+482,2016 Volkswagen Ameo,HIGHLINE1.5L,Manual,"80,155 km",1st Owner,Diesel,KA-05,"10,772/month","5,51,000","Sonnappanahalli
+",Bangalore
+483,2018 Mahindra KUV 100 NXT,K8 P 6 STR,Manual,"46,456 km",1st Owner,Petrol,KA-03,"11,828/month","6,05,000","Bellahalli, Bengaluru",Bangalore
+484,2014 Maruti Alto 800,LXI,Manual,"28,800 km",1st Owner,Petrol,KA-01,"5,650/month","2,89,000","Horamavu Agara Road, Bengaluru",Bangalore
+485,2020 Honda City,1.5L I-VTEC ZX CVT,Automatic,"57,963 km",1st Owner,Petrol,KA-03,"24,820/month","13,04,000","Bellahalli, Bengaluru",Bangalore
+486,2015 Hyundai Grand i10,ASTA AT 1.2 KAPPA VTVT,Automatic,"72,097 km",2nd Owner,Petrol,KA-04,"10,010/month","5,12,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+487,2020 Maruti Ciaz,DELTA 1.5 SHVS MT PETROL,Manual,"40,908 km",1st Owner,Petrol,KA-02,"15,703/month","8,25,000","Bellahalli, Bengaluru",Bangalore
+488,2017 Honda Jazz,1.2 V MT,Manual,"45,938 km",2nd Owner,Petrol,KA-03,"11,535/month","5,90,000","Bellahalli, Bengaluru",Bangalore
+489,2021 Renault Kiger,RXZ CVT 1.0 TURBO,Automatic,"32,302 km",1st Owner,Petrol,KA-51,"18,653/month","9,80,000","Bellahalli, Bengaluru",Bangalore
+490,2017 Maruti Celerio,VXI AMT,Automatic,"22,308 km",2nd Owner,Petrol,KA-05,"8,876/month","4,54,000","Horamavu Agara Road, Bengaluru",Bangalore
+491,2013 Hyundai Verna,FLUIDIC 1.6 CRDI SX,Manual,"80,192 km",2nd Owner,Diesel,KA-53,"10,655/month","5,45,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+492,2019 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"42,090 km",1st Owner,Petrol,KA-25,"11,222/month","5,74,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+493,2016 Honda City,1.5L I-VTEC V MT,Manual,"43,238 km",2nd Owner,Petrol,KA-03,"13,177/month","6,74,000","Bellahalli, Bengaluru",Bangalore
+494,2015 Maruti Wagon R 1.0,VXI,Manual,"77,659 km",1st Owner,Petrol,KA-01,"7,273/month","3,72,000","Bellahalli, Bengaluru",Bangalore
+495,2021 Honda Jazz,1.2L I-VTEC ZX,Manual,"25,802 km",1st Owner,Petrol,KA-01,"16,046/month","8,43,000","Horamavu Agara Road, Bengaluru",Bangalore
+496,2017 Maruti Vitara Brezza,VDI,Manual,"96,567 km",1st Owner,Diesel,DL-1C,"14,526/month","7,43,000","Bellahalli, Bengaluru",Bangalore
+497,2017 Honda WR-V,1.2L I-VTEC VX MT,Manual,"40,959 km",1st Owner,Petrol,KA-05,"14,565/month","7,45,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+498,2018 Hyundai Xcent,SX 1.2,Manual,"31,738 km",1st Owner,Petrol,KA-53,"12,473/month","6,38,000","Bellahalli, Bengaluru",Bangalore
+499,2016 Hyundai Elite i20,ASTA 1.2 (O),Manual,"17,000 km",1st Owner,Petrol,KA-53,"14,428/month","7,38,000","Sonnappanahalli
+",Bangalore
+500,2018 Maruti Ciaz,ZETA 1.5 SHVS MT PETROL,Manual,"45,621 km",1st Owner,Petrol,KA-03,"15,399/month","8,09,000","Horamavu Agara Road, Bengaluru",Bangalore
+501,2019 Maruti Alto,LXI O,Manual,"41,958 km",1st Owner,Petrol,KA-51,"7,331/month","3,75,000","Bellahalli, Bengaluru",Bangalore
+502,2017 Hyundai Creta,SX PLUS AT 1.6 PETROL,Automatic,"24,459 km",2nd Owner,Petrol,KA-51,"19,567/month","10,28,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+503,2017 Honda Jazz,1.2L I-VTEC VX,Manual,"60,442 km",2nd Owner,Petrol,KA-05,"10,459/month","5,35,000","Bellahalli, Bengaluru",Bangalore
+504,2018 Maruti Swift,ZXI,Manual,"29,767 km",1st Owner,Petrol,KA-02,"13,587/month","6,95,000","GT World Mall, Bengaluru",Bangalore
+505,2017 Honda WR-V,1.5L I-DTEC VX MT,Manual,"82,084 km",1st Owner,Diesel,KA-13,"14,115/month","7,22,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+506,2017 Maruti Baleno,ZETA PETROL 1.2,Manual,"80,830 km",1st Owner,Petrol,KA-03,"12,727/month","6,51,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+507,2020 Maruti Ciaz,S 1.5 MT PETROL,Manual,"19,472 km",1st Owner,Petrol,KA-04,"19,339/month","10,16,000","Bellahalli, Bengaluru",Bangalore
+508,2010 Maruti Alto K10,LXI,Manual,"38,144 km",2nd Owner,Petrol,KA-41,"4,399/month","2,25,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+509,2015 Honda City,1.5L I-VTEC VX,Manual,"51,947 km",2nd Owner,Petrol,KA-05,"13,646/month","6,98,000","Bellahalli, Bengaluru",Bangalore
+510,2016 Maruti Baleno,ALPHA PETROL 1.2,Manual,"79,415 km",1st Owner,Petrol,KA-53,"12,121/month","6,20,000","GT World Mall, Bengaluru",Bangalore
+511,2017 Honda City,VX MT DIESEL,Manual,"59,373 km",1st Owner,Diesel,KA-04,"18,349/month","9,64,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+512,2017 Maruti Baleno,DELTA PETROL 1.2,Manual,"45,681 km",1st Owner,Petrol,KA-51,"12,532/month","6,41,000","Bellahalli, Bengaluru",Bangalore
+513,2019 Ford Ecosport,TITANIUM 1.5L PETROL,Manual,"25,893 km",1st Owner,Petrol,KA-01,"15,399/month","8,09,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+514,2020 Renault Kwid,RXT 1.0 AMT (O),Automatic,"37,880 km",1st Owner,Petrol,KA-41,"10,694/month","5,47,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+515,2017 Hyundai Creta,SX PLUS AT 1.6 PETROL,Automatic,"74,511 km",3rd Owner,Petrol,KA-03,"18,501/month","9,72,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+516,2019 Mahindra XUV 3OO,W8 (O) 1.2 PETROL,Manual,"57,202 km",1st Owner,Petrol,KA-05,"17,607/month","9,25,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+517,2020 Renault Kwid,CLIMBER 1.0 AMT (O),Automatic,"7,390 km",1st Owner,Petrol,KA-01,"10,616/month","5,43,000","Bellahalli, Bengaluru",Bangalore
+518,2020 Renault Kwid,RXT 1.0 AMT (O),Automatic,"42,061 km",2nd Owner,Petrol,KA-19,"9,286/month","4,75,000","GT World Mall, Bengaluru",Bangalore
+519,2017 Maruti IGNIS,ZETA 1.2 AMT,Automatic,"47,488 km",2nd Owner,Petrol,KA-04,"10,889/month","5,57,000","Bellahalli, Bengaluru",Bangalore
+520,2017 Hyundai Creta,SX PLUS AT 1.6 PETROL,Automatic,"50,508 km",2nd Owner,Petrol,KA-03,"19,224/month","10,10,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+521,2018 Honda Amaze,1.2L I-VTEC V CVT,Automatic,"29,256 km",1st Owner,Petrol,KA-01,"14,428/month","7,38,000","Bellahalli, Bengaluru",Bangalore
+522,2022 Skoda SLAVIA,AMBITION 1.0L TSI AT,Automatic,"11,522 km",1st Owner,Petrol,KA-03,"27,828/month","14,62,000","Horamavu Agara Road, Bengaluru",Bangalore
+523,2021 Tata NEXON,XZ PLUS (HS) PETROL,Manual,"43,294 km",1st Owner,Petrol,KA-05,"20,062/month","10,54,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+524,2013 Maruti Swift,VXI,Manual,"32,993 km",1st Owner,Petrol,KA-05,"9,814/month","5,02,000","Horamavu Agara Road, Bengaluru",Bangalore
+525,2014 Maruti Celerio,VXI AMT,Automatic,"6,726 km",1st Owner,Petrol,KA-05,"8,895/month","4,55,000","Bellahalli, Bengaluru",Bangalore
+526,2010 Maruti Wagon R 1.0,VXI,Manual,"35,969 km",2nd Owner,Petrol,KA-53,"5,846/month","2,99,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+527,2021 Renault Kwid,RXL 1.0 AMT,Automatic,"23,628 km",1st Owner,Petrol,KA-09,"10,068/month","5,15,000","Horamavu Agara Road, Bengaluru",Bangalore
+528,2018 Renault Captur,RXT Diesel Dual Tone,Manual,"38,199 km",2nd Owner,Diesel,KA-53,"16,541/month","8,69,000","Bellahalli, Bengaluru",Bangalore
+529,2012 Hyundai i20,ASTA 1.2,Manual,"44,326 km",1st Owner,Petrol,KA-04,"9,462/month","4,84,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+530,2021 Renault Kwid,RXT 1.0 AMT (O),Automatic,"26,755 km",1st Owner,Petrol,KA-19,"10,518/month","5,38,000","Horamavu Agara Road, Bengaluru",Bangalore
+531,2014 Maruti Swift,VXI,Manual,"56,661 km",1st Owner,Petrol,KA-05,"10,068/month","5,15,000","Horamavu Agara Road, Bengaluru",Bangalore
+532,2015 Maruti Alto K10,VXI,Manual,"46,720 km",2nd Owner,Petrol,KA-03,"6,158/month","3,15,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+533,2020 Hyundai GRAND I10 NIOS,ASTA 1.2 KAPPA VTVT,Manual,"15,361 km",2nd Owner,Petrol,KA-02,"13,705/month","7,01,000","Bellahalli, Bengaluru",Bangalore
+534,2016 Volkswagen Vento,HIGHLINE PETROL AT,Automatic,"71,642 km",1st Owner,Petrol,KA-03,"13,568/month","6,94,000","GT World Mall, Bengaluru",Bangalore
+535,2013 Honda Brio,S MT,Manual,"81,100 km",2nd Owner,Petrol,KA-51,"6,178/month","3,16,000","Bellahalli, Bengaluru",Bangalore
+536,2019 Hyundai VENUE,SX PLUS 1.0 TURBO DCT,Automatic,"95,880 km",1st Owner,Petrol,KA-05,"18,691/month","9,82,000","GT World Mall, Bengaluru",Bangalore
+537,2016 Maruti Swift Dzire,VDI ABS,Manual,"52,030 km",1st Owner,Diesel,KA-06,"14,311/month","7,32,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+538,2017 Hyundai Grand i10,SPORTZ (O) 1.2 KAPPA VTVT,Manual,"65,730 km",2nd Owner,Petrol,KA-06,"10,244/month","5,24,000","Horamavu Agara Road, Bengaluru",Bangalore
+539,2016 Ford Ecosport,TITANIUM 1.5L PETROL,Manual,"19,397 km",2nd Owner,Petrol,KA-03,"13,411/month","6,86,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+540,2018 Maruti Vitara Brezza,ZDI PLUS AT DUAL TONE,Automatic,"72,152 km",2nd Owner,Diesel,KA-30,"17,321/month","9,10,000","Bellahalli, Bengaluru",Bangalore
+541,2016 Hyundai Elite i20,MAGNA 1.2,Manual,"14,516 km",1st Owner,Petrol,KA-51,"12,844/month","6,57,000","Bellahalli, Bengaluru",Bangalore
+542,2016 Hyundai Elite i20,ASTA 1.2,Manual,"46,431 km",1st Owner,Petrol,KA-51,"13,822/month","7,07,000","Horamavu Agara Road, Bengaluru",Bangalore
+543,2015 Maruti Swift,VXI,Manual,"52,486 km",2nd Owner,Petrol,KA-35,"9,873/month","5,05,000","Bellahalli, Bengaluru",Bangalore
+544,2020 Tata NEXON,XZA PLUS PETROL,Automatic,"34,437 km",1st Owner,Petrol,KA-05,"19,091/month","10,03,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+545,2017 Renault Kwid,RXT 1.0,Manual,"64,024 km",1st Owner,Petrol,KA-02,"7,312/month","3,74,000","Sonnappanahalli
+",Bangalore
+546,2018 Hyundai Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,"40,769 km",1st Owner,Petrol,KA-03,"10,577/month","5,41,000","Bellahalli, Bengaluru",Bangalore
+547,2017 Hyundai Grand i10,ASTA 1.2 KAPPA VTVT,Manual,"11,268 km",2nd Owner,Petrol,KA-53,"12,356/month","6,32,000","Sonnappanahalli
+",Bangalore
+548,2017 Mahindra XUV500,W10 AT FWD,Automatic,"66,971 km",1st Owner,Diesel,KA-05,"27,181/month","14,28,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+549,2015 Maruti Swift,VXI,Manual,"29,289 km",1st Owner,Petrol,KA-03,"11,085/month","5,67,000","Horamavu Agara Road, Bengaluru",Bangalore
+550,2021 Renault Kiger,RXZ 1.0 MT,Manual,"14,463 km",1st Owner,Petrol,KA-03,"17,188/month","9,03,000","Bellahalli, Bengaluru",Bangalore
+551,2016 Maruti Ciaz,ZDI SHVS,Manual,"48,096 km",1st Owner,Diesel,KA-50,"14,017/month","7,17,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+552,2015 Honda City,1.5L I-VTEC VX CVT,Automatic,"43,358 km",2nd Owner,Petrol,KA-01,"14,682/month","7,51,000","Bellahalli, Bengaluru",Bangalore
+553,2016 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"65,532 km",2nd Owner,Petrol,KA-03,"8,289/month","4,24,000","Bellahalli, Bengaluru",Bangalore
+554,2014 Maruti Swift,VXI,Manual,"51,489 km",1st Owner,Petrol,KA-03,"9,775/month","5,00,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+555,2015 Maruti Wagon R 1.0,VXI,Manual,"37,083 km",1st Owner,Petrol,KA-51,"7,801/month","3,99,000","Horamavu Agara Road, Bengaluru",Bangalore
+556,2016 Maruti Ciaz,ZDI SHVS,Manual,"1,16,737 km",1st Owner,Diesel,KA-51,"11,965/month","6,12,000","Bellahalli, Bengaluru",Bangalore
+557,2013 Maruti Swift,ZXI,Manual,"57,770 km",1st Owner,Petrol,KA-05,"10,127/month","5,18,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+558,2016 Hyundai Creta,SX PLUS 1.6 PETROL,Manual,"81,853 km",2nd Owner,Petrol,KA-01,"17,150/month","9,01,000","Bellahalli, Bengaluru",Bangalore
+559,2016 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"63,284 km",1st Owner,Petrol,KA-01,"8,934/month","4,57,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+560,2020 Maruti IGNIS,ZETA 1.2,Manual,"56,218 km",1st Owner,Petrol,KA-51,"11,554/month","5,91,000","Bellahalli, Bengaluru",Bangalore
+561,2016 Hyundai Elite i20,ASTA 1.2,Manual,"31,983 km",1st Owner,Petrol,KA-05,"14,096/month","7,21,000","Sonnappanahalli
+",Bangalore
+562,2018 Honda City,1.5L I-VTEC VX,Manual,"31,862 km",2nd Owner,Petrol,KA-53,"16,484/month","8,66,000","Bellahalli, Bengaluru",Bangalore
+563,2020 Ford Ecosport,TITANIUM + 1.5L PETROL,Manual,"14,618 km",1st Owner,Petrol,KA-02,"18,273/month","9,60,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+564,2014 Maruti Swift,VXI,Manual,"58,358 km",1st Owner,Petrol,KA-19,"9,169/month","4,69,000","Bellahalli, Bengaluru",Bangalore
+565,2015 Maruti Celerio,VXI AMT,Automatic,"36,209 km",2nd Owner,Petrol,KA-05,"8,309/month","4,25,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+566,2018 Honda City,1.5L I-VTEC ZX CVT,Automatic,"68,906 km",2nd Owner,Petrol,KA-04,"19,358/month","10,17,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+567,2015 Hyundai Grand i10,ASTA AT 1.2 KAPPA VTVT,Automatic,"56,719 km",2nd Owner,Petrol,KA-04,"9,208/month","4,71,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+568,2017 Maruti IGNIS,ZETA 1.2 AMT,Automatic,"73,927 km",1st Owner,Petrol,KA-03,"10,068/month","5,15,000","Bellahalli, Bengaluru",Bangalore
+569,2018 Honda City,1.5L I-VTEC ZX CVT,Automatic,"41,462 km",1st Owner,Petrol,KA-01,"19,262/month","10,12,000","GT World Mall, Bengaluru",Bangalore
+570,2019 Ford Ecosport,TITANIUM 1.5L SIGNATURE EDITION (SUNROOF) PETROL,Manual,"25,007 km",2nd Owner,Petrol,KA-01,"18,235/month","9,58,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+571,2020 Hyundai GRAND I10 NIOS,Asta Petrol,Manual,"79,978 km",1st Owner,Petrol,KA-51,"12,453/month","6,37,000","Bellahalli, Bengaluru",Bangalore
+572,2018 Maruti Dzire,ZXI PLUS AMT,Automatic,"22,528 km",2nd Owner,Petrol,KA-01,"13,431/month","6,87,000","Bellahalli, Bengaluru",Bangalore
+573,2016 Volkswagen Vento,HIGHLINE PETROL AT,Automatic,"50,816 km",2nd Owner,Petrol,KA-09,"14,780/month","7,56,000","GT World Mall, Bengaluru",Bangalore
+574,2019 Renault Kwid,RXT 1.0 (O),Manual,"18,305 km",1st Owner,Petrol,KA-03,"9,208/month","4,71,000","Horamavu Agara Road, Bengaluru",Bangalore
+575,2021 Renault Kwid,1.0 CLIMBER OPT,Manual,"11,389 km",1st Owner,Petrol,KA-04,"10,088/month","5,16,000","Bellahalli, Bengaluru",Bangalore
+576,2014 Renault Duster,110 PS RXZ 4X4 MT DIESEL,Manual,"1,06,334 km",1st Owner,Diesel,KA-03,"13,314/month","6,81,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+577,2020 Hyundai GRAND I10 NIOS,SPORTZ AMT 1.2 KAPPA VTVT,Automatic,"23,056 km",1st Owner,Petrol,KA-03,"14,252/month","7,29,000","Bellahalli, Bengaluru",Bangalore
+578,2012 Hyundai i20,SPORTZ 1.2,Manual,"67,444 km",1st Owner,Petrol,KA-02,"8,250/month","4,22,000","Bellahalli, Bengaluru",Bangalore
+579,2016 Honda City,1.5L I-VTEC VX CVT,Automatic,"41,138 km",1st Owner,Petrol,KA-01,"15,542/month","7,95,000","Bellahalli, Bengaluru",Bangalore
+580,2015 Maruti Swift,VXI,Manual,"57,604 km",1st Owner,Petrol,KA-51,"10,147/month","5,19,000","Horamavu Agara Road, Bengaluru",Bangalore
+581,2022 Tata NEXON,XZ PLUS (O) PETROL,Manual,"8,660 km",2nd Owner,Petrol,KA-51,"22,746/month","11,95,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+582,2015 Maruti Swift,VXI,Manual,"76,485 km",1st Owner,Petrol,KA-53,"10,107/month","5,17,000","Bellahalli, Bengaluru",Bangalore
+583,2010 Hyundai i10,MAGNA 1.2,Manual,"54,998 km",1st Owner,Petrol,KA-51,"5,533/month","2,83,000","Bellahalli, Bengaluru",Bangalore
+584,2017 Maruti Baleno,ZETA CVT PETROL 1.2,Automatic,"52,659 km",1st Owner,Petrol,KA-03,"12,590/month","6,44,000","GT World Mall, Bengaluru",Bangalore
+585,2016 Maruti Baleno,ZETA PETROL 1.2,Manual,"22,199 km",1st Owner,Petrol,KA-03,"13,001/month","6,65,000","Bellahalli, Bengaluru",Bangalore
+586,2020 Tata Tiago,XZ PLUS DUAL TONE PETROL,Manual,"35,383 km",1st Owner,Petrol,KA-53,"13,060/month","6,68,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+587,2019 Ford Ecosport,TITANIUM + 1.5L DIESEL,Manual,"63,133 km",1st Owner,Diesel,KA-05,"17,416/month","9,15,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+588,2012 Hyundai Verna,FLUIDIC 1.6 VTVT SX,Manual,"46,123 km",1st Owner,Petrol,KA-05,"10,107/month","5,17,000","Sonnappanahalli
+",Bangalore
+589,2018 Maruti Swift,ZDI AMT,Automatic,"70,690 km",1st Owner,Diesel,KA-09,"13,685/month","7,00,000","Bellahalli, Bengaluru",Bangalore
+590,2020 Tata Tiago,XZA PLUS DUAL TONE PETROL,Automatic,"26,591 km",1st Owner,Petrol,KA-53,"13,939/month","7,13,000","Horamavu Agara Road, Bengaluru",Bangalore
+591,2021 Maruti IGNIS,ALPHA 1.2 K12,Manual,"31,530 km",1st Owner,Petrol,KA-63,"13,020/month","6,66,000","Bellahalli, Bengaluru",Bangalore
+592,2021 Tata NEXON,XZA PLUS DIESEL,Automatic,"10,391 km",1st Owner,Diesel,KA-47,"23,488/month","12,34,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+593,2018 Hyundai Grand i10,SPORTZ AT 1.2 KAPPA VTVT,Automatic,"53,576 km",1st Owner,Petrol,KA-01,"12,102/month","6,19,000","Horamavu Agara Road, Bengaluru",Bangalore
+594,2020 Tata Tiago,XZ PETROL,Manual,"24,357 km",1st Owner,Petrol,KA-05,"12,727/month","6,51,000","Horamavu Agara Road, Bengaluru",Bangalore
+595,2019 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"42,976 km",1st Owner,Petrol,KA-04,"11,280/month","5,77,000","Bellahalli, Bengaluru",Bangalore
+596,2022 Mahindra XUV 3OO,W6 1.2 PETROL AMT,Automatic,"6,625 km",1st Owner,Petrol,KA-21,"21,071/month","11,07,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+597,2020 Hyundai AURA,SX PLUS 1.2 AMT,Automatic,"23,583 km",1st Owner,Petrol,KA-41,"15,425/month","7,89,000","Bellahalli, Bengaluru",Bangalore
+598,2020 Honda City,1.5L I-VTEC VX CVT,Automatic,"29,708 km",1st Owner,Petrol,KA-50,"25,658/month","13,48,000","Horamavu Agara Road, Bengaluru",Bangalore
+599,2016 Maruti Alto K10,VXI,Manual,"81,210 km",2nd Owner,Petrol,KA-09,"6,217/month","3,18,000","Bellahalli, Bengaluru",Bangalore
+600,2016 Maruti Celerio,VXI AMT (O),Automatic,"66,596 km",1st Owner,Petrol,KA-05,"9,149/month","4,68,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+601,2017 Honda WR-V,1.5L I-DTEC VX MT,Manual,"62,997 km",1st Owner,Diesel,KA-53,"15,366/month","7,86,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+602,2010 Maruti Ritz,VXI,Manual,"73,340 km",1st Owner,Petrol,KA-05,"6,334/month","3,24,000","Horamavu Agara Road, Bengaluru",Bangalore
+603,2021 Renault Kiger,RXZ CVT 1.0 TURBO DUAL TONE,Automatic,"21,929 km",2nd Owner,Petrol,KA-51,"17,264/month","9,07,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+604,2014 Hyundai i20,ASTA 1.2,Manual,"34,836 km",2nd Owner,Petrol,KA-01,"10,088/month","5,16,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+605,2019 Renault Kwid,RXT 1.0 AMT (O),Automatic,"23,439 km",1st Owner,Petrol,KA-05,"9,443/month","4,83,000","Bellahalli, Bengaluru",Bangalore
+606,2013 Honda Amaze,1.5L I-DTEC VX,Manual,"86,176 km",1st Owner,Diesel,KA-41,"8,563/month","4,38,000","Sonnappanahalli
+",Bangalore
+607,2018 Hyundai Grand i10,ASTA 1.2 KAPPA VTVT,Manual,"7,773 km",1st Owner,Petrol,KA-51,"12,453/month","6,37,000","GT World Mall, Bengaluru",Bangalore
+608,2019 Hyundai GRAND I10 NIOS,SPORTZ AMT 1.2 KAPPA VTVT,Automatic,"28,315 km",1st Owner,Petrol,KA-41,"13,372/month","6,84,000","Sonnappanahalli
+",Bangalore
+609,2021 Renault Kiger,RXZ CVT 1.0 TURBO DUAL TONE,Automatic,"14,608 km",1st Owner,Petrol,KA-04,"18,273/month","9,60,000","Bellahalli, Bengaluru",Bangalore
+610,2019 Maruti Swift,ZXI,Manual,"47,296 km",1st Owner,Petrol,KA-01,"13,314/month","6,81,000","Bellahalli, Bengaluru",Bangalore
+611,2020 Maruti Celerio,ZXI (O),Manual,"36,085 km",2nd Owner,Petrol,KA-51,"10,401/month","5,32,000","Bellahalli, Bengaluru",Bangalore
+612,2019 Maruti Swift,VXI,Manual,"57,265 km",1st Owner,Petrol,KA-19,"12,317/month","6,30,000","Horamavu Agara Road, Bengaluru",Bangalore
+613,2017 Maruti Alto 800,VXI,Manual,"26,215 km",1st Owner,Petrol,KA-51,"6,471/month","3,31,000","Bellahalli, Bengaluru",Bangalore
+614,2016 Honda Jazz,1.2L I-VTEC S AT,Automatic,"60,223 km",2nd Owner,Petrol,KA-03,"11,241/month","5,75,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+615,2022 Toyota URBAN CRUISER,PREMIUM GRADE AT,Automatic,"9,428 km",1st Owner,Petrol,KA-09,"23,164/month","12,17,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+616,2016 Maruti Baleno,DELTA PETROL 1.2,Manual,"39,674 km",1st Owner,Petrol,KA-51,"12,532/month","6,41,000","GT World Mall, Bengaluru",Bangalore
+617,2016 Renault Kwid,RXT 0.8 (O),Manual,"66,707 km",1st Owner,Petrol,KA-51,"6,667/month","3,41,000","Sonnappanahalli
+",Bangalore
+618,2021 Maruti Baleno,ZETA CVT PETROL 1.2,Automatic,"6,930 km",1st Owner,Petrol,KA-53,"16,997/month","8,93,000","Bellahalli, Bengaluru",Bangalore
+619,2017 Maruti Baleno,ZETA PETROL 1.2,Manual,"21,957 km",1st Owner,Petrol,KA-17,"13,275/month","6,79,000","Bellahalli, Bengaluru",Bangalore
+620,2019 Maruti Celerio,VXI,Manual,"15,356 km",1st Owner,Petrol,KA-01,"9,892/month","5,06,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+621,2017 Hyundai Elite i20,SPORTZ 1.2,Manual,"43,083 km",1st Owner,Petrol,KA-01,"12,590/month","6,44,000","Bellahalli, Bengaluru",Bangalore
+622,2017 Maruti Dzire,ZXI Plus AMT,Automatic,"44,270 km",2nd Owner,Petrol,KA-51,"13,001/month","6,65,000","Bellahalli, Bengaluru",Bangalore
+623,2020 Hyundai Creta,SX (O) IVT 1.5 PETROL,Automatic,"12,975 km",1st Owner,Petrol,KA-04,"33,557/month","17,63,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+624,2020 Hyundai NEW I20,ASTA (O) 1.5 CRDI MT,Manual,"34,579 km",1st Owner,Diesel,KA-02,"19,624/month","10,31,000","Bellahalli, Bengaluru",Bangalore
+625,2012 Honda Brio,S MT,Manual,"79,059 km",2nd Owner,Petrol,KA-51,"6,432/month","3,29,000","Bellahalli, Bengaluru",Bangalore
+626,2017 Skoda Rapid,STYLE 1.5 TDI AT,Automatic,"75,037 km",1st Owner,Diesel,KA-03,"18,025/month","9,47,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+627,2020 Renault Kwid,RXT 1.0 AMT (O),Automatic,"11,662 km",2nd Owner,Petrol,KA-01,"11,378/month","5,82,000","Bellahalli, Bengaluru",Bangalore
+628,2014 Maruti Swift,VXI,Manual,"49,570 km",1st Owner,Petrol,KA-02,"9,912/month","5,07,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+629,2019 Maruti Dzire,ZXI PLUS AMT,Automatic,"35,146 km",1st Owner,Petrol,KA-41,"14,115/month","7,22,000","Bellahalli, Bengaluru",Bangalore
+630,2016 Skoda Rapid,STYLE 1.5 TDI AT,Automatic,"79,546 km",2nd Owner,Diesel,KA-04,"13,157/month","6,73,000","Sonnappanahalli
+",Bangalore
+631,2012 Maruti Swift Dzire,VXI,Manual,"44,074 km",1st Owner,Petrol,KA-01,"8,172/month","4,18,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+632,2013 Maruti Swift Dzire,ZXI,Manual,"36,337 km",1st Owner,Petrol,HR-26,"9,697/month","4,96,000","Sonnappanahalli
+",Bangalore
+633,2018 Hyundai Elite i20,ASTA 1.2 (O),Manual,"35,368 km",1st Owner,Petrol,KA-63,"15,093/month","7,72,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+634,2021 Renault Kwid,CLIMBER 1.0 (O) DUAL TONE,Manual,"19,062 km",1st Owner,Petrol,KA-51,"10,166/month","5,20,000","Bellahalli, Bengaluru",Bangalore
+635,2013 Hyundai i10,SPORTZ 1.2 AT,Automatic,"69,263 km",2nd Owner,Petrol,KA-03,"6,647/month","3,40,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+636,2019 Hyundai Elite i20,SPORTZ PLUS  1.2 CVT,Automatic,"14,285 km",2nd Owner,Petrol,KA-05,"15,284/month","8,03,000","Sonnappanahalli
+",Bangalore
+637,2017 Honda Jazz,1.2L I-VTEC VX,Manual,"70,235 km",1st Owner,Petrol,KA-03,"10,987/month","5,62,000","Horamavu Agara Road, Bengaluru",Bangalore
+638,2021 Renault Kiger,RXZ CVT 1.0 TURBO DUAL TONE,Automatic,"16,082 km",1st Owner,Petrol,KA-04,"18,273/month","9,60,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+639,2021 Maruti IGNIS,DELTA 1.2 AMT,Automatic,"4,940 km",2nd Owner,Petrol,KA-01,"13,529/month","6,92,000","Bellahalli, Bengaluru",Bangalore
+640,2017 Maruti Alto K10,VXI,Manual,"29,094 km",1st Owner,Petrol,KA-09,"7,370/month","3,77,000","Horamavu Agara Road, Bengaluru",Bangalore
+641,2017 Maruti IGNIS,DELTA 1.2 AMT,Automatic,"42,622 km",3rd Owner,Petrol,KA-03,"10,714/month","5,48,000","Bellahalli, Bengaluru",Bangalore
+642,2018 Renault Kwid,RXT 1.0 EASY-R  AT,Automatic,"34,398 km",1st Owner,Petrol,KA-02,"8,641/month","4,42,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+643,2015 Maruti Celerio,VXI AMT,Automatic,"42,137 km",1st Owner,Petrol,KA-25,"8,407/month","4,30,000","Bellahalli, Bengaluru",Bangalore
+644,2020 Maruti Ciaz,ALPHA 1.5 SHVS PETROL,Manual,"80,648 km",1st Owner,Petrol,KA-27,"15,265/month","8,02,000","Bellahalli, Bengaluru",Bangalore
+645,2014 Hyundai Grand i10,MAGNA 1.1 CRDI,Manual,"76,009 km",1st Owner,Diesel,KA-51,"8,680/month","4,44,000","Bellahalli, Bengaluru",Bangalore
+646,2017 Honda Jazz,1.2L I-VTEC V AT,Automatic,"50,359 km",1st Owner,Petrol,KA-04,"12,278/month","6,28,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+647,2019 Maruti Ciaz,DELTA AT 1.5 SHVS PETROL,Automatic,"54,561 km",2nd Owner,Petrol,KA-51,"15,322/month","8,05,000","Bellahalli, Bengaluru",Bangalore
+648,2020 Renault Kwid,RXT 1.0 AMT (O),Automatic,"22,474 km",1st Owner,Petrol,KA-50,"11,065/month","5,66,000","Horamavu Agara Road, Bengaluru",Bangalore
+649,2019 Renault Kwid,RXT 1.0 (O),Manual,"26,039 km",1st Owner,Petrol,KA-50,"8,700/month","4,45,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+650,2020 Maruti Swift,VXI,Manual,"61,433 km",1st Owner,Petrol,KA-51,"12,903/month","6,60,000","Bellahalli, Bengaluru",Bangalore
+651,2017 Honda WR-V,1.2L I-VTEC VX MT,Manual,"26,158 km",1st Owner,Petrol,KA-03,"15,456/month","8,12,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+652,2015 Maruti Swift,VXI,Manual,"91,087 km",1st Owner,Petrol,KA-01,"9,971/month","5,10,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+653,2019 Renault Kwid,CLIMBER 1.0,Manual,"52,231 km",1st Owner,Petrol,KA-13,"8,152/month","4,17,000","Bellahalli, Bengaluru",Bangalore
+654,2012 Maruti Swift,VXI,Manual,"66,346 km",1st Owner,Petrol,KA-03,"8,407/month","4,30,000","Horamavu Agara Road, Bengaluru",Bangalore
+655,2021 Honda City,1.5L I-VTEC VX,Manual,"19,497 km",1st Owner,Petrol,KA-50,"24,059/month","12,64,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+656,2017 Maruti IGNIS,ZETA 1.2 AMT,Automatic,"74,643 km",1st Owner,Petrol,KA-06,"10,264/month","5,25,000","Bellahalli, Bengaluru",Bangalore
+657,2015 Maruti Swift,VDI ABS,Manual,"87,753 km",1st Owner,Diesel,KA-04,"11,280/month","5,77,000","Horamavu Agara Road, Bengaluru",Bangalore
+658,2014 Maruti Swift,VXI,Manual,"24,700 km",1st Owner,Petrol,KA-03,"10,010/month","5,12,000","Horamavu Agara Road, Bengaluru",Bangalore
+659,2020 Maruti Baleno,ALPHA CVT PETROL 1.2,Automatic,"9,724 km",1st Owner,Petrol,KA-02,"17,587/month","9,24,000","Horamavu Agara Road, Bengaluru",Bangalore
+660,2017 Hyundai Elite i20,SPORTZ 1.2,Manual,"48,285 km",1st Owner,Petrol,KA-51,"12,864/month","6,58,000","Bellahalli, Bengaluru",Bangalore
+661,2013 Honda Brio,V MT,Manual,"66,488 km",3rd Owner,Petrol,KA-01,"5,904/month","3,02,000","Horamavu Agara Road, Bengaluru",Bangalore
+662,2018 Maruti Swift,VXI,Manual,"28,548 km",1st Owner,Petrol,KA-01,"13,216/month","6,76,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+663,2015 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"96,455 km",1st Owner,Petrol,KA-02,"8,348/month","4,27,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+664,2014 Maruti Swift,VXI,Manual,"52,802 km",2nd Owner,Petrol,KA-05,"9,286/month","4,75,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+665,2016 Maruti Swift,VXI,Manual,"30,740 km",1st Owner,Petrol,KA-41,"11,691/month","5,98,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+666,2017 Maruti Baleno,ALPHA CVT PETROL 1.2,Automatic,"41,500 km",2nd Owner,Petrol,KA-05,"13,314/month","6,81,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+667,2017 Maruti Ciaz,ZETA DIESEL 1.3,Manual,"57,268 km",2nd Owner,Diesel,KA-03,"14,624/month","7,48,000","Horamavu Agara Road, Bengaluru",Bangalore
+668,2016 Honda City,1.5L I-VTEC V MT,Manual,"47,776 km",1st Owner,Petrol,KA-53,"13,959/month","7,14,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+669,2019 Tata NEXON,XZA PLUS PETROL DUAL TONE,Automatic,"44,452 km",1st Owner,Petrol,KA-51,"15,970/month","8,39,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+670,2013 Maruti Wagon R 1.0,VXI,Manual,"58,323 km",1st Owner,Petrol,KA-02,"7,155/month","3,66,000","Bellahalli, Bengaluru",Bangalore
+671,2017 Hyundai Grand i10,ASTA 1.2 KAPPA VTVT,Manual,"34,757 km",1st Owner,Petrol,KA-05,"11,359/month","5,81,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+672,2016 Hyundai Elite i20,MAGNA 1.2,Manual,"40,335 km",1st Owner,Petrol,KA-51,"11,769/month","6,02,000","Bellahalli, Bengaluru",Bangalore
+673,2010 Maruti Wagon R 1.0,VXI,Manual,"89,928 km",1st Owner,Petrol,KA-03,"5,259/month","2,69,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+674,2019 Maruti Baleno,ALPHA CVT PETROL 1.2,Automatic,"19,693 km",1st Owner,Petrol,KA-51,"15,874/month","8,34,000","Bellahalli, Bengaluru",Bangalore
+675,2021 Maruti New Wagon-R,ZXI 1.2,Manual,"14,009 km",1st Owner,Petrol,KA-19,"12,532/month","6,41,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+676,2017 Maruti Baleno,DELTA CVT PETROL 1.2,Automatic,"39,481 km",2nd Owner,Petrol,KA-03,"14,115/month","7,22,000","Bellahalli, Bengaluru",Bangalore
+677,2021 Maruti Dzire,ZXI,Manual,"15,045 km",1st Owner,Petrol,KA-03,"15,562/month","7,96,000","Bellahalli, Bengaluru",Bangalore
+678,2016 Hyundai Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,"22,977 km",1st Owner,Petrol,KA-51,"9,599/month","4,91,000","Bellahalli, Bengaluru",Bangalore
+679,2017 Maruti Vitara Brezza,ZDI,Manual,"86,210 km",1st Owner,Diesel,KA-02,"15,722/month","8,26,000","Horamavu Agara Road, Bengaluru",Bangalore
+680,2015 Maruti Swift,VXI,Manual,"77,646 km",1st Owner,Petrol,KA-04,"9,990/month","5,11,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+681,2019 Mahindra XUV500,W11 (O) AT,Automatic,"30,853 km",1st Owner,Diesel,KA-03,"34,414/month","18,08,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+682,2017 Renault Kwid,RXL 1.0,Manual,"41,993 km",1st Owner,Petrol,KA-50,"7,351/month","3,76,000","Sonnappanahalli
+",Bangalore
+683,2018 Ford Ecosport,TITANIUM 1.5L DIESEL,Manual,"35,922 km",2nd Owner,Diesel,KA-05,"16,255/month","8,54,000","Bellahalli, Bengaluru",Bangalore
+684,2017 Hyundai Grand i10,SPORTZ AT 1.2 KAPPA VTVT,Automatic,"35,897 km",2nd Owner,Petrol,KA-01,"11,378/month","5,82,000","Horamavu Agara Road, Bengaluru",Bangalore
+685,2020 Toyota YARIS,VX CVT,Automatic,"22,541 km",2nd Owner,Petrol,KA-42,"18,996/month","9,98,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+686,2021 Maruti Alto,VXI PLUS,Manual,"14,771 km",1st Owner,Petrol,KA-03,"8,309/month","4,25,000","Bellahalli, Bengaluru",Bangalore
+687,2011 Maruti Wagon R 1.0,VXI,Manual,"69,138 km",2nd Owner,Petrol,KA-53,"5,552/month","2,84,000","Bellahalli, Bengaluru",Bangalore
+688,2022 Tata NEXON,XZ PLUS PETROL KAZIRANGA,Manual,"20,514 km",1st Owner,Petrol,KA-01,"23,317/month","12,25,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+689,2021 Maruti Swift,VXI,Manual,"13,058 km",1st Owner,Petrol,KA-04,"14,995/month","7,67,000","GT World Mall, Bengaluru",Bangalore
+690,2011 Hyundai Santro Xing,GL PLUS,Manual,"66,123 km",1st Owner,Petrol,KA-53,"5,513/month","2,82,000","Horamavu Agara Road, Bengaluru",Bangalore
+691,2017 Maruti IGNIS,DELTA 1.2 AMT,Automatic,"16,202 km",1st Owner,Petrol,KA-03,"12,180/month","6,23,000","Horamavu Agara Road, Bengaluru",Bangalore
+692,2020 Volkswagen Vento,HIGHLINE PLUS 1.0L TSI,Manual,"68,303 km",2nd Owner,Petrol,KA-09,"21,832/month","11,47,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+693,2017 Honda Jazz,1.2L I-VTEC V AT,Automatic,"37,184 km",2nd Owner,Petrol,KA-01,"12,238/month","6,26,000","Bellahalli, Bengaluru",Bangalore
+694,2017 Maruti Wagon R 1.0,VXI,Manual,"58,659 km",1st Owner,Petrol,KA-52,"8,934/month","4,57,000","Horamavu Agara Road, Bengaluru",Bangalore
+695,2020 Toyota URBAN CRUISER,PREMIUM GRADE MT DUAL TONE,Manual,"1,11,712 km",1st Owner,Petrol,KA-05,"17,093/month","8,98,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+696,2018 Hyundai Grand i10,ASTA 1.2 KAPPA VTVT,Manual,"16,247 km",1st Owner,Petrol,KA-03,"12,375/month","6,33,000","Bellahalli, Bengaluru",Bangalore
+697,2020 Hyundai AURA,SX PLUS 1.2 AMT,Automatic,"21,627 km",2nd Owner,Petrol,KA-04,"15,621/month","7,99,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+698,2014 Hyundai Elite i20,ASTA 1.2,Manual,"67,515 km",1st Owner,Petrol,KA-03,"10,635/month","5,44,000","Bellahalli, Bengaluru",Bangalore
+699,2018 Honda Brio,S MT,Manual,"43,457 km",1st Owner,Petrol,KA-03,"9,873/month","5,05,000","Bellahalli, Bengaluru",Bangalore
+700,2022 Hyundai GRAND I10 NIOS,ASTA AMT 1.2 KAPPA VTVT,Automatic,"9,440 km",2nd Owner,Petrol,KA-05,"15,798/month","8,30,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+701,2018 Ford Ecosport,TITANIUM + 1.5L PETROL AT,Automatic,"12,623 km",2nd Owner,Petrol,KA-51,"17,302/month","9,09,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+702,2015 Hyundai Grand i10,ASTA AT 1.2 KAPPA VTVT,Automatic,"70,864 km",1st Owner,Petrol,KA-02,"9,971/month","5,10,000","GT World Mall, Bengaluru",Bangalore
+703,2020 Hyundai Creta,SX (O) IVT 1.5 PETROL,Automatic,"30,420 km",1st Owner,Petrol,KA-41,"31,958/month","16,79,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+704,2016 Maruti Baleno,DELTA PETROL 1.2,Manual,"76,794 km",1st Owner,Petrol,KA-01,"12,356/month","6,32,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+705,2017 Ford Ecosport,TREND 1.5L PETROL,Manual,"80,390 km",1st Owner,Petrol,KA-36,"12,356/month","6,32,000","Bellahalli, Bengaluru",Bangalore
+706,2016 Mahindra XUV500,W10,Manual,"74,592 km",2nd Owner,Diesel,KA-09,"23,678/month","12,44,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+707,2021 Renault Kwid,CLIMBER 1.0 (O),Manual,"20,023 km",1st Owner,Petrol,KA-14,"10,440/month","5,34,000","Bellahalli, Bengaluru",Bangalore
+708,2019 Renault Kwid,RXT 1.0 AMT (O),Automatic,"5,083 km",2nd Owner,Petrol,KA-50,"10,186/month","5,21,000","Horamavu Agara Road, Bengaluru",Bangalore
+709,2018 Honda Amaze,1.2L I-VTEC V CVT,Automatic,"55,146 km",2nd Owner,Petrol,KA-03,"13,744/month","7,03,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+710,2017 Honda City,1.5L I-DTEC V,Manual,"1,20,409 km",1st Owner,Diesel,KA-09,"13,978/month","7,15,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+711,2018 Honda City,1.5L I-VTEC ZX CVT ANNIVERSARY EDITION,Automatic,"59,472 km",1st Owner,Petrol,KA-05,"19,967/month","10,49,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+712,2017 Maruti Dzire,VDI AMT,Automatic,"1,12,566 km",2nd Owner,Diesel,KA-05,"12,610/month","6,45,000","Horamavu Agara Road, Bengaluru",Bangalore
+713,2018 Ford Ecosport,TITANIUM + 1.5L PETROL AT,Automatic,"65,828 km",2nd Owner,Petrol,KA-51,"15,551/month","8,17,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+714,2017 Maruti Ciaz,ZETA 1.4  MT PETROL,Manual,"1,09,720 km",1st Owner,Petrol,KA-04,"12,551/month","6,42,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+715,2016 Hyundai Creta,SX PLUS 1.6 PETROL,Manual,"53,031 km",2nd Owner,Petrol,KA-05,"17,873/month","9,39,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+716,2016 Tata Tiago,XZ PETROL,Manual,"13,286 km",1st Owner,Petrol,KA-02,"10,068/month","5,15,000","Bellahalli, Bengaluru",Bangalore
+717,2017 Renault Kwid,RXL 1.0 AMT,Automatic,"23,119 km",1st Owner,Petrol,KA-53,"7,957/month","4,07,000","Horamavu Agara Road, Bengaluru",Bangalore
+718,2019 Maruti Swift,VXI AMT,Automatic,"70,314 km",1st Owner,Petrol,KA-05,"12,610/month","6,45,000","Bellahalli, Bengaluru",Bangalore
+719,2020 Hyundai NEW I20,Asta 1.0 GDI Turbo IMT,Manual,"14,949 km",1st Owner,Petrol,KA-05,"19,072/month","10,02,000","Bellahalli, Bengaluru",Bangalore
+720,2018 Honda City,1.5L I-VTEC VX,Manual,"39,466 km",1st Owner,Petrol,KA-04,"17,816/month","9,36,000","Bellahalli, Bengaluru",Bangalore
+721,2014 Maruti Swift,VXI,Manual,"27,518 km",2nd Owner,Petrol,KA-53,"9,892/month","5,06,000","Bellahalli, Bengaluru",Bangalore
+722,2011 Maruti Ritz,VXI,Manual,"67,150 km",1st Owner,Petrol,KA-03,"6,647/month","3,40,000","Bellahalli, Bengaluru",Bangalore
+723,2020 Renault Kwid,RXT 1.0 AMT (O),Automatic,"10,916 km",2nd Owner,Petrol,KA-51,"10,127/month","5,18,000","Bellahalli, Bengaluru",Bangalore
+724,2019 Hyundai Grand i10,ASTA 1.2 KAPPA VTVT,Manual,"69,199 km",2nd Owner,Petrol,KA-53,"11,026/month","5,64,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+725,2016 Maruti Baleno,DELTA PETROL 1.2,Manual,"50,318 km",1st Owner,Petrol,KA-05,"12,023/month","6,15,000","Bellahalli, Bengaluru",Bangalore
+726,2016 Tata Tiago,XZ PETROL,Manual,"1,42,372 km",1st Owner,Petrol,KA-03,"8,465/month","4,33,000","Bellahalli, Bengaluru",Bangalore
+727,2018 Maruti Dzire,VXI AMT,Automatic,"41,998 km",1st Owner,Petrol,KA-01,"12,551/month","6,42,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+728,2015 Maruti Celerio,ZXI,Manual,"57,521 km",1st Owner,Petrol,KA-42,"8,876/month","4,54,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+729,2020 Mahindra XUV500,W11(O),Manual,"60,599 km",1st Owner,Diesel,KA-02,"33,195/month","17,44,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+730,2021 Maruti Alto,VXI PLUS,Manual,"2,368 km",1st Owner,Petrol,KA-05,"8,680/month","4,44,000","Bellahalli, Bengaluru",Bangalore
+731,2017 Honda WR-V,1.2L I-VTEC VX MT,Manual,"72,452 km",2nd Owner,Petrol,KA-18,"13,724/month","7,02,000","Horamavu Agara Road, Bengaluru",Bangalore
+732,2016 Nissan Micra,XV CVT,Automatic,"33,902 km",2nd Owner,Petrol,KA-05,"9,658/month","4,94,000","Bellahalli, Bengaluru",Bangalore
+733,2020 Hyundai VENUE,SX 1.0 (O) TURBO IMT,Manual,"11,208 km",1st Owner,Petrol,KA-04,"22,327/month","11,73,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+734,2015 Hyundai Elite i20,ASTA 1.2,Manual,"72,961 km",1st Owner,Petrol,KA-51,"11,984/month","6,13,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+735,2015 Hyundai Elite i20,ASTA 1.2,Manual,"53,606 km",1st Owner,Petrol,KA-51,"13,020/month","6,66,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+736,2018 Maruti Celerio X,ZXI (O),Manual,"17,125 km",2nd Owner,Petrol,KA-01,"10,674/month","5,46,000","Bellahalli, Bengaluru",Bangalore
+737,2012 Maruti Alto 800,LXI,Manual,"68,582 km",1st Owner,Petrol,KA-51,"4,848/month","2,48,000","Bellahalli, Bengaluru",Bangalore
+738,2017 Maruti Baleno,ZETA PETROL 1.2,Manual,"26,031 km",1st Owner,Petrol,KA-03,"13,959/month","7,14,000","Bellahalli, Bengaluru",Bangalore
+739,2015 Tata Zest,XMA F-TRONIC DIESEL,Automatic,"1,16,242 km",1st Owner,Diesel,KA-02,"8,348/month","4,27,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+740,2020 Renault Kwid,RXT 1.0 AMT (O),Automatic,"12,341 km",1st Owner,Petrol,KA-05,"10,870/month","5,56,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+741,2017 Honda WR-V,1.2L I-VTEC VX MT,Manual,"40,752 km",1st Owner,Petrol,KA-01,"15,146/month","7,74,700","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+742,2015 Maruti Celerio,ZXI,Manual,"44,265 km",1st Owner,Petrol,KA-04,"9,032/month","4,62,000","Horamavu Agara Road, Bengaluru",Bangalore
+743,2017 Hyundai Creta,SX PLUS 1.6 PETROL,Manual,"61,139 km",2nd Owner,Petrol,KA-53,"18,501/month","9,72,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+744,2017 Renault Duster,RXL PETROL,Manual,"68,505 km",1st Owner,Petrol,KA-01,"14,604/month","7,47,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+745,2020 Maruti Baleno,ZETA CVT PETROL 1.2,Automatic,"15,123 km",1st Owner,Petrol,KA-03,"15,551/month","8,17,000","Bellahalli, Bengaluru",Bangalore
+746,2017 Hyundai Grand i10,ASTA 1.2 KAPPA VTVT,Manual,"44,268 km",2nd Owner,Petrol,KA-04,"11,339/month","5,80,000","Bellahalli, Bengaluru",Bangalore
+747,2010 Maruti Wagon R 1.0,VXI,Manual,"1,03,549 km",2nd Owner,Petrol,KA-03,"5,318/month","2,72,000","Bellahalli, Bengaluru",Bangalore
+748,2018 Hyundai Grand i10,SPORTZ AT 1.2 KAPPA VTVT,Automatic,"29,550 km",2nd Owner,Petrol,KA-51,"12,453/month","6,37,000","Bellahalli, Bengaluru",Bangalore
+749,2021 Maruti Alto,VXI,Manual,"21,104 km",1st Owner,Petrol,KA-04,"7,976/month","4,08,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+750,2016 Maruti Swift Dzire,VXI,Manual,"35,792 km",2nd Owner,Petrol,KA-53,"11,280/month","5,77,000","Horamavu Agara Road, Bengaluru",Bangalore
+751,2018 Ford Ecosport,TITANIUM + 1.5L PETROL,Manual,"6,492 km",2nd Owner,Petrol,KA-02,"17,930/month","9,42,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+752,2015 Hyundai Elite i20,ASTA 1.4 CRDI,Manual,"63,218 km",1st Owner,Diesel,KA-02,"12,962/month","6,63,000","Horamavu Agara Road, Bengaluru",Bangalore
+753,2016 Maruti Swift,VXI,Manual,"84,469 km",1st Owner,Petrol,KA-51,"10,792/month","5,52,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+754,2016 Ford Ecosport,TITANIUM 1.5L DIESEL,Manual,"74,380 km",2nd Owner,Diesel,KA-09,"13,079/month","6,69,000","Horamavu Agara Road, Bengaluru",Bangalore
+755,2021 Renault Kwid,RXT 1.0 AMT (O),Automatic,"18,707 km",1st Owner,Petrol,KA-55,"10,264/month","5,25,000","Bellahalli, Bengaluru",Bangalore
+756,2013 Honda Brio,S MT,Manual,"64,742 km",2nd Owner,Petrol,KA-03,"6,412/month","3,28,000","Bellahalli, Bengaluru",Bangalore
+757,2015 Hyundai Xcent,S (O) 1.2,Manual,"87,019 km",1st Owner,Petrol,KA-04,"8,837/month","4,52,000","Sonnappanahalli
+",Bangalore
+758,2017 Hyundai Creta,SX PLUS 1.6 PETROL,Manual,"58,203 km",1st Owner,Petrol,KA-51,"19,662/month","10,33,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+759,2015 Maruti Alto 800,LXI,Manual,"79,566 km",2nd Owner,Petrol,KA-03,"5,376/month","2,75,000","Bellahalli, Bengaluru",Bangalore
+760,2022 Maruti Baleno,ALPHA 1.2 AGS,Automatic,"20,973 km",1st Owner,Petrol,KA-03,"18,044/month","9,48,000","Sonnappanahalli
+",Bangalore
+761,2017 Maruti Celerio,VXI,Manual,"40,997 km",2nd Owner,Petrol,KA-03,"8,915/month","4,56,000","Bellahalli, Bengaluru",Bangalore
+762,2020 Renault Kwid,RXT 1.0 AMT (O),Automatic,"20,248 km",1st Owner,Petrol,KA-04,"10,401/month","5,32,000","Bellahalli, Bengaluru",Bangalore
+763,2016 Hyundai Creta,SX PLUS AT 1.6 PETROL,Automatic,"75,598 km",2nd Owner,Petrol,KA-05,"17,327/month","9,10,300","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+764,2012 Maruti Swift,VXI,Manual,"42,762 km",1st Owner,Petrol,KA-04,"9,071/month","4,64,000","Horamavu Agara Road, Bengaluru",Bangalore
+765,2011 Maruti Wagon R 1.0,VXI,Manual,"1,21,403 km",1st Owner,Petrol,KA-51,"5,337/month","2,73,000","Bellahalli, Bengaluru",Bangalore
+766,2018 Maruti Ciaz,ALPHA DIESEL 1.3,Manual,"1,02,633 km",1st Owner,Diesel,KA-63,"15,437/month","8,11,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+767,2017 Hyundai i20 Active,1.2 SX,Manual,"43,031 km",1st Owner,Petrol,KA-04,"13,959/month","7,14,000","Bellahalli, Bengaluru",Bangalore
+768,2019 Honda City,1.5L I-VTEC V MT,Manual,"19,024 km",2nd Owner,Petrol,KA-04,"17,759/month","9,33,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+769,2019 Hyundai NEW SANTRO,SPORTZ AMT,Automatic,"31,158 km",1st Owner,Petrol,KA-02,"10,968/month","5,61,000","Horamavu Agara Road, Bengaluru",Bangalore
+770,2014 Honda Brio,V MT,Manual,"64,312 km",1st Owner,Petrol,KA-01,"7,507/month","3,84,000","Bellahalli, Bengaluru",Bangalore
+771,2021 MG HECTOR,SHARP 2.0 DIESEL DUAL TONE,Manual,"1,27,904 km",1st Owner,Diesel,KA-29,"34,947/month","18,36,000","Bellahalli, Bengaluru",Bangalore
+772,2016 Ford Ecosport,TITANIUM 1.5L PETROL AT,Automatic,"54,909 km",2nd Owner,Petrol,KA-03,"13,079/month","6,69,000","Bellahalli, Bengaluru",Bangalore
+773,2017 Renault Kwid,RXT 0.8,Manual,"43,775 km",1st Owner,Petrol,KA-50,"7,253/month","3,71,000","Bellahalli, Bengaluru",Bangalore
+774,2015 Honda Jazz,1.2L I-VTEC V AT,Automatic,"96,896 km",1st Owner,Petrol,KA-02,"10,694/month","5,47,000","GT World Mall, Bengaluru",Bangalore
+775,2016 Hyundai Elite i20,ASTA 1.2,Manual,"58,715 km",1st Owner,Petrol,KA-51,"13,646/month","6,98,000","Bellahalli, Bengaluru",Bangalore
+776,2011 Maruti Wagon R 1.0,VXI,Manual,"70,867 km",2nd Owner,Petrol,KA-51,"5,572/month","2,85,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+777,2013 Maruti Alto 800,VXI,Manual,"48,444 km",1st Owner,Petrol,KA-36,"5,161/month","2,64,000","Bellahalli, Bengaluru",Bangalore
+778,2015 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"44,212 km",2nd Owner,Petrol,KA-53,"9,071/month","4,64,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+779,2016 Maruti Baleno,ZETA PETROL 1.2,Manual,"69,310 km",1st Owner,Petrol,KA-05,"13,177/month","6,74,000","Bellahalli, Bengaluru",Bangalore
+780,2016 Maruti Baleno,ZETA PETROL 1.2,Manual,"40,623 km",1st Owner,Petrol,KA-05,"13,431/month","6,87,000","Bellahalli, Bengaluru",Bangalore
+781,2018 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"34,090 km",1st Owner,Petrol,KA-01,"11,300/month","5,78,000","Bellahalli, Bengaluru",Bangalore
+782,2018 Maruti Celerio,VXI,Manual,"61,227 km",2nd Owner,Petrol,KA-50,"8,895/month","4,55,000","Bellahalli, Bengaluru",Bangalore
+783,2016 Honda City,1.5L I-VTEC V MT,Manual,"46,275 km",1st Owner,Petrol,KA-04,"14,135/month","7,23,000","Horamavu Agara Road, Bengaluru",Bangalore
+784,2019 Honda City,1.5L I-VTEC V MT,Manual,"9,243 km",1st Owner,Petrol,KA-03,"18,120/month","9,52,000","Sonnappanahalli
+",Bangalore
+785,2011 Hyundai i10,SPORTZ 1.2 AT,Automatic,"69,532 km",1st Owner,Petrol,KA-05,"6,315/month","3,23,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+786,2018 Hyundai NEW SANTRO,ASTA MT,Manual,"27,965 km",2nd Owner,Petrol,KA-04,"10,498/month","5,37,000","Bellahalli, Bengaluru",Bangalore
+787,2017 Honda City,1.5L I-VTE V CVT,Automatic,"1,20,848 km",1st Owner,Petrol,KA-01,"14,037/month","7,18,000","Horamavu Agara Road, Bengaluru",Bangalore
+788,2017 Hyundai Grand i10,SPORTZ (O) 1.2 KAPPA VTVT,Manual,"23,513 km",2nd Owner,Petrol,KA-02,"10,362/month","5,30,000","Bellahalli, Bengaluru",Bangalore
+789,2017 Hyundai Creta,SX PLUS 1.6 PETROL,Manual,"72,313 km",2nd Owner,Petrol,KA-51,"18,006/month","9,46,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+790,2021 Maruti Celerio,ZXI PLUS,Manual,"2,370 km",1st Owner,Petrol,KA-25,"13,431/month","6,87,000","Bellahalli, Bengaluru",Bangalore
+791,2017 Honda City,1.5L I-VTEC VX CVT,Automatic,"56,363 km",1st Owner,Petrol,KA-01,"16,160/month","8,49,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+792,2018 Ford Ecosport,TITANIUM 1.5L PETROL,Manual,"29,552 km",2nd Owner,Petrol,KA-01,"15,601/month","7,98,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+793,2017 Hyundai Grand i10,ASTA 1.2 KAPPA VTVT,Manual,"57,176 km",1st Owner,Petrol,KA-03,"10,714/month","5,48,000","Horamavu Agara Road, Bengaluru",Bangalore
+794,2010 Hyundai i10,MAGNA 1.2,Manual,"66,067 km",1st Owner,Petrol,KA-03,"5,455/month","2,79,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+795,2016 Maruti Celerio,VXI,Manual,"41,268 km",2nd Owner,Petrol,KA-05,"8,192/month","4,19,000","Bellahalli, Bengaluru",Bangalore
+796,2017 Hyundai Creta,SX PLUS AT 1.6 PETROL,Automatic,"1,00,226 km",2nd Owner,Petrol,KA-51,"19,129/month","10,05,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+797,2020 Renault Duster,RXZ 1.3 TURBO PETROL MT,Manual,"95,678 km",1st Owner,Petrol,KA-32,"17,664/month","9,28,000","Bellahalli, Bengaluru",Bangalore
+798,2017 Hyundai Creta,SX PLUS 1.6 PETROL,Manual,"36,376 km",2nd Owner,Petrol,KA-03,"19,320/month","10,15,000","Sonnappanahalli
+",Bangalore
+799,2016 Mahindra XUV500,W10,Manual,"39,555 km",1st Owner,Diesel,KA-51,"26,172/month","13,75,000","Sonnappanahalli
+",Bangalore
+800,2018 Mahindra XUV500,W7,Manual,"85,786 km",1st Owner,Diesel,KA-03,"25,144/month","13,21,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+801,2021 Maruti Swift,VXI,Manual,"14,089 km",1st Owner,Petrol,KA-02,"14,408/month","7,37,000","Bellahalli, Bengaluru",Bangalore
+802,2020 Hyundai GRAND I10 NIOS,MAGNA 1.2 KAPPA VTVT,Manual,"23,410 km",1st Owner,Petrol,KA-51,"12,043/month","6,16,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+803,2012 Honda Brio,S(O) MT,Manual,"60,181 km",2nd Owner,Petrol,KA-05,"6,471/month","3,31,000","Bellahalli, Bengaluru",Bangalore
+804,2015 Honda Brio,S MT,Manual,"96,198 km",1st Owner,Petrol,KA-04,"7,370/month","3,77,000","Horamavu Agara Road, Bengaluru",Bangalore
+805,2012 Honda Brio,S MT,Manual,"90,802 km",1st Owner,Petrol,KA-25,"6,940/month","3,55,000","Bellahalli, Bengaluru",Bangalore
+806,2018 Volkswagen Vento,1.2 TSI HIGHLINE PLUS AT,Automatic,"56,460 km",1st Owner,Petrol,KA-05,"16,217/month","8,52,000","Bellahalli, Bengaluru",Bangalore
+807,2019 Maruti Celerio,VXI AMT (O),Automatic,"45,551 km",1st Owner,Petrol,KA-03,"10,616/month","5,43,000","Bellahalli, Bengaluru",Bangalore
+808,2015 Honda Brio,S MT,Manual,"65,394 km",1st Owner,Petrol,KA-03,"7,859/month","4,02,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+809,2016 Maruti Celerio,ZXI AMT,Automatic,"41,464 km",1st Owner,Petrol,KA-05,"9,384/month","4,80,000","Horamavu Agara Road, Bengaluru",Bangalore
+810,2017 Hyundai Creta,SX PLUS 1.6 PETROL,Manual,"42,757 km",2nd Owner,Petrol,KA-01,"18,939/month","9,95,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+811,2018 Mahindra XUV500,W9 AT,Automatic,"78,000 km",1st Owner,Diesel,KA-03,"30,531/month","16,04,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+812,2018 Tata NEXON,XZA PLUS DIESEL,Automatic,"82,449 km",1st Owner,Diesel,KA-19,"16,274/month","8,55,000","Bellahalli, Bengaluru",Bangalore
+813,2021 Maruti Swift,VXI,Manual,"29,905 km",1st Owner,Petrol,KA-59,"14,272/month","7,30,000","Bellahalli, Bengaluru",Bangalore
+814,2016 Hyundai Grand i10,ASTA (O) AT 1.2 KAPPA VTVT,Automatic,"39,693 km",2nd Owner,Petrol,KA-01,"10,577/month","5,41,000","Bellahalli, Bengaluru",Bangalore
+815,2019 Maruti Baleno,ALPHA CVT PETROL 1.2,Automatic,"30,270 km",1st Owner,Petrol,KA-04,"15,608/month","8,20,000","Bellahalli, Bengaluru",Bangalore
+816,2017 Hyundai Eon,ERA PLUS (O),Manual,"20,089 km",1st Owner,Petrol,KA-51,"7,507/month","3,84,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+817,2017 Honda Jazz,1.2L I-VTEC V,Manual,"40,073 km",2nd Owner,Petrol,KA-03,"12,571/month","6,43,000","Bellahalli, Bengaluru",Bangalore
+818,2013 Hyundai i10,SPORTZ 1.2 AT,Automatic,"91,279 km",2nd Owner,Petrol,KA-03,"6,921/month","3,54,000","Horamavu Agara Road, Bengaluru",Bangalore
+819,2017 Hyundai Grand i10,SPORTZ (O) AT 1.2 KAPPA VTVT,Automatic,"62,803 km",2nd Owner,Petrol,KA-05,"11,124/month","5,69,000","Bellahalli, Bengaluru",Bangalore
+820,2021 Maruti Swift,VXI AMT,Automatic,"11,945 km",1st Owner,Petrol,KA-53,"15,230/month","7,79,000","Sonnappanahalli
+",Bangalore
+821,2022 Maruti S PRESSO,VXI PLUS,Manual,"17,888 km",1st Owner,Petrol,KA-15,"10,205/month","5,22,000","Bellahalli, Bengaluru",Bangalore
+822,2014 Renault Duster,85 PS RXL PLUS DIESEL,Manual,"1,10,455 km",2nd Owner,Diesel,KA-01,"12,141/month","6,21,000","Bellahalli, Bengaluru",Bangalore
+823,2015 Honda Brio,S MT,Manual,"73,916 km",2nd Owner,Petrol,KA-64,"7,370/month","3,77,000","Bellahalli, Bengaluru",Bangalore
+824,2020 Mahindra XUV 3OO,W8 (O) 1.2 PETROL,Manual,"59,619 km",1st Owner,Petrol,KA-05,"19,415/month","10,20,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+825,2016 Ford Ecosport,TITANIUM 1.5L DIESEL,Manual,"51,215 km",1st Owner,Diesel,KA-03,"14,017/month","7,17,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+826,2016 Honda Brio,S MT,Manual,"65,453 km",1st Owner,Petrol,KA-01,"8,563/month","4,38,000","Bellahalli, Bengaluru",Bangalore
+827,2018 Maruti Celerio,ZXI (O),Manual,"37,270 km",2nd Owner,Petrol,KA-40,"10,049/month","5,14,000","GT World Mall, Bengaluru",Bangalore
+828,2017 Maruti Alto 800,LXI,Manual,"47,619 km",2nd Owner,Petrol,KA-03,"6,412/month","3,28,000","Bellahalli, Bengaluru",Bangalore
+829,2015 Hyundai Xcent,S 1.2,Manual,"68,136 km",1st Owner,Petrol,KA-01,"8,954/month","4,58,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+830,2021 Honda City,1.5L I-VTEC V MT 5TH GEN,Manual,"10,949 km",1st Owner,Petrol,KA-02,"22,632/month","11,89,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+831,2020 Honda City,1.5L I-VTEC ZX CVT,Automatic,"96,264 km",1st Owner,Petrol,KA-04,"23,107/month","12,14,000","Sonnappanahalli
+",Bangalore
+832,2017 Hyundai Elite i20,ASTA 1.2,Manual,"64,235 km",2nd Owner,Petrol,KA-53,"12,434/month","6,36,000","Bellahalli, Bengaluru",Bangalore
+833,2016 Maruti Baleno,ZETA PETROL 1.2,Manual,"44,253 km",2nd Owner,Petrol,KA-53,"12,532/month","6,41,000","Bellahalli, Bengaluru",Bangalore
+834,2014 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"67,990 km",1st Owner,Petrol,KA-51,"8,328/month","4,26,000","Horamavu Agara Road, Bengaluru",Bangalore
+835,2014 Hyundai Grand i10,ASTA 1.2 KAPPA VTVT,Manual,"1,24,340 km",2nd Owner,Petrol,KA-51,"7,820/month","4,00,000","Bellahalli, Bengaluru",Bangalore
+836,2015 Hyundai i20 Active,1.4 SX,Manual,"83,856 km",2nd Owner,Diesel,KA-50,"13,001/month","6,65,000","Bellahalli, Bengaluru",Bangalore
+837,2016 Maruti Celerio,ZXI AMT,Automatic,"25,414 km",1st Owner,Petrol,KA-53,"10,244/month","5,24,000","Bellahalli, Bengaluru",Bangalore
+838,2014 Maruti Alto 800,LXI,Manual,"37,510 km",1st Owner,Petrol,KA-05,"5,924/month","3,03,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+839,2020 Maruti S PRESSO,VXI PLUS AMT,Automatic,"3,803 km",2nd Owner,Petrol,KA-01,"10,225/month","5,23,000","Bellahalli, Bengaluru",Bangalore
+840,2018 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"36,977 km",2nd Owner,Petrol,KA-05,"11,026/month","5,64,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+841,2020 Maruti Celerio,ZXI,Manual,"37,365 km",1st Owner,Petrol,KA-51,"9,990/month","5,11,000","GT World Mall, Bengaluru",Bangalore
+842,2018 Maruti Celerio,ZXI,Manual,"32,112 km",2nd Owner,Petrol,KA-04,"9,971/month","5,10,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+843,2018 Ford FREESTYLE,TITANIUM 1.2 PETROL,Manual,"58,710 km",1st Owner,Petrol,KA-05,"11,593/month","5,93,000","GT World Mall, Bengaluru",Bangalore
+844,2018 Honda Amaze,1.2L I-VTEC V CVT,Automatic,"7,459 km",1st Owner,Petrol,KA-04,"15,562/month","7,96,000","Bellahalli, Bengaluru",Bangalore
+845,2021 Maruti S PRESSO,VXI (O),Manual,"42,954 km",1st Owner,Petrol,KA-52,"9,345/month","4,78,000","Bellahalli, Bengaluru",Bangalore
+846,2019 Mahindra XUV500,W11(O),Manual,"36,847 km",1st Owner,Diesel,KA-03,"32,415/month","17,03,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+847,2017 Maruti Baleno,ALPHA CVT PETROL 1.2,Automatic,"77,995 km",1st Owner,Petrol,KA-53,"13,724/month","7,02,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+848,2014 Honda Amaze,1.2L I-VTEC VX,Manual,"75,565 km",2nd Owner,Petrol,KA-03,"8,798/month","4,50,000","Horamavu Agara Road, Bengaluru",Bangalore
+849,2019 Ford Ecosport,TITANIUM + 1.5L PETROL,Manual,"45,133 km",1st Owner,Petrol,KA-01,"17,740/month","9,32,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+850,2015 Maruti Celerio,ZXI,Manual,"52,209 km",1st Owner,Petrol,KA-51,"8,915/month","4,56,000","Bellahalli, Bengaluru",Bangalore
+851,2019 Hyundai NEW SANTRO,SPORTZ MT,Manual,"25,607 km",1st Owner,Petrol,KA-53,"10,518/month","5,38,000","Bellahalli, Bengaluru",Bangalore
+852,2021 Volkswagen TAIGUN,TOPLINE 1.0 TSI MT,Manual,"97,346 km",1st Owner,Petrol,KA-09,"26,134/month","13,73,000","Bellahalli, Bengaluru",Bangalore
+853,2019 Ford Ecosport,TITANIUM 1.5L PETROL,Manual,"54,134 km",1st Owner,Petrol,KA-05,"15,532/month","8,16,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+854,2017 Maruti Baleno,DELTA CVT PETROL 1.2,Automatic,"55,127 km",1st Owner,Petrol,KA-03,"12,805/month","6,55,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+855,2016 Maruti Baleno,ZETA PETROL 1.2,Manual,"1,16,624 km",1st Owner,Petrol,KA-21,"12,512/month","6,40,000","Bellahalli, Bengaluru",Bangalore
+856,2019 Honda Jazz,1.2L I-VTEC VX CVT,Automatic,"63,460 km",1st Owner,Petrol,KA-05,"15,327/month","7,84,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+857,2017 Maruti Baleno,ZETA PETROL 1.2,Manual,"63,359 km",2nd Owner,Petrol,KA-01,"13,060/month","6,68,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+858,2017 Honda City,1.5L I-VTEC VX,Manual,"81,850 km",1st Owner,Petrol,KA-50,"15,484/month","7,92,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+859,2015 Hyundai Elite i20,ASTA 1.2,Manual,"54,154 km",1st Owner,Petrol,KA-01,"12,160/month","6,22,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+860,2018 Maruti Celerio,ZXI AMT (O),Automatic,"64,453 km",1st Owner,Petrol,KA-41,"9,540/month","4,88,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+861,2017 Maruti Dzire,VDI,Manual,"94,932 km",1st Owner,Diesel,KA-02,"14,096/month","7,21,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+862,2018 Ford Ecosport,TITANIUM 1.0L ECOBOOST SPORTS(SUNROOF),Manual,"94,035 km",2nd Owner,Petrol,KA-01,"15,437/month","8,11,000","Horamavu Agara Road, Bengaluru",Bangalore
+863,2018 Tata NEXON,XZA PLUS DIESEL,Automatic,"85,731 km",1st Owner,Diesel,KA-02,"16,598/month","8,72,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+864,2015 Maruti Celerio,ZXI,Manual,"39,613 km",1st Owner,Petrol,KA-04,"9,521/month","4,87,000","Horamavu Agara Road, Bengaluru",Bangalore
+865,2019 Maruti Alto,VXI,Manual,"67,329 km",1st Owner,Petrol,KA-16,"6,706/month","3,43,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+866,2016 Maruti Celerio,VXI AMT,Automatic,"76,039 km",2nd Owner,Petrol,KA-01,"8,485/month","4,34,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+867,2015 Maruti Celerio,ZXI AMT,Automatic,"99,579 km",2nd Owner,Petrol,KA-04,"8,094/month","4,14,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+868,2021 Maruti Swift,VXI,Manual,"12,983 km",1st Owner,Petrol,KA-05,"14,721/month","7,53,000","Bellahalli, Bengaluru",Bangalore
+869,2017 Hyundai Elite i20,SPORTZ 1.2,Manual,"77,593 km",1st Owner,Petrol,KA-20,"12,551/month","6,42,000","GT World Mall, Bengaluru",Bangalore
+870,2017 Ford Ecosport,TITANIUM 1.5L DIESEL,Manual,"48,743 km",1st Owner,Diesel,KA-03,"15,456/month","8,12,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+871,2015 Maruti Wagon R 1.0,VXI,Manual,"80,863 km",2nd Owner,Petrol,KA-05,"7,273/month","3,72,000","Bellahalli, Bengaluru",Bangalore
+872,2017 Hyundai Elite i20,SPORTZ 1.2,Manual,"62,621 km",1st Owner,Petrol,KA-01,"12,942/month","6,62,000","Horamavu Agara Road, Bengaluru",Bangalore
+873,2021 Maruti Alto,VXI PLUS,Manual,"24,343 km",2nd Owner,Petrol,KA-51,"8,485/month","4,34,000","Bellahalli, Bengaluru",Bangalore
+874,2021 Toyota YARIS,G MT,Manual,"20,754 km",1st Owner,Petrol,KA-41,"19,891/month","10,45,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+875,2019 KIA SELTOS,GTX + AT PETROL,Automatic,"49,589 km",1st Owner,Petrol,KA-51,"30,626/month","16,09,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+876,2017 Honda Jazz,1.2L I-VTEC V AT,Automatic,"79,575 km",1st Owner,Petrol,KA-01,"12,551/month","6,42,000","Bellahalli, Bengaluru",Bangalore
+877,2014 Maruti Swift,VXI,Manual,"63,782 km",1st Owner,Petrol,KA-03,"9,501/month","4,86,000","Bellahalli, Bengaluru",Bangalore
+878,2018 Honda Amaze,1.2L I-VTEC V CVT,Automatic,"33,294 km",2nd Owner,Petrol,KA-03,"14,354/month","7,34,200","Horamavu Agara Road, Bengaluru",Bangalore
+879,2021 Renault Kwid,CLIMBER 1.0 AMT (O),Automatic,"14,191 km",1st Owner,Petrol,KA-02,"11,359/month","5,81,000","GT World Mall, Bengaluru",Bangalore
+880,2018 Maruti Swift,VXI AMT,Automatic,"42,059 km",2nd Owner,Petrol,KA-04,"12,981/month","6,64,000","Bellahalli, Bengaluru",Bangalore
+881,2014 Maruti Swift,VXI,Manual,"68,306 km",1st Owner,Petrol,KA-03,"9,619/month","4,92,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+882,2010 Maruti Alto K10,VXI,Manual,"54,671 km",1st Owner,Petrol,KA-03,"4,555/month","2,33,000","Bellahalli, Bengaluru",Bangalore
+883,2016 Maruti Vitara Brezza,ZDI PLUS DUAL TONE,Manual,"99,232 km",1st Owner,Diesel,KA-50,"15,456/month","8,12,000","Bellahalli, Bengaluru",Bangalore
+884,2017 Ford Ecosport,TITANIUM 1.5L PETROL AT,Automatic,"85,126 km",2nd Owner,Petrol,KA-05,"13,685/month","7,00,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+885,2021 Maruti S PRESSO,VXI+,Manual,"52,288 km",1st Owner,Petrol,KA-33,"8,700/month","4,45,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+886,2013 Maruti Ritz,VXI,Manual,"1,06,747 km",1st Owner,Petrol,KA-04,"7,038/month","3,60,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+887,2018 Mahindra XUV500,W7,Manual,"67,379 km",2nd Owner,Diesel,KA-22,"24,364/month","12,80,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+888,2015 Ford Ecosport,TITANIUM 1.5L PETROL AT,Automatic,"42,710 km",2nd Owner,Petrol,KA-05,"12,643/month","6,46,700","Bellahalli, Bengaluru",Bangalore
+889,2016 Ford Ecosport,TITANIUM 1.5L PETROL AT,Automatic,"43,791 km",1st Owner,Petrol,KA-03,"15,327/month","7,84,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+890,2019 Hyundai i20 Active,1.2 SX,Manual,"15,347 km",1st Owner,Petrol,KA-03,"15,608/month","8,20,000","GT World Mall, Bengaluru",Bangalore
+891,2015 Hyundai i10,SPORTZ 1.1,Manual,"76,938 km",1st Owner,Petrol,KA-01,"7,585/month","3,88,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+892,2021 Maruti S PRESSO,VXI+,Manual,"11,415 km",1st Owner,Petrol,KA-09,"9,443/month","4,83,000","Horamavu Agara Road, Bengaluru",Bangalore
+893,2016 Tata Tiago,XZ PETROL,Manual,"64,492 km",1st Owner,Petrol,KA-01,"9,462/month","4,84,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+894,2015 Honda Jazz,1.2L I-VTEC V AT,Automatic,"74,342 km",2nd Owner,Petrol,KA-03,"11,261/month","5,76,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+895,2020 Tata ALTROZ,XZ DIESEL,Manual,"48,673 km",1st Owner,Diesel,KA-05,"16,693/month","8,77,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+896,2018 Hyundai Verna,1.6 VTVT SX (O) AT,Automatic,"63,115 km",1st Owner,Petrol,KA-50,"19,776/month","10,39,000","GT World Mall, Bengaluru",Bangalore
+897,2017 Honda Jazz,1.2L I-VTEC V,Manual,"67,633 km",1st Owner,Petrol,KA-20,"12,356/month","6,32,000","Bellahalli, Bengaluru",Bangalore
+898,2018 Maruti Swift,VXI AMT,Automatic,"56,410 km",1st Owner,Petrol,KA-50,"12,708/month","6,50,000","Horamavu Agara Road, Bengaluru",Bangalore
+899,2016 Maruti Ciaz,ZDI SHVS,Manual,"79,019 km",1st Owner,Diesel,KA-43,"14,115/month","7,22,000","Bellahalli, Bengaluru",Bangalore
+900,2016 Maruti Celerio,ZXI AMT,Automatic,"69,565 km",1st Owner,Petrol,KA-04,"9,423/month","4,82,000","Bellahalli, Bengaluru",Bangalore
+901,2011 Maruti Alto K10,VXI,Manual,"70,667 km",2nd Owner,Petrol,KA-03,"4,790/month","2,45,000","Sonnappanahalli
+",Bangalore
+902,2016 Tata Tiago,XZ PETROL,Manual,"78,959 km",2nd Owner,Petrol,KA-03,"9,013/month","4,61,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+903,2017 Maruti Celerio,VXI (O),Manual,"81,849 km",1st Owner,Petrol,KA-05,"8,817/month","4,51,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+904,2016 Maruti Wagon R 1.0,VXI OPT,Manual,"52,356 km",1st Owner,Petrol,KA-05,"9,325/month","4,77,000","GT World Mall, Bengaluru",Bangalore
+905,2020 Hyundai Verna,SX 1.5 CRDI AT,Automatic,"62,593 km",1st Owner,Diesel,KA-26,"24,973/month","13,12,000","Horamavu Agara Road, Bengaluru",Bangalore
+906,2021 Renault Kwid,RXT 1.0 (O),Manual,"71,306 km",1st Owner,Petrol,KA-02,"8,798/month","4,50,000","Bellahalli, Bengaluru",Bangalore
+907,2017 Maruti Baleno,ZETA PETROL 1.2,Manual,"49,174 km",1st Owner,Petrol,KA-03,"13,842/month","7,08,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+908,2017 Hyundai Verna,1.6 VTVT SX,Manual,"32,893 km",1st Owner,Petrol,KA-53,"16,350/month","8,59,000","GT World Mall, Bengaluru",Bangalore
+909,2018 Honda City,VX CVT PETROL,Automatic,"66,399 km",1st Owner,Petrol,KA-04,"16,902/month","8,88,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+910,2015 Maruti Swift,VXI,Manual,"35,250 km",1st Owner,Petrol,KA-02,"10,714/month","5,48,000","GT World Mall, Bengaluru",Bangalore
+911,2015 Maruti Swift,VXI,Manual,"68,656 km",1st Owner,Petrol,KA-53,"10,753/month","5,50,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+912,2015 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"50,510 km",3rd Owner,Petrol,KA-04,"8,426/month","4,31,000","Bellahalli, Bengaluru",Bangalore
+913,2018 Ford Ecosport,TITANIUM 1.5L PETROL AT,Automatic,"43,481 km",2nd Owner,Petrol,KA-04,"15,970/month","8,39,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+914,2013 Maruti Swift Dzire,VXI,Manual,"54,134 km",2nd Owner,Petrol,KA-50,"8,974/month","4,59,000","Sonnappanahalli
+",Bangalore
+915,2016 Honda City,1.5L I-VTEC VX CVT,Automatic,"48,698 km",2nd Owner,Petrol,KA-51,"14,897/month","7,62,000","Bellahalli, Bengaluru",Bangalore
+916,2018 Maruti Swift,VXI AMT,Automatic,"87,660 km",1st Owner,Petrol,KA-01,"12,356/month","6,32,000","GT World Mall, Bengaluru",Bangalore
+917,2018 Maruti Celerio X,ZXI AMT,Automatic,"23,219 km",1st Owner,Petrol,KA-04,"11,065/month","5,66,000","GT World Mall, Bengaluru",Bangalore
+918,2015 Maruti Celerio,VXI AMT,Automatic,"33,279 km",1st Owner,Petrol,KA-05,"8,993/month","4,60,000","GT World Mall, Bengaluru",Bangalore
+919,2015 Maruti Celerio,VXI AMT,Automatic,"18,294 km",1st Owner,Petrol,KA-03,"9,306/month","4,76,000","Horamavu Agara Road, Bengaluru",Bangalore
+920,2015 Hyundai Elite i20,ASTA 1.2,Manual,"38,510 km",1st Owner,Petrol,KA-53,"12,903/month","6,60,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+921,2020 Mahindra XUV500,W9,Manual,"58,579 km",1st Owner,Diesel,KA-02,"30,074/month","15,80,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+922,2016 Maruti Swift,VXI,Manual,"72,338 km",1st Owner,Petrol,KA-53,"11,417/month","5,84,000","Bellahalli, Bengaluru",Bangalore
+923,2013 Honda Brio,S MT,Manual,"38,197 km",1st Owner,Petrol,KA-03,"7,937/month","4,06,000","Bellahalli, Bengaluru",Bangalore
+924,2015 Maruti Celerio,VXI AMT,Automatic,"56,150 km",1st Owner,Petrol,KA-05,"8,407/month","4,30,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+925,2016 Honda Jazz,1.2 VX I-VTECH,Manual,"65,072 km",1st Owner,Petrol,KA-01,"12,532/month","6,41,000","Bellahalli, Bengaluru",Bangalore
+926,2017 Maruti Celerio,ZXI AMT (O),Automatic,"34,801 km",1st Owner,Petrol,KA-05,"10,401/month","5,32,000","Horamavu Agara Road, Bengaluru",Bangalore
+927,2016 Ford Ecosport,TITANIUM 1.5L PETROL AT,Automatic,"49,068 km",2nd Owner,Petrol,KA-51,"13,763/month","7,04,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+928,2012 Maruti Swift,VDI,Manual,"98,752 km",2nd Owner,Diesel,KA-04,"9,032/month","4,62,000","Bellahalli, Bengaluru",Bangalore
+929,2014 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"73,975 km",1st Owner,Petrol,KA-02,"8,465/month","4,33,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+930,2017 Tata Tiago,XT PETROL,Manual,"68,039 km",2nd Owner,Petrol,KA-53,"9,345/month","4,78,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+931,2019 Ford Ecosport,TITANIUM + 1.5L PETROL AT,Automatic,"34,845 km",1st Owner,Petrol,KA-01,"16,712/month","8,78,000","Sonnappanahalli
+",Bangalore
+932,2015 Hyundai Grand i10,ASTA AT 1.2 KAPPA VTVT,Automatic,"60,942 km",1st Owner,Petrol,KA-06,"10,596/month","5,42,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+933,2017 Hyundai Verna,1.6 VTVT SX (O) AT,Automatic,"29,735 km",1st Owner,Petrol,KA-03,"19,814/month","10,41,000","Bellahalli, Bengaluru",Bangalore
+934,2015 Maruti Swift,VXI,Manual,"50,888 km",1st Owner,Petrol,KA-03,"11,593/month","5,93,000","GT World Mall, Bengaluru",Bangalore
+935,2016 Maruti Baleno,ZETA PETROL 1.2,Manual,"36,184 km",2nd Owner,Petrol,KA-53,"13,959/month","7,14,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+936,2013 Hyundai i10,ERA 1.1,Manual,"47,333 km",1st Owner,Petrol,KA-04,"6,608/month","3,38,000","Sonnappanahalli
+",Bangalore
+937,2019 Maruti Alto,VXI,Manual,"14,051 km",1st Owner,Petrol,KA-02,"7,859/month","4,02,000","Bellahalli, Bengaluru",Bangalore
+938,2019 Hyundai GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT,Manual,"33,786 km",1st Owner,Petrol,KA-53,"12,493/month","6,39,000","Bellahalli, Bengaluru",Bangalore
+939,2020 Tata TIGOR,XZ PLUS PETROL,Manual,"32,772 km",1st Owner,Petrol,KA-51,"14,741/month","7,54,000","Bellahalli, Bengaluru",Bangalore
+940,2012 Hyundai i10,SPORTZ 1.2,Manual,"63,206 km",1st Owner,Petrol,KA-53,"6,667/month","3,41,000","Sonnappanahalli
+",Bangalore
+941,2012 Honda Brio,S MT,Manual,"69,210 km",1st Owner,Petrol,KA-01,"6,667/month","3,41,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+942,2018 Mahindra XUV500,W7,Manual,"1,05,759 km",2nd Owner,Diesel,KA-09,"21,642/month","11,37,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+943,2015 Maruti Swift,VXI,Manual,"67,245 km",1st Owner,Petrol,KA-51,"10,538/month","5,39,000","GT World Mall, Bengaluru",Bangalore
+944,2015 Hyundai Grand i10,ASTA AT 1.2 KAPPA VTVT,Automatic,"36,459 km",2nd Owner,Petrol,KA-03,"10,479/month","5,36,000","Bellahalli, Bengaluru",Bangalore
+945,2018 Toyota YARIS,G CVT,Automatic,"33,425 km",1st Owner,Petrol,KA-51,"15,303/month","8,04,000","Horamavu Agara Road, Bengaluru",Bangalore
+946,2013 Hyundai Grand i10,MAGNA 1.1 CRDI,Manual,"81,805 km",2nd Owner,Diesel,KA-04,"8,172/month","4,18,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+947,2015 Maruti Celerio,ZXI AMT,Automatic,"45,701 km",2nd Owner,Petrol,KA-50,"8,778/month","4,49,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+948,2016 Ford Ecosport,TITANIUM 1.5L DIESEL,Manual,"57,948 km",1st Owner,Diesel,KA-05,"13,744/month","7,03,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+949,2016 Maruti Baleno,ZETA PETROL 1.2,Manual,"39,959 km",1st Owner,Petrol,KA-01,"13,842/month","7,08,000","GT World Mall, Bengaluru",Bangalore
+950,2018 Maruti Swift,VXI AMT,Automatic,"49,578 km",1st Owner,Petrol,KA-41,"13,529/month","6,92,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+951,2015 Hyundai Elite i20,ASTA 1.2,Manual,"43,371 km",2nd Owner,Petrol,KA-05,"12,199/month","6,24,000","Bellahalli, Bengaluru",Bangalore
+952,2017 Maruti Swift,VXI O,Manual,"64,917 km",2nd Owner,Petrol,KA-02,"12,043/month","6,16,000","Bellahalli, Bengaluru",Bangalore
+953,2015 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"54,592 km",1st Owner,Petrol,KA-05,"9,228/month","4,72,000","Bellahalli, Bengaluru",Bangalore
+954,2016 Honda City,1.5L I-VTEC V MT,Manual,"32,196 km",2nd Owner,Petrol,KA-04,"13,411/month","6,86,000","Bellahalli, Bengaluru",Bangalore
+955,2019 Hyundai GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT,Manual,"27,937 km",1st Owner,Petrol,KA-41,"12,747/month","6,52,000","Sonnappanahalli
+",Bangalore
+956,2018 Tata NEXON,XZ PLUS DIESEL,Manual,"59,255 km",1st Owner,Diesel,KA-03,"16,331/month","8,58,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+957,2018 Hyundai Verna,1.6 VTVT SX (O) AT,Automatic,"30,518 km",2nd Owner,Petrol,KA-05,"19,529/month","10,26,000","Bellahalli, Bengaluru",Bangalore
+958,2016 Hyundai Elite i20,SPORTZ 1.2,Manual,"35,410 km",1st Owner,Petrol,KA-05,"12,903/month","6,60,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+959,2020 Hyundai Verna,SX (O) 1.5 CRDI AT,Automatic,"33,437 km",1st Owner,Diesel,KA-41,"29,922/month","15,72,000","Horamavu Agara Road, Bengaluru",Bangalore
+960,2018 Ford Ecosport,TITANIUM 1.5L PETROL AT,Automatic,"65,598 km",2nd Owner,Petrol,KA-01,"16,769/month","8,81,000","Bellahalli, Bengaluru",Bangalore
+961,2018 Maruti Swift,VXI AMT,Automatic,"25,537 km",1st Owner,Petrol,KA-01,"13,333/month","6,82,000","Bellahalli, Bengaluru",Bangalore
+962,2016 Honda Jazz,1.2L I-VTEC V,Manual,"78,782 km",1st Owner,Petrol,KA-51,"10,792/month","5,52,000","Bellahalli, Bengaluru",Bangalore
+963,2014 Maruti Alto 800,LXI,Manual,"29,281 km",1st Owner,Petrol,KA-05,"5,748/month","2,94,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+964,2021 Honda City,1.5L I-VTEC VX CVT,Automatic,"39,942 km",1st Owner,Petrol,KA-01,"25,049/month","13,16,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+965,2015 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"50,516 km",1st Owner,Petrol,KA-03,"9,462/month","4,84,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+966,2014 Hyundai Elite i20,SPORTZ 1.4 CRDI,Manual,"1,08,913 km",2nd Owner,Diesel,KA-02,"11,300/month","5,78,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+967,2021 Maruti Alto,VXI PLUS,Manual,"40,561 km",1st Owner,Petrol,KA-50,"7,957/month","4,07,000","Bellahalli, Bengaluru",Bangalore
+968,2016 Maruti Baleno,ALPHA DIESEL 1.3,Manual,"61,263 km",1st Owner,Diesel,KA-05,"14,643/month","7,49,000","Horamavu Agara Road, Bengaluru",Bangalore
+969,2016 Maruti Alto 800,VXI,Manual,"28,925 km",2nd Owner,Petrol,KA-04,"6,354/month","3,25,000","Bellahalli, Bengaluru",Bangalore
+970,2016 Ford Ecosport,TREND 1.5L PETROL,Manual,"32,465 km",1st Owner,Petrol,KA-51,"13,939/month","7,13,000","Sonnappanahalli
+",Bangalore
+971,2016 Maruti Swift,VXI,Manual,"60,777 km",1st Owner,Petrol,KA-05,"11,202/month","5,73,000","Horamavu Agara Road, Bengaluru",Bangalore
+972,2017 Maruti Alto 800,LXI,Manual,"48,871 km",1st Owner,Petrol,KA-05,"6,178/month","3,16,000","Bellahalli, Bengaluru",Bangalore
+973,2012 Honda Brio,S MT,Manual,"64,655 km",1st Owner,Petrol,KA-05,"6,901/month","3,53,000","Bellahalli, Bengaluru",Bangalore
+974,2016 Ford Ecosport,TITANIUM+ 1.5L DIESEL,Manual,"1,06,835 km",2nd Owner,Diesel,KA-02,"13,666/month","6,99,000","GT World Mall, Bengaluru",Bangalore
+975,2010 Maruti Alto K10,VXI,Manual,"41,987 km",1st Owner,Petrol,KA-25,"4,575/month","2,34,000","Bellahalli, Bengaluru",Bangalore
+976,2017 Maruti Vitara Brezza,ZDI PLUS,Manual,"69,301 km",1st Owner,Diesel,KA-04,"18,482/month","9,71,000","Sonnappanahalli
+",Bangalore
+977,2019 Maruti S PRESSO,VXI+,Manual,"15,871 km",1st Owner,Petrol,KA-01,"9,013/month","4,61,000","Horamavu Agara Road, Bengaluru",Bangalore
+978,2014 Hyundai Grand i10,ASTA (O) 1.2 KAPPA VTVT,Manual,"20,042 km",1st Owner,Petrol,KA-51,"9,736/month","4,98,000","Bellahalli, Bengaluru",Bangalore
+979,2020 Maruti Alto,VXI PLUS,Manual,"73,140 km",2nd Owner,Petrol,KA-09,"7,605/month","3,89,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+980,2016 Maruti Baleno,DELTA CVT PETROL 1.2,Automatic,"67,225 km",1st Owner,Petrol,KA-03,"12,610/month","6,45,000","Horamavu Agara Road, Bengaluru",Bangalore
+981,2017 Maruti Vitara Brezza,ZDI PLUS DUAL TONE,Manual,"94,127 km",1st Owner,Diesel,KA-02,"17,302/month","9,09,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+982,2014 Hyundai Grand i10,ASTA AT 1.2 KAPPA VTVT,Automatic,"49,290 km",2nd Owner,Petrol,KA-51,"8,934/month","4,57,000","Sonnappanahalli
+",Bangalore
+983,2018 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"25,971 km",1st Owner,Petrol,KA-03,"11,711/month","5,99,000","Horamavu Agara Road, Bengaluru",Bangalore
+984,2022 Maruti S PRESSO,VXI+,Manual,"6,922 km",1st Owner,Petrol,KA-51,"10,870/month","5,56,000","GT World Mall, Bengaluru",Bangalore
+985,2019 Maruti S PRESSO,VXI+,Manual,"51,395 km",1st Owner,Petrol,KA-42,"8,719/month","4,46,000","Bellahalli, Bengaluru",Bangalore
+986,2016 Maruti Celerio,ZXI AMT,Automatic,"36,607 km",2nd Owner,Petrol,KA-03,"9,834/month","5,03,000","Bellahalli, Bengaluru",Bangalore
+987,2017 Maruti Vitara Brezza,ZDI PLUS,Manual,"40,988 km",1st Owner,Diesel,KA-03,"19,358/month","10,17,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+988,2016 Honda Jazz,1.2L I-VTEC V,Manual,"90,773 km",2nd Owner,Petrol,KA-05,"11,202/month","5,73,000","GT World Mall, Bengaluru",Bangalore
+989,2021 Maruti Baleno,ALPHA CVT PETROL 1.2,Automatic,"9,358 km",1st Owner,Petrol,KA-51,"18,444/month","9,69,000","Bellahalli, Bengaluru",Bangalore
+990,2016 Ford Ecosport,1.5 TITANIUM TI VCT AT,Automatic,"63,805 km",1st Owner,Petrol,KA-04,"13,666/month","6,99,000","Bellahalli, Bengaluru",Bangalore
+991,2015 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"1,01,356 km",2nd Owner,Petrol,KA-20,"8,367/month","4,28,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+992,2019 Maruti Swift,VXI AMT,Automatic,"48,168 km",1st Owner,Petrol,KA-51,"13,411/month","6,86,000","Horamavu Agara Road, Bengaluru",Bangalore
+993,2021 Toyota YARIS,G CVT,Automatic,"33,206 km",1st Owner,Petrol,KA-42,"18,615/month","9,78,000","Bellahalli, Bengaluru",Bangalore
+994,2017 Honda Jazz,1.2 V AT,Automatic,"70,602 km",1st Owner,Petrol,KA-02,"12,512/month","6,40,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+995,2016 Maruti Celerio,ZXI AMT,Automatic,"58,198 km",2nd Owner,Petrol,KA-51,"9,540/month","4,88,000","Bellahalli, Bengaluru",Bangalore
+996,2017 Maruti Wagon R 1.0,VXI AMT,Automatic,"17,386 km",2nd Owner,Petrol,KA-02,"10,029/month","5,13,000","Sonnappanahalli
+",Bangalore
+997,2016 Maruti Celerio,ZXI AMT,Automatic,"33,371 km",1st Owner,Petrol,KA-41,"9,853/month","5,04,000","Horamavu Agara Road, Bengaluru",Bangalore
+998,2014 Renault Duster,85 PS RXL PLUS DIESEL,Manual,"66,463 km",1st Owner,Diesel,KA-53,"13,763/month","7,04,000","Bellahalli, Bengaluru",Bangalore
+999,2021 Renault Kiger,RXZ TURBO CVT,Automatic,"48,938 km",2nd Owner,Petrol,KA-03,"18,311/month","9,62,000","Bellahalli, Bengaluru",Bangalore
+1000,2017 Maruti Baleno,ZETA PETROL 1.2,Manual,"40,356 km",1st Owner,Petrol,KA-53,"13,920/month","7,12,000","GT World Mall, Bengaluru",Bangalore
+1001,2017 Hyundai Grand i10,ASTA 1.2 KAPPA VTVT,Manual,"28,593 km",1st Owner,Petrol,KA-01,"11,711/month","5,99,000","Bellahalli, Bengaluru",Bangalore
+1002,2017 Maruti Swift,ZXI,Manual,"42,809 km",1st Owner,Petrol,KA-05,"13,216/month","6,76,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1003,2016 Maruti Baleno,ALPHA DIESEL 1.3,Manual,"89,837 km",1st Owner,Diesel,KA-04,"14,154/month","7,24,000","Sonnappanahalli
+",Bangalore
+1004,2017 Maruti Vitara Brezza,ZDI PLUS,Manual,"69,004 km",1st Owner,Diesel,KA-41,"18,710/month","9,83,000","Horamavu Agara Road, Bengaluru",Bangalore
+1005,2015 Hyundai Grand i10,ASTA AT 1.2 KAPPA VTVT,Automatic,"82,195 km",1st Owner,Petrol,KA-05,"9,286/month","4,75,000","GT World Mall, Bengaluru",Bangalore
+1006,2017 Maruti Baleno,DELTA CVT PETROL 1.2,Automatic,"58,666 km",1st Owner,Petrol,KA-25,"13,216/month","6,76,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1007,2017 Maruti Baleno,ZETA PETROL 1.2,Manual,"33,850 km",2nd Owner,Petrol,KA-03,"13,763/month","7,04,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1008,2022 Hyundai AURA,SX 1.2,Manual,"10,843 km",1st Owner,Petrol,KA-51,"16,065/month","8,44,000","Bellahalli, Bengaluru",Bangalore
+1009,2017 Maruti Celerio,ZXI AMT (O),Automatic,"22,479 km",2nd Owner,Petrol,KA-05,"10,714/month","5,48,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1010,2019 Maruti S PRESSO,VXI+,Manual,"53,125 km",1st Owner,Petrol,KA-51,"8,348/month","4,27,000","Bellahalli, Bengaluru",Bangalore
+1011,2018 Maruti Celerio,ZXI,Manual,"50,731 km",1st Owner,Petrol,KA-01,"9,658/month","4,94,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1012,2015 Maruti Celerio,VXI,Manual,"44,385 km",1st Owner,Petrol,KA-01,"8,524/month","4,36,000","Sonnappanahalli
+",Bangalore
+1013,2017 Maruti Dzire,VXI AMT,Automatic,"16,786 km",1st Owner,Petrol,KA-02,"13,411/month","6,86,000","Bellahalli, Bengaluru",Bangalore
+1014,2015 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"46,156 km",1st Owner,Petrol,KA-51,"9,482/month","4,85,000","Bellahalli, Bengaluru",Bangalore
+1015,2021 Toyota YARIS,G MT,Manual,"17,875 km",2nd Owner,Petrol,KA-42,"18,501/month","9,72,000","Bellahalli, Bengaluru",Bangalore
+1016,2016 Maruti Celerio,ZXI AMT,Automatic,"28,813 km",1st Owner,Petrol,KA-02,"10,479/month","5,36,000","Horamavu Agara Road, Bengaluru",Bangalore
+1017,2018 Hyundai NEW SANTRO,ASTA MT,Manual,"47,418 km",1st Owner,Petrol,KA-41,"11,085/month","5,67,000","Bellahalli, Bengaluru",Bangalore
+1018,2017 Maruti Celerio,ZXI AMT (O),Automatic,"50,894 km",2nd Owner,Petrol,KA-50,"9,345/month","4,78,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1019,2015 Maruti Celerio,ZXI,Manual,"40,304 km",2nd Owner,Petrol,KA-53,"9,110/month","4,66,000","Sonnappanahalli
+",Bangalore
+1020,2021 Tata Tiago,XZ PLUS DUAL TONE PETROL,Manual,"35,097 km",1st Owner,Petrol,KA-06,"14,311/month","7,32,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1021,2017 Honda Jazz,1.2L I-VTEC V AT,Automatic,"69,054 km",1st Owner,Petrol,KA-05,"12,375/month","6,33,000","Horamavu Agara Road, Bengaluru",Bangalore
+1022,2021 Maruti Baleno,ALPHA CVT PETROL 1.2,Automatic,"8,548 km",1st Owner,Petrol,KA-02,"18,311/month","9,62,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1023,2016 Maruti Baleno,DELTA CVT PETROL 1.2,Automatic,"63,837 km",2nd Owner,Petrol,KA-05,"12,825/month","6,56,000","Bellahalli, Bengaluru",Bangalore
+1024,2019 Maruti Dzire,ZXI PLUS AMT,Automatic,"51,801 km",1st Owner,Petrol,KA-51,"14,858/month","7,60,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1025,2019 Hyundai NEW SANTRO,SPORTZ MT,Manual,"35,711 km",1st Owner,Petrol,KA-04,"10,577/month","5,41,000","Sonnappanahalli
+",Bangalore
+1026,2015 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"25,852 km",1st Owner,Petrol,KA-19,"10,166/month","5,20,000","Sonnappanahalli
+",Bangalore
+1027,2016 Maruti Celerio,ZXI AMT,Automatic,"17,444 km",1st Owner,Petrol,KA-04,"10,381/month","5,31,000","Bellahalli, Bengaluru",Bangalore
+1028,2017 Maruti Baleno,DELTA PETROL 1.2,Manual,"84,422 km",1st Owner,Petrol,KA-53,"9,853/month","5,04,000","Bellahalli, Bengaluru",Bangalore
+1029,2011 Hyundai Verna,FLUIDIC 1.6 CRDI EX,Manual,"83,667 km",2nd Owner,Diesel,KA-03,"7,527/month","3,85,000","Bellahalli, Bengaluru",Bangalore
+1030,2018 Jeep Compass,SPORT 2.0 DIESEL,Manual,"79,040 km",1st Owner,Diesel,KA-53,"24,307/month","12,77,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+1031,2016 Volkswagen Polo,GT TSI AT,Automatic,"96,698 km",2nd Owner,Petrol,KA-09,"13,842/month","7,08,000","Sonnappanahalli
+",Bangalore
+1032,2014 Ford Ecosport,TITANIUM 1.0L ECOBOOST,Manual,"1,21,782 km",2nd Owner,Petrol,KA-04,"9,247/month","4,73,000","Bellahalli, Bengaluru",Bangalore
+1033,2018 Maruti Baleno,SIGMA DIESEL 1.3,Manual,"60,281 km",2nd Owner,Diesel,KA-50,"11,222/month","5,74,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1034,2012 Hyundai i20,MAGNA (O) 1.4 CRDI,Manual,"64,958 km",2nd Owner,Diesel,KA-01,"6,979/month","3,57,000","Bellahalli, Bengaluru",Bangalore
+1035,2017 Renault Kwid,1.0 RXT 02 Anniversary Edition,Manual,"30,810 km",1st Owner,Petrol,KA-02,"6,979/month","3,57,000","Bellahalli, Bengaluru",Bangalore
+1036,2010 Maruti Swift,VXI,Manual,"99,276 km",2nd Owner,Petrol,KA-51,"6,393/month","3,27,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1037,2012 Maruti Wagon R 1.0,LXI CNG,Manual,"27,267 km",1st Owner,CNG,MH-05,"5,337/month","2,73,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1038,2013 Hyundai Verna,FLUIDIC 1.6 CRDI SX,Manual,"57,820 km",1st Owner,Diesel,KA-05,"11,261/month","5,76,000","Bellahalli, Bengaluru",Bangalore
+1039,2011 Hyundai i10,ERA 1.1,Manual,"1,03,823 km",1st Owner,Petrol,KA-03,"4,555/month","2,33,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1040,2014 Renault Duster,85 PS RXE DIESEL,Manual,"1,09,706 km",3rd Owner,Diesel,KA-02,"8,993/month","4,60,000","Horamavu Agara Road, Bengaluru",Bangalore
+1041,2015 Maruti Swift,LXI,Manual,"60,352 km",2nd Owner,Petrol,KA-41,"8,387/month","4,29,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1042,2020 Renault TRIBER,RXL MT,Manual,"25,179 km",2nd Owner,Petrol,KA-02,"11,906/month","6,09,000","Bellahalli, Bengaluru",Bangalore
+1043,2014 Maruti Celerio,VXI AMT,Automatic,"28,577 km",3rd Owner,Petrol,KA-51,"7,136/month","3,65,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1044,2013 Maruti Swift,VXI,Manual,"29,002 km",1st Owner,Petrol,KA-53,"9,404/month","4,81,000","Bellahalli, Bengaluru",Bangalore
+1045,2013 Maruti Ertiga,ZXI,Manual,"1,12,343 km",1st Owner,Petrol,KA-19,"11,593/month","5,93,000","Bellahalli, Bengaluru",Bangalore
+1046,2011 Toyota Etios Liva,G,Manual,"27,055 km",1st Owner,Petrol,KA-01,"7,410/month","3,79,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1047,2011 Maruti Ritz,VDI,Manual,"75,879 km",2nd Owner,Diesel,KA-04,"6,491/month","3,32,000","Horamavu Agara Road, Bengaluru",Bangalore
+1048,2021 Hyundai Creta,SX (O) 1.5 DIESEL,Manual,"66,922 km",1st Owner,Diesel,KA-03,"30,721/month","16,14,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+1049,2016 Skoda Rapid,AMBITION 1.5 TDI,Manual,"64,615 km",2nd Owner,Diesel,KA-03,"10,792/month","5,52,000","Bellahalli, Bengaluru",Bangalore
+1050,2011 Hyundai Verna,FLUIDIC 1.6 VTVT SX,Manual,"38,335 km",2nd Owner,Petrol,KA-01,"8,367/month","4,28,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1051,2017 Tata Tiago,XE PETROL,Manual,"38,063 km",1st Owner,Petrol,KA-04,"8,348/month","4,27,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1052,2014 Honda Amaze,1.2L I-VTEC E,Manual,"45,696 km",1st Owner,Petrol,KA-03,"7,644/month","3,91,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1053,2014 Maruti Swift,VXI,Manual,"1,23,227 km",3rd Owner,Petrol,KA-05,"7,742/month","3,96,000","Bellahalli, Bengaluru",Bangalore
+1054,2010 Volkswagen Polo,COMFORTLINE 1.2L PETROL,Manual,"52,771 km",2nd Owner,Petrol,KA-03,"6,862/month","3,51,000","Bellahalli, Bengaluru",Bangalore
+1055,2021 Renault Kiger,RXZ TURBO MT,Manual,"27,839 km",1st Owner,Petrol,KA-14,"15,190/month","7,77,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1056,2013 Renault Duster,85 PS RXL DIESEL,Manual,"1,04,606 km",2nd Owner,Diesel,KA-51,"9,756/month","4,99,000","Bellahalli, Bengaluru",Bangalore
+1057,2017 Hyundai Elite i20,ASTA 1.2,Manual,"41,003 km",1st Owner,Petrol,KA-02,"12,629/month","6,46,000","Bellahalli, Bengaluru",Bangalore
+1058,2011 Maruti Swift,VXI,Manual,"82,830 km",2nd Owner,Petrol,KA-05,"6,608/month","3,38,000","Bellahalli, Bengaluru",Bangalore
+1059,2015 Maruti Omni,5 STR,Manual,"56,292 km",1st Owner,Petrol,KA-01,"5,279/month","2,70,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1060,2012 Hyundai i10,SPORTZ 1.2,Manual,"55,805 km",3rd Owner,Petrol,KA-05,"5,533/month","2,83,000","GT World Mall, Bengaluru",Bangalore
+1061,2014 Hyundai Grand i10,ASTA 1.2 KAPPA VTVT,Manual,"82,149 km",2nd Owner,Petrol,KA-05,"7,683/month","3,93,000","Bellahalli, Bengaluru",Bangalore
+1062,2010 Hyundai i20,MAGNA 1.2,Manual,"90,842 km",2nd Owner,Petrol,KA-03,"5,728/month","2,93,000","Sonnappanahalli
+",Bangalore
+1063,2012 Maruti Swift Dzire,LXI,Manual,"64,302 km",1st Owner,Petrol,KA-04,"7,801/month","3,99,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1064,2013 Maruti Zen Estilo,LXI CNG,Manual,"38,594 km",1st Owner,CNG,KA-51,"5,396/month","2,76,000","Bellahalli, Bengaluru",Bangalore
+1065,2014 Hyundai Xcent,S 1.2,Manual,"66,486 km",1st Owner,Petrol,KA-19,"7,859/month","4,02,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1066,2016 Tata Tiago,XE PETROL,Manual,"1,01,386 km",1st Owner,Petrol,KA-02,"7,116/month","3,64,000","Bellahalli, Bengaluru",Bangalore
+1067,2017 Maruti Swift,VDI (O),Manual,"36,496 km",1st Owner,Diesel,KA-51,"12,981/month","6,64,000","Bellahalli, Bengaluru",Bangalore
+1068,2012 Hyundai Eon,ERA +,Manual,"47,816 km",2nd Owner,Petrol,KA-09,"4,184/month","2,14,000","Horamavu Agara Road, Bengaluru",Bangalore
+1069,2014 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"94,221 km",2nd Owner,Petrol,KA-04,"7,488/month","3,83,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1070,2019 Jeep Compass,LIMITED 1.4 PETROL AT,Automatic,"92,560 km",1st Owner,Petrol,KA-04,"26,096/month","13,71,000","Horamavu Agara Road, Bengaluru",Bangalore
+1071,2012 Maruti Swift Dzire,ZDI,Manual,"93,338 km",3rd Owner,Diesel,KA-01,"8,680/month","4,44,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1072,2016 Hyundai i10,SPORTZ 1.1,Manual,"98,602 km",2nd Owner,Petrol,KA-64,"6,823/month","3,49,000","GT World Mall, Bengaluru",Bangalore
+1073,2019 Hyundai Creta,SX AT 1.6 DIESEL,Automatic,"80,463 km",1st Owner,Diesel,KA-04,"25,049/month","13,16,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1074,2017 Maruti Celerio,VXI (O),Manual,"57,986 km",2nd Owner,Petrol,KA-06,"7,937/month","4,06,000","Bellahalli, Bengaluru",Bangalore
+1075,2021 Maruti Swift,ZXI PLUS,Manual,"48,148 km",1st Owner,Petrol,KA-02,"15,445/month","7,90,000","Sonnappanahalli
+",Bangalore
+1076,2018 Maruti Dzire,ZXI,Manual,"76,303 km",1st Owner,Petrol,KA-02,"11,887/month","6,08,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1077,2013 Maruti Ertiga,ZDI,Manual,"85,588 km",2nd Owner,Diesel,KA-01,"13,685/month","7,00,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+1078,2022 Maruti New Wagon-R,VXI CNG 1.0,Manual,"3,084 km",1st Owner,CNG,KA-02,"13,822/month","7,07,000","GT World Mall, Bengaluru",Bangalore
+1079,2012 Skoda Rapid,ELEGANCE 1.6 TDI MT,Manual,"82,081 km",1st Owner,Diesel,KA-51,"8,602/month","4,40,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1080,2019 Renault Kwid,RXT 0.8 (O),Manual,"31,992 km",1st Owner,Petrol,KA-02,"7,189/month","3,67,700","Hosur Road, Singasandra, Bengaluru",Bangalore
+1081,2014 Volkswagen Polo,HIGHLINE DIESEL,Manual,"1,00,761 km",2nd Owner,Diesel,KA-53,"12,512/month","6,40,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1082,2010 Maruti Ritz,VXI,Manual,"91,149 km",2nd Owner,Petrol,KA-04,"5,885/month","3,01,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1083,2010 Maruti Wagon R 1.0,LXI,Manual,"80,330 km",2nd Owner,Petrol,UP-16,"4,594/month","2,35,000","Horamavu Agara Road, Bengaluru",Bangalore
+1084,2014 Maruti Swift Dzire,VXI,Manual,"58,833 km",2nd Owner,Petrol,KA-51,"8,739/month","4,47,000","Sonnappanahalli
+",Bangalore
+1085,2018 Tata Tiago,XZ PETROL,Manual,"36,692 km",2nd Owner,Petrol,KA-41,"9,501/month","4,86,000","Sonnappanahalli
+",Bangalore
+1086,2016 Ford Ecosport,TITANIUM 1.5L PETROL AT,Automatic,"39,441 km",2nd Owner,Petrol,KA-05,"12,805/month","6,55,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1087,2018 Hyundai Eon,MAGNA PLUS,Manual,"86,198 km",2nd Owner,Petrol,KA-02,"5,904/month","3,02,000","Horamavu Agara Road, Bengaluru",Bangalore
+1088,2013 Hyundai i10,SPORTZ 1.2 AT,Automatic,"1,25,004 km",1st Owner,Petrol,KA-52,"6,197/month","3,17,000","Horamavu Agara Road, Bengaluru",Bangalore
+1089,2010 Hyundai i10,SPORTZ 1.2 AT,Automatic,"73,914 km",2nd Owner,Petrol,KA-51,"5,787/month","2,96,000","Bellahalli, Bengaluru",Bangalore
+1090,2012 Maruti Swift Dzire,ZDI,Manual,"1,00,047 km",1st Owner,Diesel,KA-51,"9,677/month","4,95,000","Bellahalli, Bengaluru",Bangalore
+1091,2017 Skoda Rapid,1.5 TDI MT AMBITION,Manual,"48,960 km",2nd Owner,Diesel,KA-52,"14,780/month","7,56,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1092,2017 Renault Duster,85 PS RXS MT DIESEL,Manual,"82,851 km",2nd Owner,Diesel,KA-02,"14,174/month","7,25,000","Bellahalli, Bengaluru",Bangalore
+1093,2016 Renault Kwid,RXT 1.0,Manual,"14,993 km",1st Owner,Petrol,KA-51,"7,194/month","3,68,000","Bellahalli, Bengaluru",Bangalore
+1094,2017 Datsun Redi Go,T(O) 1.0,Manual,"38,282 km",2nd Owner,Petrol,KA-25,"5,630/month","2,88,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1095,2016 Mahindra TUV300,T6 PLUS AMT,Automatic,"94,469 km",2nd Owner,Diesel,KA-51,"12,356/month","6,32,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1096,2017 Tata Tiago,XZA PETROL,Automatic,"45,408 km",1st Owner,Petrol,KA-02,"9,482/month","4,85,000","GT World Mall, Bengaluru",Bangalore
+1097,2014 Honda Amaze,1.5L I-DTEC S,Manual,"77,710 km",2nd Owner,Diesel,KA-04,"7,644/month","3,91,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1098,2017 Tata Tiago,XT PETROL,Manual,"69,734 km",1st Owner,Petrol,KA-19,"8,602/month","4,40,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1099,2020 KIA SONET,HTX 1.5,Manual,"30,398 km",1st Owner,Diesel,KA-01,"18,920/month","9,94,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+1100,2014 Mahindra XUV500,W6,Manual,"95,273 km",2nd Owner,Diesel,KA-04,"15,265/month","8,02,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1101,2013 Maruti Swift Dzire,VXI,Manual,"56,927 km",1st Owner,Petrol,KA-19,"8,485/month","4,34,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1102,2021 Mahindra Thar,LX  P 4WD AT CONVERTIBLE,Automatic,"9,252 km",1st Owner,Petrol,KA-50,"29,579/month","15,54,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+1103,2016 Honda Jazz,1.2 S MT,Manual,"76,046 km",2nd Owner,Petrol,KA-41,"9,462/month","4,84,000","Bellahalli, Bengaluru",Bangalore
+1104,2015 Maruti Swift,VXI,Manual,"77,147 km",3rd Owner,Petrol,KA-53,"8,876/month","4,54,000","Bellahalli, Bengaluru",Bangalore
+1105,2013 Maruti Swift,VDI,Manual,"55,334 km",2nd Owner,Diesel,KA-01,"8,485/month","4,34,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1106,2014 Maruti Swift,VDI,Manual,"1,00,015 km",1st Owner,Diesel,KA-25,"9,716/month","4,97,000","Bellahalli, Bengaluru",Bangalore
+1107,2016 Mahindra TUV300,T8 AT,Automatic,"73,195 km",2nd Owner,Diesel,KA-03,"12,880/month","6,58,800","Horamavu Agara Road, Bengaluru",Bangalore
+1108,2016 Maruti Celerio,ZXI,Manual,"32,357 km",1st Owner,Petrol,KA-51,"8,387/month","4,29,000","GT World Mall, Bengaluru",Bangalore
+1109,2015 Tata Zest,XMS PETROL,Manual,"89,051 km",1st Owner,Petrol,KA-41,"8,094/month","4,14,000","Bellahalli, Bengaluru",Bangalore
+1110,2017 Renault Kwid,RXT 1.0,Manual,"74,467 km",1st Owner,Petrol,KA-53,"6,823/month","3,49,000","Bellahalli, Bengaluru",Bangalore
+1111,2013 Maruti Ritz,VXI,Manual,"54,782 km",1st Owner,Petrol,KA-05,"7,468/month","3,82,000","GT World Mall, Bengaluru",Bangalore
+1112,2019 Maruti Swift,ZDI PLUS AMT,Automatic,"44,954 km",1st Owner,Diesel,KA-02,"15,347/month","7,85,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1113,2016 Mahindra XUV500,W10,Manual,"64,061 km",2nd Owner,Diesel,KA-01,"22,460/month","11,80,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+1114,2015 Honda City,1.5L I-VTEC SV CVT,Automatic,"1,15,125 km",3rd Owner,Petrol,KA-05,"10,381/month","5,31,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1115,2011 Maruti Swift,VXI,Manual,"96,278 km",2nd Owner,Petrol,KA-34,"7,038/month","3,60,000","Bellahalli, Bengaluru",Bangalore
+1116,2010 Maruti Swift Dzire,VDI,Manual,"68,502 km",2nd Owner,Diesel,KA-01,"7,351/month","3,76,000","Bellahalli, Bengaluru",Bangalore
+1117,2018 Maruti Swift,VXI,Manual,"90,804 km",1st Owner,Petrol,KA-51,"11,202/month","5,73,000","Bellahalli, Bengaluru",Bangalore
+1118,2012 Maruti Swift Dzire,LXI,Manual,"38,319 km",1st Owner,Petrol,KA-02,"7,507/month","3,84,000","Bellahalli, Bengaluru",Bangalore
+1119,2020 Hyundai Elite i20,SPORTZ PLUS 1.2,Manual,"49,087 km",1st Owner,Petrol,KA-50,"13,881/month","7,10,000","Horamavu Agara Road, Bengaluru",Bangalore
+1120,2017 Datsun Redi Go,T(O) 1.0,Manual,"46,031 km",1st Owner,Petrol,KA-05,"5,435/month","2,78,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1121,2010 Maruti Swift Dzire,VDI,Manual,"86,543 km",3rd Owner,Diesel,KA-51,"6,452/month","3,30,000","Bellahalli, Bengaluru",Bangalore
+1122,2021 KIA SELTOS,HTX PLUS 1.5 DIESEL,Manual,"47,344 km",1st Owner,Diesel,KA-03,"29,332/month","15,41,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+1123,2017 Mahindra TUV300,T8,Manual,"49,678 km",2nd Owner,Diesel,KA-05,"14,330/month","7,33,000","Sonnappanahalli
+",Bangalore
+1124,2011 Maruti Swift,VXI,Manual,"46,387 km",2nd Owner,Petrol,KA-03,"7,351/month","3,76,000","Bellahalli, Bengaluru",Bangalore
+1125,2014 Hyundai i20,ASTA 1.2,Manual,"77,526 km",1st Owner,Petrol,KA-04,"9,814/month","5,02,000","Bellahalli, Bengaluru",Bangalore
+1126,2017 Maruti Dzire,VXI AMT,Automatic,"89,411 km",1st Owner,Petrol,KA-51,"10,889/month","5,57,000","Horamavu Agara Road, Bengaluru",Bangalore
+1127,2019 Maruti Alto,VXI,Manual,"17,101 km",2nd Owner,Petrol,KA-51,"6,686/month","3,42,000","Bellahalli, Bengaluru",Bangalore
+1128,2010 Maruti Swift Dzire,VXI,Manual,"73,236 km",2nd Owner,Petrol,KA-01,"6,530/month","3,34,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1129,2014 Maruti Alto K10,VXI,Manual,"68,307 km",3rd Owner,Petrol,KA-42,"4,927/month","2,52,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1130,2019 Maruti Dzire,VXI AMT,Automatic,"58,998 km",1st Owner,Petrol,KA-36,"12,160/month","6,22,000","Horamavu Agara Road, Bengaluru",Bangalore
+1131,2014 Hyundai Verna,FLUIDIC 1.6 CRDI SX OPT,Manual,"1,44,771 km",2nd Owner,Diesel,KA-03,"10,049/month","5,14,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1132,2020 Maruti Swift,VXI AMT,Automatic,"13,661 km",2nd Owner,Petrol,KA-02,"13,411/month","6,86,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1133,2012 Hyundai i20,SPORTZ 1.4 CRDI,Manual,"1,01,430 km",3rd Owner,Diesel,KA-02,"7,312/month","3,74,000","Bellahalli, Bengaluru",Bangalore
+1134,2016 Maruti Alto K10,VXI AMT,Automatic,"67,133 km",1st Owner,Petrol,KA-05,"7,234/month","3,70,000","Horamavu Agara Road, Bengaluru",Bangalore
+1135,2015 Mahindra XUV500,W8,Manual,"1,49,549 km",1st Owner,Diesel,KA-01,"15,817/month","8,31,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1136,2015 Honda Jazz,1.5L I-DTEC VX,Manual,"92,656 km",2nd Owner,Diesel,KA-12,"9,306/month","4,76,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1137,2016 Ford Ecosport,TREND+ 1.5L DIESEL,Manual,"99,776 km",1st Owner,Diesel,KA-05,"12,669/month","6,48,000","Sonnappanahalli
+",Bangalore
+1138,2015 Volkswagen Vento,COMFORTLINE 1.6,Manual,"60,841 km",2nd Owner,Petrol,KA-03,"10,538/month","5,39,000","Horamavu Agara Road, Bengaluru",Bangalore
+1139,2018 Hyundai Creta,1.6 SX PLUS PETROL,Manual,"25,434 km",2nd Owner,Petrol,KA-41,"19,358/month","10,17,000","Bellahalli, Bengaluru",Bangalore
+1140,2017 Maruti Dzire,ZXI PLUS AMT,Automatic,"69,846 km",2nd Owner,Petrol,KA-01,"11,417/month","5,84,000","Bellahalli, Bengaluru",Bangalore
+1141,2015 Maruti Ritz,VXI,Manual,"40,818 km",1st Owner,Petrol,KA-02,"8,837/month","4,52,000","GT World Mall, Bengaluru",Bangalore
+1142,2013 Honda Amaze,1.2L I-VTEC VX,Manual,"59,067 km",2nd Owner,Petrol,KA-53,"7,683/month","3,93,000","Horamavu Agara Road, Bengaluru",Bangalore
+1143,2012 Maruti Swift,VDI,Manual,"97,868 km",1st Owner,Diesel,KA-34,"8,739/month","4,47,000","Bellahalli, Bengaluru",Bangalore
+1144,2017 Hyundai Elite i20,SPORTZ 1.2,Manual,"63,072 km",3rd Owner,Petrol,KA-51,"11,320/month","5,79,000","Bellahalli, Bengaluru",Bangalore
+1145,2016 Hyundai Creta,SX PLUS 1.6 PETROL,Manual,"37,550 km",3rd Owner,Petrol,KA-04,"16,769/month","8,81,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1146,2018 Maruti Swift,ZDI AMT,Automatic,"79,101 km",2nd Owner,Diesel,KA-03,"12,962/month","6,63,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1147,2019 Tata NEXON,XZA PLUS PETROL,Automatic,"11,975 km",1st Owner,Petrol,KA-05,"17,683/month","9,29,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+1148,2012 Maruti Swift,VXI,Manual,"23,815 km",1st Owner,Petrol,KA-02,"9,286/month","4,75,000","GT World Mall, Bengaluru",Bangalore
+1149,2016 Maruti Swift Dzire,ZXI,Manual,"71,423 km",1st Owner,Petrol,KA-53,"11,320/month","5,79,000","Bellahalli, Bengaluru",Bangalore
+1150,2018 Maruti Baleno,SIGMA DIESEL 1.3,Manual,"78,631 km",1st Owner,Diesel,KA-05,"11,652/month","5,96,000","Bellahalli, Bengaluru",Bangalore
+1151,2015 Hyundai Elite i20,ASTA 1.2,Manual,"47,127 km",2nd Owner,Petrol,KA-51,"11,593/month","5,93,000","Bellahalli, Bengaluru",Bangalore
+1152,2015 Maruti Swift,LXI (O),Manual,"89,200 km",1st Owner,Petrol,KA-50,"8,837/month","4,52,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1153,2021 Maruti Swift,VXI,Manual,"29,850 km",1st Owner,Petrol,KA-51,"13,196/month","6,75,000","Bellahalli, Bengaluru",Bangalore
+1154,2013 Maruti Swift Dzire,VXI,Manual,"90,888 km",2nd Owner,Petrol,KA-10,"7,879/month","4,03,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1155,2012 Maruti Swift Dzire,VDI,Manual,"87,895 km",2nd Owner,Diesel,KA-03,"8,641/month","4,42,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1156,2016 Maruti Vitara Brezza,ZDI PLUS,Manual,"50,056 km",1st Owner,Diesel,KA-03,"16,997/month","8,93,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+1157,2014 Hyundai Grand i10,ASTA AT 1.2 KAPPA VTVT,Automatic,"86,577 km",2nd Owner,Petrol,KA-04,"8,426/month","4,31,000","Bellahalli, Bengaluru",Bangalore
+1158,2021 Renault Kwid,1.0 CLIMBER OPT,Manual,"41,968 km",1st Owner,Petrol,KA-50,"9,443/month","4,83,000","Bellahalli, Bengaluru",Bangalore
+1159,2010 Hyundai i20,ASTA 1.2,Manual,"92,338 km",1st Owner,Petrol,KA-53,"6,549/month","3,35,000","GT World Mall, Bengaluru",Bangalore
+1160,2017 Maruti Ciaz,DELTA DIESEL 1.3,Manual,"62,840 km",1st Owner,Diesel,KA-01,"13,157/month","6,73,000","Bellahalli, Bengaluru",Bangalore
+1161,2012 Maruti Swift Dzire,VDI,Manual,"77,456 km",2nd Owner,Diesel,KA-05,"8,622/month","4,41,000","Bellahalli, Bengaluru",Bangalore
+1162,2016 Hyundai Creta,1.6 SX PLUS PETROL,Manual,"67,621 km",1st Owner,Petrol,KA-03,"16,617/month","8,73,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+1163,2018 Maruti Baleno,ALPHA CVT PETROL 1.2,Automatic,"75,764 km",2nd Owner,Petrol,KA-01,"12,590/month","6,44,000","Bellahalli, Bengaluru",Bangalore
+1164,2020 Hyundai Verna,SX (O) 1.5 CRDI,Manual,"33,760 km",1st Owner,Diesel,KA-19,"26,267/month","13,80,000","Horamavu Agara Road, Bengaluru",Bangalore
+1165,2012 Hyundai Verna,FLUIDIC 1.6 VTVT SX,Manual,"1,11,014 km",1st Owner,Petrol,KA-03,"8,016/month","4,10,000","Bellahalli, Bengaluru",Bangalore
+1166,2022 Tata Safari,XZA PLUS GOLD,Automatic,"48,686 km",1st Owner,Diesel,KA-48,"42,103/month","22,12,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+1167,2018 Renault Kwid,RXT 1.0 (O),Manual,"64,592 km",2nd Owner,Petrol,KA-50,"6,901/month","3,53,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1168,2013 Skoda Rapid,AMBITION 1.6 MPI MT PLUS,Manual,"73,938 km",1st Owner,Petrol,KA-02,"8,602/month","4,40,000","GT World Mall, Bengaluru",Bangalore
+1169,2014 Maruti Swift,VXI,Manual,"1,13,521 km",1st Owner,Petrol,KA-05,"8,798/month","4,50,000","Bellahalli, Bengaluru",Bangalore
+1170,2011 Maruti Alto K10,VXI,Manual,"58,883 km",3rd Owner,Petrol,KA-05,"4,321/month","2,21,000","GT World Mall, Bengaluru",Bangalore
+1171,2019 Hyundai VENUE,SX PLUS 1.0 TURBO DCT,Automatic,"1,17,010 km",1st Owner,Petrol,KA-05,"16,693/month","8,77,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1172,2021 Renault Kwid,RXL,Manual,"12,041 km",1st Owner,Petrol,KA-05,"8,778/month","4,49,000","Sonnappanahalli
+",Bangalore
+1173,2012 Hyundai i20,ASTA 1.2,Manual,"66,331 km",2nd Owner,Petrol,KA-04,"8,446/month","4,32,000","Bellahalli, Bengaluru",Bangalore
+1174,2019 Mahindra XUV 3OO,W8 1.5 DIESEL,Manual,"85,168 km",1st Owner,Diesel,KA-51,"18,691/month","9,82,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+1175,2016 Hyundai i10,MAGNA 1.1,Manual,"28,023 km",1st Owner,Petrol,KA-05,"7,820/month","4,00,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1176,2012 Hyundai i10,SPORTZ 1.2 AT,Automatic,"51,584 km",3rd Owner,Petrol,KA-03,"6,706/month","3,43,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1177,2012 Maruti Swift,VXI,Manual,"78,249 km",3rd Owner,Petrol,KA-53,"8,231/month","4,21,000","Bellahalli, Bengaluru",Bangalore
+1178,2015 Maruti Swift,VDI ABS,Manual,"56,976 km",2nd Owner,Diesel,KA-02,"11,398/month","5,83,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1179,2020 Skoda Rapid,ACTIVE 1.0 TSI,Manual,"11,633 km",1st Owner,Petrol,KA-05,"17,016/month","8,94,000","Bellahalli, Bengaluru",Bangalore
+1180,2014 Maruti Wagon R 1.0,VXI,Manual,"92,739 km",2nd Owner,Petrol,KA-05,"6,158/month","3,15,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1181,2010 Hyundai i10,SPORTZ 1.2 KAPPA2,Manual,"46,972 km",2nd Owner,Petrol,KA-51,"5,572/month","2,85,000","Horamavu Agara Road, Bengaluru",Bangalore
+1182,2017 Maruti Ertiga,ZDI + SHVS,Manual,"46,519 km",2nd Owner,Diesel,KA-53,"18,197/month","9,56,000","GT World Mall, Bengaluru",Bangalore
+1183,2015 Maruti Swift,VXI,Manual,"69,216 km",2nd Owner,Petrol,KA-53,"9,443/month","4,83,000","GT World Mall, Bengaluru",Bangalore
+1184,2015 Honda City,1.5L I-DTEC SV,Manual,"1,04,903 km",2nd Owner,Diesel,KA-03,"10,870/month","5,56,000","Bellahalli, Bengaluru",Bangalore
+1185,2015 Renault Duster,85 PS RXL DIESEL,Manual,"83,248 km",1st Owner,Diesel,KA-01,"12,786/month","6,54,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1186,2017 Honda BR-V,1.5L I-VTEC V CVT,Automatic,"95,728 km",1st Owner,Petrol,KA-53,"15,246/month","8,01,000","Horamavu Agara Road, Bengaluru",Bangalore
+1187,2014 Hyundai i20,SPORTZ 1.2,Manual,"55,007 km",1st Owner,Petrol,KA-01,"9,501/month","4,86,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1188,2011 Maruti Ritz,VDI,Manual,"1,24,712 km",1st Owner,Diesel,KA-53,"6,784/month","3,47,000","Bellahalli, Bengaluru",Bangalore
+1189,2017 Maruti Celerio,ZXI AMT ABS,Automatic,"66,058 km",1st Owner,Petrol,KA-03,"8,583/month","4,39,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1190,2016 Hyundai Grand i10,SPORTZ 1.1 CRDI,Manual,"79,365 km",2nd Owner,Diesel,KA-19,"9,130/month","4,67,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1191,2015 Maruti Swift,ZDI,Manual,"71,884 km",2nd Owner,Diesel,KA-03,"12,434/month","6,36,000","Bellahalli, Bengaluru",Bangalore
+1192,2012 Hyundai Verna,FLUIDIC 1.6 CRDI SX AT,Automatic,"99,327 km",2nd Owner,Diesel,KA-41,"9,951/month","5,09,000","Bellahalli, Bengaluru",Bangalore
+1193,2013 Maruti Alto 800,LXI,Manual,"59,845 km",1st Owner,Petrol,KA-41,"4,848/month","2,48,000","Bellahalli, Bengaluru",Bangalore
+1194,2015 Skoda Rapid,1.5 TDI AT  Ambition Plus,Automatic,"93,424 km",2nd Owner,Diesel,KA-01,"10,323/month","5,28,000","Bellahalli, Bengaluru",Bangalore
+1195,2013 Maruti Wagon R 1.0,VXI,Manual,"83,560 km",1st Owner,Petrol,KA-19,"6,178/month","3,16,000","Bellahalli, Bengaluru",Bangalore
+1196,2015 Skoda Rapid,1.5 TDI CR ELEGANCE AT,Automatic,"1,07,208 km",1st Owner,Diesel,KA-51,"9,990/month","5,11,000","Bellahalli, Bengaluru",Bangalore
+1197,2016 Hyundai Eon,ERA PLUS (O),Manual,"11,079 km",1st Owner,Petrol,KA-01,"6,686/month","3,42,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1198,2015 Maruti Alto 800,LXI,Manual,"24,320 km",3rd Owner,Petrol,KA-05,"5,650/month","2,89,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1199,2010 Hyundai i10,SPORTZ 1.2,Manual,"75,774 km",1st Owner,Petrol,KA-05,"5,376/month","2,75,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1200,2018 Maruti Vitara Brezza,ZDI PLUS AMT,Automatic,"55,927 km",1st Owner,Diesel,KA-51,"18,463/month","9,70,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+1201,2017 Maruti Vitara Brezza,ZDI PLUS,Manual,"42,611 km",1st Owner,Diesel,KA-04,"18,710/month","9,83,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+1202,2011 Hyundai Santro Xing,GL PLUS,Manual,"1,00,954 km",1st Owner,Petrol,KA-03,"5,044/month","2,58,000","Bellahalli, Bengaluru",Bangalore
+1203,2010 Maruti A Star,VXI,Manual,"64,103 km",2nd Owner,Petrol,KA-02,"4,360/month","2,23,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1204,2017 Maruti Dzire,ZXI Plus AMT,Automatic,"93,533 km",1st Owner,Petrol,KA-03,"11,535/month","5,90,000","Bellahalli, Bengaluru",Bangalore
+1205,2015 Nissan Micra,XL CVT,Automatic,"33,859 km",1st Owner,Petrol,KA-51,"8,387/month","4,29,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1206,2017 Ford Ecosport,1.5 TITANIUM PLATINUM EDITION DIESEL,Manual,"71,230 km",1st Owner,Diesel,KA-20,"14,330/month","7,33,000","Horamavu Agara Road, Bengaluru",Bangalore
+1207,2017 Maruti Wagon R 1.0,VXI,Manual,"14,524 km",1st Owner,Petrol,KA-53,"8,289/month","4,24,000","Bellahalli, Bengaluru",Bangalore
+1208,2010 Maruti Wagon R 1.0,LXI,Manual,"74,116 km",2nd Owner,Petrol,KA-53,"4,868/month","2,49,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1209,2010 Hyundai i20,ASTA 1.2,Manual,"1,11,374 km",1st Owner,Petrol,KA-51,"6,276/month","3,21,000","Bellahalli, Bengaluru",Bangalore
+1210,2010 Maruti Wagon R 1.0,VXI,Manual,"1,31,140 km",1st Owner,Petrol,KA-20,"4,888/month","2,50,000","Bellahalli, Bengaluru",Bangalore
+1211,2012 Maruti Swift,VDI,Manual,"1,06,516 km",1st Owner,Diesel,KA-01,"8,758/month","4,48,000","Bellahalli, Bengaluru",Bangalore
+1212,2014 Maruti Swift,VXI,Manual,"52,568 km",1st Owner,Petrol,KA-03,"9,501/month","4,86,000","GT World Mall, Bengaluru",Bangalore
+1213,2017 Maruti Dzire,VDI AMT,Automatic,"67,184 km",1st Owner,Diesel,KA-03,"12,747/month","6,52,000","Bellahalli, Bengaluru",Bangalore
+1214,2010 Maruti Wagon R 1.0,LXI,Manual,"87,820 km",1st Owner,Petrol,KA-05,"5,181/month","2,65,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1215,2016 Maruti Wagon R 1.0,VXI OPT,Manual,"80,190 km",1st Owner,Petrol,KA-53,"8,211/month","4,20,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1216,2014 Maruti Alto 800,LXI,Manual,"48,946 km",2nd Owner,Petrol,KA-05,"4,829/month","2,47,000","Bellahalli, Bengaluru",Bangalore
+1217,2012 Maruti Alto 800,LXI,Manual,"88,416 km",2nd Owner,Petrol,KA-02,"4,438/month","2,27,000","Bellahalli, Bengaluru",Bangalore
+1218,2011 Maruti Swift,VXI,Manual,"1,02,814 km",1st Owner,Petrol,KA-03,"7,625/month","3,90,000","Bellahalli, Bengaluru",Bangalore
+1219,2010 Hyundai i10,MAGNA 1.2,Manual,"83,894 km",2nd Owner,Petrol,KA-05,"5,239/month","2,68,000","Bellahalli, Bengaluru",Bangalore
+1220,2017 Maruti Swift,VDI (O),Manual,"94,926 km",1st Owner,Diesel,KA-05,"12,453/month","6,37,000","Bellahalli, Bengaluru",Bangalore
+1221,2013 Maruti Swift,VXI,Manual,"69,124 km",1st Owner,Petrol,KA-25,"8,798/month","4,50,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1222,2014 Maruti Swift,VXI,Manual,"62,029 km",1st Owner,Petrol,KA-03,"9,638/month","4,93,000","Bellahalli, Bengaluru",Bangalore
+1223,2014 Mahindra XUV500,W6,Manual,"1,33,844 km",1st Owner,Diesel,KA-04,"15,322/month","8,05,000","Bellahalli, Bengaluru",Bangalore
+1224,2010 Maruti Wagon R 1.0,LXI,Manual,"48,860 km",1st Owner,Petrol,KA-53,"5,181/month","2,65,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1225,2012 Honda Brio,S MT,Manual,"66,434 km",2nd Owner,Petrol,KA-05,"6,686/month","3,42,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1226,2010 Hyundai i20,MAGNA (O) 1.2,Manual,"79,987 km",1st Owner,Petrol,KA-04,"6,588/month","3,37,000","Sonnappanahalli
+",Bangalore
+1227,2010 Maruti Wagon R 1.0,VXI,Manual,"69,120 km",2nd Owner,Petrol,KA-04,"5,396/month","2,76,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1228,2013 Maruti Swift,VXI,Manual,"69,748 km",2nd Owner,Petrol,KA-09,"8,387/month","4,29,000","Bellahalli, Bengaluru",Bangalore
+1229,2018 Maruti Swift,VXI AMT,Automatic,"42,162 km",2nd Owner,Petrol,KA-03,"12,962/month","6,63,000","Bellahalli, Bengaluru",Bangalore
+1230,2018 Maruti Swift,VXI,Manual,"35,562 km",1st Owner,Petrol,KA-53,"12,708/month","6,50,000","Bellahalli, Bengaluru",Bangalore
+1231,2011 Maruti Swift Dzire,ZXI,Manual,"65,961 km",3rd Owner,Petrol,KA-32,"7,273/month","3,72,000","Bellahalli, Bengaluru",Bangalore
+1232,2022 Maruti S PRESSO,VXI+,Manual,"45,872 km",1st Owner,Petrol,KA-16,"9,658/month","4,94,000","Bellahalli, Bengaluru",Bangalore
+1233,2015 Maruti Swift,VDI ABS,Manual,"84,877 km",1st Owner,Diesel,KA-01,"12,278/month","6,28,000","Bellahalli, Bengaluru",Bangalore
+1234,2021 Hyundai NEW I20,ASTA (O) 1.5 CRDI MT,Manual,"58,286 km",1st Owner,Diesel,KA-46,"21,413/month","11,25,000","Bellahalli, Bengaluru",Bangalore
+1235,2018 Maruti Alto K10,VXI (O),Manual,"32,278 km",1st Owner,Petrol,KA-51,"7,292/month","3,73,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1236,2017 Maruti Swift Dzire,ZDI AMT,Automatic,"88,411 km",1st Owner,Diesel,KA-02,"13,509/month","6,91,000","Bellahalli, Bengaluru",Bangalore
+1237,2013 Maruti Swift,LXI,Manual,"72,984 km",1st Owner,Petrol,KA-53,"8,387/month","4,29,000","Bellahalli, Bengaluru",Bangalore
+1238,2016 Mahindra XUV500,W10,Manual,"97,110 km",2nd Owner,Diesel,KA-03,"22,993/month","12,08,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+1239,2017 Renault Kwid,RXT 1.0,Manual,"43,199 km",1st Owner,Petrol,KA-06,"7,664/month","3,92,000","Bellahalli, Bengaluru",Bangalore
+1240,2014 Maruti Alto 800,LXI,Manual,"71,218 km",1st Owner,Petrol,KA-05,"5,181/month","2,65,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1241,2013 Maruti Swift,VDI,Manual,"97,871 km",2nd Owner,Diesel,KA-02,"8,622/month","4,41,000","Bellahalli, Bengaluru",Bangalore
+1242,2012 Volkswagen Vento,HIGHLINE DIESEL 1.6,Manual,"1,37,114 km",3rd Owner,Diesel,KA-06,"6,921/month","3,54,000","Bellahalli, Bengaluru",Bangalore
+1243,2018 Datsun Redi Go,A,Manual,"64,500 km",1st Owner,Petrol,KA-10,"4,790/month","2,45,000","Bellahalli, Bengaluru",Bangalore
+1244,2016 Ford Ecosport,TITANIUM 1.5L PETROL AT,Automatic,"39,378 km",1st Owner,Petrol,KA-03,"15,308/month","7,83,000","Bellahalli, Bengaluru",Bangalore
+1245,2013 Maruti Swift Dzire,VXI,Manual,"65,881 km",2nd Owner,Petrol,KA-53,"8,817/month","4,51,000","Bellahalli, Bengaluru",Bangalore
+1246,2013 Hyundai i20,ASTA 1.2,Manual,"40,344 km",1st Owner,Petrol,KA-03,"9,365/month","4,79,000","Sonnappanahalli
+",Bangalore
+1247,2020 Datsun Redi Go,T(O) 1.0 AMT,Automatic,"4,512 km",1st Owner,Petrol,KA-01,"10,186/month","5,21,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1248,2020 Tata Harrier,XZA 2.0L,Automatic,"47,389 km",1st Owner,Diesel,KA-51,"31,140/month","16,36,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+1249,2021 Maruti Alto,VXI PLUS,Manual,"16,679 km",1st Owner,Petrol,KA-05,"8,465/month","4,33,000","Horamavu Agara Road, Bengaluru",Bangalore
+1250,2014 Maruti Celerio,VXI AMT,Automatic,"17,432 km",1st Owner,Petrol,KA-53,"8,641/month","4,42,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1251,2019 KIA SELTOS,GTK 1.4 PETROL,Manual,"91,486 km",1st Owner,Petrol,KA-04,"21,851/month","11,48,000","Sonnappanahalli
+",Bangalore
+1252,2018 Tata TIGOR,XZ PLUS PETROL,Manual,"40,415 km",1st Owner,Petrol,KA-02,"12,375/month","6,33,000","Bellahalli, Bengaluru",Bangalore
+1253,2020 Hyundai GRAND I10 NIOS,SPORTZ AMT 1.2 KAPPA VTVT,Automatic,"32,093 km",1st Owner,Petrol,KA-03,"13,998/month","7,16,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1254,2015 Maruti Ertiga,ZXI,Manual,"86,046 km",1st Owner,Petrol,KA-05,"13,060/month","6,68,000","Horamavu Agara Road, Bengaluru",Bangalore
+1255,2014 Mahindra XUV500,W6,Manual,"1,33,091 km",1st Owner,Diesel,KA-51,"15,210/month","7,78,000","Whitefield Main Road, Bhoruka Tech Park, Benga...",Bangalore
+1256,2021 KIA SONET,GTX PLUS 1.0 IMT,Manual,"16,626 km",1st Owner,Petrol,KA-03,"23,031/month","12,10,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+1257,2021 Nissan MAGNITE,XL TURBO CVT,Automatic,"22,974 km",1st Owner,Petrol,KA-09,"16,598/month","8,72,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+1258,2018 Mahindra XUV500,W11(O),Manual,"60,924 km",1st Owner,Diesel,KA-05,"28,665/month","15,06,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+1259,2020 Maruti Baleno,DELTA PETROL 1.2,Manual,"5,521 km",1st Owner,Petrol,KA-05,"14,115/month","7,22,000","Sonnappanahalli
+",Bangalore
+1260,2021 Tata NEXON,XZA PLUS DIESEL,Automatic,"22,931 km",1st Owner,Diesel,KA-51,"22,917/month","12,04,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+1261,2019 Honda City,1.5L I-VTEC VX CVT,Automatic,"21,527 km",1st Owner,Petrol,KA-53,"21,071/month","11,07,000","Sonnappanahalli
+",Bangalore
+1262,2021 Maruti Baleno,ZETA PETROL 1.2,Manual,"22,661 km",1st Owner,Petrol,KA-01,"15,380/month","8,08,000","Sonnappanahalli
+",Bangalore
+1263,2021 KIA SELTOS,GTX PLUS DCT 1.4 PETROL,Automatic,"19,711 km",2nd Owner,Petrol,KA-05,"30,645/month","16,10,000","Sonnappanahalli
+",Bangalore
+1264,2013 Honda City,1.5L I-VTEC S MT,Manual,"1,14,622 km",2nd Owner,Petrol,KA-53,"8,563/month","4,38,000","Bellahalli, Bengaluru",Bangalore
+1265,2017 Ford Ecosport,TREND + 1.5L PETROL AT,Automatic,"24,395 km",1st Owner,Petrol,KA-03,"13,763/month","7,04,000","GT World Mall, Bengaluru",Bangalore
+1266,2014 Nissan Terrano,XL (D),Manual,"92,551 km",1st Owner,Diesel,KA-04,"10,498/month","5,37,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore
+1267,2016 Tata Tiago,XZ PETROL,Manual,"40,150 km",1st Owner,Petrol,KA-05,"9,716/month","4,97,000","Bellahalli, Bengaluru",Bangalore
+1268,2017 Hyundai Grand i10,SPORTZ (O) AT 1.2 KAPPA VTVT,Automatic,"13,444 km",2nd Owner,Petrol,KA-03,"11,711/month","5,99,000","Bellahalli, Bengaluru",Bangalore
+1269,2014 Hyundai Grand i10,ASTA AT 1.2 KAPPA VTVT,Automatic,"1,05,850 km",2nd Owner,CNG,KA-53,"7,937/month","4,06,000","GT World Mall, Bengaluru",Bangalore
+1270,2012 Maruti Swift,VXI,Manual,"78,622 km",2nd Owner,Petrol,KA-05,"8,798/month","4,50,000","Sonnappanahalli
+",Bangalore
+1271,2021 Maruti Alto,VXI PLUS,Manual,"18,835 km",1st Owner,Petrol,KA-50,"8,113/month","4,15,000","Sonnappanahalli
+",Bangalore
+1272,2019 Renault Kwid,RXT 1.0 AMT (O),Automatic,"7,155 km",1st Owner,Petrol,KA-03,"9,873/month","5,05,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1273,2013 Maruti Swift Dzire,VXI,Manual,"50,894 km",2nd Owner,Petrol,KA-01,"8,602/month","4,40,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1274,2016 Hyundai Elite i20,ASTA 1.4 CRDI (O),Manual,"67,764 km",1st Owner,Diesel,KA-50,"14,428/month","7,38,000","Horamavu Agara Road, Bengaluru",Bangalore
+1275,2019 Tata TIAGO NRG,PETROL,Manual,"10,677 km",1st Owner,Petrol,KA-04,"11,339/month","5,80,000","Hosur Road, Singasandra, Bengaluru",Bangalore
+1276,2022 KIA SELTOS,HTK PLUS 1.5 IMT,Manual,"24,057 km",1st Owner,Petrol,KA-50,"25,506/month","13,40,000","Bellahalli, Bengaluru",Bangalore
+1277,2015 Hyundai i20 Active,1.4 SX,Manual,"68,152 km",1st Owner,Diesel,KA-51,"13,548/month","6,93,000","Horamavu Agara Road, Bengaluru",Bangalore
+1278,2011 Toyota Etios Liva,VX,Manual,"74,175 km",2nd Owner,Petrol,KA-01,"6,647/month","3,40,000","Sonnappanahalli
+",Bangalore
+1279,2017 Hyundai Elite i20,SPORTZ 1.2,Manual,"56,672 km",3rd Owner,Petrol,KA-03,"11,652/month","5,96,000","Bellahalli, Bengaluru",Bangalore
+1280,2011 Hyundai i20,MAGNA (O) 1.2,Manual,"75,477 km",1st Owner,Petrol,KA-04,"6,784/month","3,47,000","GT World Mall, Bengaluru",Bangalore
+1281,2021 KIA SELTOS,HTX 1.5 CVT PETROL,Automatic,"10,058 km",1st Owner,Petrol,KA-50,"29,179/month","15,33,000","Garuda Mall, Magrath Road, Bengaluru",Bangalore

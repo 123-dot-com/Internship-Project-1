@@ -1,0 +1,1097 @@
+Unnamed: 0,Car Title,Car Model,Car Transmission,Car km,Car Owner,Car Fuel type,Car Registration,Car price per month,Car Price,Car Location,location
+0,2013 Hyundai i10,MAGNA 1.2,Manual,"1,07,580 km",1st Owner,Petrol,TN-12,"5,924/month","3,03,000","Navalur
+",Chennai
+1,2020 Tata Tiago,XT PETROL,Manual,"51,578 km",1st Owner,Petrol,TN-85,"10,694/month","5,47,000","Thiruverkadu, Chennai
+",Chennai
+2,2015 Volkswagen Vento,HIGHLINE 1.6 MPI,Manual,"76,528 km",3rd Owner,Petrol,TN-10,"10,283/month","5,26,000","Thiruverkadu, Chennai
+",Chennai
+3,2017 Renault Kwid,RXT 1.0 AMT (O),Automatic,"33,030 km",2nd Owner,Petrol,TN-11,"6,686/month","3,42,000","Thiruverkadu, Chennai
+",Chennai
+4,2015 Ford Ecosport,TITANIUM 1.5L PETROL AT,Automatic,"74,365 km",1st Owner,Petrol,TN-13,"10,889/month","5,57,000","Thiruverkadu, Chennai
+",Chennai
+5,2017 Ford Ecosport,TITANIUM 1.5L DIESEL,Manual,"74,057 km",1st Owner,Diesel,TN-11,"13,060/month","6,68,000","Thiruverkadu, Chennai
+",Chennai
+6,2014 Hyundai Xcent,SX 1.2,Manual,"61,993 km",2nd Owner,Petrol,TN-65,"7,507/month","3,84,000","Navalur
+",Chennai
+7,2020 Hyundai Creta,SX (O) 1.5 DIESEL,Manual,"58,418 km",1st Owner,Diesel,TN-37,"28,132/month","14,78,000","Thiruverkadu, Chennai
+",Chennai
+8,2016 Mahindra Kuv100,K8 6 STR,Manual,"35,735 km",1st Owner,Petrol,TN-07,"9,247/month","4,73,000","Thiruverkadu, Chennai
+",Chennai
+9,2019 Ford Ecosport,TREND 1.5L PETROL,Manual,"74,096 km",1st Owner,Petrol,TN-11,"13,587/month","6,95,000","Thiruverkadu, Chennai
+",Chennai
+10,2018 Maruti Swift,VXI AMT,Automatic,"58,704 km",1st Owner,Petrol,TN-10,"12,062/month","6,17,000","Navalur
+",Chennai
+11,2012 Hyundai Santro Xing,GL PLUS,Manual,"76,730 km",1st Owner,Petrol,TN-22,"5,767/month","2,95,000","Navalur
+",Chennai
+12,2019 Volkswagen Ameo,Trendline 1.0,Manual,"63,623 km",1st Owner,Petrol,TN-22,"9,560/month","4,89,000","Navalur
+",Chennai
+13,2017 Datsun Go,T,Manual,"38,734 km",3rd Owner,Petrol,TN-25,"6,002/month","3,07,000","Thiruverkadu, Chennai
+",Chennai
+14,2016 Hyundai Elite i20,ASTA 1.2 (O),Manual,"47,429 km",1st Owner,Petrol,TN-22,"12,375/month","6,33,000","Thiruverkadu, Chennai
+",Chennai
+15,2017 Honda Jazz,1.2L I-VTEC V AT,Automatic,"66,285 km",1st Owner,Petrol,TN-01,"12,903/month","6,60,000","Navalur
+",Chennai
+16,2015 Hyundai i10,MAGNA 1.1,Manual,"43,881 km",1st Owner,Petrol,TN-20,"6,628/month","3,39,000","Navalur
+",Chennai
+17,2017 Mahindra TUV300,T4 PLUS,Manual,"94,015 km",1st Owner,Diesel,TN-10,"11,593/month","5,93,000","Thiruverkadu, Chennai
+",Chennai
+18,2019 Maruti Alto,LXI,Manual,"11,019 km",2nd Owner,Petrol,TN-14,"7,546/month","3,86,000","Navalur
+",Chennai
+19,2018 Maruti Celerio,VXI,Manual,"1,19,004 km",1st Owner,Petrol,TN-11,"9,091/month","4,65,000","Thiruverkadu, Chennai
+",Chennai
+20,2013 Maruti Wagon R 1.0,VXI,Manual,"20,785 km",1st Owner,Petrol,TN-10,"7,273/month","3,72,000","Navalur
+",Chennai
+21,2020 KIA SELTOS,HTX 1.5 CVT PETROL,Automatic,"35,650 km",1st Owner,Petrol,TN-85,"26,058/month","13,69,000","Thiruverkadu, Chennai
+",Chennai
+22,2015 Nissan Terrano,XV D THP 110 PS,Manual,"96,892 km",3rd Owner,Diesel,TN-14,"10,264/month","5,25,000","Thiruverkadu, Chennai
+",Chennai
+23,2022 Tata PUNCH,ADVENTURE MT,Manual,"9,991 km",1st Owner,Petrol,TN-14,"13,451/month","6,88,000","Thiruverkadu, Chennai
+",Chennai
+24,2022 Renault TRIBER,RXT AMT,Automatic,"6,406 km",1st Owner,Petrol,TN-23,"14,721/month","7,53,000","Navalur
+",Chennai
+25,2017 Honda Jazz,1.2L I-VTEC V AT,Automatic,"27,872 km",1st Owner,Petrol,TN-06,"13,372/month","6,84,000","Navalur
+",Chennai
+26,2018 Maruti Swift,ZXI AMT,Automatic,"25,346 km",1st Owner,Petrol,TN-01,"12,942/month","6,62,000","Thiruverkadu, Chennai
+",Chennai
+27,2018 Maruti Swift,VDI AMT,Automatic,"67,213 km",1st Owner,Diesel,TN-06,"12,518/month","6,40,300","Thiruverkadu, Chennai
+",Chennai
+28,2020 Ford New Figo,TITANIUM 1.2 PETROL MT,Manual,"21,619 km",1st Owner,Petrol,TN-23,"11,671/month","5,97,000","Navalur
+",Chennai
+29,2018 Hyundai Verna,1.6 VTVT SX,Manual,"32,074 km",2nd Owner,Petrol,TN-09,"15,570/month","8,18,000","Navalur
+",Chennai
+30,2012 Volkswagen Jetta,HIGHLINE TDI,Manual,"76,006 km",3rd Owner,Diesel,TN-10,"11,202/month","5,73,000","Navalur
+",Chennai
+31,2011 Maruti Ritz,ZXI,Manual,"81,738 km",1st Owner,Petrol,TN-22,"5,572/month","2,85,000","Navalur
+",Chennai
+32,2018 Maruti Celerio X,ZXI (O) AMT,Automatic,"44,216 km",1st Owner,Petrol,TN-09,"9,071/month","4,64,000","Thiruverkadu, Chennai
+",Chennai
+33,2011 Toyota Etios,G,Manual,"97,942 km",2nd Owner,Petrol,TN-07,"6,823/month","3,49,000","Thiruverkadu, Chennai
+",Chennai
+34,2018 Hyundai Creta,E PLUS 1.6 PETROL,Manual,"83,294 km",1st Owner,Petrol,TN-07,"16,046/month","8,43,000","Thiruverkadu, Chennai
+",Chennai
+35,2020 Hyundai Creta,S 1.5 PETROL,Manual,"60,328 km",2nd Owner,Petrol,TN-74,"20,347/month","10,69,000","Thiruverkadu, Chennai
+",Chennai
+36,2019 Tata Tiago,XT 1.2 REVOTRON,Manual,"29,413 km",1st Owner,Petrol,TN-50,"9,228/month","4,72,000","Navalur
+",Chennai
+37,2022 Nissan MAGNITE,XE,Manual,"37,716 km",1st Owner,Petrol,TN-03,"12,043/month","6,16,000","Thiruverkadu, Chennai
+",Chennai
+38,2018 Maruti Dzire,VXI,Manual,"70,940 km",1st Owner,Petrol,TN-14,"11,007/month","5,63,000","Thiruverkadu, Chennai
+",Chennai
+39,2016 Renault Kwid,RXT 0.8,Manual,"72,679 km",2nd Owner,Petrol,TN-01,"6,452/month","3,30,000","Thiruverkadu, Chennai
+",Chennai
+40,2015 Maruti Alto K10,VXI,Manual,"44,099 km",1st Owner,Petrol,TN-20,"6,373/month","3,26,000","Thiruverkadu, Chennai
+",Chennai
+41,2017 Hyundai i20 Active,1.2 SX,Manual,"69,786 km",2nd Owner,Petrol,TN-10,"11,300/month","5,78,000","Navalur
+",Chennai
+42,2018 Nissan Micra Active,XV S,Manual,"81,680 km",1st Owner,Petrol,TN-14,"7,625/month","3,90,000","Thiruverkadu, Chennai
+",Chennai
+43,2015 Maruti Swift,VXI,Manual,"69,232 km",1st Owner,Petrol,TN-18,"9,032/month","4,62,000","Thiruverkadu, Chennai
+",Chennai
+44,2016 Hyundai i20 Active,1.2 SX,Manual,"26,491 km",1st Owner,Petrol,TN-22,"12,238/month","6,26,000","Thiruverkadu, Chennai
+",Chennai
+45,2017 Jeep Compass,LONGITUDE 2.0 DIESEL,Manual,"49,397 km",2nd Owner,Diesel,TN-10,"22,422/month","11,78,000","Thiruverkadu, Chennai
+",Chennai
+46,2016 Toyota Etios,CROSS 1.2 G,Manual,"56,380 km",1st Owner,Petrol,TN-10,"10,010/month","5,12,000","Thiruverkadu, Chennai
+",Chennai
+47,2019 Datsun Go Plus,A(O),Manual,"71,413 km",1st Owner,Petrol,TN-04,"8,113/month","4,15,000","Thiruverkadu, Chennai
+",Chennai
+48,2019 Volkswagen Polo,COMFORTLINE  CUP EDITION,Manual,"94,931 km",1st Owner,Petrol,TN-81,"13,020/month","6,66,000","Navalur
+",Chennai
+49,2016 Maruti Celerio,VXI (O),Manual,"69,437 km",3rd Owner,Petrol,TN-11,"7,253/month","3,71,000","Navalur
+",Chennai
+50,2020 Maruti Celerio,VXI AMT,Automatic,"29,864 km",3rd Owner,Petrol,TN-11,"9,482/month","4,85,000","Thiruverkadu, Chennai
+",Chennai
+51,2017 Hyundai Elite i20,ASTA 1.4 CRDI (O),Manual,"63,734 km",2nd Owner,Diesel,TN-09,"12,141/month","6,21,000","Navalur
+",Chennai
+52,2014 Hyundai Elite i20,SPORTZ 1.4 CRDI,Manual,"76,697 km",3rd Owner,Diesel,TN-02,"9,677/month","4,95,000","Thiruverkadu, Chennai
+",Chennai
+53,2018 Renault Duster,RXE PETROL,Manual,"61,426 km",2nd Owner,Petrol,TN-02,"13,392/month","6,85,000","Navalur
+",Chennai
+54,2020 MG HECTOR,SMART 2.0 DIESEL,Manual,"50,691 km",1st Owner,Diesel,TN-19,"29,579/month","15,54,000","Thiruverkadu, Chennai
+",Chennai
+55,2017 Tata Tiago,XZ PETROL,Manual,"65,287 km",1st Owner,Petrol,TN-10,"8,465/month","4,33,000","Navalur
+",Chennai
+56,2017 Volkswagen Polo,HIGHLINE1.2L PETROL,Manual,"97,912 km",2nd Owner,Petrol,TN-12,"10,459/month","5,35,000","Thiruverkadu, Chennai
+",Chennai
+57,2020 Honda City,1.5L I-VTEC VX CVT,Automatic,"31,871 km",1st Owner,Petrol,TN-11,"22,213/month","11,67,000","Navalur
+",Chennai
+58,2019 Honda Civic,1.8L I-VTEC ZX CVT,Automatic,"52,478 km",1st Owner,Petrol,TN-70,"31,026/month","16,30,000","Navalur
+",Chennai
+59,2022 Renault Kwid,RXL 1.0,Manual,"14,023 km",1st Owner,Petrol,TN-02,"8,993/month","4,60,000","Navalur
+",Chennai
+60,2020 Hyundai GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT,Manual,"1,10,054 km",1st Owner,Petrol,TN-96,"12,473/month","6,38,000","Navalur
+",Chennai
+61,2021 Hyundai NEW I20,SPORTZ 1.2 MT,Manual,"73,768 km",1st Owner,Petrol,TN-10,"14,565/month","7,45,000","Thiruverkadu, Chennai
+",Chennai
+62,2017 Honda Jazz,1.2L I-VTEC SV,Manual,"43,025 km",2nd Owner,Petrol,TN-18,"10,459/month","5,35,000","Navalur
+",Chennai
+63,2020 Mahindra XUV500,W11(O),Manual,"56,938 km",2nd Owner,Diesel,TN-14,"29,903/month","15,71,000","Navalur
+",Chennai
+64,2016 Maruti Alto 800,VXI O,Manual,"21,665 km",3rd Owner,Petrol,TN-07,"5,670/month","2,90,000","Thiruverkadu, Chennai
+",Chennai
+65,2016 Hyundai Creta,SX PLUS 1.6 PETROL,Manual,"63,976 km",2nd Owner,Petrol,TN-02,"15,386/month","7,87,000","Thiruverkadu, Chennai
+",Chennai
+66,2022 Maruti Swift,VXI,Manual,"6,055 km",2nd Owner,Petrol,TN-32,"13,822/month","7,07,000","Thiruverkadu, Chennai
+",Chennai
+67,2017 Hyundai New Elantra,2.0 SX MT PETROL,Manual,"1,15,484 km",2nd Owner,Petrol,TN-19,"15,912/month","8,36,000","Navalur
+",Chennai
+68,2016 Hyundai Eon,ERA PLUS (O),Manual,"53,098 km",2nd Owner,Petrol,TN-01,"5,728/month","2,93,000","Thiruverkadu, Chennai
+",Chennai
+69,2016 Volkswagen Vento,HIGHLINE 1.6 MPI,Manual,"77,313 km",1st Owner,Petrol,TN-09,"12,297/month","6,29,000","Thiruverkadu, Chennai
+",Chennai
+70,2016 Hyundai i20 Active,1.2 SX,Manual,"57,910 km",2nd Owner,Petrol,TN-11,"10,909/month","5,58,000","Thiruverkadu, Chennai
+",Chennai
+71,2017 Honda City,1.5L I-VTEC V MT,Manual,"58,995 km",2nd Owner,Petrol,TN-54,"14,878/month","7,61,000","Thiruverkadu, Chennai
+",Chennai
+72,2019 Hyundai Creta,E PLUS 1.4 DIESEL,Manual,"47,950 km",1st Owner,Diesel,TN-12,"18,863/month","9,91,000","Thiruverkadu, Chennai
+",Chennai
+73,2014 Hyundai Grand i10,ASTA 1.1 CRDI (O),Manual,"62,713 km",2nd Owner,Diesel,TN-07,"7,937/month","4,06,000","Thiruverkadu, Chennai
+",Chennai
+74,2017 Maruti Wagon R 1.0,VXI+,Manual,"31,637 km",2nd Owner,Petrol,TN-10,"8,192/month","4,19,000","Navalur
+",Chennai
+75,2021 Renault TRIBER,RXL MT,Manual,"23,539 km",1st Owner,Petrol,TN-12,"12,825/month","6,56,000","Thiruverkadu, Chennai
+",Chennai
+76,2018 Hyundai Creta,SX PLUS 1.6 PETROL,Manual,"79,089 km",2nd Owner,Petrol,TN-85,"16,407/month","8,62,000","Thiruverkadu, Chennai
+",Chennai
+77,2018 Hyundai Verna,1.6 CRDI SX,Manual,"1,02,497 km",1st Owner,Diesel,TN-18,"15,741/month","8,27,000","Thiruverkadu, Chennai
+",Chennai
+78,2016 Skoda Rapid,ELEGANCE 1.6 MPFI AT,Automatic,"99,715 km",2nd Owner,Petrol,TN-23,"13,470/month","6,89,000","Navalur
+",Chennai
+79,2019 Maruti Baleno,DELTA CVT PETROL 1.2,Automatic,"25,103 km",2nd Owner,Petrol,TN-12,"12,903/month","6,60,000","Navalur
+",Chennai
+80,2018 Tata Tiago,XZ PETROL,Manual,"38,562 km",2nd Owner,Petrol,TN-19,"9,013/month","4,61,000","Thiruverkadu, Chennai
+",Chennai
+81,2019 Maruti S PRESSO,VXI (O),Manual,"32,376 km",1st Owner,Petrol,TN-77,"8,172/month","4,18,000","Thiruverkadu, Chennai
+",Chennai
+82,2021 Hyundai GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT,Manual,"45,416 km",1st Owner,Petrol,TN-49,"12,844/month","6,57,000","Thiruverkadu, Chennai
+",Chennai
+83,2020 Ford FREESTYLE,TITANIUM 1.2 PETROL,Manual,"23,608 km",1st Owner,Petrol,TN-14,"12,923/month","6,61,000","Thiruverkadu, Chennai
+",Chennai
+84,2018 Skoda Rapid,STYLE 1.5 TDI AT,Automatic,"74,310 km",1st Owner,Diesel,TN-02,"18,387/month","9,66,000","Thiruverkadu, Chennai
+",Chennai
+85,2019 Mahindra XUV 3OO,W8 (O) 1.5 DIESEL AMT,Automatic,"46,216 km",2nd Owner,Diesel,TN-11,"19,320/month","10,15,000","Thiruverkadu, Chennai
+",Chennai
+86,2018 Jeep Compass,LIMITED 1.4 PETROL AT,Automatic,"88,923 km",1st Owner,Petrol,TN-01,"24,154/month","12,69,000","Thiruverkadu, Chennai
+",Chennai
+87,2021 Honda City,1.5L I-VTEC ZX,Manual,"10,990 km",1st Owner,Petrol,TN-22,"24,383/month","12,81,000","Thiruverkadu, Chennai
+",Chennai
+88,2023 KIA SELTOS,GTX PLUS DCT 1.4 PETROL,Automatic,"5,663 km",1st Owner,Petrol,TN-07,"35,822/month","18,82,000","Navalur
+",Chennai
+89,2017 Maruti Swift,ZXI,Manual,"84,289 km",2nd Owner,Petrol,TN-07,"9,990/month","5,11,000","Thiruverkadu, Chennai
+",Chennai
+90,2017 Hyundai i20 Active,1.2 S,Manual,"76,815 km",2nd Owner,Petrol,TN-87,"10,342/month","5,29,000","Navalur
+",Chennai
+91,2016 Hyundai Tucson New,2WD MT PETROL,Manual,"20,907 km",1st Owner,Petrol,TN-21,"22,536/month","11,84,000","Navalur
+",Chennai
+92,2019 KIA SELTOS,GTX + AT PETROL,Automatic,"83,004 km",1st Owner,Petrol,TN-23,"26,800/month","14,08,000","Thiruverkadu, Chennai
+",Chennai
+93,2017 Hyundai Verna,1.6 VTVT SX O,Manual,"82,196 km",1st Owner,Petrol,TN-07,"13,842/month","7,08,000","Thiruverkadu, Chennai
+",Chennai
+94,2021 Renault TRIBER,RXZ,Manual,"43,879 km",1st Owner,Petrol,TN-10,"13,744/month","7,03,000","Navalur
+",Chennai
+95,2019 Hyundai Elite i20,SPORTZ PLUS 1.2,Manual,"83,298 km",1st Owner,Petrol,TN-05,"11,535/month","5,90,000","Navalur
+",Chennai
+96,2016 Maruti Swift Dzire,ZDI AMT,Automatic,"54,767 km",1st Owner,Diesel,TN-13,"12,414/month","6,35,000","Thiruverkadu, Chennai
+",Chennai
+97,2018 Datsun Go Plus,T,Manual,"14,126 km",1st Owner,Petrol,TN-09,"8,622/month","4,41,000","Thiruverkadu, Chennai
+",Chennai
+98,2016 Renault Kwid,RXT 0.8,Manual,"27,861 km",1st Owner,Petrol,TN-07,"7,175/month","3,67,000","Thiruverkadu, Chennai
+",Chennai
+99,2016 Hyundai Elite i20,SPORTZ 1.2,Manual,"44,512 km",1st Owner,Petrol,TN-14,"11,085/month","5,67,000","Navalur
+",Chennai
+100,2019 Honda Amaze,1.2L I-VTEC S,Manual,"27,070 km",1st Owner,Petrol,TN-14,"13,118/month","6,71,000","Thiruverkadu, Chennai
+",Chennai
+101,2014 Hyundai Elite i20,MAGNA 1.4 CRDI,Manual,"82,784 km",1st Owner,Diesel,TN-07,"9,814/month","5,02,000","Thiruverkadu, Chennai
+",Chennai
+102,2018 Hyundai Elite i20,ASTA 1.2  CVT,Automatic,"39,404 km",2nd Owner,Petrol,TN-85,"13,411/month","6,86,000","Thiruverkadu, Chennai
+",Chennai
+103,2014 Ford Ecosport,TITANIUM 1.5L PETROL AT,Automatic,"82,620 km",1st Owner,Petrol,TN-11,"11,378/month","5,82,000","Thiruverkadu, Chennai
+",Chennai
+104,2018 Hyundai Xcent,S 1.2,Manual,"22,642 km",1st Owner,Petrol,TN-19,"11,085/month","5,67,000","Navalur
+",Chennai
+105,2016 Ford Ecosport,AMBIENTE 1.5L PETROL,Manual,"38,256 km",2nd Owner,Petrol,TN-10,"10,753/month","5,50,000","Thiruverkadu, Chennai
+",Chennai
+106,2018 Datsun Go Plus,T,Manual,"25,119 km",1st Owner,Petrol,TN-18,"7,859/month","4,02,000","Thiruverkadu, Chennai
+",Chennai
+107,2016 Honda City,1.5L I-VTEC V MT,Manual,"80,884 km",1st Owner,Petrol,TN-22,"11,808/month","6,04,000","Thiruverkadu, Chennai
+",Chennai
+108,2016 Volkswagen Vento,COMFORTLINE 1.6,Manual,"90,403 km",2nd Owner,Petrol,TN-01,"10,792/month","5,52,000","Navalur
+",Chennai
+109,2019 Toyota YARIS,J MT,Manual,"1,17,382 km",1st Owner,Petrol,TN-01,"13,490/month","6,90,000","Navalur
+",Chennai
+110,2016 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"57,445 km",1st Owner,Petrol,TN-04,"8,758/month","4,48,000","Navalur
+",Chennai
+111,2016 Maruti Swift Dzire,VXI,Manual,"88,584 km",1st Owner,Petrol,TN-12,"10,694/month","5,47,000","Thiruverkadu, Chennai
+",Chennai
+112,2022 Tata TIGOR,XZ PLUS PETROL,Manual,"60,478 km",1st Owner,CNG,TN-87,"14,408/month","7,37,000","Thiruverkadu, Chennai
+",Chennai
+113,2019 Mahindra TUV300,T10,Manual,"1,11,242 km",1st Owner,Diesel,TN-14,"15,322/month","8,05,000","Thiruverkadu, Chennai
+",Chennai
+114,2018 Maruti IGNIS,ZETA 1.2 AMT,Automatic,"74,410 km",2nd Owner,Petrol,TN-09,"9,814/month","5,02,000","Thiruverkadu, Chennai
+",Chennai
+115,2015 Maruti Swift,VXI,Manual,"86,955 km",2nd Owner,Petrol,TN-11,"8,778/month","4,49,000","Thiruverkadu, Chennai
+",Chennai
+116,2020 Hyundai AURA,S 1.2 AMT,Automatic,"98,807 km",1st Owner,Petrol,TN-12,"12,180/month","6,23,000","Thiruverkadu, Chennai
+",Chennai
+117,2018 Maruti Dzire,ZDI AMT,Automatic,"1,17,827 km",2nd Owner,Diesel,TN-03,"12,708/month","6,50,000","Navalur
+",Chennai
+118,2021 Maruti S Cross,SIGMA 1.5,Manual,"11,323 km",1st Owner,Petrol,TN-85,"16,484/month","8,66,000","Thiruverkadu, Chennai
+",Chennai
+119,2016 Hyundai Xcent,S 1.2,Manual,"59,532 km",2nd Owner,Petrol,TN-85,"8,954/month","4,58,000","Navalur
+",Chennai
+120,2012 Maruti Ritz,VDI,Manual,"97,419 km",2nd Owner,Diesel,TN-02,"6,139/month","3,14,000","Navalur
+",Chennai
+121,2020 Volkswagen Polo,COMFORTLINE PLUS 1.0L MPI,Manual,"41,873 km",2nd Owner,Petrol,TN-06,"14,682/month","7,51,000","Navalur
+",Chennai
+122,2021 Tata ALTROZ,XZ PLUS I-TURBO PETROL,Manual,"15,957 km",1st Owner,Petrol,TN-11,"15,542/month","7,95,000","Thiruverkadu, Chennai
+",Chennai
+123,2016 Volkswagen Polo,HIGHLINE1.2L,Manual,"61,583 km",2nd Owner,Petrol,TN-01,"11,339/month","5,80,000","Thiruverkadu, Chennai
+",Chennai
+124,2015 Honda City,1.5L I-DTEC SV,Manual,"1,19,887 km",1st Owner,Diesel,TN-01,"11,574/month","5,92,000","Thiruverkadu, Chennai
+",Chennai
+125,2012 Maruti Wagon R 1.0,VXI,Manual,"61,527 km",1st Owner,Petrol,TN-18,"5,904/month","3,02,000","Thiruverkadu, Chennai
+",Chennai
+126,2018 Hyundai Elite i20,ASTA 1.2  CVT,Automatic,"56,094 km",1st Owner,Petrol,TN-01,"13,157/month","6,73,000","Thiruverkadu, Chennai
+",Chennai
+127,2019 Tata NEXON,XZ PLUS PETROL,Manual,"27,425 km",2nd Owner,Petrol,TN-75,"14,233/month","7,28,000","Navalur
+",Chennai
+128,2018 Hyundai i20 Active,1.2 SX,Manual,"73,321 km",1st Owner,Petrol,TN-31,"14,096/month","7,21,000","Thiruverkadu, Chennai
+",Chennai
+129,2021 Renault Kwid,CLIMBER 1.0 (O),Manual,"31,754 km",1st Owner,Petrol,TN-02,"9,071/month","4,64,000","Navalur
+",Chennai
+130,2017 Maruti Baleno,ALPHA CVT PETROL 1.2,Automatic,"31,085 km",2nd Owner,Petrol,TN-09,"12,160/month","6,22,000","Thiruverkadu, Chennai
+",Chennai
+131,2021 Ford Ecosport,TREND 1.5L DIESEL,Manual,"33,556 km",1st Owner,Diesel,TN-10,"15,874/month","8,34,000","Thiruverkadu, Chennai
+",Chennai
+132,2015 Honda Jazz,1.2L I-VTEC VX,Manual,"48,579 km",1st Owner,Petrol,TN-12,"10,616/month","5,43,000","Navalur
+",Chennai
+133,2019 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"37,218 km",2nd Owner,Petrol,TN-16,"10,303/month","5,27,000","Thiruverkadu, Chennai
+",Chennai
+134,2019 Honda WR-V,1.2L I-VTEC VX MT,Manual,"46,566 km",2nd Owner,Petrol,TN-13,"13,802/month","7,06,000","Navalur
+",Chennai
+135,2021 Renault Kiger,RXZ 1.0 TURBO MT,Manual,"13,808 km",1st Owner,Petrol,TN-03,"15,722/month","8,26,000","Thiruverkadu, Chennai
+",Chennai
+136,2022 Honda Amaze,1.2L I-VTEC S,Manual,"17,752 km",1st Owner,Petrol,TN-06,"14,154/month","7,24,000","Thiruverkadu, Chennai
+",Chennai
+137,2015 Hyundai Grand i10,ASTA 1.2 KAPPA VTVT,Manual,"64,755 km",3rd Owner,Petrol,TN-01,"8,211/month","4,20,000","Thiruverkadu, Chennai
+",Chennai
+138,2015 Honda Brio,S MT,Manual,"77,644 km",2nd Owner,Petrol,TN-04,"7,116/month","3,64,000","Navalur
+",Chennai
+139,2018 Maruti Alto K10,VXI (O),Manual,"43,060 km",2nd Owner,Petrol,TN-14,"7,351/month","3,76,000","Navalur
+",Chennai
+140,2022 Volkswagen VIRTUS,TOPLINE TSI 1.0 AT,Automatic,"13,176 km",1st Owner,Petrol,TN-60,"31,159/month","16,37,000","Navalur
+",Chennai
+141,2014 Hyundai Elite i20,ASTA 1.4 CRDI,Manual,"1,11,275 km",1st Owner,Diesel,TN-01,"9,814/month","5,02,000","Navalur
+",Chennai
+142,2017 Hyundai Elite i20,ASTA 1.2 DUAL TONE,Manual,"41,248 km",1st Owner,Petrol,TN-70,"12,043/month","6,16,000","Thiruverkadu, Chennai
+",Chennai
+143,2019 Maruti Alto,LXI,Manual,"46,120 km",1st Owner,Petrol,TN-06,"6,706/month","3,43,000","Thiruverkadu, Chennai
+",Chennai
+144,2016 Tata Tiago,XZ PETROL,Manual,"86,304 km",1st Owner,Petrol,TN-01,"8,270/month","4,23,000","Thiruverkadu, Chennai
+",Chennai
+145,2021 Hyundai NEW I20 N LINE,N8 1.0 TURBO GDI DCT DUAL TONE,Automatic,"23,899 km",1st Owner,Petrol,TN-12,"21,680/month","11,39,000","Thiruverkadu, Chennai
+",Chennai
+146,2018 Datsun Redi Go,T (O),Manual,"28,733 km",1st Owner,Petrol,TN-09,"5,963/month","3,05,000","Thiruverkadu, Chennai
+",Chennai
+147,2017 Ford Ecosport,TITANIUM 1.5L PETROL,Manual,"61,120 km",3rd Owner,Petrol,TN-12,"11,652/month","5,96,000","Navalur
+",Chennai
+148,2016 Maruti Alto 800,VXI O,Manual,"50,252 km",1st Owner,Petrol,TN-10,"5,572/month","2,85,000","Navalur
+",Chennai
+149,2023 Tata PUNCH,ACCOMPLISHED MT,Manual,"6,872 km",1st Owner,Petrol,TN-85,"15,230/month","7,79,000","Thiruverkadu, Chennai
+",Chennai
+150,2016 Hyundai Xcent,S AT 1.2,Automatic,"64,011 km",1st Owner,Petrol,TN-07,"10,459/month","5,35,000","Thiruverkadu, Chennai
+",Chennai
+151,2019 Maruti IGNIS,DELTA 1.2,Manual,"30,287 km",1st Owner,Petrol,TN-09,"10,010/month","5,12,000","Thiruverkadu, Chennai
+",Chennai
+152,2016 Hyundai Elite i20,ASTA 1.2 (O),Manual,"76,457 km",2nd Owner,Petrol,TN-01,"11,887/month","6,08,000","Thiruverkadu, Chennai
+",Chennai
+153,2017 Honda Jazz,1.2L I-VTEC V AT,Automatic,"26,465 km",1st Owner,Petrol,TN-01,"13,216/month","6,76,000","Thiruverkadu, Chennai
+",Chennai
+154,2017 Maruti Swift,VXI O,Manual,"41,138 km",1st Owner,Petrol,TN-07,"10,205/month","5,22,000","Thiruverkadu, Chennai
+",Chennai
+155,2017 Honda WR-V,1.5L I-DTEC VX MT,Manual,"71,096 km",2nd Owner,Diesel,TN-59,"14,526/month","7,43,000","Thiruverkadu, Chennai
+",Chennai
+156,2016 Maruti Swift Dzire,VXI,Manual,"50,500 km",2nd Owner,Petrol,TN-02,"10,381/month","5,31,000","Thiruverkadu, Chennai
+",Chennai
+157,2015 Maruti Swift,VXI,Manual,"48,563 km",2nd Owner,Petrol,TN-12,"9,580/month","4,90,000","Navalur
+",Chennai
+158,2019 Volkswagen Ameo,COMFORTLINE 1.0L,Manual,"1,19,544 km",1st Owner,Petrol,TN-83,"9,873/month","5,05,000","Navalur
+",Chennai
+159,2017 Honda WR-V,1.2L I-VTEC VX MT,Manual,"30,033 km",1st Owner,Petrol,TN-06,"14,448/month","7,39,000","Navalur
+",Chennai
+160,2017 Ford Ecosport,1.0 ECOBOOST TITANIUM +,Manual,"33,921 km",1st Owner,Petrol,TN-12,"13,939/month","7,13,000","Thiruverkadu, Chennai
+",Chennai
+161,2018 Hyundai Creta,SX 1.6 PETROL,Manual,"1,06,506 km",1st Owner,Petrol,TN-01,"17,264/month","9,07,000","Navalur
+",Chennai
+162,2017 Maruti Swift,VXI O,Manual,"76,529 km",2nd Owner,Petrol,TN-14,"9,912/month","5,07,000","Thiruverkadu, Chennai
+",Chennai
+163,2017 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"63,260 km",2nd Owner,Petrol,TN-12,"9,189/month","4,70,000","Navalur
+",Chennai
+164,2016 Renault Kwid,RXT 0.8,Manual,"59,492 km",1st Owner,Petrol,TN-13,"6,647/month","3,40,000","Navalur
+",Chennai
+165,2021 Skoda Rapid,STYLE AT TSI,Automatic,"8,608 km",1st Owner,Petrol,TN-02,"23,107/month","12,14,000","Thiruverkadu, Chennai
+",Chennai
+166,2017 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"25,247 km",1st Owner,Petrol,TN-05,"9,853/month","5,04,000","Thiruverkadu, Chennai
+",Chennai
+167,2016 Nissan Micra Active,XV SAFETY PACK,Manual,"1,10,267 km",2nd Owner,Petrol,TN-85,"6,862/month","3,51,000","Navalur
+",Chennai
+168,2021 Nissan MAGNITE,XV MT,Manual,"81,508 km",1st Owner,Petrol,TN-19,"14,174/month","7,25,000","Thiruverkadu, Chennai
+",Chennai
+169,2012 Maruti Wagon R 1.0,VXI,Manual,"99,451 km",2nd Owner,Petrol,TN-01,"5,767/month","2,95,000","Navalur
+",Chennai
+170,2013 Honda Amaze,1.2L I-VTEC S,Manual,"43,211 km",1st Owner,Petrol,TN-09,"8,485/month","4,34,000","Thiruverkadu, Chennai
+",Chennai
+171,2016 Maruti Swift Dzire,VXI,Manual,"74,401 km",2nd Owner,Petrol,TN-10,"10,420/month","5,33,000","Navalur
+",Chennai
+172,2013 Honda Brio,S MT,Manual,"66,423 km",2nd Owner,Petrol,TN-07,"6,276/month","3,21,000","Thiruverkadu, Chennai
+",Chennai
+173,2020 Maruti S Cross,ALPHA 1.5,Manual,"28,121 km",1st Owner,Petrol,TN-11,"18,749/month","9,85,000","Thiruverkadu, Chennai
+",Chennai
+174,2015 Honda Amaze,1.2L I-VTEC S,Manual,"1,02,249 km",2nd Owner,Petrol,TN-11,"7,898/month","4,04,000","Navalur
+",Chennai
+175,2015 Maruti Ciaz,ZXI+,Manual,"89,570 km",1st Owner,Petrol,TN-14,"11,671/month","5,97,000","Thiruverkadu, Chennai
+",Chennai
+176,2018 Tata NEXON,XM PETROL,Manual,"85,941 km",2nd Owner,Petrol,TN-14,"12,981/month","6,64,000","Thiruverkadu, Chennai
+",Chennai
+177,2022 Tata NEXON,XZ PLUS (HS) PETROL,Manual,"5,256 km",1st Owner,Petrol,TN-05,"20,366/month","10,70,000","Thiruverkadu, Chennai
+",Chennai
+178,2021 Hyundai NEW I20 N LINE,N8 1.0 TURBO GDI DCT,Automatic,"28,476 km",1st Owner,Petrol,TN-12,"20,500/month","10,77,000","Thiruverkadu, Chennai
+",Chennai
+179,2015 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"55,161 km",3rd Owner,Petrol,TN-14,"8,192/month","4,19,000","Thiruverkadu, Chennai
+",Chennai
+180,2020 Maruti Baleno,ALPHA CVT PETROL 1.2,Automatic,"37,675 km",2nd Owner,Petrol,TN-13,"14,995/month","7,67,000","Thiruverkadu, Chennai
+",Chennai
+181,2013 Honda City,1.5L I-VTEC S AT,Automatic,"1,08,898 km",2nd Owner,Petrol,TN-01,"8,524/month","4,36,000","Navalur
+",Chennai
+182,2016 Hyundai Elite i20,SPORTZ 1.2,Manual,"38,919 km",3rd Owner,Petrol,TN-06,"11,046/month","5,65,000","Thiruverkadu, Chennai
+",Chennai
+183,2021 Hyundai VENUE,SX 1.0 TURBO,Manual,"50,486 km",1st Owner,Petrol,TN-07,"17,740/month","9,32,000","Thiruverkadu, Chennai
+",Chennai
+184,2022 Tata PUNCH,ADVENTURE MT,Manual,"36,035 km",1st Owner,Petrol,TN-73,"13,822/month","7,07,000","Thiruverkadu, Chennai
+",Chennai
+185,2018 Tata Tiago,XZ PLUS DIESEL,Manual,"85,984 km",1st Owner,Diesel,TN-31,"10,049/month","5,14,000","Navalur
+",Chennai
+186,2017 Maruti Ciaz,ALPHA 1.4 PETROL,Manual,"1,04,073 km",2nd Owner,Petrol,TN-06,"11,320/month","5,79,000","Thiruverkadu, Chennai
+",Chennai
+187,2021 Maruti Swift,VXI,Manual,"42,481 km",1st Owner,Petrol,TN-22,"13,118/month","6,71,000","Thiruverkadu, Chennai
+",Chennai
+188,2012 Hyundai i10,MAGNA 1.2,Manual,"93,968 km",1st Owner,Petrol,TN-10,"6,021/month","3,08,000","Navalur
+",Chennai
+189,2017 Maruti Dzire,VXI,Manual,"80,281 km",1st Owner,Petrol,TN-10,"12,043/month","6,16,000","Navalur
+",Chennai
+190,2017 Honda City,1.5L I-VTEC V MT,Manual,"40,021 km",1st Owner,Petrol,TN-07,"15,284/month","8,03,000","Thiruverkadu, Chennai
+",Chennai
+191,2012 Maruti Swift,VDI,Manual,"81,178 km",3rd Owner,Diesel,TN-11,"7,976/month","4,08,000","Thiruverkadu, Chennai
+",Chennai
+192,2021 Renault TRIBER,RXZ,Manual,"22,443 km",1st Owner,Petrol,TN-48,"14,663/month","7,50,000","Navalur
+",Chennai
+193,2019 Maruti Celerio X,VXI (O),Manual,"85,140 km",1st Owner,Petrol,TN-20,"8,133/month","4,16,000","Navalur
+",Chennai
+194,2018 Maruti Baleno,ALPHA CVT PETROL 1.2,Automatic,"53,631 km",1st Owner,Petrol,TN-09,"12,473/month","6,38,000","Navalur
+",Chennai
+195,2018 Hyundai Eon,MAGNA +,Manual,"57,231 km",2nd Owner,Petrol,TN-19,"6,647/month","3,40,000","Thiruverkadu, Chennai
+",Chennai
+196,2021 Maruti Celerio,VXI,Manual,"21,107 km",1st Owner,Petrol,TN-09,"9,931/month","5,08,000","Thiruverkadu, Chennai
+",Chennai
+197,2019 Maruti New Wagon-R,VXI 1.0 AMT,Automatic,"45,161 km",2nd Owner,Petrol,TN-05,"10,557/month","5,40,000","Thiruverkadu, Chennai
+",Chennai
+198,2016 Tata Tiago,XZ PETROL,Manual,"62,518 km",1st Owner,Petrol,TN-13,"8,446/month","4,32,000","Thiruverkadu, Chennai
+",Chennai
+199,2022 Hyundai ALCAZAR,PLATINUM 1.5 MT 7STR,Manual,"3,938 km",1st Owner,Diesel,TN-05,"38,696/month","20,33,000","Navalur
+",Chennai
+200,2014 Honda Amaze,1.2L I-VTEC VX AT,Automatic,"75,011 km",2nd Owner,Petrol,TN-09,"8,348/month","4,27,000","Thiruverkadu, Chennai
+",Chennai
+201,2017 Maruti Baleno,ZETA PETROL 1.2,Manual,"1,21,933 km",1st Owner,Petrol,TN-24,"10,674/month","5,46,000","Thiruverkadu, Chennai
+",Chennai
+202,2013 Maruti Wagon R 1.0,VXI,Manual,"94,581 km",2nd Owner,Petrol,TN-04,"6,158/month","3,15,000","Navalur
+",Chennai
+203,2022 Volkswagen TAIGUN,TOPLINE 1.0 TSI MT,Manual,"4,977 km",1st Owner,Petrol,TN-07,"29,731/month","15,62,000","Navalur
+",Chennai
+204,2021 Maruti Dzire,ZXI,Manual,"63,274 km",1st Owner,Petrol,TN-19,"14,428/month","7,38,000","Navalur
+",Chennai
+205,2016 Hyundai i20 Active,1.2 SX,Manual,"75,172 km",1st Owner,Petrol,TN-14,"11,808/month","6,04,000","Thiruverkadu, Chennai
+",Chennai
+206,2021 Datsun Redi Go,A,Manual,"14,811 km",1st Owner,Petrol,TN-14,"7,976/month","4,08,000","Navalur
+",Chennai
+207,2016 Maruti Baleno,ALPHA DIESEL 1.3,Manual,"77,603 km",1st Owner,Diesel,TN-07,"12,590/month","6,44,000","Thiruverkadu, Chennai
+",Chennai
+208,2020 Renault Kwid,RXT 0.8,Manual,"47,464 km",1st Owner,Petrol,TN-73,"8,289/month","4,24,000","Thiruverkadu, Chennai
+",Chennai
+209,2020 Ford Ecosport,TITANIUM + 1.5L PETROL AT,Automatic,"30,015 km",3rd Owner,Petrol,TN-11,"16,712/month","8,78,000","Thiruverkadu, Chennai
+",Chennai
+210,2018 Ford FREESTYLE,TITANIUM PLUS 1.2 PETROL,Manual,"33,256 km",1st Owner,Petrol,TN-57,"12,493/month","6,39,000","Thiruverkadu, Chennai
+",Chennai
+211,2017 Maruti Celerio,VXI AMT (O),Automatic,"97,445 km",2nd Owner,Petrol,TN-02,"8,016/month","4,10,000","Navalur
+",Chennai
+212,2019 Honda Amaze,1.2L I-VTEC S,Manual,"37,778 km",2nd Owner,Petrol,TN-73,"12,375/month","6,33,000","Thiruverkadu, Chennai
+",Chennai
+213,2010 Maruti Wagon R 1.0,VXI,Manual,"80,320 km",1st Owner,Petrol,TN-07,"5,670/month","2,90,000","Thiruverkadu, Chennai
+",Chennai
+214,2021 Nissan MAGNITE,XL TURBO CVT,Automatic,"17,708 km",1st Owner,Petrol,TN-07,"16,103/month","8,46,000","Navalur
+",Chennai
+215,2019 Tata Tiago,XZ PLUS PETROL,Manual,"51,848 km",1st Owner,Petrol,TN-12,"9,912/month","5,07,000","Navalur
+",Chennai
+216,2018 Maruti Baleno,RS 1.0 PETROL,Manual,"69,269 km",1st Owner,Petrol,TN-21,"13,138/month","6,72,000","Navalur
+",Chennai
+217,2018 Datsun Go Plus,T,Manual,"17,003 km",1st Owner,Petrol,TN-14,"8,446/month","4,32,000","Thiruverkadu, Chennai
+",Chennai
+218,2018 Hyundai Elite i20,ASTA 1.2 DUAL TONE,Manual,"76,839 km",1st Owner,Petrol,TN-22,"12,629/month","6,46,000","Navalur
+",Chennai
+219,2021 Renault Kwid,RXT 1.0 (O),Manual,"37,004 km",1st Owner,Petrol,TN-05,"9,873/month","5,05,000","Thiruverkadu, Chennai
+",Chennai
+220,2014 Hyundai Elite i20,ASTA 1.2,Manual,"83,423 km",2nd Owner,Petrol,TN-14,"9,814/month","5,02,000","Thiruverkadu, Chennai
+",Chennai
+221,2018 Nissan Micra Active,XV SAFETY PACK,Manual,"47,009 km",1st Owner,Petrol,TN-09,"8,719/month","4,46,000","Navalur
+",Chennai
+222,2019 Renault Kwid,RXT 1.0 (O),Manual,"33,573 km",1st Owner,Petrol,TN-13,"8,407/month","4,30,000","Navalur
+",Chennai
+223,2019 Maruti Baleno,ZETA PETROL 1.2,Manual,"59,261 km",1st Owner,Petrol,TN-83,"13,216/month","6,76,000","Thiruverkadu, Chennai
+",Chennai
+224,2019 Maruti Celerio,VXI AMT (O),Automatic,"31,795 km",3rd Owner,Petrol,TN-05,"9,560/month","4,89,000","Thiruverkadu, Chennai
+",Chennai
+225,2016 Maruti Celerio,ZXI (O),Manual,"99,615 km",1st Owner,Petrol,TN-85,"7,898/month","4,04,000","Thiruverkadu, Chennai
+",Chennai
+226,2020 Renault TRIBER,RXZ,Manual,"76,898 km",1st Owner,Petrol,TN-12,"13,372/month","6,84,000","Thiruverkadu, Chennai
+",Chennai
+227,2017 Maruti Swift Dzire,VXI,Manual,"1,19,975 km",1st Owner,Petrol,TN-10,"10,440/month","5,34,000","Thiruverkadu, Chennai
+",Chennai
+228,2021 Maruti Ciaz,ZETA 1.5 SHVS MT PETROL,Manual,"31,445 km",1st Owner,Petrol,TN-02,"17,112/month","8,99,000","Thiruverkadu, Chennai
+",Chennai
+229,2018 Volkswagen Polo,HIGHLINE PLUS 1.5 16 ALLOY,Manual,"1,06,275 km",2nd Owner,Diesel,TN-07,"14,682/month","7,51,000","Navalur
+",Chennai
+230,2019 Hyundai Grand i10,ASTA 1.2 KAPPA VTVT,Manual,"12,205 km",1st Owner,Petrol,TN-01,"11,926/month","6,10,000","Thiruverkadu, Chennai
+",Chennai
+231,2016 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"97,522 km",2nd Owner,Petrol,TN-19,"8,563/month","4,38,000","Thiruverkadu, Chennai
+",Chennai
+232,2020 Maruti Swift,VXI,Manual,"76,419 km",1st Owner,Petrol,TN-11,"11,789/month","6,03,000","Thiruverkadu, Chennai
+",Chennai
+233,2021 Tata NEXON,XZ PLUS (O) PETROL,Manual,"16,318 km",1st Owner,Petrol,TN-11,"18,844/month","9,90,000","Navalur
+",Chennai
+234,2016 Maruti Ciaz,ZDI+ SHVS,Manual,"84,068 km",2nd Owner,Diesel,TN-12,"13,490/month","6,90,000","Thiruverkadu, Chennai
+",Chennai
+235,2021 Datsun Redi Go,T (O),Manual,"49,254 km",1st Owner,Petrol,TN-12,"7,879/month","4,03,000","Thiruverkadu, Chennai
+",Chennai
+236,2017 Maruti Wagon R 1.0,VXI AMT,Automatic,"20,973 km",3rd Owner,Petrol,TN-21,"8,856/month","4,53,000","Thiruverkadu, Chennai
+",Chennai
+237,2019 Hyundai Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,"40,091 km",1st Owner,Petrol,TN-14,"10,577/month","5,41,000","Thiruverkadu, Chennai
+",Chennai
+238,2016 Honda City,1.5L I-DTEC V,Manual,"64,236 km",1st Owner,Diesel,TN-14,"14,076/month","7,20,000","Navalur
+",Chennai
+239,2015 Maruti Wagon R Stingray,VXI,Manual,"79,063 km",2nd Owner,Petrol,TN-09,"7,331/month","3,75,000","Thiruverkadu, Chennai
+",Chennai
+240,2016 Hyundai Grand i10,ASTA (O) 1.2 KAPPA VTVT,Manual,"63,720 km",2nd Owner,Petrol,TN-05,"10,518/month","5,38,000","Thiruverkadu, Chennai
+",Chennai
+241,2017 Honda Jazz,1.2L I-VTEC V AT,Automatic,"28,897 km",2nd Owner,Petrol,TN-04,"12,805/month","6,55,000","Navalur
+",Chennai
+242,2020 Tata Tiago,XZ PLUS PETROL,Manual,"31,679 km",1st Owner,Petrol,TN-22,"11,515/month","5,89,000","Thiruverkadu, Chennai
+",Chennai
+243,2015 Maruti Swift,ZXI,Manual,"37,477 km",2nd Owner,Petrol,TN-07,"9,892/month","5,06,000","Thiruverkadu, Chennai
+",Chennai
+244,2016 Tata Tiago,XZ PETROL,Manual,"70,076 km",1st Owner,Petrol,TN-14,"8,328/month","4,26,000","Navalur
+",Chennai
+245,2022 Maruti Baleno,ZETA PETROL 1.2,Manual,"6,951 km",1st Owner,Petrol,TN-06,"16,464/month","8,65,000","Thiruverkadu, Chennai
+",Chennai
+246,2014 Hyundai Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,"1,04,279 km",1st Owner,Petrol,TN-18,"7,488/month","3,83,000","Thiruverkadu, Chennai
+",Chennai
+247,2022 Tata TIAGO NRG,XZ AMT,Automatic,"4,939 km",1st Owner,Petrol,TN-14,"14,604/month","7,47,000","Thiruverkadu, Chennai
+",Chennai
+248,2016 Maruti Swift Dzire,VXI (O),Manual,"56,176 km",1st Owner,Petrol,TN-09,"10,225/month","5,23,000","Navalur
+",Chennai
+249,2018 Tata TIGOR,XZA PETROL,Automatic,"53,612 km",2nd Owner,Petrol,TN-02,"10,909/month","5,58,000","Navalur
+",Chennai
+250,2017 Maruti Dzire,ZXI PLUS AMT,Automatic,"51,252 km",1st Owner,Petrol,TN-12,"13,255/month","6,78,000","Navalur
+",Chennai
+251,2014 Hyundai Elite i20,ASTA 1.2,Manual,"55,940 km",2nd Owner,Petrol,TN-10,"10,127/month","5,18,000","Thiruverkadu, Chennai
+",Chennai
+252,2016 Maruti Vitara Brezza,ZDI,Manual,"66,211 km",1st Owner,Diesel,TN-01,"15,456/month","8,12,000","Navalur
+",Chennai
+253,2020 Honda Amaze,1.2L I-VTEC VX,Manual,"34,329 km",1st Owner,Petrol,TN-12,"15,288/month","7,82,000","Navalur
+",Chennai
+254,2021 Maruti Swift,VXI,Manual,"48,979 km",1st Owner,Petrol,TN-11,"14,017/month","7,17,000","Thiruverkadu, Chennai
+",Chennai
+255,2019 Datsun Go,A Optional,Manual,"85,674 km",1st Owner,Petrol,TN-77,"7,976/month","4,08,000","Navalur
+",Chennai
+256,2017 Honda WR-V,1.2L I-VTEC VX MT,Manual,"42,375 km",2nd Owner,Petrol,TN-09,"15,582/month","7,97,000","Navalur
+",Chennai
+257,2017 Honda Jazz,1.2L I-VTEC VX,Manual,"78,880 km",2nd Owner,Petrol,TN-01,"11,359/month","5,81,000","Thiruverkadu, Chennai
+",Chennai
+258,2014 Honda Amaze,1.2L I-VTEC VX,Manual,"62,721 km",2nd Owner,Petrol,TN-02,"8,856/month","4,53,000","Thiruverkadu, Chennai
+",Chennai
+259,2017 Hyundai Verna,1.6 CRDI SX (O) AT,Automatic,"76,165 km",1st Owner,Diesel,TN-04,"17,740/month","9,32,000","Navalur
+",Chennai
+260,2022 Skoda SLAVIA,STYLE 1.5L TSI DSG,Automatic,"27,524 km",1st Owner,Petrol,TN-19,"34,909/month","18,34,000","Thiruverkadu, Chennai
+",Chennai
+261,2021 Hyundai NEW SANTRO,SPORTZ MT,Manual,"14,109 km",2nd Owner,Petrol,TN-85,"10,362/month","5,30,000","Thiruverkadu, Chennai
+",Chennai
+262,2021 Maruti Ciaz,ZETA 1.5 SHVS MT PETROL,Manual,"18,326 km",1st Owner,Petrol,TN-01,"17,816/month","9,36,000","Thiruverkadu, Chennai
+",Chennai
+263,2019 Tata TIGOR,XZA PLUS PETROL,Automatic,"17,960 km",2nd Owner,Petrol,TN-31,"12,160/month","6,22,000","Thiruverkadu, Chennai
+",Chennai
+264,2017 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"54,505 km",2nd Owner,Petrol,TN-06,"10,596/month","5,42,000","Navalur
+",Chennai
+265,2018 Datsun Go Plus,T,Manual,"44,386 km",1st Owner,Petrol,TN-45,"8,270/month","4,23,000","Thiruverkadu, Chennai
+",Chennai
+266,2020 Renault Kwid,RXT 1.0 (O),Manual,"44,402 km",1st Owner,Petrol,TN-70,"8,739/month","4,47,000","Navalur
+",Chennai
+267,2017 Hyundai New Elantra,2.0 SX(O) AT PETROL,Automatic,"1,08,463 km",1st Owner,Petrol,TN-88,"19,110/month","10,04,000","Thiruverkadu, Chennai
+",Chennai
+268,2016 Maruti Celerio,VXI AMT (O),Automatic,"31,653 km",2nd Owner,Petrol,TN-11,"8,700/month","4,45,000","Thiruverkadu, Chennai
+",Chennai
+269,2016 Maruti Baleno,DELTA CVT PETROL 1.2,Automatic,"72,404 km",2nd Owner,Petrol,TN-18,"10,362/month","5,30,000","Thiruverkadu, Chennai
+",Chennai
+270,2018 Ford Ecosport,TITANIUM 1.5L PETROL,Manual,"70,038 km",1st Owner,Petrol,TN-05,"15,551/month","8,17,000","Thiruverkadu, Chennai
+",Chennai
+271,2020 Tata NEXON,XZA PLUS (O) DIESEL DUAL TONE,Automatic,"36,434 km",1st Owner,Diesel,TN-14,"20,366/month","10,70,000","Navalur
+",Chennai
+272,2018 Hyundai Xcent,SX 1.2 CRDI,Manual,"63,155 km",2nd Owner,Diesel,TN-07,"12,551/month","6,42,000","Thiruverkadu, Chennai
+",Chennai
+273,2019 Renault Kwid,RXT 1.0 (O),Manual,"55,415 km",1st Owner,Petrol,TN-11,"8,407/month","4,30,000","Navalur
+",Chennai
+274,2015 Maruti Swift,VXI,Manual,"53,927 km",1st Owner,Petrol,TN-13,"9,795/month","5,01,000","Thiruverkadu, Chennai
+",Chennai
+275,2016 Honda Amaze,1.2L I-VTEC S AT,Automatic,"49,682 km",1st Owner,Petrol,TN-14,"10,577/month","5,41,000","Thiruverkadu, Chennai
+",Chennai
+276,2017 Hyundai Creta,SX PLUS 1.6 PETROL DUAL TONE,Manual,"55,927 km",1st Owner,Petrol,TN-22,"17,359/month","9,12,000","Thiruverkadu, Chennai
+",Chennai
+277,2018 Maruti Dzire,VDI AMT,Automatic,"93,745 km",1st Owner,Diesel,TN-10,"13,509/month","6,91,000","Thiruverkadu, Chennai
+",Chennai
+278,2015 Ford Ecosport,TITANIUM 1.5L DIESEL (OPT),Manual,"1,06,498 km",2nd Owner,Diesel,TN-14,"10,440/month","5,34,000","Navalur
+",Chennai
+279,2015 Hyundai Grand i10,ASTA 1.2 KAPPA VTVT,Manual,"1,16,448 km",1st Owner,Petrol,TN-09,"7,879/month","4,03,000","Thiruverkadu, Chennai
+",Chennai
+280,2022 Maruti IGNIS,ALPHA 1.2 AMT,Automatic,"33,250 km",1st Owner,Petrol,TN-14,"15,112/month","7,73,000","Thiruverkadu, Chennai
+",Chennai
+281,2014 Honda Amaze,1.2L I-VTEC VX,Manual,"76,597 km",2nd Owner,Petrol,TN-22,"8,192/month","4,19,000","Navalur
+",Chennai
+282,2016 Hyundai Elite i20,SPORTZ 1.2,Manual,"61,009 km",1st Owner,Petrol,TN-21,"10,987/month","5,62,000","Navalur
+",Chennai
+283,2021 Tata PUNCH,CREATIVE  AMT,Automatic,"9,664 km",1st Owner,Petrol,TN-01,"15,775/month","8,28,800","Thiruverkadu, Chennai
+",Chennai
+284,2016 Maruti Swift,VDI ABS,Manual,"86,215 km",1st Owner,Diesel,TN-11,"11,535/month","5,90,000","Thiruverkadu, Chennai
+",Chennai
+285,2017 Maruti Celerio,ZXI AMT (O),Automatic,"30,623 km",1st Owner,Petrol,TN-02,"9,345/month","4,78,000","Thiruverkadu, Chennai
+",Chennai
+286,2020 Honda City,1.5L I-VTEC VX,Manual,"37,481 km",2nd Owner,Petrol,TN-12,"20,557/month","10,80,000","Thiruverkadu, Chennai
+",Chennai
+287,2022 Tata Tiago,XT PETROL,Manual,"8,919 km",1st Owner,Petrol,TN-13,"12,649/month","6,47,000","Thiruverkadu, Chennai
+",Chennai
+288,2022 Tata Tiago,XT CNG,Manual,"18,551 km",1st Owner,CNG,TN-11,"14,311/month","7,32,000","Navalur
+",Chennai
+289,2021 Renault Duster,RXZ CVT 1.3 TURBO,Automatic,"12,441 km",1st Owner,Petrol,TN-23,"24,820/month","13,04,000","Thiruverkadu, Chennai
+",Chennai
+290,2018 Tata TIGOR,XZA PETROL,Automatic,"39,542 km",2nd Owner,Petrol,TN-14,"10,987/month","5,62,000","Thiruverkadu, Chennai
+",Chennai
+291,2020 Volkswagen Vento,HIGHLINE PLUS 1.0L TSI AT,Automatic,"38,464 km",2nd Owner,Petrol,TN-72,"19,738/month","10,37,000","Navalur
+",Chennai
+292,2016 Hyundai Elite i20,ASTA 1.2 (O),Manual,"47,045 km",1st Owner,Petrol,TN-20,"11,906/month","6,09,000","Navalur
+",Chennai
+293,2016 Hyundai Elite i20,ASTA 1.2 (O),Manual,"34,460 km",1st Owner,Petrol,TN-01,"12,258/month","6,27,000","Thiruverkadu, Chennai
+",Chennai
+294,2022 Tata NEXON,XZ PLUS (PREMIUM) DIESEL DUAL TONE,Manual,"16,159 km",1st Owner,Diesel,TN-09,"23,793/month","12,50,000","Navalur
+",Chennai
+295,2021 Datsun Redi Go,T (O),Manual,"14,135 km",1st Owner,Petrol,TN-05,"8,211/month","4,20,000","Navalur
+",Chennai
+296,2016 Honda Brio,VX MT,Manual,"1,01,067 km",2nd Owner,Petrol,TN-68,"7,644/month","3,91,000","Navalur
+",Chennai
+297,2015 Hyundai Eon,ERA +,Manual,"98,204 km",1st Owner,Petrol,TN-03,"5,865/month","3,00,000","Thiruverkadu, Chennai
+",Chennai
+298,2017 Honda City,1.5L I-VTEC V MT,Manual,"91,841 km",1st Owner,Petrol,TN-87,"13,920/month","7,12,000","Navalur
+",Chennai
+299,2018 Hyundai Elite i20,SPORTZ 1.2,Manual,"97,326 km",1st Owner,Petrol,TN-11,"11,359/month","5,81,000","Thiruverkadu, Chennai
+",Chennai
+300,2019 Datsun Go,T CVT,Automatic,"29,708 km",1st Owner,Petrol,TN-31,"9,208/month","4,71,000","Navalur
+",Chennai
+301,2021 Renault Kiger,RXZ 1.0 TURBO MT,Manual,"36,390 km",1st Owner,Petrol,TN-23,"16,198/month","8,51,000","Navalur
+",Chennai
+302,2020 Tata Tiago,XZA PLUS DUAL TONE PETROL,Automatic,"12,011 km",1st Owner,Petrol,TN-74,"13,216/month","6,76,000","Navalur
+",Chennai
+303,2012 Maruti Swift,VXI,Manual,"46,051 km",2nd Owner,Petrol,TN-09,"8,348/month","4,27,000","Thiruverkadu, Chennai
+",Chennai
+304,2019 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"16,561 km",2nd Owner,Petrol,TN-70,"11,339/month","5,80,000","Thiruverkadu, Chennai
+",Chennai
+305,2020 Tata TIGOR,XZ PLUS PETROL,Manual,"34,935 km",1st Owner,Petrol,TN-73,"12,903/month","6,60,000","Thiruverkadu, Chennai
+",Chennai
+306,2020 Tata TIGOR,XZ PETROL,Manual,"19,935 km",1st Owner,Petrol,TN-37,"12,981/month","6,64,000","Thiruverkadu, Chennai
+",Chennai
+307,2016 Hyundai Creta,SX PLUS AT 1.6 PETROL,Automatic,"85,781 km",1st Owner,Petrol,TN-05,"17,778/month","9,34,000","Navalur
+",Chennai
+308,2016 Maruti Wagon R 1.0,VXI OPT,Manual,"16,308 km",1st Owner,Petrol,TN-13,"8,719/month","4,46,000","Thiruverkadu, Chennai
+",Chennai
+309,2018 Honda City,1.5L I-VTEC VX CVT,Automatic,"35,821 km",2nd Owner,Petrol,TN-05,"17,987/month","9,45,000","Thiruverkadu, Chennai
+",Chennai
+310,2017 Honda WR-V,1.2L I-VTEC VX MT,Manual,"55,435 km",1st Owner,Petrol,TN-22,"15,327/month","7,84,000","Thiruverkadu, Chennai
+",Chennai
+311,2019 Hyundai NEW SANTRO,MAGNA,Manual,"46,851 km",1st Owner,Petrol,TN-07,"8,993/month","4,60,000","Navalur
+",Chennai
+312,2020 Maruti Ciaz,DELTA 1.5 SHVS MT PETROL,Manual,"34,904 km",1st Owner,Petrol,TN-64,"15,874/month","8,34,000","Navalur
+",Chennai
+313,2021 Ford New Figo,TITANIUM PLUS 1.2 PETROL AT,Automatic,"13,923 km",1st Owner,Petrol,TN-07,"15,073/month","7,71,000","Thiruverkadu, Chennai
+",Chennai
+314,2018 Ford Ecosport,TITANIUM 1.5L DIESEL,Manual,"42,917 km",1st Owner,Diesel,TN-04,"15,760/month","8,28,000","Navalur
+",Chennai
+315,2021 Renault Kwid,CLIMBER 1.0 AMT (O),Automatic,"16,172 km",1st Owner,Petrol,TN-10,"10,401/month","5,32,000","Thiruverkadu, Chennai
+",Chennai
+316,2017 Hyundai Eon,MAGNA +,Manual,"41,291 km",1st Owner,Petrol,TN-05,"6,843/month","3,50,000","Thiruverkadu, Chennai
+",Chennai
+317,2013 Maruti Swift,VXI,Manual,"85,750 km",3rd Owner,Petrol,TN-07,"8,172/month","4,18,000","Thiruverkadu, Chennai
+",Chennai
+318,2016 Volkswagen Ameo,HIGHLINE1.5L,Manual,"1,11,610 km",1st Owner,Diesel,TN-04,"10,557/month","5,40,000","Navalur
+",Chennai
+319,2014 Hyundai Grand i10,ASTA 1.1 CRDI (O),Manual,"94,278 km",1st Owner,Diesel,TN-11,"8,113/month","4,15,000","Thiruverkadu, Chennai
+",Chennai
+320,2017 Honda WR-V,1.2L I-VTEC VX MT,Manual,"43,841 km",2nd Owner,Petrol,TN-14,"14,076/month","7,20,000","Navalur
+",Chennai
+321,2021 KIA SELTOS,GTX PLUS AT 1.5 DIESEL,Automatic,"76,664 km",1st Owner,Diesel,TN-03,"31,197/month","16,39,000","Thiruverkadu, Chennai
+",Chennai
+322,2013 Honda Amaze,1.2L I-VTEC S,Manual,"71,980 km",2nd Owner,Petrol,TN-72,"7,996/month","4,09,000","Navalur
+",Chennai
+323,2016 Maruti Swift Dzire,ZDI AMT,Automatic,"73,341 km",2nd Owner,Diesel,TN-14,"12,395/month","6,34,000","Navalur
+",Chennai
+324,2020 Ford Ecosport,TREND 1.5L PETROL,Manual,"27,062 km",1st Owner,Petrol,TN-13,"15,327/month","7,84,000","Thiruverkadu, Chennai
+",Chennai
+325,2018 Honda Amaze,1.2L I-VTEC V CVT,Automatic,"36,998 km",2nd Owner,Petrol,TN-07,"14,057/month","7,19,000","Thiruverkadu, Chennai
+",Chennai
+326,2021 Volkswagen TAIGUN,GT PLUS 1.5 TSI DSG,Automatic,"18,655 km",1st Owner,Petrol,TN-04,"31,844/month","16,73,000","Thiruverkadu, Chennai
+",Chennai
+327,2017 Volkswagen Ameo,HIGHLINE1.2L,Manual,"84,005 km",1st Owner,Petrol,TN-22,"11,378/month","5,82,000","Thiruverkadu, Chennai
+",Chennai
+328,2016 Honda Jazz,1.2L I-VTEC V AT,Automatic,"96,184 km",2nd Owner,Petrol,TN-09,"11,163/month","5,71,000","Thiruverkadu, Chennai
+",Chennai
+329,2019 Datsun Go Plus,T,Manual,"62,493 km",2nd Owner,Petrol,TN-85,"9,873/month","5,05,000","Thiruverkadu, Chennai
+",Chennai
+330,2019 Honda Jazz,1.2L I-VTEC VX CVT,Automatic,"36,032 km",2nd Owner,Petrol,TN-10,"14,799/month","7,57,000","Thiruverkadu, Chennai
+",Chennai
+331,2021 Ford Ecosport,TITANIUM 1.5L PETROL,Manual,"15,604 km",1st Owner,Petrol,TN-13,"16,883/month","8,87,000","Thiruverkadu, Chennai
+",Chennai
+332,2012 Maruti Swift,VXI,Manual,"92,850 km",1st Owner,Petrol,TN-22,"7,918/month","4,05,000","Navalur
+",Chennai
+333,2017 Maruti Wagon R 1.0,VXI AMT,Automatic,"37,554 km",1st Owner,Petrol,TN-11,"8,895/month","4,55,000","Navalur
+",Chennai
+334,2020 Renault Kwid,RXT 1.0 AMT (O),Automatic,"15,915 km",1st Owner,Petrol,TN-06,"10,323/month","5,28,000","Thiruverkadu, Chennai
+",Chennai
+335,2017 Maruti Baleno,DELTA CVT PETROL 1.2,Automatic,"73,369 km",2nd Owner,Petrol,TN-11,"10,870/month","5,56,000","Thiruverkadu, Chennai
+",Chennai
+336,2016 Maruti Baleno,DELTA PETROL 1.2,Manual,"81,484 km",2nd Owner,Petrol,TN-05,"10,362/month","5,30,000","Thiruverkadu, Chennai
+",Chennai
+337,2019 Volkswagen Vento,HIGHLINE PLUS 1.2 AT 16 ALLOY,Automatic,"67,433 km",1st Owner,Petrol,TN-49,"18,501/month","9,72,000","Navalur
+",Chennai
+338,2022 Renault Kwid,RXT 1.0,Manual,"18,596 km",1st Owner,Petrol,TN-12,"10,264/month","5,25,000","Thiruverkadu, Chennai
+",Chennai
+339,2020 Honda Amaze,1.2L I-VTEC S,Manual,"1,03,249 km",1st Owner,Petrol,TN-13,"13,509/month","6,91,000","Thiruverkadu, Chennai
+",Chennai
+340,2016 Maruti Swift Dzire,VXI,Manual,"96,573 km",1st Owner,Petrol,TN-22,"10,342/month","5,29,000","Navalur
+",Chennai
+341,2017 Honda City,1.5L I-VTEC VX CVT,Automatic,"66,967 km",2nd Owner,Petrol,TN-02,"15,741/month","8,27,000","Thiruverkadu, Chennai
+",Chennai
+342,2020 Tata NEXON,XZA PLUS (O) PETROL,Automatic,"42,036 km",2nd Owner,Petrol,TN-11,"18,482/month","9,71,000","Thiruverkadu, Chennai
+",Chennai
+343,2016 Honda Amaze,1.2L I-VTEC S,Manual,"1,21,054 km",1st Owner,Petrol,TN-04,"9,345/month","4,78,000","Thiruverkadu, Chennai
+",Chennai
+344,2016 Hyundai Grand i10,ASTA (O) 1.2 KAPPA VTVT,Manual,"69,731 km",1st Owner,Petrol,TN-07,"10,186/month","5,21,000","Navalur
+",Chennai
+345,2017 Honda City,1.5L I-VTEC V MT,Manual,"61,279 km",2nd Owner,Petrol,TN-12,"14,917/month","7,63,000","Thiruverkadu, Chennai
+",Chennai
+346,2019 Honda Amaze,1.5L I-DTEC V,Manual,"95,141 km",1st Owner,Diesel,TN-18,"14,682/month","7,51,000","Navalur
+",Chennai
+347,2016 Hyundai Elite i20,SPORTZ 1.2,Manual,"94,348 km",2nd Owner,Petrol,TN-04,"10,401/month","5,32,000","Thiruverkadu, Chennai
+",Chennai
+348,2019 Datsun Go,T(O),Manual,"46,116 km",2nd Owner,Petrol,TN-85,"8,250/month","4,22,000","Navalur
+",Chennai
+349,2019 Hyundai Elite i20,ASTA 1.2 (O),Manual,"51,744 km",1st Owner,Petrol,TN-05,"14,115/month","7,22,000","Thiruverkadu, Chennai
+",Chennai
+350,2016 Maruti Alto 800,LXI,Manual,"61,237 km",1st Owner,Petrol,TN-05,"5,689/month","2,91,000","Navalur
+",Chennai
+351,2016 Renault Kwid,RXT 0.8,Manual,"60,799 km",1st Owner,Petrol,TN-12,"6,745/month","3,45,000","Navalur
+",Chennai
+352,2017 Maruti Dzire,VXI,Manual,"68,979 km",1st Owner,Petrol,TN-06,"12,825/month","6,56,000","Thiruverkadu, Chennai
+",Chennai
+353,2019 Hyundai Elite i20,ASTA 1.2 (O),Manual,"33,640 km",1st Owner,Petrol,TN-09,"14,545/month","7,44,000","Navalur
+",Chennai
+354,2021 Honda WR-V,1.5L I-DTEC VX MT,Manual,"72,081 km",1st Owner,Diesel,TN-13,"19,091/month","10,03,000","Navalur
+",Chennai
+355,2020 Honda Jazz,1.2L I-VTEC ZX,Manual,"33,945 km",1st Owner,Petrol,TN-09,"15,684/month","8,24,000","Thiruverkadu, Chennai
+",Chennai
+356,2019 Hyundai Elite i20,ASTA (O) CVT,Automatic,"38,679 km",1st Owner,Petrol,TN-21,"15,249/month","7,80,000","Thiruverkadu, Chennai
+",Chennai
+357,2018 Ford Ecosport,TITANIUM 1.0L ECOBOOST SPORTS(SUNROOF),Manual,"64,285 km",1st Owner,Petrol,TN-09,"17,074/month","8,97,000","Thiruverkadu, Chennai
+",Chennai
+358,2021 Tata Tiago,XZA PLUS PETROL,Automatic,"4,970 km",1st Owner,Petrol,TN-23,"13,509/month","6,91,000","Thiruverkadu, Chennai
+",Chennai
+359,2017 Nissan Micra,XV CVT,Automatic,"56,747 km",1st Owner,Petrol,TN-03,"10,479/month","5,36,000","Thiruverkadu, Chennai
+",Chennai
+360,2019 Ford Ecosport,TITANIUM 1.5L PETROL,Manual,"20,715 km",2nd Owner,Petrol,TN-11,"15,284/month","8,03,000","Thiruverkadu, Chennai
+",Chennai
+361,2017 Hyundai Xcent,S 1.2,Manual,"61,118 km",1st Owner,Petrol,TN-06,"10,479/month","5,36,000","Thiruverkadu, Chennai
+",Chennai
+362,2016 Maruti Swift,VDI ABS,Manual,"68,177 km",2nd Owner,Diesel,TN-06,"12,317/month","6,30,000","Thiruverkadu, Chennai
+",Chennai
+363,2020 Renault Duster,RXS 1.3 TURBO PETROL MT,Manual,"35,464 km",1st Owner,Petrol,TN-87,"20,081/month","10,55,000","Navalur
+",Chennai
+364,2019 Hyundai Xcent,SX 1.2 CRDI,Manual,"15,295 km",1st Owner,Diesel,TN-02,"14,682/month","7,51,000","Navalur
+",Chennai
+365,2017 Volkswagen Ameo,HIGHLINE1.2L PLUS 16 ALLOY,Manual,"1,14,844 km",1st Owner,Petrol,TN-67,"10,870/month","5,56,000","Navalur
+",Chennai
+366,2019 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"90,811 km",1st Owner,Petrol,TN-11,"10,948/month","5,60,000","Thiruverkadu, Chennai
+",Chennai
+367,2017 Honda Jazz,1.2L I-VTEC V AT,Automatic,"61,159 km",2nd Owner,Petrol,TN-10,"13,099/month","6,70,000","Thiruverkadu, Chennai
+",Chennai
+368,2018 Ford Ecosport,TITANIUM + 1.5L PETROL AT,Automatic,"77,380 km",1st Owner,Petrol,TN-14,"15,210/month","7,78,000","Navalur
+",Chennai
+369,2017 Maruti Celerio,ZXI,Manual,"66,656 km",1st Owner,Petrol,TN-11,"9,013/month","4,61,000","Navalur
+",Chennai
+370,2020 Honda City,1.5L I-VTEC ZX,Manual,"69,617 km",1st Owner,Petrol,TN-32,"22,841/month","12,00,000","Thiruverkadu, Chennai
+",Chennai
+371,2016 Renault Kwid,RXT 0.8,Manual,"48,113 km",1st Owner,Petrol,TN-11,"6,960/month","3,56,000","Thiruverkadu, Chennai
+",Chennai
+372,2017 Maruti Dzire,VXI,Manual,"65,868 km",1st Owner,Petrol,TN-11,"12,903/month","6,60,000","Thiruverkadu, Chennai
+",Chennai
+373,2021 Maruti Swift,ZXI PLUS,Manual,"17,273 km",1st Owner,Petrol,TN-06,"15,970/month","8,39,000","Thiruverkadu, Chennai
+",Chennai
+374,2021 Renault TRIBER,RXZ,Manual,"27,216 km",1st Owner,Petrol,TN-13,"14,936/month","7,64,000","Navalur
+",Chennai
+375,2018 Ford Ecosport,TREND + 1.5L PETROL AT,Automatic,"92,689 km",1st Owner,Petrol,TN-10,"13,431/month","6,87,000","Navalur
+",Chennai
+376,2016 Hyundai Elite i20,ASTA 1.2 (O),Manual,"74,777 km",1st Owner,Petrol,TN-02,"12,590/month","6,44,000","Thiruverkadu, Chennai
+",Chennai
+377,2016 Hyundai Elite i20,SPORTZ 1.2,Manual,"87,815 km",1st Owner,Petrol,TN-12,"10,225/month","5,23,000","Thiruverkadu, Chennai
+",Chennai
+378,2018 Datsun Redi Go,T (O),Manual,"91,261 km",1st Owner,Petrol,TN-23,"6,334/month","3,24,000","Thiruverkadu, Chennai
+",Chennai
+379,2017 Maruti Baleno,ZETA CVT PETROL 1.2,Automatic,"70,528 km",1st Owner,Petrol,TN-14,"12,434/month","6,36,000","Navalur
+",Chennai
+380,2022 Tata PUNCH,CREATIVE 1.2 MT KAZIRANGA EDITION ,Manual,"31,513 km",1st Owner,Petrol,TN-85,"16,293/month","8,56,000","Thiruverkadu, Chennai
+",Chennai
+381,2019 Honda City,1.5L I-VTEC ZX CVT,Automatic,"37,779 km",2nd Owner,Petrol,TN-02,"22,060/month","11,59,000","Navalur
+",Chennai
+382,2018 Maruti Alto 800,VXI,Manual,"63,556 km",1st Owner,Petrol,TN-09,"6,667/month","3,41,000","Navalur
+",Chennai
+383,2018 Hyundai NEW SANTRO,MAGNA,Manual,"65,607 km",1st Owner,Petrol,TN-11,"8,934/month","4,57,000","Thiruverkadu, Chennai
+",Chennai
+384,2016 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"1,14,507 km",2nd Owner,Petrol,TN-07,"8,798/month","4,50,000","Thiruverkadu, Chennai
+",Chennai
+385,2017 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"73,326 km",1st Owner,Petrol,TN-05,"9,677/month","4,95,000","Thiruverkadu, Chennai
+",Chennai
+386,2017 Maruti Baleno,DELTA CVT PETROL 1.2,Automatic,"63,559 km",2nd Owner,Petrol,TN-05,"11,105/month","5,68,000","Navalur
+",Chennai
+387,2021 Maruti Celerio,ZXI AMT,Automatic,"13,126 km",1st Owner,Petrol,TN-11,"12,610/month","6,45,000","Thiruverkadu, Chennai
+",Chennai
+388,2016 Hyundai Grand i10,ASTA (O) 1.2 KAPPA VTVT,Manual,"32,797 km",2nd Owner,Petrol,TN-07,"10,518/month","5,38,000","Thiruverkadu, Chennai
+",Chennai
+389,2016 Honda City,1.5L I-VTEC VX CVT,Automatic,"40,352 km",2nd Owner,Petrol,TN-09,"14,760/month","7,55,000","Thiruverkadu, Chennai
+",Chennai
+390,2022 Hyundai GRAND I10 NIOS,SPORTZ 1.0 TURBO GDI,Manual,"17,312 km",1st Owner,Petrol,TN-11,"15,246/month","8,01,000","Thiruverkadu, Chennai
+",Chennai
+391,2019 Datsun Redi Go,T (O),Manual,"55,019 km",1st Owner,Petrol,TN-09,"6,256/month","3,20,000","Thiruverkadu, Chennai
+",Chennai
+392,2018 Hyundai Grand i10,SPORTZ (O) 1.2 KAPPA VTVT,Manual,"1,00,624 km",1st Owner,Petrol,TN-05,"9,677/month","4,95,000","Navalur
+",Chennai
+393,2016 Maruti Vitara Brezza,ZDI,Manual,"59,232 km",1st Owner,Diesel,TN-10,"16,388/month","8,61,000","Thiruverkadu, Chennai
+",Chennai
+394,2016 Hyundai Elite i20,ASTA 1.2 (O),Manual,"84,429 km",1st Owner,Petrol,TN-11,"11,887/month","6,08,000","Navalur
+",Chennai
+395,2017 Maruti Baleno,ZETA CVT PETROL 1.2,Automatic,"91,799 km",1st Owner,Petrol,TN-11,"12,688/month","6,49,000","Thiruverkadu, Chennai
+",Chennai
+396,2021 Tata Tiago,XZ PLUS PETROL,Manual,"12,060 km",1st Owner,Petrol,TN-09,"12,669/month","6,48,000","Navalur
+",Chennai
+397,2018 Maruti Dzire,VDI AMT,Automatic,"93,856 km",1st Owner,Diesel,TN-05,"13,372/month","6,84,000","Thiruverkadu, Chennai
+",Chennai
+398,2020 Honda City,1.5L I-VTEC VX,Manual,"30,247 km",1st Owner,Petrol,TN-07,"20,366/month","10,70,000","Navalur
+",Chennai
+399,2018 Maruti Celerio X,ZXI (O),Manual,"53,269 km",1st Owner,Petrol,TN-13,"9,228/month","4,72,000","Thiruverkadu, Chennai
+",Chennai
+400,2017 Hyundai Grand i10,SPORTZ (O) 1.2 KAPPA VTVT,Manual,"33,407 km",1st Owner,Petrol,TN-09,"10,538/month","5,39,000","Navalur
+",Chennai
+401,2016 Maruti Wagon R 1.0,VXI,Manual,"35,671 km",1st Owner,Petrol,TN-05,"8,348/month","4,27,000","Thiruverkadu, Chennai
+",Chennai
+402,2019 Hyundai NEW SANTRO,MAGNA,Manual,"67,988 km",1st Owner,Petrol,TN-09,"9,228/month","4,72,000","Thiruverkadu, Chennai
+",Chennai
+403,2017 Maruti Swift,VXI,Manual,"1,00,526 km",1st Owner,Petrol,TN-09,"10,166/month","5,20,000","Thiruverkadu, Chennai
+",Chennai
+404,2018 Honda City,1.5L I-DTEC ZX,Manual,"1,15,981 km",2nd Owner,Diesel,TN-14,"16,369/month","8,60,000","Navalur
+",Chennai
+405,2017 Hyundai i20 Active,1.4 SX,Manual,"1,00,844 km",2nd Owner,Diesel,TN-11,"13,646/month","6,98,000","Thiruverkadu, Chennai
+",Chennai
+406,2016 Ford Ecosport,TITANIUM+ 1.5L DIESEL,Manual,"1,09,262 km",2nd Owner,Diesel,TN-14,"11,828/month","6,05,000","Thiruverkadu, Chennai
+",Chennai
+407,2018 Honda Amaze,1.2L I-VTEC V CVT,Automatic,"1,06,848 km",1st Owner,Petrol,TN-12,"14,330/month","7,33,000","Navalur
+",Chennai
+408,2019 Honda City,1.5L I-VTEC ZX CVT,Automatic,"30,440 km",2nd Owner,Petrol,TN-14,"21,604/month","11,35,000","Thiruverkadu, Chennai
+",Chennai
+409,2021 Datsun Redi Go,A,Manual,"24,077 km",1st Owner,Petrol,TN-12,"7,840/month","4,01,000","Thiruverkadu, Chennai
+",Chennai
+410,2019 Hyundai NEW SANTRO,MAGNA,Manual,"59,985 km",1st Owner,Petrol,TN-19,"9,658/month","4,94,000","Thiruverkadu, Chennai
+",Chennai
+411,2021 Renault TRIBER,RXL MT,Manual,"27,925 km",1st Owner,Petrol,TN-73,"13,177/month","6,74,000","Thiruverkadu, Chennai
+",Chennai
+412,2022 Tata ALTROZ,XZA PLUS,Automatic,"5,107 km",1st Owner,Petrol,TN-12,"17,930/month","9,42,000","Navalur
+",Chennai
+413,2018 Tata NEXON,XM PETROL,Manual,"38,334 km",1st Owner,Petrol,TN-14,"13,959/month","7,14,000","Thiruverkadu, Chennai
+",Chennai
+414,2017 Maruti Baleno,ZETA CVT PETROL 1.2,Automatic,"58,375 km",1st Owner,Petrol,TN-07,"13,079/month","6,69,000","Thiruverkadu, Chennai
+",Chennai
+415,2016 Maruti Wagon R 1.0,VXI (O) AMT,Automatic,"45,636 km",1st Owner,Petrol,TN-91,"8,680/month","4,44,000","Navalur
+",Chennai
+416,2016 Hyundai Elite i20,ASTA 1.2 (O),Manual,"65,100 km",2nd Owner,Petrol,TN-02,"11,926/month","6,10,000","Thiruverkadu, Chennai
+",Chennai
+417,2016 Maruti Wagon R 1.0,VXI OPT,Manual,"49,124 km",2nd Owner,Petrol,TN-07,"8,524/month","4,36,000","Navalur
+",Chennai
+418,2014 Hyundai Elite i20,ASTA 1.4 CRDI,Manual,"1,04,336 km",2nd Owner,Diesel,TN-01,"10,792/month","5,52,000","Thiruverkadu, Chennai
+",Chennai
+419,2016 Hyundai Elite i20,ASTA 1.2,Manual,"1,19,468 km",1st Owner,Petrol,TN-05,"11,163/month","5,71,000","Navalur
+",Chennai
+420,2016 Hyundai Elite i20,MAGNA 1.2,Manual,"75,783 km",1st Owner,Petrol,TN-10,"10,420/month","5,33,000","Thiruverkadu, Chennai
+",Chennai
+421,2016 Maruti Wagon R 1.0,VXI AMT,Automatic,"66,992 km",1st Owner,Petrol,TN-14,"8,289/month","4,24,000","Navalur
+",Chennai
+422,2022 Tata ALTROZ,XZA PLUS,Automatic,"5,022 km",1st Owner,Petrol,TN-11,"18,159/month","9,54,000","Thiruverkadu, Chennai
+",Chennai
+423,2017 Maruti Wagon R 1.0,VXI,Manual,"88,004 km",1st Owner,Petrol,TN-18,"7,996/month","4,09,000","Thiruverkadu, Chennai
+",Chennai
+424,2021 Tata ALTROZ,XZ PLUS DIESEL,Manual,"40,759 km",1st Owner,Diesel,TN-22,"16,921/month","8,89,000","Thiruverkadu, Chennai
+",Chennai
+425,2021 Maruti Swift,VXI,Manual,"57,464 km",1st Owner,Petrol,TN-14,"13,900/month","7,11,000","Navalur
+",Chennai
+426,2015 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"1,08,551 km",2nd Owner,Petrol,TN-04,"7,976/month","4,08,000","Thiruverkadu, Chennai
+",Chennai
+427,2018 Maruti Celerio,VXI,Manual,"89,191 km",1st Owner,Petrol,TN-10,"8,895/month","4,55,000","Thiruverkadu, Chennai
+",Chennai
+428,2017 Hyundai Eon,MAGNA +,Manual,"51,292 km",1st Owner,Petrol,TN-12,"7,116/month","3,64,000","Thiruverkadu, Chennai
+",Chennai
+429,2016 Maruti Wagon R 1.0,VXI OPT,Manual,"19,740 km",1st Owner,Petrol,TN-85,"9,267/month","4,74,000","Thiruverkadu, Chennai
+",Chennai
+430,2016 Maruti Wagon R 1.0,VXI AMT,Automatic,"50,291 km",2nd Owner,Petrol,TN-22,"8,348/month","4,27,000","Navalur
+",Chennai
+431,2016 Maruti Baleno,DELTA PETROL 1.2,Manual,"93,806 km",2nd Owner,Petrol,TN-05,"10,889/month","5,57,000","Thiruverkadu, Chennai
+",Chennai
+432,2010 Maruti A Star,VXI,Manual,"92,400 km",3rd Owner,Petrol,TN-10,"3,773/month","1,93,000","Navalur
+",Chennai
+433,2011 Hyundai i20,SPORTZ (O) 1.2,Manual,"50,046 km",3rd Owner,Petrol,TN-02,"5,943/month","3,04,000","Navalur
+",Chennai
+434,2013 Skoda Rapid,ELEGANCE 1.6 MPI MT,Manual,"96,727 km",3rd Owner,Petrol,TN-01,"7,507/month","3,84,000","Thiruverkadu, Chennai
+",Chennai
+435,2013 Maruti Swift,VXI,Manual,"88,122 km",3rd Owner,Petrol,TN-11,"7,644/month","3,91,000","Thiruverkadu, Chennai
+",Chennai
+436,2017 Maruti Ciaz,ALPHA 1.4 PETROL,Manual,"52,645 km",3rd Owner,Petrol,TN-10,"11,320/month","5,79,000","Navalur
+",Chennai
+437,2018 Renault Kwid,CLIMBER 1.0 AMT,Automatic,"55,396 km",1st Owner,Petrol,TN-18,"7,683/month","3,93,000","Thiruverkadu, Chennai
+",Chennai
+438,2016 Maruti Ertiga,ZDI SHVS,Manual,"93,667 km",1st Owner,Diesel,TN-10,"15,617/month","8,20,500","Thiruverkadu, Chennai
+",Chennai
+439,2012 Toyota Etios Liva,G,Manual,"1,21,735 km",2nd Owner,Petrol,TN-20,"6,119/month","3,13,000","Thiruverkadu, Chennai
+",Chennai
+440,2012 Hyundai i10,ERA 1.1,Manual,"53,806 km",3rd Owner,Petrol,TN-06,"4,966/month","2,54,000","Thiruverkadu, Chennai
+",Chennai
+441,2018 Hyundai Grand i10,SPORTZ (O) 1.2 KAPPA VTVT,Manual,"21,610 km",2nd Owner,Petrol,TN-14,"9,560/month","4,89,000","Thiruverkadu, Chennai
+",Chennai
+442,2014 Datsun Go,T,Manual,"63,607 km",2nd Owner,Petrol,TN-18,"4,633/month","2,37,000","Navalur
+",Chennai
+443,2016 Datsun Go Plus,T,Manual,"52,661 km",1st Owner,CNG,TN-09,"7,214/month","3,69,000","Thiruverkadu, Chennai
+",Chennai
+444,2019 Honda Amaze,1.2 SMT I VTEC,Manual,"34,715 km",2nd Owner,Petrol,TN-09,"11,808/month","6,04,000","Thiruverkadu, Chennai
+",Chennai
+445,2011 Volkswagen Vento,HIGHLINE 1.6 MPI,Manual,"93,015 km",3rd Owner,Petrol,TN-07,"7,038/month","3,60,000","Thiruverkadu, Chennai
+",Chennai
+446,2018 Honda WR-V,1.2 i-VTEC S MT Edge Edition,Manual,"38,309 km",2nd Owner,Petrol,TN-13,"12,082/month","6,18,000","Thiruverkadu, Chennai
+",Chennai
+447,2016 Hyundai Verna,FLUIDIC 4S 1.6 VTVT SX,Manual,"41,207 km",1st Owner,Petrol,TN-05,"12,649/month","6,47,000","Thiruverkadu, Chennai
+",Chennai
+448,2016 Hyundai Elite i20,ASTA 1.2,Manual,"35,286 km",1st Owner,Petrol,TN-48,"11,613/month","5,94,000","Navalur
+",Chennai
+449,2015 Ford Ecosport,TITANIUM 1.5L PETROL AT,Automatic,"98,459 km",2nd Owner,Petrol,TN-06,"9,560/month","4,89,000","Navalur
+",Chennai
+450,2019 Maruti Swift,ZXI,Manual,"32,679 km",2nd Owner,Petrol,TN-07,"12,278/month","6,28,000","Thiruverkadu, Chennai
+",Chennai
+451,2011 Hyundai i10,MAGNA 1.2,Manual,"62,606 km",2nd Owner,Petrol,TN-22,"5,063/month","2,59,000","Thiruverkadu, Chennai
+",Chennai
+452,2014 Maruti Swift Dzire,VXI,Manual,"1,01,495 km",2nd Owner,Petrol,TN-19,"8,563/month","4,38,000","Thiruverkadu, Chennai
+",Chennai
+453,2015 Maruti Celerio,ZXI AMT,Automatic,"85,233 km",1st Owner,Petrol,TN-85,"7,331/month","3,75,000","Navalur
+",Chennai
+454,2016 Maruti Swift,VXI O,Manual,"63,577 km",2nd Owner,Petrol,TN-03,"9,286/month","4,75,000","Navalur
+",Chennai
+455,2017 Maruti Dzire,VDI,Manual,"62,557 km",1st Owner,Diesel,TN-10,"13,001/month","6,65,000","Thiruverkadu, Chennai
+",Chennai
+456,2017 Hyundai Creta,E PLUS 1.4 DIESEL,Manual,"88,754 km",1st Owner,Diesel,TN-22,"15,112/month","7,73,000","Thiruverkadu, Chennai
+",Chennai
+457,2014 Maruti Swift Dzire,VXI,Manual,"49,387 km",2nd Owner,Petrol,TN-07,"8,543/month","4,37,000","Thiruverkadu, Chennai
+",Chennai
+458,2014 Volkswagen Vento,HIGHLINE DIESEL 1.6,Manual,"1,10,457 km",2nd Owner,Diesel,TN-01,"8,641/month","4,42,000","Navalur
+",Chennai
+459,2016 Maruti Baleno,DELTA PETROL 1.2,Manual,"87,367 km",1st Owner,Petrol,TN-13,"9,971/month","5,10,000","Thiruverkadu, Chennai
+",Chennai
+460,2016 Renault Kwid,RXT 0.8,Manual,"42,167 km",2nd Owner,Petrol,TN-12,"6,178/month","3,16,000","Thiruverkadu, Chennai
+",Chennai
+461,2016 Volkswagen Polo,COMFORTLINE 1.2L,Manual,"86,431 km",2nd Owner,Petrol,TN-12,"9,677/month","4,95,000","Thiruverkadu, Chennai
+",Chennai
+462,2018 Maruti Ciaz,DELTA DIESEL 1.3,Manual,"50,002 km",1st Owner,Diesel,TN-20,"14,272/month","7,30,000","Thiruverkadu, Chennai
+",Chennai
+463,2022 Maruti Swift,VXI,Manual,"51,012 km",1st Owner,Petrol,TN-07,"13,646/month","6,98,000","Navalur
+",Chennai
+464,2013 Honda City,1.5L I-VTEC S AT,Automatic,"93,398 km",3rd Owner,Petrol,TN-07,"8,094/month","4,14,000","Thiruverkadu, Chennai
+",Chennai
+465,2014 Hyundai Xcent,S (O) 1.2,Manual,"1,21,900 km",1st Owner,Petrol,TN-52,"7,136/month","3,65,000","Thiruverkadu, Chennai
+",Chennai
+466,2013 Honda City,1.5L I-VTEC V MT,Manual,"1,20,399 km",2nd Owner,Petrol,TN-01,"8,446/month","4,32,000","Thiruverkadu, Chennai
+",Chennai
+467,2015 Maruti Swift,VXI,Manual,"43,876 km",1st Owner,Petrol,TN-22,"9,482/month","4,85,000","Thiruverkadu, Chennai
+",Chennai
+468,2017 Mahindra Kuv100,K6 PLUS D 6 STR,Manual,"1,23,152 km",1st Owner,Diesel,TN-11,"8,817/month","4,51,000","Navalur
+",Chennai
+469,2015 Ford Ecosport,TITANIUM+ 1.5L DIESEL,Manual,"74,627 km",2nd Owner,Diesel,TN-19,"10,186/month","5,21,000","Thiruverkadu, Chennai
+",Chennai
+470,2010 Honda City,1.5L I-VTEC V MT,Manual,"1,01,566 km",3rd Owner,Petrol,TN-09,"7,312/month","3,74,000","Thiruverkadu, Chennai
+",Chennai
+471,2013 Hyundai Eon,ERA +,Manual,"1,01,412 km",1st Owner,Petrol,TN-37,"4,594/month","2,35,000","Thiruverkadu, Chennai
+",Chennai
+472,2011 Maruti Alto K10,VXI,Manual,"41,181 km",1st Owner,Petrol,TN-10,"4,418/month","2,26,000","Navalur
+",Chennai
+473,2015 Ford Ecosport,TITANIUM 1.5L PETROL AT,Automatic,"55,610 km",2nd Owner,Petrol,TN-18,"10,616/month","5,43,000","Thiruverkadu, Chennai
+",Chennai
+474,2013 Honda Brio,S MT,Manual,"84,489 km",1st Owner,Petrol,TN-02,"6,061/month","3,10,000","Navalur
+",Chennai
+475,2019 Honda BR-V,1.5L I- DTEC VX,Manual,"37,132 km",1st Owner,Diesel,TN-11,"19,929/month","10,47,000","Thiruverkadu, Chennai
+",Chennai
+476,2018 Hyundai Elite i20,ASTA 1.2 (O),Manual,"56,028 km",2nd Owner,Petrol,TN-13,"12,102/month","6,19,000","Thiruverkadu, Chennai
+",Chennai
+477,2016 Maruti Baleno,DELTA PETROL 1.2,Manual,"75,876 km",1st Owner,Petrol,TN-14,"10,420/month","5,33,000","Thiruverkadu, Chennai
+",Chennai
+478,2014 Maruti Alto 800,LXI,Manual,"42,988 km",2nd Owner,Petrol,TN-12,"4,985/month","2,55,000","Navalur
+",Chennai
+479,2017 Maruti Swift,ZXI,Manual,"35,068 km",1st Owner,Petrol,TN-02,"11,398/month","5,83,000","Thiruverkadu, Chennai
+",Chennai
+480,2011 Volkswagen Vento,HIGHLINE 1.6 MPI,Manual,"98,263 km",2nd Owner,Petrol,TN-10,"7,077/month","3,62,000","Thiruverkadu, Chennai
+",Chennai
+481,2016 Honda Amaze,1.2L I-VTEC S AT,Automatic,"21,999 km",1st Owner,Petrol,TN-04,"11,241/month","5,75,000","Navalur
+",Chennai
+482,2014 Honda City,1.5L I-VTEC SV CVT,Automatic,"1,00,912 km",3rd Owner,Petrol,TN-04,"9,619/month","4,92,000","Navalur
+",Chennai
+483,2018 Skoda Rapid,AMBITION 1.5 TDI,Manual,"73,139 km",1st Owner,Diesel,TN-04,"14,545/month","7,44,000","Navalur
+",Chennai
+484,2016 Renault Kwid,RXT 0.8,Manual,"27,153 km",1st Owner,Petrol,TN-09,"6,960/month","3,56,000","Thiruverkadu, Chennai
+",Chennai
+485,2016 Volkswagen Polo,HIGHLINE1.5L,Manual,"81,009 km",3rd Owner,Diesel,TN-69,"11,417/month","5,84,000","Navalur
+",Chennai
+486,2020 Renault TRIBER,RXZ,Manual,"46,233 km",2nd Owner,Petrol,TN-13,"12,981/month","6,64,000","Navalur
+",Chennai
+487,2013 Maruti Swift,VDI,Manual,"71,087 km",1st Owner,Diesel,TN-09,"8,602/month","4,40,000","Navalur
+",Chennai
+488,2012 Hyundai i10,MAGNA 1.2,Manual,"69,680 km",2nd Owner,Petrol,TN-06,"5,787/month","2,96,000","Thiruverkadu, Chennai
+",Chennai
+489,2011 Hyundai i10,MAGNA 1.2,Manual,"49,027 km",2nd Owner,Petrol,TN-07,"5,611/month","2,87,000","Thiruverkadu, Chennai
+",Chennai
+490,2021 Renault Kwid,CLIMBER 1.0 AMT (O),Automatic,"24,619 km",2nd Owner,Petrol,TN-14,"9,775/month","5,00,000","Navalur
+",Chennai
+491,2016 Maruti Wagon R 1.0,VXI,Manual,"43,692 km",2nd Owner,Petrol,TN-14,"7,234/month","3,70,000","Thiruverkadu, Chennai
+",Chennai
+492,2016 Maruti Alto 800,LXI,Manual,"23,744 km",2nd Owner,Petrol,TN-09,"5,552/month","2,84,000","Thiruverkadu, Chennai
+",Chennai
+493,2019 Mahindra XUV500,W11(O),Manual,"19,327 km",1st Owner,Diesel,TN-12,"29,960/month","15,74,000","Thiruverkadu, Chennai
+",Chennai
+494,2020 Maruti Alto,LXI O,Manual,"35,375 km",1st Owner,Petrol,TN-12,"7,585/month","3,88,000","Thiruverkadu, Chennai
+",Chennai
+495,2019 Datsun Redi Go,S 1.0 AMT,Automatic,"25,571 km",1st Owner,Petrol,TN-11,"7,194/month","3,68,000","Thiruverkadu, Chennai
+",Chennai
+496,2014 Maruti Alto 800,LXI,Manual,"82,384 km",2nd Owner,Petrol,TN-11,"4,692/month","2,40,000","Thiruverkadu, Chennai
+",Chennai
+497,2020 Toyota YARIS,G MT,Manual,"47,284 km",1st Owner,CNG,TN-18,"17,074/month","8,97,000","Navalur
+",Chennai
+498,2020 Hyundai VENUE,SX 1.5 CRDI,Manual,"30,477 km",1st Owner,Diesel,TN-14,"17,607/month","9,25,000","Navalur
+",Chennai
+499,2016 Maruti Alto K10,VXI,Manual,"54,803 km",2nd Owner,Petrol,TN-01,"5,767/month","2,95,000","Thiruverkadu, Chennai
+",Chennai
+500,2019 Hyundai VENUE,SX 1.0 (O) TURBO,Manual,"28,026 km",2nd Owner,Petrol,TN-12,"16,750/month","8,80,000","Thiruverkadu, Chennai
+",Chennai
+501,2012 Maruti Alto K10,VXI,Manual,"51,093 km",2nd Owner,Petrol,TN-05,"4,555/month","2,33,000","Navalur
+",Chennai
+502,2022 Maruti New Wagon-R,ZXI 1.2,Manual,"12,132 km",1st Owner,Petrol,TN-20,"12,317/month","6,30,000","Thiruverkadu, Chennai
+",Chennai
+503,2015 Nissan Micra,XV CVT,Automatic,"82,677 km",2nd Owner,Petrol,TN-01,"7,840/month","4,01,000","Navalur
+",Chennai
+504,2018 Maruti Alto 800,LXI,Manual,"20,539 km",1st Owner,Petrol,TN-06,"6,373/month","3,26,000","Navalur
+",Chennai
+505,2012 Hyundai i10,MAGNA 1.2,Manual,"68,748 km",1st Owner,Petrol,TN-18,"6,237/month","3,19,000","Thiruverkadu, Chennai
+",Chennai
+506,2017 Hyundai Verna,1.6 CRDI SX + AT,Automatic,"78,356 km",1st Owner,Diesel,TN-11,"17,759/month","9,33,000","Navalur
+",Chennai
+507,2021 Nissan MAGNITE,XL TURBO CVT,Automatic,"13,640 km",1st Owner,Petrol,TN-02,"15,646/month","8,22,000","Thiruverkadu, Chennai
+",Chennai
+508,2017 Maruti Wagon R 1.0,VXI,Manual,"55,676 km",2nd Owner,Petrol,TN-01,"7,761/month","3,97,000","Thiruverkadu, Chennai
+",Chennai
+509,2020 Tata NEXON,XZA PLUS DIESEL DUAL TONE,Automatic,"36,427 km",1st Owner,Diesel,TN-10,"19,205/month","10,09,000","Navalur
+",Chennai
+510,2018 Volkswagen Polo,COMFORTLINE 1.0 PETROL,Manual,"81,454 km",1st Owner,Petrol,TN-10,"11,261/month","5,76,000","Navalur
+",Chennai
+511,2019 Hyundai NEW SANTRO,ERA EXECUTIVE,Manual,"36,808 km",1st Owner,Petrol,TN-05,"8,328/month","4,26,000","Thiruverkadu, Chennai
+",Chennai
+512,2013 Hyundai i10,MAGNA 1.2,Manual,"72,805 km",2nd Owner,Petrol,TN-04,"6,080/month","3,11,000","Navalur
+",Chennai
+513,2015 Maruti Swift Dzire,ZXI,Manual,"42,266 km",2nd Owner,Petrol,TN-22,"10,107/month","5,17,000","Navalur
+",Chennai
+514,2015 Maruti Swift Dzire,VDI ABS,Manual,"1,20,797 km",1st Owner,Diesel,TN-13,"10,987/month","5,62,000","Navalur
+",Chennai
+515,2020 Maruti S PRESSO,VXI PLUS AMT,Automatic,"51,724 km",1st Owner,Petrol,TN-09,"9,619/month","4,92,000","Navalur
+",Chennai
+516,2016 Renault Kwid,RXT 0.8,Manual,"65,840 km",1st Owner,Petrol,TN-91,"6,588/month","3,37,000","Thiruverkadu, Chennai
+",Chennai
+517,2021 Tata Safari,XZA PLUS 6S,Automatic,"24,060 km",1st Owner,Diesel,TN-14,"36,203/month","19,02,000","Thiruverkadu, Chennai
+",Chennai
+518,2012 Maruti Alto,LXI,Manual,"22,124 km",2nd Owner,Petrol,TN-10,"4,575/month","2,34,000","Thiruverkadu, Chennai
+",Chennai
+519,2022 Maruti Baleno,ALPHA 1.2 AGS,Automatic,"5,966 km",1st Owner,Petrol,TN-64,"18,463/month","9,70,000","Thiruverkadu, Chennai
+",Chennai
+520,2019 Maruti Vitara Brezza,ZDI AMT,Automatic,"85,358 km",1st Owner,Diesel,TN-21,"16,655/month","8,75,000","Navalur
+",Chennai
+521,2014 Maruti Alto 800,LXI,Manual,"59,975 km",1st Owner,Petrol,TN-11,"5,474/month","2,80,000","Thiruverkadu, Chennai
+",Chennai
+522,2016 Renault Kwid,RXT 0.8,Manual,"54,538 km",2nd Owner,Petrol,TN-10,"6,706/month","3,43,000","Thiruverkadu, Chennai
+",Chennai
+523,2017 Maruti Ciaz,ZXI AT,Automatic,"58,698 km",1st Owner,Petrol,TN-09,"13,411/month","6,86,000","Thiruverkadu, Chennai
+",Chennai
+524,2014 Hyundai i10,MAGNA 1.1,Manual,"87,780 km",1st Owner,Petrol,TN-11,"6,823/month","3,49,000","Thiruverkadu, Chennai
+",Chennai
+525,2021 Maruti Baleno,ALPHA PETROL 1.2,Manual,"21,106 km",1st Owner,Petrol,TN-11,"15,582/month","7,97,000","Thiruverkadu, Chennai
+",Chennai
+526,2017 Hyundai Verna,1.6 VTVT SX,Manual,"51,878 km",1st Owner,Petrol,TN-02,"15,542/month","7,95,000","Thiruverkadu, Chennai
+",Chennai
+527,2015 Maruti Swift,VXI,Manual,"89,183 km",1st Owner,Petrol,TN-13,"9,013/month","4,61,000","Thiruverkadu, Chennai
+",Chennai
+528,2016 Maruti Swift Dzire,VXI,Manual,"96,861 km",1st Owner,Petrol,TN-07,"10,068/month","5,15,000","Navalur
+",Chennai
+529,2019 Datsun Redi Go,A,Manual,"21,541 km",1st Owner,Petrol,TN-03,"6,197/month","3,17,000","Thiruverkadu, Chennai
+",Chennai
+530,2021 Tata Harrier,XTA 2.0L KRYOTEC PLUS,Automatic,"16,634 km",1st Owner,Diesel,TN-01,"36,450/month","19,15,000","Navalur
+",Chennai
+531,2016 Hyundai Elite i20,MAGNA 1.2,Manual,"65,707 km",1st Owner,Petrol,TN-06,"10,694/month","5,47,000","Thiruverkadu, Chennai
+",Chennai
+532,2017 Maruti Baleno,ZETA CVT PETROL 1.2,Automatic,"14,568 km",1st Owner,Petrol,TN-09,"13,157/month","6,73,000","Navalur
+",Chennai
+533,2016 Renault Kwid,RXT 0.8,Manual,"31,584 km",1st Owner,Petrol,TN-85,"7,058/month","3,61,000","Thiruverkadu, Chennai
+",Chennai
+534,2016 Volkswagen Ameo,HIGHLINE1.5L,Manual,"1,03,651 km",2nd Owner,Diesel,TN-22,"10,029/month","5,13,000","Navalur
+",Chennai
+535,2014 Hyundai Grand i10,ASTA (O) 1.2 KAPPA VTVT,Manual,"88,779 km",1st Owner,Petrol,TN-11,"8,152/month","4,17,000","Thiruverkadu, Chennai
+",Chennai
+536,2016 Ford Ecosport,TITANIUM 1.5L DIESEL,Manual,"84,459 km",1st Owner,Diesel,TN-06,"13,118/month","6,71,000","Navalur
+",Chennai
+537,2014 Maruti Alto 800,LXI,Manual,"57,984 km",2nd Owner,Petrol,TN-09,"5,474/month","2,80,000","Thiruverkadu, Chennai
+",Chennai
+538,2014 Honda Amaze,1.2L I-VTEC S AT,Automatic,"65,698 km",2nd Owner,Petrol,TN-19,"8,465/month","4,33,000","Navalur
+",Chennai
+539,2022 Skoda SLAVIA,STYLE 1.0L TSI AT,Automatic,"24,676 km",1st Owner,Petrol,TN-70,"29,408/month","15,45,000","Navalur
+",Chennai
+540,2017 Maruti Dzire,VXI AMT,Automatic,"33,246 km",1st Owner,Petrol,TN-01,"12,688/month","6,49,000","Navalur
+",Chennai
+541,2014 Maruti Swift,VXI,Manual,"63,972 km",3rd Owner,Petrol,TN-02,"8,035/month","4,11,000","Thiruverkadu, Chennai
+",Chennai
+542,2017 Honda City,1.5L I-VTEC V MT,Manual,"22,286 km",2nd Owner,Petrol,TN-07,"15,513/month","8,15,000","Thiruverkadu, Chennai
+",Chennai
+543,2022 Toyota URBAN CRUISER,PREMIUM GRADE AT,Automatic,"41,356 km",1st Owner,Petrol,TN-07,"21,889/month","11,50,000","Thiruverkadu, Chennai
+",Chennai
+544,2018 Tata Tiago,XM PETROL,Manual,"69,684 km",1st Owner,Petrol,TN-48,"8,778/month","4,49,000","Navalur
+",Chennai
+545,2022 Volkswagen VIRTUS,HIGHLINE TSI 1.0 MT,Manual,"22,239 km",1st Owner,Petrol,TN-13,"24,554/month","12,90,000","Navalur
+",Chennai
+546,2012 Hyundai i10,MAGNA 1.2,Manual,"70,774 km",1st Owner,Petrol,TN-22,"6,432/month","3,29,000","Thiruverkadu, Chennai
+",Chennai
+547,2019 Tata Harrier,XZ 2.0L,Manual,"91,109 km",1st Owner,Diesel,TN-14,"27,352/month","14,37,000","Navalur
+",Chennai

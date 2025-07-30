@@ -1,0 +1,649 @@
+Unnamed: 0,Car Title,Car Model,Car Transmission,Car km,Car Owner,Car Fuel type,Car Registration,Car price per month,Car Price,Car Location,location
+0,2014 Hyundai Xcent,SX 1.2 (O),Manual,"45,750 km",1st Owner,Petrol,MH-01,"7,801/month","3,99,000","Goregaon, Mumbai",Mumbai
+1,2017 Mahindra KUV 100 NXT,K8 P 6 STR,Manual,"18,220 km",1st Owner,Petrol,MH-02,"8,837/month","4,52,000","Mulund, Mumbai",Mumbai
+2,2016 Maruti Alto 800,LXI,Manual,"42,390 km",1st Owner,Petrol,MH-02,"5,063/month","2,59,000","Rupa Renaissance, Navi Mumbai",Mumbai
+3,2020 KIA SELTOS,GTX PLUS 1.4 PETROL,Manual,"20,450 km",2nd Owner,Petrol,MH-47,"25,753/month","13,53,000","Goregaon, Mumbai",Mumbai
+4,2022 KIA CARENS,PRESTIGE 1.4 PETROL 7 STR,Manual,"13,034 km",1st Owner,Petrol,MH-02,"22,993/month","12,08,000","Goregaon, Mumbai",Mumbai
+5,2016 Hyundai Elite i20,MAGNA 1.2,Manual,"14,767 km",1st Owner,Petrol,MH-47,"9,920/month","5,07,400","Rupa Renaissance, Navi Mumbai",Mumbai
+6,2018 Datsun Redi Go,A,Manual,"37,892 km",2nd Owner,Petrol,MH-03,"4,418/month","2,26,000","Goregaon, Mumbai",Mumbai
+7,2013 Toyota Innova,2.5 GX 8 STR,Manual,"67,810 km",4th Owner,Diesel,MH-12,"11,984/month","6,13,000","Mulund, Mumbai",Mumbai
+8,2017 Skoda Rapid,AMBITION 1.6 MPI AT,Automatic,"51,108 km",1st Owner,Petrol,MH-01,"10,948/month","5,60,000","Rupa Renaissance, Navi Mumbai",Mumbai
+9,2022 Tata TIAGO NRG,XZ ICNG,Manual,"2,687 km",1st Owner,CNG,MH-12,"15,073/month","7,71,000","Rupa Renaissance, Navi Mumbai",Mumbai
+10,2013 Honda City,1.5L I-VTEC S MT,Manual,"89,471 km",2nd Owner,CNG,MH-43,"7,429/month","3,80,000","Mulund, Mumbai",Mumbai
+11,2013 Honda Amaze,1.5L I-DTEC EX,Manual,"94,659 km",2nd Owner,Diesel,MH-02,"6,686/month","3,42,000","Mulund, Mumbai",Mumbai
+12,2011 Honda City,1.5L I-VTEC S MT,Manual,"97,730 km",1st Owner,Petrol,MH-02,"6,061/month","3,10,000","Mulund, Mumbai",Mumbai
+13,2020 Maruti Swift,VXI,Manual,"16,699 km",1st Owner,Petrol,MH-43,"12,942/month","6,62,000","Goregaon, Mumbai",Mumbai
+14,2019 Honda City,1.5L I-VTEC V MT,Manual,"27,976 km",1st Owner,Petrol,MH-47,"15,912/month","8,36,000","Rupa Renaissance, Navi Mumbai",Mumbai
+15,2016 Mahindra XUV500,W10 AT,Automatic,"49,648 km",1st Owner,Diesel,MH-48,"19,358/month","10,17,000","Goregaon, Mumbai",Mumbai
+16,2017 Maruti Swift,VXI,Manual,"35,029 km",1st Owner,Petrol,MH-01,"8,817/month","4,51,000","Mulund, Mumbai",Mumbai
+17,2012 Honda Brio,V MT,Manual,"79,996 km",2nd Owner,Petrol,MH-01,"4,438/month","2,27,000","Goregaon, Mumbai",Mumbai
+18,2018 Maruti Baleno,ZETA CVT PETROL 1.2,Automatic,"26,090 km",1st Owner,Petrol,MH-01,"13,138/month","6,72,000","Goregaon, Mumbai",Mumbai
+19,2019 Jeep Compass,LIMITED PLUS PETROL AT,Automatic,"36,844 km",1st Owner,Petrol,MH-47,"31,539/month","16,57,000","Goregaon, Mumbai",Mumbai
+20,2012 Honda City,1.5L I-VTEC S MT,Manual,"1,05,034 km",1st Owner,Petrol,MH-48,"6,647/month","3,40,000","Mulund, Mumbai",Mumbai
+21,2017 Maruti Swift Dzire,VDI,Manual,"66,973 km",2nd Owner,Diesel,MH-04,"11,750/month","6,01,000","Mulund, Mumbai",Mumbai
+22,2012 Skoda Rapid,1.6 MPI AT AMBITION PLUS,Automatic,"61,285 km",2nd Owner,Petrol,MH-01,"6,725/month","3,44,000",,Mumbai
+23,2011 Toyota Etios Liva,G,Manual,"42,147 km",1st Owner,Petrol,MH-02,"5,259/month","2,69,000","Rupa Renaissance, Navi Mumbai",Mumbai
+24,2014 Toyota Innova,2.5 VX 8 STR,Manual,"82,310 km",2nd Owner,Diesel,MH-02,"17,873/month","9,39,000","Mulund, Mumbai",Mumbai
+25,2017 Maruti Dzire,ZXI AMT,Automatic,"36,367 km",2nd Owner,Petrol,MH-02,"11,965/month","6,12,000","Goregaon, Mumbai",Mumbai
+26,2013 Hyundai i20,MAGNA (O) 1.2,Manual,"34,546 km",1st Owner,Petrol,MH-12,"6,764/month","3,46,000","Goregaon, Mumbai",Mumbai
+27,2014 Skoda Rapid,AMBITION 1.6 TDI CR MT PLUS,Manual,"68,670 km",1st Owner,Diesel,MH-02,"8,074/month","4,13,000","Rupa Renaissance, Navi Mumbai",Mumbai
+28,2016 Maruti Ciaz,VDI+ SHVS,Manual,"51,858 km",1st Owner,Diesel,MH-47,"12,062/month","6,17,000","Goregaon, Mumbai",Mumbai
+29,2016 Honda Amaze,1.2L I-VTEC E,Manual,"17,167 km",1st Owner,Petrol,MH-02,"8,231/month","4,21,000","Mulund, Mumbai",Mumbai
+30,2020 Hyundai Creta,EX 1.5 PETROL,Manual,"13,812 km",2nd Owner,Petrol,MH-47,"19,224/month","10,10,000","Goregaon, Mumbai",Mumbai
+31,2018 Maruti Baleno,ALPHA PETROL 1.2,Manual,"19,608 km",2nd Owner,Petrol,MH-05,"12,004/month","6,14,000","Goregaon, Mumbai",Mumbai
+32,2020 Honda Civic,ZX CVT PETROL,Automatic,"30,097 km",1st Owner,Petrol,MH-04,"32,643/month","17,15,000","Goregaon, Mumbai",Mumbai
+33,2013 Toyota Corolla Altis,GL PETROL,Manual,"1,04,699 km",2nd Owner,Petrol,MH-01,"6,979/month","3,57,000","Mulund, Mumbai",Mumbai
+34,2020 Tata Tiago,XE PETROL,Manual,"23,688 km",1st Owner,Petrol,MH-04,"9,540/month","4,88,000","Mulund, Mumbai",Mumbai
+35,2018 Maruti Baleno,SIGMA PETROL 1.2,Manual,"32,756 km",1st Owner,Petrol,MH-47,"9,619/month","4,92,000","Goregaon, Mumbai",Mumbai
+36,2022 Maruti New Wagon-R,1.0 Lxi (o) cng,Manual,"8,309 km",1st Owner,CNG,MH-05,"12,649/month","6,47,000","Rupa Renaissance, Navi Mumbai",Mumbai
+37,2019 Hyundai Creta,SX AT 1.6 PETROL,Automatic,"38,166 km",3rd Owner,Petrol,MH-02,"18,920/month","9,94,000","Goregaon, Mumbai",Mumbai
+38,2013 Hyundai i20,MAGNA (O) 1.2,Manual,"51,284 km",1st Owner,Petrol,MH-02,"6,452/month","3,30,000","Mulund, Mumbai",Mumbai
+39,2017 Honda WR-V,1.2L I-VTEC S MT,Manual,"30,995 km",2nd Owner,Petrol,MH-04,"10,577/month","5,41,000","Rupa Renaissance, Navi Mumbai",Mumbai
+40,2021 Maruti New Wagon-R,LXI CNG 1.0,Manual,"32,678 km",2nd Owner,CNG,MH-46,"11,769/month","6,02,000","Rupa Renaissance, Navi Mumbai",Mumbai
+41,2018 Hyundai Verna,1.6 VTVT SX,Manual,"29,276 km",2nd Owner,Petrol,MH-01,"14,272/month","7,30,000","Goregaon, Mumbai",Mumbai
+42,2021 Maruti XL6,ALPHA AT,Automatic,"6,237 km",3rd Owner,Petrol,MH-03,"20,443/month","10,74,000","Mulund, Mumbai",Mumbai
+43,2014 Hyundai Grand i10,ASTA 1.2 KAPPA VTVT,Manual,"65,597 km",3rd Owner,Petrol,MH-02,"6,843/month","3,50,000","Mulund, Mumbai",Mumbai
+44,2017 Maruti Dzire,VXI,Manual,"72,800 km",1st Owner,Petrol,MH-46,"10,518/month","5,38,000","Rupa Renaissance, Navi Mumbai",Mumbai
+45,2017 Hyundai Verna,1.6 VTVT SX,Manual,"45,645 km",2nd Owner,Petrol,MH-03,"15,230/month","7,79,000","Goregaon, Mumbai",Mumbai
+46,2015 Honda City,1.5L I-VTEC S MT,Manual,"28,340 km",1st Owner,Petrol,MH-02,"9,756/month","4,99,000","Goregaon, Mumbai",Mumbai
+47,2016 Maruti Alto 800,LXI,Manual,"34,721 km",1st Owner,Petrol,MH-43,"5,005/month","2,56,000","Goregaon, Mumbai",Mumbai
+48,2014 Hyundai i10,ERA 1.1,Manual,"22,132 km",1st Owner,Petrol,MH-02,"5,533/month","2,83,000","Goregaon, Mumbai",Mumbai
+49,2014 Hyundai New Elantra,1.6 SX MT DIESEL,Manual,"1,10,878 km",1st Owner,Diesel,MH-02,"11,593/month","5,93,000","Mulund, Mumbai",Mumbai
+50,2018 Hyundai Creta,SX 1.6 DIESEL,Manual,"53,785 km",2nd Owner,Diesel,MH-04,"19,301/month","10,14,000","Mulund, Mumbai",Mumbai
+51,2011 Toyota Etios Liva,G,Manual,"44,516 km",2nd Owner,Petrol,MH-02,"4,731/month","2,42,000","Mulund, Mumbai",Mumbai
+52,2022 Hyundai NEW I20,SPORTZ 1.2 AT,Automatic,"2,769 km",1st Owner,Petrol,MH-04,"17,093/month","8,98,000","Mulund, Mumbai",Mumbai
+53,2018 Tata Tiago,XZA PETROL,Automatic,"31,884 km",1st Owner,Petrol,MH-02,"9,443/month","4,83,000","Goregaon, Mumbai",Mumbai
+54,2017 Honda WR-V,1.2L I-VTEC VX MT,Manual,"27,149 km",1st Owner,Petrol,MH-05,"13,783/month","7,05,000","Rupa Renaissance, Navi Mumbai",Mumbai
+55,2020 Maruti New Wagon-R,VXI 1.2,Manual,"15,105 km",1st Owner,Petrol,MH-40,"11,515/month","5,89,000","Goregaon, Mumbai",Mumbai
+56,2014 Honda City,1.5L I-DTEC V,Manual,"91,771 km",2nd Owner,Diesel,MH-15,"9,462/month","4,84,000","Mulund, Mumbai",Mumbai
+57,2014 Maruti Ertiga,VXI CNG,Manual,"59,133 km",1st Owner,CNG,MH-05,"13,138/month","6,72,000","Rupa Renaissance, Navi Mumbai",Mumbai
+58,2017 Skoda Rapid,STYLE 1.5 TDI AT,Automatic,"56,893 km",1st Owner,Diesel,MH-01,"14,584/month","7,46,000","Goregaon, Mumbai",Mumbai
+59,2019 Honda Amaze,1.2L I-VTEC V CVT,Automatic,"26,129 km",1st Owner,Petrol,MH-01,"13,411/month","6,86,000","Rupa Renaissance, Navi Mumbai",Mumbai
+60,2015 Honda City,1.5L I-VTEC V MT,Manual,"70,118 km",2nd Owner,Petrol,MH-01,"9,247/month","4,73,000","Mulund, Mumbai",Mumbai
+61,2015 Hyundai i10,SPORTZ 1.1,Manual,"45,815 km",1st Owner,Petrol,MH-04,"6,549/month","3,35,000","Goregaon, Mumbai",Mumbai
+62,2018 Tata NEXON,XM PETROL,Manual,"83,378 km",1st Owner,Petrol,MH-20,"11,789/month","6,03,000","Mulund, Mumbai",Mumbai
+63,2015 Renault Duster,85 PS RXE,Manual,"26,480 km",1st Owner,Diesel,MH-02,"10,929/month","5,59,000","Rupa Renaissance, Navi Mumbai",Mumbai
+64,2016 Maruti Ertiga,VXI,Manual,"24,597 km",1st Owner,Petrol,MH-04,"14,408/month","7,37,000","Rupa Renaissance, Navi Mumbai",Mumbai
+65,2019 Tata NEXON,XM PETROL,Manual,"28,058 km",3rd Owner,CNG,MH-01,"13,099/month","6,70,000","Mulund, Mumbai",Mumbai
+66,2018 Skoda Rapid,STYLE 1.6 MPI AT,Automatic,"60,921 km",1st Owner,Petrol,MH-05,"14,076/month","7,20,000","Mulund, Mumbai",Mumbai
+67,2012 Maruti Swift Dzire,VXI,Manual,"72,831 km",1st Owner,Petrol,MH-05,"6,979/month","3,57,000","Goregaon, Mumbai",Mumbai
+68,2015 Honda Jazz,1.2L I-VTEC VX,Manual,"72,596 km",3rd Owner,Petrol,MH-47,"9,110/month","4,66,000","Mulund, Mumbai",Mumbai
+69,2019 Maruti New Wagon-R,VXI (O) 1.0,Manual,"31,216 km",2nd Owner,Petrol,MH-04,"9,658/month","4,94,000","Rupa Renaissance, Navi Mumbai",Mumbai
+70,2018 Honda BR-V,1.5L I-VTEC V,Manual,"31,051 km",2nd Owner,Petrol,MH-01,"15,484/month","7,92,000","Goregaon, Mumbai",Mumbai
+71,2019 Maruti Swift,VXI,Manual,"52,720 km",1st Owner,Petrol,MH-47,"11,867/month","6,07,000","Mulund, Mumbai",Mumbai
+72,2014 Hyundai Verna,FLUIDIC 1.6 VTVT SX,Manual,"42,650 km",1st Owner,Petrol,MH-03,"10,225/month","5,23,000","Goregaon, Mumbai",Mumbai
+73,2012 Maruti Ertiga,VDI,Manual,"94,671 km",1st Owner,Diesel,MH-46,"11,984/month","6,13,000","Rupa Renaissance, Navi Mumbai",Mumbai
+74,2017 Jeep Compass,LIMITED (O) 2.0 DIESEL,Manual,"99,724 km",1st Owner,Diesel,MH-04,"22,346/month","11,74,000","Mulund, Mumbai",Mumbai
+75,2015 Hyundai Creta,SX PLUS 1.6 PETROL,Manual,"55,494 km",1st Owner,Petrol,MH-05,"15,151/month","7,75,000","Rupa Renaissance, Navi Mumbai",Mumbai
+76,2015 Hyundai Creta,SX PLUS 1.6 PETROL,Manual,"65,655 km",1st Owner,Petrol,MH-47,"15,073/month","7,71,000","Mulund, Mumbai",Mumbai
+77,2015 Hyundai Xcent,S (O) 1.2,Manual,"38,663 km",1st Owner,Petrol,MH-02,"7,879/month","4,03,000","Mulund, Mumbai",Mumbai
+78,2018 Honda WR-V,1.2L I-VTEC VX MT,Manual,"36,036 km",1st Owner,Petrol,MH-03,"13,411/month","6,86,000","Mulund, Mumbai",Mumbai
+79,2018 Maruti Baleno,RS 1.0 PETROL,Manual,"44,712 km",1st Owner,Petrol,MH-02,"11,085/month","5,67,000","Mulund, Mumbai",Mumbai
+80,2013 Toyota Etios,G SP,Manual,"78,004 km",1st Owner,Petrol,MH-02,"6,256/month","3,20,000","Mulund, Mumbai",Mumbai
+81,2012 Maruti Swift,LXI,Manual,"29,056 km",1st Owner,Petrol,MH-04,"6,588/month","3,37,000","Mulund, Mumbai",Mumbai
+82,2012 Maruti Swift Dzire,LXI,Manual,"66,700 km",2nd Owner,Petrol,MH-02,"6,373/month","3,26,000","Goregaon, Mumbai",Mumbai
+83,2017 Skoda Octavia,L&K 1.8 TSI AT,Automatic,"58,538 km",1st Owner,Petrol,MH-04,"25,277/month","13,28,000","Goregaon, Mumbai",Mumbai
+84,2019 Skoda Rapid,STYLE 1.6 MPI,Manual,"52,529 km",1st Owner,Petrol,MH-03,"15,621/month","7,99,000","Goregaon, Mumbai",Mumbai
+85,2017 Hyundai Verna,1.6 SX (O) CRDI MT,Manual,"47,089 km",1st Owner,Diesel,MH-02,"20,157/month","10,59,000","Mulund, Mumbai",Mumbai
+86,2018 Honda City,1.5L I-VTEC V MT,Manual,"13,267 km",1st Owner,Petrol,MH-47,"15,361/month","8,07,000","Mulund, Mumbai",Mumbai
+87,2012 Maruti Swift Dzire,VXI,Manual,"60,242 km",2nd Owner,Petrol,MH-03,"6,823/month","3,49,000","Goregaon, Mumbai",Mumbai
+88,2015 Honda City,1.5L I-VTEC VX CVT,Automatic,"54,688 km",1st Owner,Petrol,MH-06,"14,545/month","7,44,000","Goregaon, Mumbai",Mumbai
+89,2013 Honda City,1.5L I-VTEC S MT,Manual,"65,683 km",2nd Owner,Petrol,MH-02,"7,234/month","3,70,000","Mulund, Mumbai",Mumbai
+90,2018 Datsun Redi Go,S 1.0 AMT,Automatic,"45,531 km",1st Owner,Petrol,MH-04,"6,628/month","3,39,000","Rupa Renaissance, Navi Mumbai",Mumbai
+91,2018 Hyundai Creta,SX PLUS 1.6 PETROL SPECIAL EDITION,Manual,"26,833 km",2nd Owner,Petrol,MH-02,"17,016/month","8,94,000","Goregaon, Mumbai",Mumbai
+92,2019 Hyundai VENUE,SX PLUS 1.0 TURBO DCT,Automatic,"34,499 km",1st Owner,Petrol,MH-03,"18,463/month","9,70,000","Goregaon, Mumbai",Mumbai
+93,2018 Hyundai Eon,ERA +,Manual,"77,164 km",2nd Owner,Petrol,MH-17,"6,139/month","3,14,000","Rupa Renaissance, Navi Mumbai",Mumbai
+94,2017 Honda WR-V,1.2L I-VTEC VX MT,Manual,"32,037 km",2nd Owner,Petrol,MH-02,"12,766/month","6,53,000","Mulund, Mumbai",Mumbai
+95,2021 Tata NEXON,XMA SUNROOF DIESEL,Automatic,"32,247 km",2nd Owner,Diesel,MH-03,"18,653/month","9,80,000","Goregaon, Mumbai",Mumbai
+96,2015 Hyundai i20 Active,1.4 SX,Manual,"1,04,874 km",2nd Owner,Diesel,MH-43,"9,873/month","5,05,000","Mulund, Mumbai",Mumbai
+97,2019 Volkswagen Polo,HIGHLINE PLUS 1.0,Manual,"34,054 km",1st Owner,Petrol,MH-01,"14,975/month","7,66,000","Mulund, Mumbai",Mumbai
+98,2017 Maruti Ertiga,VDI SHVS,Manual,"64,470 km",1st Owner,Diesel,MH-46,"16,769/month","8,81,000","Goregaon, Mumbai",Mumbai
+99,2015 Volkswagen Polo,GT TSI AT,Automatic,"97,181 km",2nd Owner,Petrol,MH-03,"10,714/month","5,48,000","Mulund, Mumbai",Mumbai
+100,2016 Honda City,1.5L I-VTEC SV,Manual,"87,241 km",2nd Owner,Petrol,MH-43,"10,635/month","5,44,000","Mulund, Mumbai",Mumbai
+101,2015 Hyundai Elite i20,ASTA 1.2,Manual,"94,868 km",3rd Owner,Petrol,MH-43,"8,152/month","4,17,000","Goregaon, Mumbai",Mumbai
+102,2018 Honda City,1.5L I-VTEC VX,Manual,"32,999 km",1st Owner,Petrol,MH-47,"15,601/month","7,98,000","Rupa Renaissance, Navi Mumbai",Mumbai
+103,2018 Tata NEXON,XZA PLUS PETROL,Automatic,"13,351 km",2nd Owner,Petrol,MH-03,"15,484/month","7,92,000","Mulund, Mumbai",Mumbai
+104,2019 Maruti New Wagon-R,VXI 1.0 AMT,Automatic,"12,413 km",1st Owner,Petrol,MH-02,"10,929/month","5,59,000","Goregaon, Mumbai",Mumbai
+105,2015 Maruti Celerio,VXI,Manual,"77,422 km",1st Owner,Petrol,MH-04,"6,803/month","3,48,000","Goregaon, Mumbai",Mumbai
+106,2017 Jeep Compass,LIMITED 1.4 PETROL AT,Automatic,"95,540 km",1st Owner,Petrol,MH-02,"20,328/month","10,68,000","Mulund, Mumbai",Mumbai
+107,2013 Maruti Swift Dzire,ZDI,Manual,"72,726 km",2nd Owner,Diesel,MH-03,"9,716/month","4,97,000","Mulund, Mumbai",Mumbai
+108,2016 Hyundai Xcent,S 1.2,Manual,"35,468 km",1st Owner,Petrol,MH-04,"8,524/month","4,36,000","Rupa Renaissance, Navi Mumbai",Mumbai
+109,2017 Hyundai Verna,1.6 VTVT SX AT,Automatic,"15,504 km",1st Owner,Petrol,MH-43,"15,269/month","7,81,000","Goregaon, Mumbai",Mumbai
+110,2019 Hyundai Elite i20,MAGNA PLUS 1.2,Manual,"9,311 km",2nd Owner,Petrol,MH-04,"11,316/month","5,78,800","Mulund, Mumbai",Mumbai
+111,2020 Hyundai GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT CNG,Manual,"59,263 km",1st Owner,CNG,MH-47,"13,255/month","6,78,000","Rupa Renaissance, Navi Mumbai",Mumbai
+112,2021 Renault Kwid,RXT 1.0 AMT (O),Automatic,"21,575 km",1st Owner,Petrol,MH-05,"9,658/month","4,94,000","Goregaon, Mumbai",Mumbai
+113,2017 Hyundai Elite i20,MAGNA EXECUTIVE 1.2,Manual,"12,497 km",1st Owner,Petrol,MH-03,"11,378/month","5,82,000","Mulund, Mumbai",Mumbai
+114,2011 Hyundai i10,SPORTZ 1.2,Manual,"50,394 km",2nd Owner,Petrol,MH-03,"4,751/month","2,43,000","Mulund, Mumbai",Mumbai
+115,2015 Maruti Swift Dzire,VXI,Manual,"61,960 km",2nd Owner,Petrol,MH-08,"9,325/month","4,77,000","Rupa Renaissance, Navi Mumbai",Mumbai
+116,2018 Tata TIGOR,XZA PETROL,Automatic,"1,16,384 km",1st Owner,Petrol,MH-43,"9,169/month","4,69,000","Rupa Renaissance, Navi Mumbai",Mumbai
+117,2014 Honda City,1.5L I-VTEC SV,Manual,"47,970 km",1st Owner,Petrol,MH-01,"9,228/month","4,72,000","Rupa Renaissance, Navi Mumbai",Mumbai
+118,2014 Honda City,1.5L I-VTEC SV CVT,Automatic,"55,320 km",1st Owner,Petrol,MH-02,"9,697/month","4,96,000","Goregaon, Mumbai",Mumbai
+119,2016 Hyundai Creta,SX PLUS 1.6 PETROL DUAL TONE,Manual,"68,240 km",1st Owner,Petrol,MH-46,"15,542/month","7,95,000","Rupa Renaissance, Navi Mumbai",Mumbai
+120,2016 Hyundai Creta,SX PLUS 1.6 PETROL,Manual,"44,306 km",2nd Owner,Petrol,MH-46,"15,249/month","7,80,000","Mulund, Mumbai",Mumbai
+121,2017 Honda City,1.5L I-DTEC V,Manual,"51,207 km",1st Owner,Diesel,MH-43,"14,389/month","7,36,000","Mulund, Mumbai",Mumbai
+122,2016 Mahindra XUV500,W10 AT,Automatic,"73,804 km",2nd Owner,Diesel,MH-02,"18,539/month","9,74,000","Mulund, Mumbai",Mumbai
+123,2018 Hyundai Elite i20,ASTA 1.2  CVT,Automatic,"62,469 km",2nd Owner,Petrol,MH-20,"13,900/month","7,11,000","Mulund, Mumbai",Mumbai
+124,2017 Maruti Celerio,VXI CNG,Manual,"48,474 km",2nd Owner,CNG,MH-43,"8,778/month","4,49,000","Mulund, Mumbai",Mumbai
+125,2015 Volkswagen Polo,GT TSI AT,Automatic,"95,952 km",1st Owner,Petrol,MH-02,"10,889/month","5,57,000","Mulund, Mumbai",Mumbai
+126,2016 Maruti Vitara Brezza,VDI,Manual,"98,661 km",1st Owner,Diesel,MH-46,"13,196/month","6,75,000","Goregaon, Mumbai",Mumbai
+127,2018 Hyundai Elite i20,SPORTZ 1.2,Manual,"21,409 km",1st Owner,Petrol,MH-04,"11,437/month","5,85,000","Mulund, Mumbai",Mumbai
+128,2016 Hyundai Creta,SX PLUS 1.6 PETROL,Manual,"1,18,621 km",1st Owner,Petrol,MH-02,"15,621/month","7,99,000","Goregaon, Mumbai",Mumbai
+129,2014 Skoda Octavia,ELEGANCE 1.8 TSI AT,Automatic,"55,319 km",1st Owner,Petrol,MH-01,"14,369/month","7,35,000","Rupa Renaissance, Navi Mumbai",Mumbai
+130,2021 Hyundai Verna,SX (O) 1.5 CRDI,Manual,"48,612 km",1st Owner,Diesel,MH-04,"27,124/month","14,25,000","Goregaon, Mumbai",Mumbai
+131,2017 Maruti Celerio,VXI CNG,Manual,"82,305 km",1st Owner,CNG,MH-03,"8,231/month","4,21,000","Mulund, Mumbai",Mumbai
+132,2022 Toyota URBAN CRUISER,PREMIUM GRADE MT,Manual,"12,970 km",1st Owner,Petrol,MH-20,"19,034/month","10,00,000","Mulund, Mumbai",Mumbai
+133,2021 Tata ALTROZ,XZ DIESEL,Manual,"40,923 km",1st Owner,Diesel,MH-29,"15,456/month","8,12,000","Goregaon, Mumbai",Mumbai
+134,2014 Honda City,S MT PETROL,Manual,"37,911 km",1st Owner,Petrol,MH-02,"9,775/month","5,00,000","Goregaon, Mumbai",Mumbai
+135,2015 Maruti Wagon R 1.0,VXI AMT,Automatic,"23,587 km",2nd Owner,Petrol,MH-06,"7,038/month","3,60,000","Rupa Renaissance, Navi Mumbai",Mumbai
+136,2019 Volkswagen Polo,HIGHLINE PLUS 1.0,Manual,"15,966 km",1st Owner,Petrol,MH-46,"15,327/month","7,84,000","Goregaon, Mumbai",Mumbai
+137,2018 Mahindra XUV500,W9 AT,Automatic,"56,028 km",1st Owner,Diesel,MH-05,"25,639/month","13,47,000","Goregaon, Mumbai",Mumbai
+138,2017 Hyundai Elite i20,SPORTZ 1.2,Manual,"25,660 km",1st Owner,Petrol,MH-05,"10,577/month","5,41,000","Goregaon, Mumbai",Mumbai
+139,2014 Volkswagen Jetta,HIGHLINE TDI AT,Automatic,"74,235 km",2nd Owner,Diesel,MH-02,"14,115/month","7,22,000","Mulund, Mumbai",Mumbai
+140,2014 Maruti Swift,VXI,Manual,"31,946 km",1st Owner,Petrol,MH-05,"7,898/month","4,04,000","Mulund, Mumbai",Mumbai
+141,2017 Hyundai i20 Active,1.2 SX,Manual,"33,069 km",1st Owner,Petrol,MH-47,"11,711/month","5,99,000","Rupa Renaissance, Navi Mumbai",Mumbai
+142,2015 Honda CRV,2.0L I-VTEC 2WD AT,Automatic,"54,873 km",2nd Owner,Petrol,MH-03,"18,349/month","9,64,000","Mulund, Mumbai",Mumbai
+143,2015 Maruti Wagon R 1.0,VXI,Manual,"21,598 km",1st Owner,Petrol,MH-47,"6,901/month","3,53,000","Goregaon, Mumbai",Mumbai
+144,2022 Hyundai GRAND I10 NIOS,SPORTZ 1.2 KAPPA VTVT,Manual,"3,173 km",1st Owner,Petrol,MH-48,"13,587/month","6,95,000","Rupa Renaissance, Navi Mumbai",Mumbai
+145,2017 Maruti Dzire,VXI AMT,Automatic,"91,384 km",2nd Owner,Petrol,MH-01,"10,342/month","5,29,000","Rupa Renaissance, Navi Mumbai",Mumbai
+146,2019 Hyundai Creta,SX AT 1.6 PETROL,Automatic,"19,722 km",2nd Owner,Petrol,MH-47,"23,907/month","12,56,000","Mulund, Mumbai",Mumbai
+147,2016 Maruti Baleno,ZETA CVT PETROL 1.2,Automatic,"71,469 km",1st Owner,Petrol,MH-01,"10,440/month","5,34,000","Rupa Renaissance, Navi Mumbai",Mumbai
+148,2017 Maruti Celerio X,ZXI (O),Manual,"24,100 km",1st Owner,Petrol,MH-04,"8,524/month","4,36,000","Mulund, Mumbai",Mumbai
+149,2017 Hyundai Creta,E PLUS 1.6 PETROL,Manual,"57,758 km",1st Owner,Petrol,MH-03,"15,551/month","8,17,000","Goregaon, Mumbai",Mumbai
+150,2019 Toyota Corolla Altis,VL CVT PETROL,Automatic,"27,019 km",1st Owner,Petrol,MH-04,"26,667/month","14,01,000","Goregaon, Mumbai",Mumbai
+151,2021 Tata ALTROZ,XZ 1.5 RTQ,Manual,"43,444 km",1st Owner,Diesel,MH-03,"16,674/month","8,76,000","Mulund, Mumbai",Mumbai
+152,2014 Honda City,1.5L I-DTEC SV,Manual,"95,389 km",2nd Owner,Diesel,MH-02,"8,798/month","4,50,000","Goregaon, Mumbai",Mumbai
+153,2019 Hyundai New Elantra,2.0 SX(O) AT PETROL,Automatic,"43,333 km",2nd Owner,Petrol,MH-47,"24,782/month","13,02,000","Goregaon, Mumbai",Mumbai
+154,2017 Honda City,1.5L I-VTEC VX,Manual,"18,069 km",2nd Owner,Petrol,MH-05,"15,249/month","7,80,000","Mulund, Mumbai",Mumbai
+155,2016 Honda City,1.5L I-VTEC VX (O) MT,Manual,"91,750 km",2nd Owner,Petrol,MH-43,"11,241/month","5,75,000","Mulund, Mumbai",Mumbai
+156,2019 Toyota Glanza,V CVT,Automatic,"27,355 km",1st Owner,Petrol,MH-02,"15,288/month","7,82,000","Rupa Renaissance, Navi Mumbai",Mumbai
+157,2017 Maruti Ciaz,ALPHA  AT 1.4  PETROL,Automatic,"40,916 km",1st Owner,Petrol,MH-02,"12,238/month","6,26,000","Rupa Renaissance, Navi Mumbai",Mumbai
+158,2012 Maruti Swift Dzire,VXI,Manual,"29,634 km",1st Owner,Petrol,MH-02,"7,449/month","3,81,000","Rupa Renaissance, Navi Mumbai",Mumbai
+159,2016 Hyundai Elite i20,SPORTZ 1.2,Manual,"29,220 km",2nd Owner,Petrol,MH-02,"9,560/month","4,89,000","Goregaon, Mumbai",Mumbai
+160,2019 Honda Civic,ZX CVT PETROL,Automatic,"24,520 km",1st Owner,Petrol,MH-01,"32,453/month","17,05,000","Goregaon, Mumbai",Mumbai
+161,2015 Hyundai Elite i20,ASTA 1.2,Manual,"27,615 km",3rd Owner,Petrol,MH-02,"9,638/month","4,93,000","Goregaon, Mumbai",Mumbai
+162,2012 Honda Jazz,1.2L I-VTEC X,Manual,"37,810 km",1st Owner,Petrol,MH-48,"5,885/month","3,01,000","Rupa Renaissance, Navi Mumbai",Mumbai
+163,2013 Maruti Wagon R 1.0,VXI,Manual,"77,907 km",1st Owner,Petrol,MH-46,"5,728/month","2,93,000","Mulund, Mumbai",Mumbai
+164,2019 Maruti Baleno,ZETA PETROL 1.2,Manual,"42,113 km",2nd Owner,Petrol,MH-04,"11,711/month","5,99,000","Goregaon, Mumbai",Mumbai
+165,2019 Tata TIGOR,XM DIESEL,Manual,"20,104 km",2nd Owner,Diesel,MH-06,"12,258/month","6,27,000","Mulund, Mumbai",Mumbai
+166,2019 MG HECTOR,SHARP 1.5 DCT PETROL,Automatic,"48,015 km",1st Owner,Petrol,MH-48,"28,703/month","15,08,000","Goregaon, Mumbai",Mumbai
+167,2019 Maruti New Wagon-R,ZXI 1.2,Manual,"59,120 km",1st Owner,Petrol,MH-05,"10,205/month","5,22,000","Goregaon, Mumbai",Mumbai
+168,2016 Maruti Swift Dzire,VXI,Manual,"55,632 km",1st Owner,Petrol,MH-47,"9,599/month","4,91,000","Mulund, Mumbai",Mumbai
+169,2017 Honda City,1.5L I-VTE V CVT,Automatic,"72,515 km",2nd Owner,Petrol,MH-01,"15,288/month","7,82,000","Goregaon, Mumbai",Mumbai
+170,2018 Ford Ecosport,TITANIUM 1.5L DIESEL,Manual,"22,286 km",1st Owner,Diesel,MH-04,"15,582/month","7,97,000","Goregaon, Mumbai",Mumbai
+171,2017 Hyundai Elite i20,ASTA 1.2,Manual,"40,373 km",2nd Owner,Petrol,MH-46,"10,127/month","5,18,000","Mulund, Mumbai",Mumbai
+172,2019 Honda Amaze,1.5L I-DTEC VX CVT,Automatic,"55,103 km",2nd Owner,Diesel,MH-01,"14,799/month","7,57,000","Goregaon, Mumbai",Mumbai
+173,2015 Hyundai i20 Active,1.2 S,Manual,"51,536 km",1st Owner,Petrol,MH-05,"10,498/month","5,37,000","Goregaon, Mumbai",Mumbai
+174,2021 Maruti Swift,VXI,Manual,"44,220 km",1st Owner,Petrol,MH-06,"12,571/month","6,43,000","Mulund, Mumbai",Mumbai
+175,2016 Hyundai Verna,1.6 VTVT SX AT,Automatic,"41,188 km",1st Owner,Petrol,MH-01,"13,411/month","6,86,000","Mulund, Mumbai",Mumbai
+176,2018 Hyundai Verna,1.6 VTVT SX (O) AT,Automatic,"35,765 km",1st Owner,Petrol,MH-47,"16,883/month","8,87,000","Mulund, Mumbai",Mumbai
+177,2021 Hyundai Verna,SX 1.5 VTVT,Manual,"15,862 km",2nd Owner,Petrol,MH-08,"19,396/month","10,19,000","Goregaon, Mumbai",Mumbai
+178,2019 Maruti IGNIS,ZETA 1.2 AMT,Automatic,"11,396 km",1st Owner,Petrol,MH-46,"11,808/month","6,04,000","Rupa Renaissance, Navi Mumbai",Mumbai
+179,2015 Honda City,VX MT PETROL,Manual,"66,020 km",2nd Owner,Petrol,MH-48,"11,163/month","5,71,000","Mulund, Mumbai",Mumbai
+180,2018 Maruti Baleno,ZETA PETROL 1.2,Manual,"18,335 km",1st Owner,Petrol,MH-02,"11,691/month","5,98,000","Rupa Renaissance, Navi Mumbai",Mumbai
+181,2020 Maruti Baleno,ALPHA PETROL 1.2,Manual,"20,297 km",1st Owner,Petrol,MH-03,"15,269/month","7,81,000","Mulund, Mumbai",Mumbai
+182,2013 Maruti Swift Dzire,VXI,Manual,"55,225 km",1st Owner,Petrol,MH-05,"8,270/month","4,23,000","Mulund, Mumbai",Mumbai
+183,2017 Hyundai Creta,SX PLUS 1.6 DIESEL,Manual,"42,736 km",2nd Owner,Diesel,MH-05,"19,205/month","10,09,000","Mulund, Mumbai",Mumbai
+184,2017 Hyundai Grand i10,ASTA U2 1.2 CRDI,Manual,"79,192 km",1st Owner,Diesel,MH-49,"9,892/month","5,06,000","Mulund, Mumbai",Mumbai
+185,2018 Tata TIGOR,XZA PETROL,Automatic,"37,241 km",1st Owner,Petrol,MH-02,"10,694/month","5,47,000","Goregaon, Mumbai",Mumbai
+186,2017 Volkswagen Polo,GT TSI AT,Automatic,"1,03,619 km",1st Owner,Petrol,MH-47,"12,727/month","6,51,000","Goregaon, Mumbai",Mumbai
+187,2015 Hyundai Elite i20,ASTA 1.2,Manual,"29,783 km",1st Owner,Petrol,MH-01,"10,225/month","5,23,000","Rupa Renaissance, Navi Mumbai",Mumbai
+188,2016 Maruti Celerio,ZXI,Manual,"63,848 km",2nd Owner,Petrol,MH-01,"7,605/month","3,89,000","Mulund, Mumbai",Mumbai
+189,2016 Hyundai Verna,1.6 CRDI SX,Manual,"61,875 km",1st Owner,Diesel,MH-47,"14,682/month","7,51,000","Mulund, Mumbai",Mumbai
+190,2012 Maruti Wagon R 1.0,LXI CNG,Manual,"48,766 km",1st Owner,CNG,MH-46,"6,041/month","3,09,000","Goregaon, Mumbai",Mumbai
+191,2017 Maruti Celerio,VXI (O) CNG,Manual,"77,788 km",2nd Owner,CNG,MH-46,"8,192/month","4,19,000","Goregaon, Mumbai",Mumbai
+192,2020 Hyundai AURA,S 1.2 CNG,Manual,"17,931 km",1st Owner,CNG,MH-05,"14,448/month","7,39,000","Rupa Renaissance, Navi Mumbai",Mumbai
+193,2017 Maruti Wagon R 1.0,VXI + (O) AMT,Automatic,"14,821 km",1st Owner,Petrol,MH-03,"9,658/month","4,94,000","Rupa Renaissance, Navi Mumbai",Mumbai
+194,2015 Maruti Celerio,VXI AMT,Automatic,"27,823 km",1st Owner,Petrol,MH-04,"8,035/month","4,11,000","Goregaon, Mumbai",Mumbai
+195,2016 Volkswagen Vento,HIGHLINE 1.5 AT,Automatic,"1,17,097 km",1st Owner,Diesel,MH-47,"11,730/month","6,00,000","Mulund, Mumbai",Mumbai
+196,2019 Ford Ecosport,TREND + 1.5L PETROL AT,Automatic,"34,446 km",2nd Owner,Petrol,MH-02,"13,724/month","7,02,000","Goregaon, Mumbai",Mumbai
+197,2017 Honda City,1.5L I-VTEC SV,Manual,"36,486 km",2nd Owner,Petrol,MH-46,"12,688/month","6,49,000","Goregaon, Mumbai",Mumbai
+198,2017 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"45,931 km",1st Owner,Petrol,MH-04,"8,113/month","4,15,000","Goregaon, Mumbai",Mumbai
+199,2015 Maruti Ciaz,ZXI AT,Automatic,"87,249 km",1st Owner,Petrol,MH-06,"11,359/month","5,81,000","Goregaon, Mumbai",Mumbai
+200,2017 Maruti Dzire,VDI AMT,Automatic,"43,440 km",2nd Owner,Diesel,MH-48,"13,920/month","7,12,000","Rupa Renaissance, Navi Mumbai",Mumbai
+201,2021 Mahindra XUV500,W7,Manual,"52,619 km",1st Owner,Diesel,MH-14,"25,087/month","13,18,000","Mulund, Mumbai",Mumbai
+202,2017 Maruti Dzire,ZXI PLUS,Manual,"30,881 km",2nd Owner,Petrol,MH-02,"11,945/month","6,11,000","Mulund, Mumbai",Mumbai
+203,2019 Hyundai GRAND I10 NIOS,ASTA 1.2 KAPPA VTVT,Manual,"15,742 km",1st Owner,Petrol,MH-20,"14,252/month","7,29,000","Mulund, Mumbai",Mumbai
+204,2018 Maruti Ciaz,ALPHA  AT 1.5 SHVS PETROL,Automatic,"29,857 km",2nd Owner,Petrol,MH-01,"15,269/month","7,81,000","Rupa Renaissance, Navi Mumbai",Mumbai
+205,2018 Maruti Dzire,VXI,Manual,"57,006 km",1st Owner,Petrol,MH-48,"11,808/month","6,04,000","Rupa Renaissance, Navi Mumbai",Mumbai
+206,2017 Maruti Dzire,ZDI,Manual,"64,908 km",1st Owner,Diesel,MH-02,"13,744/month","7,03,000","Goregaon, Mumbai",Mumbai
+207,2015 Hyundai Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,"23,532 km",2nd Owner,Petrol,MH-05,"7,253/month","3,71,000","Goregaon, Mumbai",Mumbai
+208,2016 Maruti Celerio,VXI CNG,Manual,"1,00,882 km",1st Owner,CNG,MH-01,"7,976/month","4,08,000","Goregaon, Mumbai",Mumbai
+209,2017 Hyundai Grand i10,ASTA 1.2 KAPPA VTVT,Manual,"26,020 km",1st Owner,Petrol,MH-05,"11,359/month","5,81,000","Mulund, Mumbai",Mumbai
+210,2017 Hyundai Creta,E PLUS 1.6 PETROL,Manual,"31,097 km",2nd Owner,Petrol,MH-01,"15,406/month","7,88,000","Rupa Renaissance, Navi Mumbai",Mumbai
+211,2014 Honda City,1.5L I-VTEC VX CVT,Automatic,"28,419 km",2nd Owner,Petrol,MH-12,"11,496/month","5,88,000","Goregaon, Mumbai",Mumbai
+212,2022 Tata NEXON,XM SUNROOF DIESEL,Manual,"74,072 km",1st Owner,Diesel,MH-02,"18,463/month","9,70,000","Mulund, Mumbai",Mumbai
+213,2018 Tata NEXON,XM PETROL,Manual,"25,414 km",2nd Owner,Petrol,MH-01,"12,590/month","6,44,000","Mulund, Mumbai",Mumbai
+214,2017 Hyundai i20 Active,1.2 S,Manual,"25,467 km",1st Owner,Petrol,MH-04,"11,613/month","5,94,000","Mulund, Mumbai",Mumbai
+215,2016 Maruti Baleno,DELTA PETROL 1.2,Manual,"36,624 km",1st Owner,Petrol,MH-47,"9,775/month","5,00,000","Goregaon, Mumbai",Mumbai
+216,2012 Honda City,1.5L I-VTEC V MT,Manual,"43,073 km",1st Owner,Petrol,MH-43,"8,192/month","4,19,000","Mulund, Mumbai",Mumbai
+217,2015 Hyundai Verna,FLUIDIC 4S 1.6 VTVT S AT,Automatic,"45,203 km",1st Owner,Petrol,MH-02,"12,278/month","6,28,000","Mulund, Mumbai",Mumbai
+218,2019 Hyundai VENUE,SX PLUS 1.0 TURBO DCT,Automatic,"23,979 km",1st Owner,Petrol,MH-03,"19,072/month","10,02,000","Goregaon, Mumbai",Mumbai
+219,2015 Maruti Ciaz,VXI,Manual,"77,739 km",2nd Owner,Petrol,MH-15,"10,166/month","5,20,000","Goregaon, Mumbai",Mumbai
+220,2017 Maruti S Cross,ZETA 1.3,Manual,"65,275 km",2nd Owner,Diesel,MH-05,"13,255/month","6,78,000","Goregaon, Mumbai",Mumbai
+221,2015 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"11,706 km",1st Owner,Petrol,MH-01,"8,152/month","4,17,000","Mulund, Mumbai",Mumbai
+222,2011 Hyundai i10,SPORTZ 1.2,Manual,"27,091 km",1st Owner,Petrol,MH-02,"5,083/month","2,60,000","Goregaon, Mumbai",Mumbai
+223,2017 Honda Jazz,1.2L I-VTEC V AT,Automatic,"29,689 km",1st Owner,Petrol,MH-05,"11,671/month","5,97,000","Mulund, Mumbai",Mumbai
+224,2021 Maruti Alto,VXI,Manual,"16,858 km",1st Owner,Petrol,MH-03,"7,507/month","3,84,000","Goregaon, Mumbai",Mumbai
+225,2015 Maruti Baleno,ALPHA PETROL 1.2,Manual,"44,710 km",2nd Owner,Petrol,MH-01,"9,853/month","5,04,000","Rupa Renaissance, Navi Mumbai",Mumbai
+226,2018 Maruti Dzire,VXI,Manual,"66,754 km",1st Owner,Petrol,MH-01,"11,652/month","5,96,000","Rupa Renaissance, Navi Mumbai",Mumbai
+227,2018 Honda WR-V,1.2L I-VTEC VX MT,Manual,"44,113 km",1st Owner,Petrol,MH-02,"13,861/month","7,09,000","Goregaon, Mumbai",Mumbai
+228,2017 Honda Amaze,1.2L I-VTEC VX AT,Automatic,"46,263 km",1st Owner,Petrol,MH-47,"11,280/month","5,77,000","Goregaon, Mumbai",Mumbai
+229,2013 Maruti Swift Dzire,ZXI,Manual,"45,873 km",2nd Owner,Petrol,MH-03,"8,074/month","4,13,000","Mulund, Mumbai",Mumbai
+230,2017 Honda City,1.5L I-VTEC V MT,Manual,"88,319 km",1st Owner,Petrol,MH-03,"13,060/month","6,68,000","Rupa Renaissance, Navi Mumbai",Mumbai
+231,2016 Hyundai Grand i10,ASTA 1.2 KAPPA VTVT,Manual,"31,369 km",1st Owner,Petrol,MH-46,"8,974/month","4,59,000","Goregaon, Mumbai",Mumbai
+232,2020 Mahindra KUV 100 NXT,K8 6 STR,Manual,"15,049 km",1st Owner,Petrol,MH-05,"13,040/month","6,67,000","Goregaon, Mumbai",Mumbai
+233,2016 Maruti Ciaz,VXI+,Manual,"63,847 km",1st Owner,Petrol,MH-05,"10,968/month","5,61,000","Goregaon, Mumbai",Mumbai
+234,2017 Maruti IGNIS,DELTA 1.2,Manual,"75,447 km",1st Owner,Petrol,MH-15,"8,798/month","4,50,000","Rupa Renaissance, Navi Mumbai",Mumbai
+235,2016 Hyundai Xcent,S 1.2,Manual,"57,127 km",1st Owner,Petrol,MH-47,"8,211/month","4,20,000","Mulund, Mumbai",Mumbai
+236,2019 Hyundai Elite i20,ASTA 1.4 CRDI (O),Manual,"81,099 km",1st Owner,Diesel,MH-46,"15,093/month","7,72,000","Goregaon, Mumbai",Mumbai
+237,2013 Hyundai Grand i10,ASTA (O) 1.2 KAPPA VTVT,Manual,"1,07,737 km",2nd Owner,Petrol,MH-02,"6,471/month","3,31,000","Mulund, Mumbai",Mumbai
+238,2022 Maruti Dzire,VXI AMT,Automatic,"17,821 km",1st Owner,Petrol,MH-04,"15,112/month","7,73,000","Mulund, Mumbai",Mumbai
+239,2019 Mahindra XUV 3OO,W8 (O) 1.5 DIESEL,Manual,"56,180 km",1st Owner,Diesel,MH-01,"18,235/month","9,58,000","Mulund, Mumbai",Mumbai
+240,2020 Tata Tiago,XZ PLUS PETROL,Manual,"45,364 km",1st Owner,Petrol,MH-47,"10,889/month","5,57,000","Rupa Renaissance, Navi Mumbai",Mumbai
+241,2019 MG HECTOR,SHARP 1.5 DCT PETROL,Automatic,"27,369 km",1st Owner,Petrol,MH-46,"30,455/month","16,00,000","Mulund, Mumbai",Mumbai
+242,2016 Hyundai Creta,BASE 1.6 PETROL,Manual,"65,117 km",1st Owner,Petrol,MH-02,"15,210/month","7,78,000","Mulund, Mumbai",Mumbai
+243,2015 Honda City,1.5L I-VTEC VX CVT,Automatic,"1,14,892 km",1st Owner,Petrol,MH-01,"12,786/month","6,54,000","Goregaon, Mumbai",Mumbai
+244,2019 Honda Amaze,1.2L I-VTEC VX,Manual,"14,014 km",1st Owner,Petrol,MH-03,"13,509/month","6,91,000","Mulund, Mumbai",Mumbai
+245,2017 Maruti Wagon R 1.0,VXI + (O) AMT,Automatic,"21,940 km",1st Owner,Petrol,MH-01,"8,798/month","4,50,000","Goregaon, Mumbai",Mumbai
+246,2018 Honda Jazz,1.2L I-VTEC SV,Manual,"24,575 km",1st Owner,Petrol,MH-04,"10,694/month","5,47,000","Mulund, Mumbai",Mumbai
+247,2011 Maruti Wagon R 1.0,LXI,Manual,"45,090 km",1st Owner,Petrol,MH-05,"4,457/month","2,28,000","Mulund, Mumbai",Mumbai
+248,2012 Hyundai i20,SPORTZ 1.4 CRDI,Manual,"1,21,435 km",1st Owner,Diesel,MH-03,"6,999/month","3,58,000","Mulund, Mumbai",Mumbai
+249,2015 Maruti Alto 800,LXI,Manual,"18,623 km",1st Owner,Petrol,MH-05,"5,455/month","2,79,000","Goregaon, Mumbai",Mumbai
+250,2017 Maruti Ertiga,VDI SHVS,Manual,"1,04,754 km",1st Owner,Diesel,MH-02,"15,551/month","8,17,000","Mulund, Mumbai",Mumbai
+251,2017 Maruti Swift,VXI,Manual,"9,675 km",1st Owner,Petrol,MH-05,"10,479/month","5,36,000","Rupa Renaissance, Navi Mumbai",Mumbai
+252,2012 Honda Brio,S MT,Manual,"62,731 km",1st Owner,Petrol,MH-01,"5,376/month","2,75,000","Goregaon, Mumbai",Mumbai
+253,2018 Maruti Alto K10,VXI (O),Manual,"11,638 km",1st Owner,Petrol,MH-43,"7,273/month","3,72,000","Goregaon, Mumbai",Mumbai
+254,2014 Toyota Etios,V,Manual,"61,614 km",2nd Owner,Petrol,MH-12,"9,130/month","4,67,000","Mulund, Mumbai",Mumbai
+255,2019 Maruti Dzire,ZXI PLUS,Manual,"60,804 km",1st Owner,Petrol,MH-15,"13,881/month","7,10,000","Goregaon, Mumbai",Mumbai
+256,2015 Hyundai Creta,SX PLUS 1.6 PETROL,Manual,"45,212 km",1st Owner,Petrol,MH-03,"15,437/month","8,11,000","Mulund, Mumbai",Mumbai
+257,2013 Maruti Swift Dzire,VXI,Manual,"57,978 km",1st Owner,Petrol,MH-01,"7,585/month","3,88,000","Rupa Renaissance, Navi Mumbai",Mumbai
+258,2013 Maruti Swift,VXI,Manual,"29,486 km",1st Owner,Petrol,MH-03,"6,803/month","3,48,000","Mulund, Mumbai",Mumbai
+259,2016 Hyundai Creta,E PLUS 1.6 PETROL,Manual,"52,891 km",1st Owner,Petrol,MH-47,"14,174/month","7,25,000","Mulund, Mumbai",Mumbai
+260,2018 Hyundai NEW SANTRO,MAGNA CNG,Manual,"50,058 km",2nd Owner,CNG,MH-43,"8,837/month","4,52,000","Goregaon, Mumbai",Mumbai
+261,2020 Maruti S PRESSO,VXI (O) CNG,Manual,"41,047 km",1st Owner,CNG,MH-05,"9,501/month","4,86,000","Rupa Renaissance, Navi Mumbai",Mumbai
+262,2016 Honda City,1.5L I-VTEC V MT,Manual,"50,488 km",2nd Owner,Petrol,MH-01,"12,864/month","6,58,000","Mulund, Mumbai",Mumbai
+263,2017 Hyundai Grand i10,ASTA 1.2 KAPPA VTVT,Manual,"1,00,006 km",2nd Owner,Petrol,MH-12,"9,814/month","5,02,000","Mulund, Mumbai",Mumbai
+264,2015 Volkswagen Polo,GT TSI AT,Automatic,"77,307 km",2nd Owner,Petrol,MH-11,"10,929/month","5,59,000","Goregaon, Mumbai",Mumbai
+265,2020 Maruti IGNIS,ALPHA 1.2 AMT,Automatic,"35,980 km",1st Owner,Petrol,MH-02,"12,317/month","6,30,000","Mulund, Mumbai",Mumbai
+266,2017 Hyundai New Elantra,1.6 SX AT O,Automatic,"47,598 km",1st Owner,Diesel,MH-08,"28,266/month","14,85,000","Mulund, Mumbai",Mumbai
+267,2020 Hyundai New Elantra,1.5 SX (O) AT DIESEL,Automatic,"47,604 km",1st Owner,Diesel,MH-05,"32,130/month","16,88,000","Goregaon, Mumbai",Mumbai
+268,2017 Hyundai Creta,E PLUS 1.6 PETROL,Manual,"25,217 km",1st Owner,Petrol,MH-47,"16,312/month","8,57,000","Goregaon, Mumbai",Mumbai
+269,2013 Maruti Wagon R 1.0,LXI CNG,Manual,"39,460 km",1st Owner,CNG,MH-01,"6,667/month","3,41,000","Goregaon, Mumbai",Mumbai
+270,2015 Hyundai Creta,1.6 SX CRDI,Manual,"86,667 km",1st Owner,Diesel,MH-46,"17,607/month","9,25,000","Goregaon, Mumbai",Mumbai
+271,2022 Tata TIGOR,XZ PLUS CNG,Manual,"13,833 km",1st Owner,CNG,MH-04,"15,475/month","8,13,000","Goregaon, Mumbai",Mumbai
+272,2017 Maruti Ciaz,ALPHA  AT 1.4  PETROL,Automatic,"1,06,136 km",1st Owner,Petrol,MH-43,"11,828/month","6,05,000","Goregaon, Mumbai",Mumbai
+273,2021 Tata NEXON,XZ PLUS PETROL SUNROOF,Manual,"57,685 km",1st Owner,Petrol,MH-04,"19,339/month","10,16,000","Goregaon, Mumbai",Mumbai
+274,2017 Hyundai New Elantra,2.0 SX(O) AT PETROL,Automatic,"98,039 km",1st Owner,Petrol,MH-48,"18,996/month","9,98,000","Mulund, Mumbai",Mumbai
+275,2016 Hyundai Elite i20,ASTA 1.2,Manual,"20,322 km",1st Owner,Petrol,MH-43,"10,753/month","5,50,000","Goregaon, Mumbai",Mumbai
+276,2019 Renault Duster,110 PS RXS 4X2 AMT DIESEL,Automatic,"51,146 km",1st Owner,Diesel,MH-02,"17,016/month","8,94,000","Goregaon, Mumbai",Mumbai
+277,2020 Ford Ecosport,TITANIUM 1.5L SPORTS(SUNROOF) DIESEL,Manual,"39,352 km",1st Owner,Diesel,MH-05,"18,235/month","9,58,000","Rupa Renaissance, Navi Mumbai",Mumbai
+278,2019 Honda City,1.5L I-VTEC V MT,Manual,"45,089 km",1st Owner,Petrol,MH-05,"15,399/month","8,09,000","Rupa Renaissance, Navi Mumbai",Mumbai
+279,2016 Honda Amaze,1.2L I-VTEC SX,Manual,"1,11,247 km",2nd Owner,Petrol,MH-46,"8,465/month","4,33,000","Mulund, Mumbai",Mumbai
+280,2014 Maruti Swift,VXI,Manual,"60,379 km",1st Owner,Petrol,MH-03,"8,543/month","4,37,000","Mulund, Mumbai",Mumbai
+281,2019 Tata NEXON,XM PETROL,Manual,"42,959 km",1st Owner,Petrol,MH-43,"13,666/month","6,99,000","Goregaon, Mumbai",Mumbai
+282,2019 Tata Tiago,XZA PLUS PETROL,Automatic,"20,418 km",1st Owner,Petrol,MH-04,"11,711/month","5,99,000","Goregaon, Mumbai",Mumbai
+283,2017 Maruti Dzire,VDI,Manual,"98,780 km",1st Owner,Diesel,MH-43,"12,864/month","6,58,000","Mulund, Mumbai",Mumbai
+284,2012 Honda Brio,S MT,Manual,"66,571 km",1st Owner,Petrol,MH-48,"5,103/month","2,61,000","Rupa Renaissance, Navi Mumbai",Mumbai
+285,2017 Maruti Swift Dzire,ZXI,Manual,"51,019 km",1st Owner,Petrol,MH-05,"11,828/month","6,05,000","Rupa Renaissance, Navi Mumbai",Mumbai
+286,2015 Hyundai Elite i20,SPORTZ 1.2,Manual,"50,330 km",1st Owner,Petrol,MH-47,"9,873/month","5,05,000","Goregaon, Mumbai",Mumbai
+287,2020 Maruti S Cross,ALPHA AT SMART HYBRID,Automatic,"29,028 km",1st Owner,Petrol,MH-40,"22,213/month","11,67,000","Mulund, Mumbai",Mumbai
+288,2015 Maruti Ciaz,VXI,Manual,"85,560 km",1st Owner,Petrol,MH-01,"9,951/month","5,09,000","Goregaon, Mumbai",Mumbai
+289,2015 Honda Brio,S MT,Manual,"33,574 km",1st Owner,Petrol,MH-03,"7,390/month","3,78,000","Mulund, Mumbai",Mumbai
+290,2021 Maruti S PRESSO,LXI CNG,Manual,"15,286 km",2nd Owner,CNG,MH-04,"9,032/month","4,62,000","Mulund, Mumbai",Mumbai
+291,2018 Maruti Baleno,ZETA CVT PETROL 1.2,Automatic,"25,238 km",1st Owner,Petrol,MH-02,"12,805/month","6,55,000","Rupa Renaissance, Navi Mumbai",Mumbai
+292,2014 Maruti Wagon R 1.0,VXI,Manual,"18,501 km",1st Owner,Petrol,MH-03,"6,843/month","3,50,000","Goregaon, Mumbai",Mumbai
+293,2012 Maruti Swift,VXI,Manual,"1,23,951 km",1st Owner,Petrol,MH-05,"6,315/month","3,23,000","Mulund, Mumbai",Mumbai
+294,2016 Hyundai Verna,1.6 CRDI SX,Manual,"54,470 km",2nd Owner,Diesel,MH-01,"14,506/month","7,42,000","Mulund, Mumbai",Mumbai
+295,2015 Maruti Swift,ZXI,Manual,"52,763 km",1st Owner,Petrol,MH-20,"9,345/month","4,78,000","Goregaon, Mumbai",Mumbai
+296,2020 Maruti Baleno,DELTA PETROL 1.2,Manual,"30,576 km",1st Owner,Petrol,MH-40,"13,216/month","6,76,000","Rupa Renaissance, Navi Mumbai",Mumbai
+297,2018 Renault Duster,RXL PETROL,Manual,"62,021 km",1st Owner,Petrol,MH-02,"13,040/month","6,67,000","Rupa Renaissance, Navi Mumbai",Mumbai
+298,2017 Maruti Baleno,DELTA PETROL 1.2,Manual,"76,028 km",1st Owner,Petrol,MH-05,"10,029/month","5,13,000","Goregaon, Mumbai",Mumbai
+299,2020 Tata NEXON,XZ PLUS DIESEL SUNROOF,Manual,"54,581 km",1st Owner,Diesel,MH-02,"19,148/month","10,06,000","Mulund, Mumbai",Mumbai
+300,2014 Honda CRV,2.4 AWD AT,Automatic,"61,741 km",1st Owner,Petrol,MH-02,"16,959/month","8,91,000","Mulund, Mumbai",Mumbai
+301,2015 Honda City,1.5L I-VTEC SV,Manual,"43,070 km",2nd Owner,Petrol,MH-02,"11,202/month","5,73,000","Goregaon, Mumbai",Mumbai
+302,2015 Honda City,VX CVT PETROL,Automatic,"71,105 km",1st Owner,Petrol,MH-48,"12,121/month","6,20,000","Mulund, Mumbai",Mumbai
+303,2021 Maruti Celerio,VXI (O) CNG,Manual,"58,536 km",1st Owner,CNG,MH-02,"11,202/month","5,73,000","Goregaon, Mumbai",Mumbai
+304,2011 Maruti Wagon R 1.0,VXI,Manual,"18,060 km",1st Owner,Petrol,MH-05,"5,122/month","2,62,000","Mulund, Mumbai",Mumbai
+305,2016 Maruti Ciaz,VXI,Manual,"24,346 km",2nd Owner,Petrol,MH-46,"11,144/month","5,70,000","Rupa Renaissance, Navi Mumbai",Mumbai
+306,2018 Maruti Celerio X,ZXI AMT,Automatic,"28,978 km",2nd Owner,Petrol,MH-01,"9,482/month","4,85,000","Rupa Renaissance, Navi Mumbai",Mumbai
+307,2016 Hyundai Creta,SX PLUS AT 1.6 PETROL,Automatic,"68,353 km",1st Owner,Petrol,MH-04,"18,406/month","9,67,000","Goregaon, Mumbai",Mumbai
+308,2016 Hyundai Grand i10,ASTA 1.2 KAPPA VTVT,Manual,"19,168 km",1st Owner,Petrol,MH-02,"9,365/month","4,79,000","Goregaon, Mumbai",Mumbai
+309,2017 Maruti Wagon R 1.0,LXI CNG,Manual,"74,706 km",1st Owner,CNG,MH-47,"8,152/month","4,17,000","Goregaon, Mumbai",Mumbai
+310,2019 Maruti Alto,LXI CNG,Manual,"88,667 km",1st Owner,CNG,MH-02,"7,625/month","3,90,000","Mulund, Mumbai",Mumbai
+311,2018 Maruti Ciaz,ZETA 1.5 SHVS MT PETROL,Manual,"16,093 km",1st Owner,Petrol,MH-43,"15,406/month","7,88,000","Mulund, Mumbai",Mumbai
+312,2019 Honda Amaze,1.2L I-VTEC V CVT,Automatic,"14,878 km",1st Owner,Petrol,MH-05,"14,565/month","7,45,000","Goregaon, Mumbai",Mumbai
+313,2016 Ford Ecosport,TITANIUM 1.5L PETROL AT,Automatic,"20,137 km",2nd Owner,Petrol,MH-01,"11,750/month","6,01,000","Goregaon, Mumbai",Mumbai
+314,2017 Hyundai Eon,MAGNA PLUS,Manual,"25,727 km",2nd Owner,Petrol,MH-03,"6,843/month","3,50,000","Rupa Renaissance, Navi Mumbai",Mumbai
+315,2019 Hyundai Elite i20,SPORTZ PLUS 1.2,Manual,"47,575 km",2nd Owner,Petrol,MH-06,"12,571/month","6,43,000","Goregaon, Mumbai",Mumbai
+316,2013 Maruti Wagon R Stingray,VXI,Manual,"80,001 km",1st Owner,Petrol,MH-03,"6,432/month","3,29,000","Goregaon, Mumbai",Mumbai
+317,2017 Hyundai Creta,E PLUS 1.6 PETROL,Manual,"60,448 km",1st Owner,Petrol,MH-04,"15,246/month","8,01,000","Rupa Renaissance, Navi Mumbai",Mumbai
+318,2016 Maruti Baleno,ZETA DIESEL 1.3,Manual,"61,183 km",2nd Owner,Diesel,MH-47,"11,241/month","5,75,000","Goregaon, Mumbai",Mumbai
+319,2021 Maruti Dzire,VXI,Manual,"78,582 km",1st Owner,Petrol,MH-02,"13,470/month","6,89,000","Goregaon, Mumbai",Mumbai
+320,2017 Honda City,1.5L I-VTEC ZX CVT,Automatic,"42,503 km",2nd Owner,Petrol,MH-12,"15,210/month","7,78,000","Rupa Renaissance, Navi Mumbai",Mumbai
+321,2017 Hyundai Grand i10,SPORTZ (O) AT 1.2 KAPPA VTVT,Automatic,"62,721 km",1st Owner,Petrol,MH-03,"10,909/month","5,58,000","Rupa Renaissance, Navi Mumbai",Mumbai
+322,2022 Hyundai NEW I20,ASTA (O) 1.2 MT,Manual,"17,575 km",1st Owner,Petrol,MH-03,"18,825/month","9,89,000","Mulund, Mumbai",Mumbai
+323,2020 Maruti S Cross,ALPHA 1.5 SMART HYBRID,Manual,"52,521 km",1st Owner,Petrol,MH-40,"20,157/month","10,59,000","Mulund, Mumbai",Mumbai
+324,2015 Maruti Ciaz,VXI+,Manual,"24,840 km",1st Owner,Petrol,MH-05,"10,948/month","5,60,000","Mulund, Mumbai",Mumbai
+325,2010 Maruti Wagon R 1.0,VXI,Manual,"62,396 km",1st Owner,Petrol,MH-03,"4,379/month","2,24,000","Rupa Renaissance, Navi Mumbai",Mumbai
+326,2018 Hyundai NEW SANTRO,SPORTZ AMT,Automatic,"24,127 km",2nd Owner,Petrol,MH-01,"9,931/month","5,08,000","Goregaon, Mumbai",Mumbai
+327,2021 Maruti Ciaz,ALPHA  AT 1.5 SHVS PETROL,Automatic,"8,740 km",1st Owner,Petrol,MH-46,"19,167/month","10,07,000","Goregaon, Mumbai",Mumbai
+328,2020 Maruti S PRESSO,VXI CNG,Manual,"19,126 km",1st Owner,CNG,MH-46,"9,580/month","4,90,000","Rupa Renaissance, Navi Mumbai",Mumbai
+329,2016 Honda City,1.5L I-VTEC VX CVT,Automatic,"82,845 km",2nd Owner,Petrol,MH-46,"12,669/month","6,48,000","Rupa Renaissance, Navi Mumbai",Mumbai
+330,2017 Hyundai Verna,1.6 VTVT SX (O) AT,Automatic,"56,667 km",1st Owner,Petrol,MH-47,"17,492/month","9,19,000","Rupa Renaissance, Navi Mumbai",Mumbai
+331,2016 Honda City,VX CVT PETROL,Automatic,"61,703 km",1st Owner,Petrol,MH-02,"13,705/month","7,01,000","Goregaon, Mumbai",Mumbai
+332,2016 Maruti Vitara Brezza,ZDI PLUS DUAL TONE,Manual,"73,632 km",2nd Owner,Diesel,MH-04,"14,154/month","7,24,000","Mulund, Mumbai",Mumbai
+333,2020 Maruti Dzire,ZXI Plus AMT,Automatic,"12,583 km",2nd Owner,Petrol,MH-05,"14,448/month","7,39,000","Mulund, Mumbai",Mumbai
+334,2017 Honda City,1.5L I-VTEC VX CVT,Automatic,"62,176 km",1st Owner,Petrol,MH-46,"15,210/month","7,78,000","Goregaon, Mumbai",Mumbai
+335,2017 Maruti Baleno,ZETA PETROL 1.2,Manual,"15,413 km",2nd Owner,Petrol,MH-02,"11,926/month","6,10,000","Goregaon, Mumbai",Mumbai
+336,2014 Hyundai Elite i20,ASTA 1.2,Manual,"45,471 km",2nd Owner,Petrol,MH-01,"9,599/month","4,91,000","Mulund, Mumbai",Mumbai
+337,2021 Tata NEXON,XZ 1.2,Manual,"17,657 km",1st Owner,Petrol,MH-31,"18,006/month","9,46,000","Goregaon, Mumbai",Mumbai
+338,2017 Maruti Baleno,ZETA PETROL 1.2,Manual,"68,949 km",2nd Owner,Petrol,MH-02,"10,714/month","5,48,000","Goregaon, Mumbai",Mumbai
+339,2017 Maruti Dzire,VXI AMT,Automatic,"24,694 km",1st Owner,Petrol,MH-01,"12,414/month","6,35,000","Rupa Renaissance, Navi Mumbai",Mumbai
+340,2018 Maruti Alto 800,VXI,Manual,"17,784 km",1st Owner,Petrol,MH-48,"6,549/month","3,35,000","Goregaon, Mumbai",Mumbai
+341,2021 Maruti Baleno,ZETA CVT PETROL 1.2,Automatic,"6,770 km",1st Owner,Petrol,MH-03,"17,226/month","9,05,000","Goregaon, Mumbai",Mumbai
+342,2019 Maruti Ciaz,ALPHA 1.5 SHVS PETROL,Manual,"16,602 km",1st Owner,Petrol,MH-47,"15,912/month","8,36,000","Goregaon, Mumbai",Mumbai
+343,2014 Hyundai Elite i20,SPORTZ 1.2,Manual,"43,733 km",1st Owner,Petrol,MH-02,"10,049/month","5,14,000","Mulund, Mumbai",Mumbai
+344,2015 Maruti Swift,VXI,Manual,"43,563 km",1st Owner,Petrol,MH-06,"8,876/month","4,54,000","Goregaon, Mumbai",Mumbai
+345,2019 Maruti Baleno,ZETA CVT PETROL 1.2,Automatic,"24,499 km",1st Owner,Petrol,MH-20,"15,665/month","8,23,000","Mulund, Mumbai",Mumbai
+346,2020 Maruti S PRESSO,VXI CNG,Manual,"53,587 km",2nd Owner,CNG,MH-05,"8,661/month","4,43,000","Mulund, Mumbai",Mumbai
+347,2021 Maruti Ciaz,ALPHA 1.5 SHVS PETROL,Manual,"4,756 km",1st Owner,Petrol,MH-47,"17,683/month","9,29,000","Goregaon, Mumbai",Mumbai
+348,2021 Honda Jazz,1.2L I-VTEC ZX CVT,Automatic,"53,546 km",1st Owner,Petrol,MH-46,"15,570/month","8,18,000","Goregaon, Mumbai",Mumbai
+349,2014 Maruti Wagon R 1.0,LXI CNG,Manual,"80,188 km",1st Owner,CNG,MH-02,"6,862/month","3,51,000","Goregaon, Mumbai",Mumbai
+350,2022 Maruti S PRESSO,VXI+,Manual,"4,527 km",1st Owner,Petrol,MH-01,"10,968/month","5,61,000","Goregaon, Mumbai",Mumbai
+351,2020 Maruti Ciaz,S 1.5 MT PETROL,Manual,"42,385 km",2nd Owner,Petrol,MH-40,"17,416/month","9,15,000","Rupa Renaissance, Navi Mumbai",Mumbai
+352,2018 Tata Tiago,XZA PETROL,Automatic,"23,658 km",1st Owner,Petrol,MH-02,"10,127/month","5,18,000","Mulund, Mumbai",Mumbai
+353,2022 Tata NEXON,XZA PLUS (HS) PETROL,Automatic,"6,818 km",1st Owner,Petrol,MH-04,"22,080/month","11,60,000","Goregaon, Mumbai",Mumbai
+354,2017 Maruti Baleno,DELTA PETROL 1.2,Manual,"38,724 km",1st Owner,Petrol,MH-43,"10,166/month","5,20,000","Mulund, Mumbai",Mumbai
+355,2016 Maruti Celerio,VXI CNG,Manual,"70,520 km",2nd Owner,CNG,MH-04,"8,016/month","4,10,000","Goregaon, Mumbai",Mumbai
+356,2019 Honda City,1.5L I-VTE V CVT,Automatic,"17,459 km",1st Owner,Petrol,MH-02,"17,740/month","9,32,000","Rupa Renaissance, Navi Mumbai",Mumbai
+357,2017 Maruti Swift,VXI,Manual,"57,546 km",1st Owner,Petrol,MH-05,"10,166/month","5,20,000","Goregaon, Mumbai",Mumbai
+358,2016 Hyundai Creta,SX PLUS AT 1.6 PETROL,Automatic,"79,576 km",1st Owner,Petrol,MH-01,"17,949/month","9,43,000","Mulund, Mumbai",Mumbai
+359,2014 Maruti Ertiga,VXI CNG,Manual,"58,042 km",2nd Owner,CNG,MH-01,"13,568/month","6,94,000","Rupa Renaissance, Navi Mumbai",Mumbai
+360,2018 Maruti IGNIS,ALPHA 1.2 AMT,Automatic,"55,158 km",2nd Owner,Petrol,MH-01,"11,476/month","5,87,000","Rupa Renaissance, Navi Mumbai",Mumbai
+361,2013 Maruti Swift Dzire,VXI REGAL EDITION,Manual,"50,538 km",1st Owner,Petrol,MH-01,"7,996/month","4,09,000","Mulund, Mumbai",Mumbai
+362,2011 Maruti Wagon R 1.0,LXI,Manual,"38,412 km",1st Owner,Petrol,MH-43,"4,770/month","2,44,000","Rupa Renaissance, Navi Mumbai",Mumbai
+363,2016 Hyundai Creta,SX PLUS AT 1.6 PETROL,Automatic,"65,597 km",1st Owner,Petrol,MH-04,"18,787/month","9,87,000","Goregaon, Mumbai",Mumbai
+364,2020 Maruti S PRESSO,VXI,Manual,"59,204 km",1st Owner,Petrol,MH-14,"7,781/month","3,98,000","Rupa Renaissance, Navi Mumbai",Mumbai
+365,2016 Maruti Baleno,ALPHA PETROL 1.2,Manual,"35,739 km",1st Owner,Petrol,MH-04,"11,554/month","5,91,000","Goregaon, Mumbai",Mumbai
+366,2015 Toyota Etios,V,Manual,"62,741 km",2nd Owner,Petrol,MH-01,"8,387/month","4,29,000","Goregaon, Mumbai",Mumbai
+367,2021 Maruti Baleno,ZETA CVT PETROL 1.2,Automatic,"9,183 km",1st Owner,Petrol,MH-47,"17,016/month","8,94,000","Goregaon, Mumbai",Mumbai
+368,2017 Hyundai Creta,E PLUS 1.6 PETROL,Manual,"47,755 km",2nd Owner,Petrol,MH-01,"15,475/month","8,13,000","Goregaon, Mumbai",Mumbai
+369,2016 Hyundai Creta,SX PLUS AT 1.6 PETROL,Automatic,"18,863 km",1st Owner,Petrol,MH-47,"20,195/month","10,61,000","Goregaon, Mumbai",Mumbai
+370,2019 Maruti Baleno,DELTA CVT PETROL 1.2,Automatic,"5,693 km",1st Owner,Petrol,MH-47,"14,624/month","7,48,000","Goregaon, Mumbai",Mumbai
+371,2019 Tata NEXON,XZA PLUS PETROL,Automatic,"9,848 km",1st Owner,Petrol,MH-47,"17,683/month","9,29,000","Goregaon, Mumbai",Mumbai
+372,2017 Maruti Baleno,ZETA CVT PETROL 1.2,Automatic,"51,536 km",1st Owner,Petrol,MH-48,"11,593/month","5,93,000","Mulund, Mumbai",Mumbai
+373,2014 Maruti Wagon R 1.0,LXI CNG,Manual,"84,895 km",1st Owner,CNG,MH-02,"6,745/month","3,45,000","Mulund, Mumbai",Mumbai
+374,2017 Maruti Swift,VXI,Manual,"30,866 km",1st Owner,Petrol,MH-43,"10,283/month","5,26,000","Mulund, Mumbai",Mumbai
+375,2021 Volkswagen Vento,HIGHLINE PLUS 1.0 TSI AT,Automatic,"18,837 km",1st Owner,Petrol,MH-06,"23,012/month","12,09,000","Goregaon, Mumbai",Mumbai
+376,2018 Tata NEXON,XZA PLUS PETROL,Automatic,"81,247 km",1st Owner,Petrol,MH-05,"14,311/month","7,32,000","Rupa Renaissance, Navi Mumbai",Mumbai
+377,2021 Honda Amaze,1.2L I-VTEC VX CVT,Automatic,"8,973 km",1st Owner,Petrol,MH-02,"16,236/month","8,53,000","Rupa Renaissance, Navi Mumbai",Mumbai
+378,2016 Maruti Wagon R 1.0,VXI AMT,Automatic,"36,056 km",2nd Owner,Petrol,MH-05,"7,722/month","3,95,000","Rupa Renaissance, Navi Mumbai",Mumbai
+379,2016 Maruti Baleno,DELTA PETROL 1.2,Manual,"51,002 km",2nd Owner,Petrol,MH-43,"9,853/month","5,04,000","Goregaon, Mumbai",Mumbai
+380,2013 Honda CRV,2.4L 2WD AT,Automatic,"74,039 km",2nd Owner,Petrol,MH-05,"14,369/month","7,35,000","Goregaon, Mumbai",Mumbai
+381,2019 Mahindra XUV 3OO,W8 (O) 1.2 PETROL,Manual,"69,347 km",1st Owner,Petrol,MH-05,"17,112/month","8,99,000","Rupa Renaissance, Navi Mumbai",Mumbai
+382,2014 Maruti Wagon R 1.0,LXI CNG,Manual,"77,988 km",1st Owner,CNG,MH-02,"6,628/month","3,39,000","Mulund, Mumbai",Mumbai
+383,2021 Hyundai AURA,S 1.2 CNG,Manual,"66,479 km",1st Owner,CNG,MH-47,"15,425/month","7,89,000","Mulund, Mumbai",Mumbai
+384,2016 Honda City,1.5L I-VTEC V MT,Manual,"71,665 km",1st Owner,Petrol,MH-04,"11,671/month","5,97,000","Goregaon, Mumbai",Mumbai
+385,2017 Maruti Celerio,ZXI,Manual,"43,682 km",1st Owner,Petrol,MH-47,"8,485/month","4,34,000","Goregaon, Mumbai",Mumbai
+386,2018 Tata NEXON,XZA PLUS DIESEL,Automatic,"1,09,357 km",1st Owner,Diesel,MH-02,"15,722/month","8,26,000","Mulund, Mumbai",Mumbai
+387,2014 Maruti Swift Dzire,ZXI,Manual,"72,202 km",2nd Owner,Petrol,MH-01,"9,208/month","4,71,000","Goregaon, Mumbai",Mumbai
+388,2015 Maruti Wagon R 1.0,VXI,Manual,"85,180 km",2nd Owner,Petrol,MH-05,"6,686/month","3,42,000","Rupa Renaissance, Navi Mumbai",Mumbai
+389,2016 Maruti Baleno,ZETA CVT PETROL 1.2,Automatic,"1,10,497 km",1st Owner,Petrol,MH-01,"10,635/month","5,44,000","Goregaon, Mumbai",Mumbai
+390,2017 Maruti Baleno,DELTA CVT PETROL 1.2,Automatic,"87,044 km",1st Owner,Petrol,MH-02,"11,065/month","5,66,000","Goregaon, Mumbai",Mumbai
+391,2016 Maruti Swift,ZXI,Manual,"25,559 km",1st Owner,Petrol,MH-03,"9,834/month","5,03,000","Goregaon, Mumbai",Mumbai
+392,2015 Maruti Ciaz,ZXI+,Manual,"58,212 km",2nd Owner,Petrol,MH-46,"10,186/month","5,21,000","Mulund, Mumbai",Mumbai
+393,2019 Mahindra XUV 3OO,W8 (O) 1.2 PETROL,Manual,"16,272 km",1st Owner,Petrol,MH-04,"18,825/month","9,89,000","Goregaon, Mumbai",Mumbai
+394,2018 Hyundai Verna,1.6 SX (O) CRDI MT,Manual,"55,220 km",1st Owner,Diesel,MH-01,"19,415/month","10,20,000","Mulund, Mumbai",Mumbai
+395,2016 Hyundai Creta,S 1.6 PETROL,Manual,"99,207 km",1st Owner,Petrol,MH-47,"15,132/month","7,74,000","Rupa Renaissance, Navi Mumbai",Mumbai
+396,2016 Hyundai i20 Active,1.4 SX,Manual,"1,17,092 km",2nd Owner,Diesel,MH-06,"11,906/month","6,09,000","Rupa Renaissance, Navi Mumbai",Mumbai
+397,2017 Hyundai Creta,SX PLUS AT 1.6 PETROL,Automatic,"59,563 km",2nd Owner,Petrol,MH-48,"19,415/month","10,20,000","Mulund, Mumbai",Mumbai
+398,2017 Honda WR-V,1.2L I-VTEC VX MT,Manual,"52,109 km",1st Owner,Petrol,MH-47,"13,509/month","6,91,000","Rupa Renaissance, Navi Mumbai",Mumbai
+399,2016 Honda City,1.5L I-VTEC VX CVT,Automatic,"18,560 km",1st Owner,Petrol,MH-46,"14,917/month","7,63,000","Rupa Renaissance, Navi Mumbai",Mumbai
+400,2019 Hyundai Elite i20,ASTA 1.2 (O),Manual,"46,785 km",2nd Owner,Petrol,MH-04,"14,154/month","7,24,000","Mulund, Mumbai",Mumbai
+401,2017 Hyundai Creta,E PLUS 1.6 PETROL,Manual,"1,04,232 km",1st Owner,Petrol,MH-46,"14,819/month","7,58,000","Mulund, Mumbai",Mumbai
+402,2017 Maruti Baleno,ZETA PETROL 1.2,Manual,"57,040 km",1st Owner,Petrol,MH-43,"10,870/month","5,56,000","Rupa Renaissance, Navi Mumbai",Mumbai
+403,2017 Maruti Swift,VXI,Manual,"74,478 km",1st Owner,Petrol,MH-03,"9,521/month","4,87,000","Goregaon, Mumbai",Mumbai
+404,2016 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"16,535 km",1st Owner,Petrol,MH-04,"9,247/month","4,73,000","Mulund, Mumbai",Mumbai
+405,2019 Hyundai NEW SANTRO,ASTA MT,Manual,"36,643 km",1st Owner,Petrol,MH-47,"9,892/month","5,06,000","Rupa Renaissance, Navi Mumbai",Mumbai
+406,2018 Hyundai NEW SANTRO,SPORTZ CNG,Manual,"1,25,815 km",1st Owner,CNG,MH-05,"9,091/month","4,65,000","Mulund, Mumbai",Mumbai
+407,2017 Maruti Baleno,ALPHA CVT PETROL 1.2,Automatic,"78,327 km",1st Owner,Petrol,MH-03,"11,984/month","6,13,000","Mulund, Mumbai",Mumbai
+408,2018 Honda WR-V,1.5L I-DTEC VX MT,Manual,"1,08,748 km",1st Owner,Diesel,MH-20,"14,702/month","7,52,000","Mulund, Mumbai",Mumbai
+409,2020 Maruti New Wagon-R,ZXI 1.2 AMT,Automatic,"18,577 km",1st Owner,Petrol,MH-12,"12,160/month","6,22,000","Goregaon, Mumbai",Mumbai
+410,2022 Maruti New Wagon-R,LXI CNG 1.0,Manual,"7,978 km",1st Owner,CNG,MH-01,"14,350/month","7,34,000","Mulund, Mumbai",Mumbai
+411,2022 Maruti Celerio,ZXI PLUS,Manual,"9,649 km",1st Owner,Petrol,MH-41,"12,786/month","6,54,000","Goregaon, Mumbai",Mumbai
+412,2018 Hyundai Grand i10,SPORTZ AT 1.2 KAPPA VTVT,Automatic,"44,223 km",2nd Owner,Petrol,MH-04,"11,496/month","5,88,000","Goregaon, Mumbai",Mumbai
+413,2017 Honda City,1.5L I-VTEC V MT,Manual,"48,661 km",1st Owner,Petrol,MH-46,"13,920/month","7,12,000","Goregaon, Mumbai",Mumbai
+414,2022 Honda Amaze,1.2L I-VTEC VX,Manual,"8,007 km",1st Owner,Petrol,MH-05,"15,399/month","8,09,000","Mulund, Mumbai",Mumbai
+415,2021 Tata NEXON,XZA PLUS (O) DIESEL,Automatic,"22,630 km",1st Owner,Diesel,MH-43,"22,898/month","12,03,000","Rupa Renaissance, Navi Mumbai",Mumbai
+416,2017 Hyundai Creta,E PLUS 1.6 PETROL,Manual,"67,224 km",1st Owner,Petrol,MH-43,"15,589/month","8,19,000","Mulund, Mumbai",Mumbai
+417,2014 Honda City,1.5L I-VTEC SV,Manual,"95,106 km",1st Owner,Petrol,MH-43,"9,775/month","5,00,000","Goregaon, Mumbai",Mumbai
+418,2015 Maruti Celerio,VXI CNG,Manual,"17,940 km",2nd Owner,CNG,MH-01,"9,130/month","4,67,000","Rupa Renaissance, Navi Mumbai",Mumbai
+419,2018 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"20,771 km",1st Owner,Petrol,MH-43,"9,873/month","5,05,000","Goregaon, Mumbai",Mumbai
+420,2017 Maruti IGNIS,DELTA 1.2,Manual,"1,02,374 km",1st Owner,Petrol,MH-48,"8,133/month","4,16,000","Rupa Renaissance, Navi Mumbai",Mumbai
+421,2020 Tata NEXON,XZA PLUS (O) PETROL DUAL TONE,Automatic,"18,202 km",2nd Owner,Petrol,MH-47,"18,882/month","9,92,000","Mulund, Mumbai",Mumbai
+422,2017 Maruti Baleno,DELTA PETROL 1.2,Manual,"51,768 km",1st Owner,Petrol,MH-01,"10,440/month","5,34,000","Mulund, Mumbai",Mumbai
+423,2018 Honda Amaze,1.2L I-VTEC V CVT,Automatic,"39,409 km",1st Owner,Petrol,MH-05,"14,272/month","7,30,000","Goregaon, Mumbai",Mumbai
+424,2016 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"61,431 km",1st Owner,Petrol,MH-46,"8,837/month","4,52,000","Rupa Renaissance, Navi Mumbai",Mumbai
+425,2018 Maruti Celerio,ZXI (O),Manual,"25,805 km",1st Owner,Petrol,MH-03,"10,127/month","5,18,000","Mulund, Mumbai",Mumbai
+426,2021 Maruti New Wagon-R,LXI CNG (O) 1.0,Manual,"42,753 km",1st Owner,CNG,MH-05,"12,727/month","6,51,000","Goregaon, Mumbai",Mumbai
+427,2021 Honda City,1.5L I-VTEC VX CVT,Automatic,"13,329 km",1st Owner,Petrol,MH-02,"25,544/month","13,42,000","Rupa Renaissance, Navi Mumbai",Mumbai
+428,2019 Hyundai Elite i20,SPORTZ PLUS 1.2,Manual,"27,416 km",1st Owner,Petrol,MH-04,"13,587/month","6,95,000","Rupa Renaissance, Navi Mumbai",Mumbai
+429,2016 Honda Jazz,1.2L I-VTEC V AT,Automatic,"35,717 km",1st Owner,Petrol,MH-02,"11,515/month","5,89,000","Goregaon, Mumbai",Mumbai
+430,2018 Ford Ecosport,TITANIUM + 1.5L PETROL AT,Automatic,"19,854 km",2nd Owner,Petrol,MH-47,"15,513/month","8,15,000","Goregaon, Mumbai",Mumbai
+431,2016 Maruti Alto 800,VXI,Manual,"55,271 km",1st Owner,Petrol,MH-43,"5,259/month","2,69,000","Goregaon, Mumbai",Mumbai
+432,2016 Maruti Baleno,ZETA PETROL 1.2,Manual,"36,777 km",1st Owner,Petrol,MH-47,"11,026/month","5,64,000","Goregaon, Mumbai",Mumbai
+433,2019 Hyundai NEW SANTRO,ERA EXECUTIVE,Manual,"16,657 km",1st Owner,Petrol,MH-47,"9,482/month","4,85,000","Mulund, Mumbai",Mumbai
+434,2017 Hyundai Grand i10,SPORTZ (O) AT 1.2 KAPPA VTVT,Automatic,"23,315 km",1st Owner,Petrol,MH-02,"11,593/month","5,93,000","Goregaon, Mumbai",Mumbai
+435,2018 Tata NEXON,XZ PLUS DIESEL,Manual,"70,896 km",2nd Owner,Diesel,MH-04,"15,054/month","7,70,000","Goregaon, Mumbai",Mumbai
+436,2016 Hyundai Elite i20,MAGNA 1.2,Manual,"61,636 km",2nd Owner,Petrol,MH-47,"9,795/month","5,01,000","Goregaon, Mumbai",Mumbai
+437,2018 Hyundai Grand i10,SPORTZ (O) AT 1.2 KAPPA VTVT,Automatic,"43,543 km",1st Owner,Petrol,MH-47,"12,004/month","6,14,000","Rupa Renaissance, Navi Mumbai",Mumbai
+438,2018 Maruti Vitara Brezza,VDI AMT,Automatic,"64,822 km",1st Owner,Diesel,MH-47,"15,246/month","8,01,000","Rupa Renaissance, Navi Mumbai",Mumbai
+439,2020 Maruti S PRESSO,VXI CNG,Manual,"71,274 km",1st Owner,CNG,MH-43,"8,074/month","4,13,000","Goregaon, Mumbai",Mumbai
+440,2017 Honda City,1.5L I-VTEC VX,Manual,"29,305 km",1st Owner,Petrol,MH-02,"15,874/month","8,34,000","Mulund, Mumbai",Mumbai
+441,2022 Tata Tiago,XZ PLUS CNG,Manual,"42,565 km",1st Owner,CNG,MH-04,"15,288/month","7,82,000","Goregaon, Mumbai",Mumbai
+442,2015 Hyundai Xcent,SX 1.2 (O),Manual,"77,770 km",1st Owner,Petrol,MH-05,"8,622/month","4,41,000","Rupa Renaissance, Navi Mumbai",Mumbai
+443,2016 Skoda Rapid,STYLE 1.5 TDI AT,Automatic,"1,14,247 km",2nd Owner,Diesel,MH-04,"12,336/month","6,31,000","Rupa Renaissance, Navi Mumbai",Mumbai
+444,2017 Hyundai Grand i10,SPORTZ (O) AT 1.2 KAPPA VTVT,Automatic,"63,428 km",1st Owner,Petrol,MH-46,"10,792/month","5,52,000","Rupa Renaissance, Navi Mumbai",Mumbai
+445,2015 Maruti Swift,VXI,Manual,"57,054 km",1st Owner,Petrol,MH-47,"8,622/month","4,41,000","Goregaon, Mumbai",Mumbai
+446,2016 Hyundai Grand i10,ASTA (O) 1.2 KAPPA VTVT,Manual,"38,722 km",1st Owner,Petrol,MH-01,"8,504/month","4,35,000","Goregaon, Mumbai",Mumbai
+447,2021 Mahindra XUV 3OO,W8 (O) 1.2 PETROL AMT,Automatic,"21,041 km",1st Owner,Petrol,MH-05,"23,069/month","12,12,000","Goregaon, Mumbai",Mumbai
+448,2017 Hyundai Creta,SX PLUS AT 1.6 PETROL,Automatic,"45,194 km",1st Owner,Petrol,MH-02,"19,478/month","10,23,300","Goregaon, Mumbai",Mumbai
+449,2019 Hyundai Verna,1.6 VTVT SX (O) AT,Automatic,"54,945 km",1st Owner,Petrol,MH-01,"17,968/month","9,44,000","Mulund, Mumbai",Mumbai
+450,2021 Renault Kwid,RXT 0.8,Manual,"7,779 km",1st Owner,Petrol,MH-05,"9,912/month","5,07,000","Goregaon, Mumbai",Mumbai
+451,2017 Maruti Baleno,ALPHA PETROL 1.2,Manual,"15,908 km",1st Owner,Petrol,MH-05,"12,317/month","6,30,000","Rupa Renaissance, Navi Mumbai",Mumbai
+452,2019 Maruti Ciaz,DELTA 1.5 SHVS MT PETROL,Manual,"49,281 km",1st Owner,Petrol,MH-47,"14,760/month","7,55,000","Mulund, Mumbai",Mumbai
+453,2021 Hyundai GRAND I10 NIOS,ASTA 1.2 KAPPA VTVT,Manual,"10,750 km",1st Owner,Petrol,MH-47,"13,842/month","7,08,000","Mulund, Mumbai",Mumbai
+454,2017 Maruti Baleno,ZETA PETROL 1.2,Manual,"34,102 km",1st Owner,Petrol,MH-03,"11,105/month","5,68,000","Mulund, Mumbai",Mumbai
+455,2020 Maruti S PRESSO,VXI CNG,Manual,"79,019 km",1st Owner,CNG,MH-46,"8,289/month","4,24,000","Goregaon, Mumbai",Mumbai
+456,2021 Maruti New Wagon-R,LXI CNG 1.0,Manual,"52,731 km",1st Owner,CNG,MH-04,"12,571/month","6,43,000","Rupa Renaissance, Navi Mumbai",Mumbai
+457,2021 Toyota YARIS,J CVT,Automatic,"17,054 km",1st Owner,Petrol,MH-01,"19,015/month","9,99,000","Goregaon, Mumbai",Mumbai
+458,2016 Maruti Vitara Brezza,ZDI PLUS,Manual,"88,458 km",1st Owner,Diesel,MH-46,"14,135/month","7,23,000","Mulund, Mumbai",Mumbai
+459,2014 Maruti Wagon R 1.0,LXI CNG,Manual,"98,141 km",2nd Owner,CNG,MH-04,"6,432/month","3,29,000","Goregaon, Mumbai",Mumbai
+460,2019 Ford Ecosport,TITANIUM 1.5L PETROL,Manual,"22,276 km",1st Owner,Petrol,MH-04,"15,190/month","7,77,000","Mulund, Mumbai",Mumbai
+461,2018 Maruti Ciaz,ZETA 1.4  AT PETROL,Automatic,"92,294 km",1st Owner,Petrol,MH-15,"14,193/month","7,26,000","Goregaon, Mumbai",Mumbai
+462,2020 Tata TIGOR,XZ PLUS PETROL,Manual,"12,178 km",1st Owner,Petrol,MH-05,"14,624/month","7,48,000","Goregaon, Mumbai",Mumbai
+463,2019 Hyundai Verna,1.6 VTVT SX (O) AT,Automatic,"23,037 km",1st Owner,Petrol,MH-01,"18,806/month","9,88,000","Mulund, Mumbai",Mumbai
+464,2019 Honda City,1.5L I-VTEC VX CVT,Automatic,"24,122 km",2nd Owner,Petrol,MH-03,"18,768/month","9,86,000","Goregaon, Mumbai",Mumbai
+465,2018 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"10,022 km",1st Owner,Petrol,MH-03,"10,459/month","5,35,000","Goregaon, Mumbai",Mumbai
+466,2017 Maruti Baleno,ZETA PETROL 1.2,Manual,"34,423 km",1st Owner,Petrol,MH-02,"11,456/month","5,86,000","Rupa Renaissance, Navi Mumbai",Mumbai
+467,2016 Maruti Alto 800,LXI,Manual,"47,233 km",2nd Owner,Petrol,MH-01,"5,200/month","2,66,000","Rupa Renaissance, Navi Mumbai",Mumbai
+468,2015 Maruti Ciaz,ZXI+,Manual,"1,15,379 km",1st Owner,Petrol,MH-01,"9,912/month","5,07,000","Goregaon, Mumbai",Mumbai
+469,2017 Hyundai Creta,E PLUS 1.6 PETROL,Manual,"81,347 km",1st Owner,Petrol,MH-01,"15,327/month","7,84,000","Mulund, Mumbai",Mumbai
+470,2018 Honda WR-V,1.2L I-VTEC VX MT,Manual,"25,468 km",1st Owner,Petrol,MH-47,"14,682/month","7,51,000","Mulund, Mumbai",Mumbai
+471,2020 Maruti S PRESSO,VXI CNG,Manual,"44,001 km",1st Owner,CNG,MH-04,"9,365/month","4,79,000","Goregaon, Mumbai",Mumbai
+472,2016 Honda City,1.5L I-VTEC VX CVT,Automatic,"34,362 km",1st Owner,Petrol,MH-47,"14,819/month","7,58,000","Mulund, Mumbai",Mumbai
+473,2017 Honda City,1.5L I-VTEC VX,Manual,"31,949 km",1st Owner,Petrol,MH-01,"16,008/month","8,41,000","Mulund, Mumbai",Mumbai
+474,2015 Maruti Wagon R 1.0,LXI CNG,Manual,"64,448 km",1st Owner,CNG,MH-01,"7,742/month","3,96,000","Mulund, Mumbai",Mumbai
+475,2018 Toyota YARIS,VX CVT,Automatic,"79,380 km",1st Owner,Petrol,MH-04,"15,741/month","8,27,000","Rupa Renaissance, Navi Mumbai",Mumbai
+476,2020 Renault Kwid,RXT 1.0 (O),Manual,"5,089 km",1st Owner,Petrol,MH-02,"9,318/month","4,76,600","Goregaon, Mumbai",Mumbai
+477,2019 Honda City,1.5L I-VTEC VX CVT,Automatic,"31,854 km",1st Owner,Petrol,MH-04,"19,148/month","10,06,000","Goregaon, Mumbai",Mumbai
+478,2014 Maruti Wagon R 1.0,VXI,Manual,"32,294 km",1st Owner,Petrol,MH-04,"6,999/month","3,58,000","Rupa Renaissance, Navi Mumbai",Mumbai
+479,2019 Ford Ecosport,TITANIUM 1.5L SIGNATURE EDITION (SUNROOF) PETROL,Manual,"22,004 km",1st Owner,Petrol,MH-02,"15,951/month","8,38,000","Mulund, Mumbai",Mumbai
+480,2021 Maruti New Wagon-R,LXI CNG 1.0,Manual,"88,795 km",1st Owner,CNG,MH-04,"12,043/month","6,16,000","Mulund, Mumbai",Mumbai
+481,2019 Maruti Baleno,DELTA PETROL 1.2,Manual,"21,871 km",1st Owner,Petrol,MH-05,"12,160/month","6,22,000","Goregaon, Mumbai",Mumbai
+482,2017 Hyundai Creta,E PLUS 1.6 PETROL,Manual,"96,059 km",1st Owner,Petrol,MH-01,"15,249/month","7,80,000","Rupa Renaissance, Navi Mumbai",Mumbai
+483,2015 Honda City,1.5L I-VTEC SV CVT,Automatic,"81,459 km",1st Owner,Petrol,MH-02,"11,378/month","5,82,000","Rupa Renaissance, Navi Mumbai",Mumbai
+484,2021 Tata NEXON,XZA PLUS (O) PETROL DARK EDITION,Automatic,"48,153 km",1st Owner,Petrol,MH-20,"22,137/month","11,63,000","Mulund, Mumbai",Mumbai
+485,2016 Honda City,1.5L I-VTEC VX CVT,Automatic,"77,123 km",1st Owner,Petrol,MH-47,"13,587/month","6,95,000","Rupa Renaissance, Navi Mumbai",Mumbai
+486,2016 Hyundai Grand i10,ASTA (O) AT 1.2 KAPPA VTVT,Automatic,"13,445 km",1st Owner,Petrol,MH-02,"11,065/month","5,66,000","Mulund, Mumbai",Mumbai
+487,2016 Hyundai Creta,SX PLUS AT 1.6 PETROL,Automatic,"55,516 km",1st Owner,Petrol,MH-43,"18,349/month","9,64,000","Goregaon, Mumbai",Mumbai
+488,2017 Hyundai Creta,SX PLUS AT 1.6 PETROL,Automatic,"68,229 km",1st Owner,Petrol,MH-01,"19,320/month","10,15,000","Mulund, Mumbai",Mumbai
+489,2019 Maruti Celerio,VXI (O) CNG,Manual,"83,984 km",1st Owner,CNG,MH-03,"9,638/month","4,93,000","Goregaon, Mumbai",Mumbai
+490,2019 Maruti Baleno,ZETA PETROL 1.2,Manual,"12,262 km",1st Owner,Petrol,MH-01,"13,685/month","7,00,000","Rupa Renaissance, Navi Mumbai",Mumbai
+491,2017 Maruti Baleno,ALPHA PETROL 1.2,Manual,"49,612 km",1st Owner,Petrol,MH-48,"11,241/month","5,75,000","Goregaon, Mumbai",Mumbai
+492,2018 Maruti Alto 800,VXI,Manual,"23,563 km",1st Owner,Petrol,MH-01,"6,569/month","3,36,000","Rupa Renaissance, Navi Mumbai",Mumbai
+493,2017 Maruti Baleno,ALPHA PETROL 1.2,Manual,"1,17,814 km",1st Owner,Petrol,MH-15,"11,652/month","5,96,000","Mulund, Mumbai",Mumbai
+494,2020 Volkswagen Vento,HIGHLINE PLUS 1.0L TSI AT,Automatic,"89,459 km",1st Owner,Petrol,MH-10,"19,472/month","10,23,000","Mulund, Mumbai",Mumbai
+495,2018 Toyota YARIS,VX CVT,Automatic,"21,284 km",1st Owner,Petrol,MH-03,"17,093/month","8,98,000","Goregaon, Mumbai",Mumbai
+496,2020 Renault Kwid,RXT 1.0 AMT (O),Automatic,"31,150 km",1st Owner,Petrol,MH-02,"10,596/month","5,42,000","Goregaon, Mumbai",Mumbai
+497,2022 Tata TIGOR,XZ PLUS CNG,Manual,"10,629 km",1st Owner,CNG,MH-05,"16,350/month","8,59,000","Goregaon, Mumbai",Mumbai
+498,2018 Honda City,1.5L I-VTE V CVT,Automatic,"63,253 km",2nd Owner,Petrol,MH-01,"15,627/month","8,21,000","Mulund, Mumbai",Mumbai
+499,2021 Maruti New Wagon-R,LXI CNG 1.0,Manual,"19,700 km",1st Owner,CNG,MH-46,"12,160/month","6,22,000","Mulund, Mumbai",Mumbai
+500,2021 Honda City,1.5L I-VTEC ZX CVT,Automatic,"22,171 km",1st Owner,Petrol,MH-05,"26,971/month","14,17,000","Goregaon, Mumbai",Mumbai
+501,2021 Tata TIGOR,XZ PLUS PETROL,Manual,"33,712 km",1st Owner,Petrol,MH-17,"13,353/month","6,83,000","Mulund, Mumbai",Mumbai
+502,2015 Hyundai Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,"33,716 km",1st Owner,Petrol,MH-01,"7,781/month","3,98,000","Goregaon, Mumbai",Mumbai
+503,2019 Honda Amaze,1.2L I-VTEC V CVT,Automatic,"15,462 km",1st Owner,Petrol,MH-04,"15,386/month","7,87,000","Goregaon, Mumbai",Mumbai
+504,2014 Honda City,1.5L I-VTEC VX CVT,Automatic,"37,535 km",1st Owner,Petrol,MH-02,"12,688/month","6,49,000","Mulund, Mumbai",Mumbai
+505,2017 Hyundai Grand i10,SPORTZ (O) 1.2 KAPPA VTVT,Manual,"53,924 km",1st Owner,Petrol,MH-01,"9,052/month","4,63,000","Goregaon, Mumbai",Mumbai
+506,2017 Ford Ecosport,TITANIUM + 1.5L PETROL AT,Automatic,"41,247 km",1st Owner,Petrol,MH-04,"14,663/month","7,50,000","Rupa Renaissance, Navi Mumbai",Mumbai
+507,2016 Honda City,1.5L I-VTEC VX CVT,Automatic,"50,493 km",2nd Owner,Petrol,MH-02,"13,607/month","6,96,000","Goregaon, Mumbai",Mumbai
+508,2020 Honda Amaze,1.2L I-VTEC V CVT,Automatic,"17,678 km",1st Owner,Petrol,MH-03,"15,484/month","7,92,000","Goregaon, Mumbai",Mumbai
+509,2017 Maruti IGNIS,DELTA 1.2 AMT,Automatic,"16,133 km",1st Owner,Petrol,MH-04,"10,929/month","5,59,000","Rupa Renaissance, Navi Mumbai",Mumbai
+510,2021 Honda Amaze,1.2L I-VTEC V CVT,Automatic,"15,173 km",2nd Owner,Petrol,MH-46,"15,589/month","8,19,000","Rupa Renaissance, Navi Mumbai",Mumbai
+511,2019 Hyundai Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,"25,304 km",1st Owner,Petrol,MH-01,"10,831/month","5,54,000","Rupa Renaissance, Navi Mumbai",Mumbai
+512,2022 Tata TIGOR,XZ PLUS CNG,Manual,"13,907 km",1st Owner,CNG,MH-04,"15,817/month","8,31,000","Goregaon, Mumbai",Mumbai
+513,2022 Tata NEXON,XZ PLUS PETROL,Manual,"6,378 km",1st Owner,Petrol,MH-04,"20,138/month","10,58,000","Goregaon, Mumbai",Mumbai
+514,2016 Hyundai Verna,1.6 VTVT SX AT,Automatic,"65,701 km",2nd Owner,Petrol,MH-02,"13,939/month","7,13,000","Mulund, Mumbai",Mumbai
+515,2018 Ford Ecosport,TREND + 1.5L PETROL AT,Automatic,"22,057 km",1st Owner,Petrol,MH-02,"15,464/month","7,91,000","Goregaon, Mumbai",Mumbai
+516,2022 Maruti S PRESSO,VXI,Manual,"5,632 km",1st Owner,Petrol,MH-03,"9,736/month","4,98,000","Goregaon, Mumbai",Mumbai
+517,2015 Honda City,1.5L I-VTEC VX,Manual,"42,239 km",1st Owner,Petrol,MH-47,"12,884/month","6,59,000","Goregaon, Mumbai",Mumbai
+518,2019 Tata NEXON,XZA PLUS PETROL,Automatic,"14,923 km",1st Owner,Petrol,MH-43,"17,549/month","9,22,000","Goregaon, Mumbai",Mumbai
+519,2018 Honda Amaze,1.2L I-VTEC V CVT,Automatic,"43,028 km",1st Owner,Petrol,MH-02,"14,017/month","7,17,000","Mulund, Mumbai",Mumbai
+520,2019 Toyota Glanza,V CVT,Automatic,"37,884 km",1st Owner,Petrol,MH-47,"15,308/month","7,83,000","Rupa Renaissance, Navi Mumbai",Mumbai
+521,2022 Honda Amaze,1.2L I-VTEC VX,Manual,"8,211 km",1st Owner,Petrol,MH-04,"15,893/month","8,35,000","Goregaon, Mumbai",Mumbai
+522,2015 Honda City,1.5L I-VTEC VX CVT,Automatic,"70,007 km",2nd Owner,Petrol,MH-47,"12,864/month","6,58,000","Rupa Renaissance, Navi Mumbai",Mumbai
+523,2019 Maruti S PRESSO,VXI+,Manual,"24,009 km",1st Owner,Petrol,MH-15,"8,407/month","4,30,000","Mulund, Mumbai",Mumbai
+524,2021 Maruti IGNIS,ZETA 1.2 AMT,Automatic,"30,701 km",1st Owner,Petrol,MH-46,"13,920/month","7,12,000","Mulund, Mumbai",Mumbai
+525,2018 Maruti Celerio,ZXI,Manual,"75,370 km",1st Owner,Petrol,MH-03,"8,817/month","4,51,000","Goregaon, Mumbai",Mumbai
+526,2016 Maruti Ciaz,ZXI+,Manual,"78,873 km",1st Owner,Petrol,MH-03,"12,414/month","6,35,000","Mulund, Mumbai",Mumbai
+527,2016 Hyundai Grand i10,SPORTZ 1.2 KAPPA VTVT,Manual,"80,177 km",1st Owner,Petrol,MH-04,"8,250/month","4,22,000","Rupa Renaissance, Navi Mumbai",Mumbai
+528,2015 Honda City,1.5L I-VTEC SV,Manual,"23,518 km",1st Owner,Petrol,MH-47,"11,769/month","6,02,000","Rupa Renaissance, Navi Mumbai",Mumbai
+529,2019 Toyota Glanza,V CVT,Automatic,"59,520 km",2nd Owner,Petrol,MH-15,"15,171/month","7,76,000","Rupa Renaissance, Navi Mumbai",Mumbai
+530,2017 Maruti Baleno,ZETA PETROL 1.2,Manual,"28,599 km",2nd Owner,Petrol,MH-01,"11,437/month","5,85,000","Rupa Renaissance, Navi Mumbai",Mumbai
+531,2018 Maruti Celerio,ZXI,Manual,"28,138 km",1st Owner,Petrol,MH-01,"9,990/month","5,11,000","Mulund, Mumbai",Mumbai
+532,2011 Volkswagen Vento,HIGHLINE DIESEL 1.6,Manual,"71,738 km",3rd Owner,Diesel,MH-02,"5,318/month","2,72,000","Goregaon, Mumbai",Mumbai
+533,2021 KIA SELTOS,HTX ANNIVERSARY EDITION 1.5 PETROL CVT,Automatic,"19,197 km",1st Owner,Petrol,MH-04,"26,629/month","13,99,000","Mulund, Mumbai",Mumbai
+534,2012 Volkswagen Polo,COMFORTLINE 1.2L,Manual,"99,913 km",1st Owner,Diesel,MH-01,"5,650/month","2,89,000","Rupa Renaissance, Navi Mumbai",Mumbai
+535,2015 Maruti Swift Dzire,VXI AT,Automatic,"66,451 km",3rd Owner,Petrol,MH-02,"7,664/month","3,92,000","Rupa Renaissance, Navi Mumbai",Mumbai
+536,2015 Hyundai Elite i20,SPORTZ 1.2,Manual,"15,146 km",2nd Owner,Petrol,MH-04,"8,895/month","4,55,000","Goregaon, Mumbai",Mumbai
+537,2014 Maruti Ertiga,ZXI,Manual,"57,517 km",2nd Owner,Petrol,MH-46,"11,613/month","5,94,000","Goregaon, Mumbai",Mumbai
+538,2016 Mahindra Kuv100,K4 PLUS 5 STR,Manual,"34,936 km",1st Owner,Petrol,MH-43,"6,452/month","3,30,000","Goregaon, Mumbai",Mumbai
+539,2010 Honda City,1.5L I-VTEC E MT,Manual,"67,943 km",1st Owner,Petrol,MH-04,"5,103/month","2,61,000","Goregaon, Mumbai",Mumbai
+540,2021 Maruti XL6,ALPHA MT,Manual,"55,714 km",2nd Owner,Petrol,MH-48,"18,444/month","9,69,000","Rupa Renaissance, Navi Mumbai",Mumbai
+541,2013 Honda Amaze,1.2L I-VTEC S,Manual,"80,183 km",3rd Owner,Petrol,MH-04,"5,748/month","2,94,000","Goregaon, Mumbai",Mumbai
+542,2012 Maruti Wagon R 1.0,LXI CNG,Manual,"1,04,554 km",3rd Owner,CNG,MH-03,"4,457/month","2,28,000","Goregaon, Mumbai",Mumbai
+543,2010 Honda City,1.5L I-VTEC S MT,Manual,"37,389 km",2nd Owner,Petrol,MH-04,"5,259/month","2,69,000","Goregaon, Mumbai",Mumbai
+544,2017 Maruti Ertiga,VXI CNG,Manual,"85,677 km",3rd Owner,CNG,MH-05,"14,584/month","7,46,000","Rupa Renaissance, Navi Mumbai",Mumbai
+545,2017 Maruti Ertiga,VXI CNG,Manual,"75,478 km",2nd Owner,CNG,MH-04,"15,703/month","8,25,000","Goregaon, Mumbai",Mumbai
+546,2010 Hyundai i20,SPORTZ 1.2 VTVT,Manual,"41,580 km",2nd Owner,Petrol,MH-02,"4,594/month","2,35,000","Rupa Renaissance, Navi Mumbai",Mumbai
+547,2013 Hyundai Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,"51,987 km",1st Owner,Petrol,MH-02,"6,237/month","3,19,000","Rupa Renaissance, Navi Mumbai",Mumbai
+548,2013 Maruti Ertiga,VXI,Manual,"49,082 km",2nd Owner,Petrol,MH-05,"10,127/month","5,18,000","Rupa Renaissance, Navi Mumbai",Mumbai
+549,2012 Maruti Swift Dzire,ZXI 1.2 BS IV,Manual,"42,175 km",2nd Owner,Petrol,MH-02,"6,276/month","3,21,000","Goregaon, Mumbai",Mumbai
+550,2019 Maruti XL6,ZETA AT,Automatic,"1,03,396 km",1st Owner,Petrol,MH-48,"17,340/month","9,11,000","Mulund, Mumbai",Mumbai
+551,2010 Maruti Swift Dzire,VXI,Manual,"62,769 km",2nd Owner,Petrol,MH-01,"4,438/month","2,27,000","Rupa Renaissance, Navi Mumbai",Mumbai
+552,2015 Maruti Ciaz,SHVS VDI,Manual,"62,072 km",2nd Owner,Diesel,MH-05,"9,443/month","4,83,000","Goregaon, Mumbai",Mumbai
+553,2012 Maruti Swift Dzire,LXI,Manual,"45,622 km",1st Owner,Petrol,MH-03,"6,510/month","3,33,000","Rupa Renaissance, Navi Mumbai",Mumbai
+554,2010 Volkswagen Vento,HIGHLINE 1.6 MPI,Manual,"76,082 km",2nd Owner,Petrol,MH-02,"5,181/month","2,65,000","Goregaon, Mumbai",Mumbai
+555,2015 Honda Jazz,1.2L I-VTEC VX,Manual,"99,039 km",2nd Owner,Petrol,MH-04,"7,312/month","3,74,000","Goregaon, Mumbai",Mumbai
+556,2021 Nissan MAGNITE,XV MT,Manual,"15,881 km",1st Owner,Petrol,MH-20,"12,981/month","6,64,000","Mulund, Mumbai",Mumbai
+557,2018 Hyundai Verna,1.6 VTVT SX O,Manual,"61,460 km",2nd Owner,Petrol,MH-15,"15,425/month","7,89,000","Mulund, Mumbai",Mumbai
+558,2017 Maruti Baleno,SIGMA PETROL 1.2,Manual,"55,788 km",1st Owner,Petrol,MH-01,"9,775/month","5,00,000","Mulund, Mumbai",Mumbai
+559,2015 Renault Kwid,RXL,Manual,"62,749 km",1st Owner,Petrol,MH-47,"5,279/month","2,70,000","Goregaon, Mumbai",Mumbai
+560,2014 Maruti Wagon R 1.0,LXI CNG,Manual,"76,461 km",3rd Owner,CNG,MH-46,"5,924/month","3,03,000","Rupa Renaissance, Navi Mumbai",Mumbai
+561,2012 Honda City,1.5L I-VTEC S MT,Manual,"1,00,637 km",2nd Owner,Petrol,MH-04,"6,569/month","3,36,000","Mulund, Mumbai",Mumbai
+562,2011 Maruti Swift Dzire,VXI,Manual,"59,511 km",1st Owner,Petrol,MH-43,"5,767/month","2,95,000","Mulund, Mumbai",Mumbai
+563,2014 Maruti Celerio,VXI CNG,Manual,"87,970 km",2nd Owner,CNG,MH-46,"6,999/month","3,58,000","Goregaon, Mumbai",Mumbai
+564,2011 Maruti Wagon R 1.0,LXI,Manual,"51,078 km",1st Owner,Petrol,MH-03,"4,360/month","2,23,000","Goregaon, Mumbai",Mumbai
+565,2011 Hyundai i20,SPORTZ 1.4 CRDI,Manual,"98,311 km",2nd Owner,Diesel,MH-02,"5,103/month","2,61,000","Goregaon, Mumbai",Mumbai
+566,2016 Maruti Vitara Brezza,VDI,Manual,"1,23,776 km",2nd Owner,Diesel,MH-05,"12,219/month","6,25,000","Goregaon, Mumbai",Mumbai
+567,2010 Toyota Corolla Altis,J PETROL,Manual,"76,323 km",3rd Owner,Petrol,MH-04,"5,122/month","2,62,000","Mulund, Mumbai",Mumbai
+568,2017 Hyundai Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,"33,218 km",3rd Owner,Petrol,MH-04,"7,468/month","3,82,000","Mulund, Mumbai",Mumbai
+569,2019 Maruti Alto 800,LXI,Manual,"76,615 km",1st Owner,Petrol,MH-41,"5,611/month","2,87,000","Goregaon, Mumbai",Mumbai
+570,2014 Maruti Wagon R 1.0,LXI CNG,Manual,"40,698 km",2nd Owner,CNG,MH-02,"6,197/month","3,17,000","Mulund, Mumbai",Mumbai
+571,2018 Skoda Rapid,AMBITION 1.6 MPI AT,Automatic,"22,289 km",2nd Owner,Petrol,MH-01,"12,786/month","6,54,000","Mulund, Mumbai",Mumbai
+572,2018 Maruti Vitara Brezza,ZDI PLUS,Manual,"48,451 km",1st Owner,Diesel,MH-03,"17,131/month","9,00,000","Rupa Renaissance, Navi Mumbai",Mumbai
+573,2012 Maruti Wagon R 1.0,LXI,Manual,"16,051 km",1st Owner,Petrol,MH-02,"5,279/month","2,70,000","Mulund, Mumbai",Mumbai
+574,2021 Hyundai ALCAZAR,PLATINUM 1.5 MT 7STR,Manual,"23,155 km",1st Owner,Diesel,MH-04,"33,424/month","17,56,000","Goregaon, Mumbai",Mumbai
+575,2013 Maruti Wagon R 1.0,LXI CNG,Manual,"1,14,221 km",3rd Owner,CNG,MH-03,"5,376/month","2,75,000","Rupa Renaissance, Navi Mumbai",Mumbai
+576,2014 Hyundai Grand i10,ASTA (O) 1.2 KAPPA VTVT,Manual,"98,500 km",2nd Owner,Petrol,MH-15,"6,706/month","3,43,000","Goregaon, Mumbai",Mumbai
+577,2014 Maruti Ertiga,VXI CNG,Manual,"84,916 km",1st Owner,CNG,MH-05,"13,314/month","6,81,000","Mulund, Mumbai",Mumbai
+578,2018 Mahindra XUV500,W9,Manual,"69,947 km",1st Owner,Diesel,MH-47,"23,222/month","12,20,000","Goregaon, Mumbai",Mumbai
+579,2016 Maruti Wagon R 1.0,LXI CNG,Manual,"1,07,121 km",3rd Owner,CNG,MH-03,"6,354/month","3,25,000","Goregaon, Mumbai",Mumbai
+580,2016 Volkswagen Vento,COMFORTLINE 1.6,Manual,"33,388 km",2nd Owner,Petrol,MH-43,"9,521/month","4,87,000","Rupa Renaissance, Navi Mumbai",Mumbai
+581,2018 Hyundai Xcent,SX 1.2,Manual,"1,17,041 km",1st Owner,CNG,MH-05,"10,068/month","5,15,000","Mulund, Mumbai",Mumbai
+582,2020 Maruti Vitara Brezza,ZXI +,Manual,"55,130 km",1st Owner,Petrol,MH-47,"16,617/month","8,73,000","Goregaon, Mumbai",Mumbai
+583,2015 Maruti Swift Dzire,VXI,Manual,"73,324 km",1st Owner,Petrol,MH-46,"9,032/month","4,62,000","Rupa Renaissance, Navi Mumbai",Mumbai
+584,2022 Hyundai NEW SANTRO,SPORTZ EXECUTIVE MT CNG,Manual,"13,407 km",1st Owner,CNG,MH-02,"11,632/month","5,95,000","Mulund, Mumbai",Mumbai
+585,2013 Maruti Swift Dzire,VXI,Manual,"29,811 km",1st Owner,Petrol,MH-02,"8,426/month","4,31,000","Rupa Renaissance, Navi Mumbai",Mumbai
+586,2014 Maruti Wagon R 1.0,LXI CNG,Manual,"1,05,447 km",1st Owner,CNG,MH-05,"5,748/month","2,94,000","Goregaon, Mumbai",Mumbai
+587,2014 Hyundai i20,MAGNA (O) 1.2,Manual,"37,508 km",1st Owner,Petrol,MH-02,"7,312/month","3,74,000","Goregaon, Mumbai",Mumbai
+588,2022 Honda Amaze,1.2L I-VTEC S,Manual,"4,412 km",1st Owner,Petrol,MH-01,"13,998/month","7,16,000","Rupa Renaissance, Navi Mumbai",Mumbai
+589,2014 Datsun Go,A,Manual,"18,499 km",1st Owner,Petrol,MH-01,"4,790/month","2,45,000","Goregaon, Mumbai",Mumbai
+590,2014 Honda Amaze,1.2L I-VTEC S,Manual,"49,056 km",1st Owner,Petrol,MH-01,"7,761/month","3,97,000","Mulund, Mumbai",Mumbai
+591,2020 Hyundai VENUE,SX PLUS 1.0 TURBO DCT,Automatic,"27,765 km",2nd Owner,Petrol,MH-02,"18,672/month","9,81,000","Mulund, Mumbai",Mumbai
+592,2015 Skoda Rapid,1.5 TDI AT STYLE PLUS,Automatic,"93,813 km",1st Owner,Diesel,MH-47,"10,792/month","5,52,000","Goregaon, Mumbai",Mumbai
+593,2014 Maruti Swift,VXI,Manual,"26,813 km",1st Owner,Petrol,MH-02,"7,761/month","3,97,000","Rupa Renaissance, Navi Mumbai",Mumbai
+594,2013 Honda Brio,VX AT,Automatic,"25,784 km",2nd Owner,Petrol,MH-02,"6,608/month","3,38,000","Rupa Renaissance, Navi Mumbai",Mumbai
+595,2015 Hyundai Creta,SX PLUS AT 1.6 DIESEL,Automatic,"55,603 km",3rd Owner,Diesel,MH-03,"15,265/month","8,02,000","Goregaon, Mumbai",Mumbai
+596,2013 Maruti Wagon R 1.0,VXI,Manual,"39,705 km",2nd Owner,Petrol,MH-05,"5,005/month","2,56,000","Goregaon, Mumbai",Mumbai
+597,2013 Toyota Etios Liva,G,Manual,"95,597 km",2nd Owner,Petrol,MH-04,"5,259/month","2,69,000","Rupa Renaissance, Navi Mumbai",Mumbai
+598,2016 Hyundai Verna,FLUIDIC 1.6 CRDI SX 4S,Manual,"77,302 km",1st Owner,Diesel,MH-04,"12,414/month","6,35,000","Mulund, Mumbai",Mumbai
+599,2017 Hyundai Grand i10,SPORTZ AT 1.2 KAPPA VTVT,Automatic,"83,663 km",1st Owner,Petrol,MH-47,"9,149/month","4,68,000","Rupa Renaissance, Navi Mumbai",Mumbai
+600,2017 Maruti Alto 800,VXI,Manual,"49,774 km",2nd Owner,Petrol,MH-15,"5,357/month","2,74,000","Mulund, Mumbai",Mumbai
+601,2018 Mahindra XUV500,W7,Manual,"91,080 km",1st Owner,Diesel,MH-02,"18,653/month","9,80,000","Goregaon, Mumbai",Mumbai
+602,2016 Volkswagen Vento,HIGHLINE PETROL AT,Automatic,"63,926 km",1st Owner,Petrol,MH-01,"11,750/month","6,01,000","Goregaon, Mumbai",Mumbai
+603,2012 Maruti Wagon R 1.0,VXI,Manual,"64,173 km",2nd Owner,Petrol,MH-05,"4,536/month","2,32,000","Rupa Renaissance, Navi Mumbai",Mumbai
+604,2021 Toyota URBAN CRUISER,PREMIUM GRADE AT,Automatic,"38,893 km",1st Owner,Petrol,MH-47,"19,262/month","10,12,000","Mulund, Mumbai",Mumbai
+605,2015 Maruti Wagon R 1.0,VXI,Manual,"74,759 km",1st Owner,Petrol,MH-05,"6,295/month","3,22,000","Rupa Renaissance, Navi Mumbai",Mumbai
+606,2014 Maruti Ertiga,VXI CNG,Manual,"85,406 km",2nd Owner,CNG,MH-01,"13,118/month","6,71,000","Mulund, Mumbai",Mumbai
+607,2012 Maruti Wagon R 1.0,LXI CNG,Manual,"58,273 km",2nd Owner,CNG,MH-04,"5,591/month","2,86,000","Mulund, Mumbai",Mumbai
+608,2015 Maruti Alto 800,LXI,Manual,"44,492 km",1st Owner,Petrol,MH-02,"4,946/month","2,53,000","Goregaon, Mumbai",Mumbai
+609,2022 Maruti New Wagon-R,LXI CNG (O) 1.0,Manual,"22,545 km",1st Owner,CNG,MH-47,"12,923/month","6,61,000","Goregaon, Mumbai",Mumbai
+610,2013 Maruti Swift,VXI,Manual,"69,622 km",1st Owner,Petrol,MH-02,"6,979/month","3,57,000","Mulund, Mumbai",Mumbai
+611,2014 Maruti Wagon R 1.0,LXI CNG,Manual,"54,176 km",1st Owner,CNG,MH-04,"6,295/month","3,22,000","Goregaon, Mumbai",Mumbai
+612,2016 Maruti Ertiga,VXI CNG,Manual,"1,01,050 km",1st Owner,CNG,MH-02,"15,425/month","7,89,000","Rupa Renaissance, Navi Mumbai",Mumbai
+613,2016 Hyundai Creta,SX PLUS AT 1.6 PETROL,Automatic,"80,837 km",2nd Owner,Petrol,MH-43,"15,380/month","8,08,000","Mulund, Mumbai",Mumbai
+614,2016 Mahindra TUV300,T8,Manual,"40,729 km",1st Owner,Diesel,MH-04,"13,724/month","7,02,000","Mulund, Mumbai",Mumbai
+615,2013 Maruti Wagon R 1.0,VXI,Manual,"50,244 km",1st Owner,Petrol,MH-01,"5,787/month","2,96,000","Goregaon, Mumbai",Mumbai
+616,2017 Maruti Alto 800,VXI,Manual,"22,971 km",1st Owner,Petrol,MH-05,"5,572/month","2,85,000","Rupa Renaissance, Navi Mumbai",Mumbai
+617,2011 Hyundai i10,SPORTZ 1.2,Manual,"55,572 km",2nd Owner,Petrol,MH-03,"4,966/month","2,54,000","Rupa Renaissance, Navi Mumbai",Mumbai
+618,2016 Maruti Ertiga,VXI CNG,Manual,"97,784 km",1st Owner,CNG,MH-01,"15,582/month","7,97,000","Mulund, Mumbai",Mumbai
+619,2014 Maruti Wagon R 1.0,LXI CNG,Manual,"1,15,591 km",1st Owner,CNG,MH-46,"6,373/month","3,26,000","Goregaon, Mumbai",Mumbai
+620,2012 Maruti Swift,VDI,Manual,"63,847 km",1st Owner,Diesel,MH-02,"7,664/month","3,92,000","Goregaon, Mumbai",Mumbai
+621,2014 Maruti Wagon R 1.0,LXI CNG,Manual,"99,204 km",1st Owner,CNG,MH-43,"6,217/month","3,18,000","Goregaon, Mumbai",Mumbai
+622,2017 Hyundai Grand i10,SPORTZ (O) AT 1.2 KAPPA VTVT,Automatic,"38,444 km",2nd Owner,Petrol,MH-04,"9,736/month","4,98,000","Goregaon, Mumbai",Mumbai
+623,2015 Maruti Wagon R 1.0,VXI,Manual,"9,934 km",1st Owner,Petrol,MH-05,"7,292/month","3,73,000","Mulund, Mumbai",Mumbai
+624,2013 Maruti Swift,VXI,Manual,"55,718 km",1st Owner,Petrol,MH-43,"7,703/month","3,94,000","Rupa Renaissance, Navi Mumbai",Mumbai
+625,2013 Maruti Wagon R 1.0,LXI CNG,Manual,"69,258 km",1st Owner,CNG,MH-02,"6,588/month","3,37,000","Rupa Renaissance, Navi Mumbai",Mumbai
+626,2013 Maruti Wagon R 1.0,LXI CNG,Manual,"31,196 km",1st Owner,CNG,MH-03,"6,510/month","3,33,000","Mulund, Mumbai",Mumbai
+627,2016 Maruti Wagon R 1.0,LXI CNG,Manual,"1,15,084 km",1st Owner,CNG,MH-46,"7,175/month","3,67,000","Goregaon, Mumbai",Mumbai
+628,2012 Maruti Wagon R 1.0,VXI,Manual,"52,633 km",1st Owner,Petrol,MH-05,"5,083/month","2,60,000","Rupa Renaissance, Navi Mumbai",Mumbai
+629,2018 Maruti Baleno,DELTA PETROL 1.2,Manual,"27,030 km",1st Owner,Petrol,MH-04,"11,144/month","5,70,000","Rupa Renaissance, Navi Mumbai",Mumbai
+630,2021 Maruti S PRESSO,LXI CNG,Manual,"32,020 km",1st Owner,CNG,MH-01,"8,993/month","4,60,000","Rupa Renaissance, Navi Mumbai",Mumbai
+631,2015 Hyundai Creta,SX PLUS 1.6 PETROL,Manual,"39,584 km",1st Owner,Petrol,MH-47,"15,551/month","8,17,000","Mulund, Mumbai",Mumbai
+632,2021 Maruti S PRESSO,VXI CNG,Manual,"39,855 km",1st Owner,CNG,MH-43,"9,091/month","4,65,000","Mulund, Mumbai",Mumbai
+633,2017 Maruti Wagon R 1.0,VXI,Manual,"25,625 km",1st Owner,Petrol,MH-47,"7,937/month","4,06,000","Mulund, Mumbai",Mumbai
+634,2013 Hyundai i10,MAGNA 1.1,Manual,"35,130 km",1st Owner,Petrol,MH-03,"5,063/month","2,59,000","Goregaon, Mumbai",Mumbai
+635,2018 Hyundai Grand i10,MAGNA 1.2 KAPPA VTVT,Manual,"27,523 km",1st Owner,Petrol,MH-04,"10,479/month","5,36,000","Rupa Renaissance, Navi Mumbai",Mumbai
+636,2018 Toyota Corolla Altis,VL CVT PETROL,Automatic,"77,261 km",2nd Owner,Petrol,MH-01,"23,564/month","12,38,000","Mulund, Mumbai",Mumbai
+637,2011 Maruti Swift Dzire,VDI,Manual,"99,077 km",3rd Owner,Diesel,MH-01,"5,376/month","2,75,000","Mulund, Mumbai",Mumbai
+638,2017 Hyundai Elite i20,ERA 1.2,Manual,"77,121 km",1st Owner,Petrol,MH-04,"10,342/month","5,29,000","Mulund, Mumbai",Mumbai
+639,2018 Jeep Compass,SPORT 2.0 DIESEL,Manual,"44,515 km",1st Owner,Diesel,MH-01,"21,337/month","11,21,000","Rupa Renaissance, Navi Mumbai",Mumbai
+640,2016 Hyundai Elite i20,ASTA 1.2,Manual,"33,339 km",2nd Owner,Petrol,MH-47,"11,046/month","5,65,000","Rupa Renaissance, Navi Mumbai",Mumbai
+641,2016 Honda City,1.5L I-VTEC VX CVT,Automatic,"18,715 km",1st Owner,Petrol,MH-47,"14,897/month","7,62,000","Rupa Renaissance, Navi Mumbai",Mumbai
+642,2021 KIA SELTOS,GTX PLUS DCT 1.4 PETROL,Automatic,"20,187 km",1st Owner,Petrol,MH-02,"30,188/month","15,86,000","Goregaon, Mumbai",Mumbai
+643,2018 Honda WR-V,1.2L I-VTEC VX MT,Manual,"27,023 km",3rd Owner,Petrol,MH-47,"12,141/month","6,21,000","Rupa Renaissance, Navi Mumbai",Mumbai
+644,2018 Ford FREESTYLE,TREND PLUS 1.2 PETROL,Manual,"34,075 km",1st Owner,Petrol,MH-04,"11,320/month","5,79,000","Mulund, Mumbai",Mumbai
+645,2015 Maruti Celerio,VXI,Manual,"29,535 km",1st Owner,Petrol,MH-01,"7,253/month","3,71,000","Mulund, Mumbai",Mumbai
+646,2021 Hyundai NEW I20,ASTA (O) 1.2 MT,Manual,"17,708 km",1st Owner,Petrol,MH-06,"16,236/month","8,53,000","Mulund, Mumbai",Mumbai
+647,2015 Honda Amaze,1.2L I-VTEC SX,Manual,"70,030 km",1st Owner,Petrol,MH-46,"7,859/month","4,02,000","Mulund, Mumbai",Mumbai
